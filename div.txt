@@ -1,1 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
+1	sh600587	ÐÂ»ªÒ½ÁÆ	0.45	2017-08-22	0	2017-08-22	18.35	0.997547683923706	18.305	TRUE
