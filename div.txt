@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sh600338	西藏珠峰	6	2017-08-31	0	2017-08-31	46.92	0.987212276214834	46.32	TRUE
+1	sh603658	安图生物	3.6	2017-09-14	0	2017-09-14	46.67	0.992286265266767	46.31	TRUE
