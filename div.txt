@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sh601857	中国石油	0.6926	2017-09-16	0	2017-09-16	7.98	0.991320802005013	7.91074	TRUE
+1	sh601857	中国石油	0.6926	2017-09-18	0	2017-09-18	7.98	0.991320802005013	7.91074	TRUE
