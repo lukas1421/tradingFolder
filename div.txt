@@ -1,2 +1,1 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sz002276	万马股份	1	2017-09-21	0	2017-09-21	13.33	0.992498124531133	13.23	TRUE
