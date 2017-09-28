@@ -1,3 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sh600016	民生银行	1.2	2017-09-27	0	2017-09-27	8.05	0.985093167701863	7.93	TRUE
-2	sh603328	依顿电子	2.5	2017-09-27	0	2017-09-27	14.4	0.982638888888889	14.15	TRUE
+1	sz300088	长信科技	0	2017-09-28	10	2017-09-28	17.73	0.5	8.865	TRUE
