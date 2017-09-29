@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sz300088	长信科技	0	2017-09-29	10	2017-09-29	9.02	0.5	4.51	TRUE
+1	sh600643	爱建集团	1	2017-09-29	0	2017-09-29	13.94	0.992826398852224	13.84	TRUE
