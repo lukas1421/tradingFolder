@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sh600643	爱建集团	1	2017-09-29	0	2017-09-29	13.94	0.992826398852224	13.84	TRUE
+1	sh600643	爱建集团	1	2017-09-30	0	2017-09-30	13.98	0.992846924177396	13.88	TRUE
