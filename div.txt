@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sh600643	爱建集团	1	2017-09-30	0	2017-09-30	13.98	0.992846924177396	13.88	TRUE
+1	sh600201	生物股份	0	2017-10-10	4	2017-10-10	24.7	0.714285714285714	17.6428571428571	TRUE
