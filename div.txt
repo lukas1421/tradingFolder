@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sz000626	远大控股	1.6	2017-10-19	0	2017-10-19	16.01	0.99000624609619	15.85	TRUE
+1	sz000338	潍柴动力	1.5	2017-10-20	0	2017-10-20	7.59	0.980237154150198	7.44	TRUE
