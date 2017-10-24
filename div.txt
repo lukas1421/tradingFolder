@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sz000338	潍柴动力	1.5	2017-10-20	0	2017-10-20	7.59	0.980237154150198	7.44	TRUE
+1	sz000338	潍柴动力	1.5	2017-10-24	0	2017-10-24	7.5	0.98	7.35	TRUE
