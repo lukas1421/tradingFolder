@@ -1,8 +1,4 @@
 A
 PC change A
 PC change A 2nd time
-<<<<<<< HEAD
 Laptop change A for conflict
-=======
-PC change A for conflict
->>>>>>> 97c6a6da5c432469bad260a9984bc5f19badca8c
