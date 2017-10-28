@@ -2,3 +2,4 @@ A
 PC change A
 PC change A 2nd time
 Laptop change A for conflict
+Laptop sticks to its gun
