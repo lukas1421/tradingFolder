@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sz000338	潍柴动力	1.5	2017-10-24	0	2017-10-24	7.5	0.98	7.35	TRUE
+1	sh600073	上海梅林	0.9	2017-10-30	0	2017-10-30	9.89	0.990899898887765	9.8	TRUE
