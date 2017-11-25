@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sh600705	中航资本	0.15	2017-11-21	0	2017-11-21	6.3	0.997619047619048	6.285	TRUE
+1	sz000060	中金岭南	0.3	2017-11-25	0	2017-11-25	10.57	0.997161778618732	10.54	TRUE
