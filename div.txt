@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sz000060	中金岭南	0.3	2017-11-27	0	2017-11-27	10.57	0.997161778618732	10.54	TRUE
+1	sh600547	山东黄金	0.8	2018-02-09	0	2018-02-09	27.26	0.997065297138665	27.18	TRUE
