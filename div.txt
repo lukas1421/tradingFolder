@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sh600547	山东黄金	0.8	2018-02-09	0	2018-02-09	27.26	0.997065297138665	27.18	TRUE
+1	sz000078	海王生物	0.7	2018-03-01	0	2018-03-01	5.63	0.987566607460035	5.56	TRUE
