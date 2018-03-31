@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sz000078	海王生物	0.7	2018-03-01	0	2018-03-01	5.63	0.987566607460035	5.56	TRUE
+1	sz000550	江铃汽车	23.17	2018-03-27	0	2018-03-27	19.65	0.882086513994911	17.333	TRUE
