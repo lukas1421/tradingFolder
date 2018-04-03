@@ -1,2 +1,2 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sz000550	江铃汽车	23.17	2018-03-27	0	2018-03-27	19.65	0.882086513994911	17.333	TRUE
+1	sz300033	同花顺	9	2018-04-02	0	2018-04-02	51.9	0.982658959537572	51	TRUE
