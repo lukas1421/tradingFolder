@@ -1592,3 +1592,1533 @@ overnight 4-12 4:57:23  overnight trade done 0 current percentile  78  PD:  0.00
 overnight 4-12 4:58:23  overnight trade done 0 current percentile  78  PD:  0.0031 current price  12927.5  index  12888.03 bid  0.0  ask  0.0
 2018-04-12T04:59:23.464  nothing done 
 overnight 4-12 4:59:23  overnight trade done 0 current percentile  78  PD:  0.0031 current price  12927.5  index  12888.03 bid  0.0  ask  0.0
+overnight 4-12 19:19:40  overnight trade done 0 current percentile  83  PD:  0.0061 current price  12795.0  index  12717.22 bid  12795.0  ask  12797.5
+overnight 4-12 19:20:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12797.5  ask  12800.0
+overnight 4-12 19:21:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12797.5  ask  12800.0
+overnight 4-12 19:22:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 19:23:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12797.5  ask  12800.0
+overnight 4-12 19:24:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12797.5  ask  12802.5
+overnight 4-12 19:25:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 19:26:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12797.5  ask  12802.5
+overnight 4-12 19:27:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12795.0  ask  12800.0
+overnight 4-12 19:28:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12795.0  ask  12800.0
+overnight 4-12 19:29:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 19:30:40  overnight trade done 0 current percentile  94  PD:  0.0069 current price  12805.0  index  12717.22 bid  12802.5  ask  12807.5
+overnight 4-12 19:31:40  overnight trade done 0 current percentile  100  PD:  0.0073 current price  12810.0  index  12717.22 bid  12807.5  ask  12812.5
+overnight 4-12 19:32:40  overnight trade done 0 current percentile  94  PD:  0.0069 current price  12805.0  index  12717.22 bid  12802.5  ask  12807.5
+overnight 4-12 19:33:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12800.0  ask  12805.0
+overnight 4-12 19:34:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 19:35:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12802.5  ask  12805.0
+overnight 4-12 19:36:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12797.5  ask  12800.0
+overnight 4-12 19:37:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 19:38:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12802.5  ask  12805.0
+overnight 4-12 19:39:40  overnight trade done 0 current percentile  97  PD:  0.0071 current price  12807.5  index  12717.22 bid  12805.0  ask  12807.5
+overnight 4-12 19:40:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12805.0  ask  12807.5
+overnight 4-12 19:41:40  overnight trade done 0 current percentile  94  PD:  0.0069 current price  12805.0  index  12717.22 bid  12802.5  ask  12805.0
+overnight 4-12 19:42:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12805.0
+overnight 4-12 19:43:40  overnight trade done 0 current percentile  83  PD:  0.0061 current price  12795.0  index  12717.22 bid  12795.0  ask  12797.5
+overnight 4-12 19:44:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12795.0  ask  12800.0
+overnight 4-12 19:45:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12797.5  ask  12802.5
+overnight 4-12 19:46:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12797.5  ask  12802.5
+overnight 4-12 19:47:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12797.5  ask  12802.5
+overnight 4-12 19:48:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12797.5  ask  12802.5
+overnight 4-12 19:49:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12795.0  ask  12800.0
+overnight 4-12 19:50:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 19:51:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12802.5  ask  12805.0
+overnight 4-12 19:52:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12802.5  ask  12805.0
+overnight 4-12 19:53:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12802.5  ask  12805.0
+overnight 4-12 19:54:40  overnight trade done 0 current percentile  94  PD:  0.0069 current price  12805.0  index  12717.22 bid  12805.0  ask  12807.5
+overnight 4-12 19:55:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12802.5  ask  12807.5
+overnight 4-12 19:56:40  overnight trade done 0 current percentile  94  PD:  0.0069 current price  12805.0  index  12717.22 bid  12805.0  ask  12807.5
+overnight 4-12 19:57:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12802.5  ask  12807.5
+overnight 4-12 19:58:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 19:59:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 20:00:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 20:01:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12805.0
+overnight 4-12 20:02:40  overnight trade done 0 current percentile  92  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12805.0
+overnight 4-12 20:03:40  overnight trade done 0 current percentile  94  PD:  0.0069 current price  12805.0  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 20:04:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12797.5  ask  12802.5
+overnight 4-12 20:05:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12797.5  ask  12800.0
+overnight 4-12 20:06:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12797.5  ask  12800.0
+overnight 4-12 20:07:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 20:08:40  overnight trade done 0 current percentile  89  PD:  0.0065 current price  12800.0  index  12717.22 bid  12800.0  ask  12802.5
+overnight 4-12 20:09:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12795.0  ask  12800.0
+overnight 4-12 20:10:40  overnight trade done 0 current percentile  86  PD:  0.0063 current price  12797.5  index  12717.22 bid  12797.5  ask  12800.0
+overnight 4-12 22:23:09  overnight trade done 0 current percentile  100  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 22:24:09  overnight trade done 0 current percentile  98  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 22:25:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 22:26:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 22:27:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 22:28:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 22:29:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-12 22:30:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 22:31:09  overnight trade done 0 current percentile  94  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 22:32:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 22:33:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 22:34:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 22:35:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12835.0
+overnight 4-12 22:36:09  overnight trade done 0 current percentile  94  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-12 22:37:09  overnight trade done 0 current percentile  94  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-12 22:38:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 22:39:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 22:40:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 22:41:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-12 22:42:09  overnight trade done 0 current percentile  85  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-12 22:43:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-12 22:44:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-12 22:45:09  overnight trade done 0 current percentile  85  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-12 22:46:09  overnight trade done 0 current percentile  85  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-12 22:47:09  overnight trade done 0 current percentile  81  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-12 22:48:09  overnight trade done 0 current percentile  83  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-12 22:49:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-12 22:50:09  overnight trade done 0 current percentile  90  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-12 22:51:09  overnight trade done 0 current percentile  90  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-12 22:52:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-12 22:53:09  overnight trade done 0 current percentile  90  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12830.0
+overnight 4-12 22:54:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-12 22:55:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-12 22:56:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-12 22:57:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-12 22:58:09  overnight trade done 0 current percentile  83  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-12 22:59:09  overnight trade done 0 current percentile  83  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-12 23:00:09  overnight trade done 0 current percentile  83  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-12 23:01:09  overnight trade done 0 current percentile  85  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-12 23:02:09  overnight trade done 0 current percentile  85  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-12 23:03:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-12 23:04:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12830.0
+overnight 4-12 23:05:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-12 23:06:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-12 23:07:09  overnight trade done 0 current percentile  85  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-12 23:08:09  overnight trade done 0 current percentile  88  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-12 23:09:09  overnight trade done 0 current percentile  90  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-12 23:10:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 23:11:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 23:12:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-12 23:13:09  overnight trade done 0 current percentile  90  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 23:14:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 23:15:09  overnight trade done 0 current percentile  90  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 23:16:09  overnight trade done 0 current percentile  92  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 23:17:09  overnight trade done 0 current percentile  94  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-12 23:18:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12837.5
+overnight 4-12 23:19:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 23:20:09  overnight trade done 0 current percentile  98  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 23:21:09  overnight trade done 0 current percentile  98  PD:  0.0095 current price  12837.5  index  12717.22 bid  12837.5  ask  12840.0
+overnight 4-12 23:22:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 23:23:09  overnight trade done 0 current percentile  96  PD:  0.0093 current price  12835.0  index  12717.22 bid  12837.5  ask  12840.0
+overnight 4-12 23:24:09  overnight trade done 0 current percentile  100  PD:  0.01 current price  12845.0  index  12717.22 bid  12842.5  ask  12845.0
+overnight 4-12 23:25:09  overnight trade done 0 current percentile  98  PD:  0.0099 current price  12842.5  index  12717.22 bid  12842.5  ask  12845.0
+overnight 4-12 23:26:09  overnight trade done 0 current percentile  98  PD:  0.0099 current price  12842.5  index  12717.22 bid  12840.0  ask  12842.5
+overnight 4-12 23:27:09  overnight trade done 0 current percentile  96  PD:  0.0097 current price  12840.0  index  12717.22 bid  12837.5  ask  12840.0
+overnight 4-12 23:28:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-12 23:29:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12837.5
+overnight 4-12 23:30:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12837.5
+overnight 4-12 23:31:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12840.0
+overnight 4-12 23:32:09  overnight trade done 0 current percentile  96  PD:  0.0097 current price  12840.0  index  12717.22 bid  12837.5  ask  12840.0
+overnight 4-12 23:33:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12837.5  ask  12842.5
+overnight 4-12 23:34:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 23:35:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-12 23:36:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12835.0
+overnight 4-12 23:37:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 23:38:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 23:39:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 23:40:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-12 23:41:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 23:42:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 23:43:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 23:44:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 23:45:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-12 23:46:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-12 23:47:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-12 23:48:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-12 23:49:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-12 23:50:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-12 23:51:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-12 23:52:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-12 23:53:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-12 23:54:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-12 23:55:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12815.0  ask  12817.5
+overnight 4-12 23:56:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12815.0  ask  12820.0
+overnight 4-12 23:57:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-12 23:58:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-12 23:59:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 0:00:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 0:01:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-13 0:02:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-13 0:03:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:04:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-13 0:05:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 0:06:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 0:07:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 0:08:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 0:09:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 0:10:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 0:11:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 0:12:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 0:13:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 0:14:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 0:15:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 0:16:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 0:17:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 0:18:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 0:19:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-13 0:20:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 0:21:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12830.0
+overnight 4-13 0:22:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12830.0
+overnight 4-13 0:23:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:24:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:25:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 0:26:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 0:27:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:28:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:29:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:30:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:31:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:32:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12830.0
+overnight 4-13 0:33:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 0:34:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 0:35:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 0:36:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 0:37:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 0:38:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 0:39:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:40:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-13 0:41:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:42:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:43:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:44:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:45:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 0:46:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 0:47:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12835.0
+overnight 4-13 0:48:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 0:49:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 0:50:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 0:51:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 0:52:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 0:53:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12837.5
+overnight 4-13 0:54:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 0:55:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 0:56:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 0:57:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 0:58:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 0:59:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 1:00:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 1:01:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-13 1:02:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 1:03:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 1:04:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 1:05:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 1:06:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 1:07:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-13 1:08:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 1:09:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 1:10:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 1:11:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 1:12:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 1:13:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-13 1:14:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-13 1:15:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12822.5  ask  12827.5
+overnight 4-13 1:16:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:17:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:18:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 1:19:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 1:20:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:21:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 1:22:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 1:23:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12815.0  ask  12817.5
+overnight 4-13 1:24:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12815.0  ask  12820.0
+overnight 4-13 1:25:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 1:26:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 1:27:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12812.5  ask  12815.0
+overnight 4-13 1:28:09  overnight trade done 0 current percentile  66  PD:  0.0067 current price  12802.5  index  12717.22 bid  12802.5  ask  12805.0
+overnight 4-13 1:29:09  overnight trade done 0 current percentile  68  PD:  0.0069 current price  12805.0  index  12717.22 bid  12805.0  ask  12807.5
+overnight 4-13 1:30:09  overnight trade done 0 current percentile  68  PD:  0.0069 current price  12805.0  index  12717.22 bid  12802.5  ask  12805.0
+overnight 4-13 1:31:09  overnight trade done 0 current percentile  66  PD:  0.0067 current price  12802.5  index  12717.22 bid  12800.0  ask  12805.0
+overnight 4-13 1:32:09  overnight trade done 0 current percentile  70  PD:  0.0071 current price  12807.5  index  12717.22 bid  12805.0  ask  12807.5
+overnight 4-13 1:33:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  12807.5  ask  12812.5
+overnight 4-13 1:34:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  12812.5  ask  12815.0
+overnight 4-13 1:35:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  12810.0  ask  12812.5
+overnight 4-13 1:36:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:37:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 1:38:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:39:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 1:40:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 1:41:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:42:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:43:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 1:44:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 1:45:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 1:46:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 1:47:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:48:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 1:49:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 1:50:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:51:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 1:52:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 1:53:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 1:54:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 1:55:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 1:56:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 1:57:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 1:58:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12812.5  ask  12817.5
+overnight 4-13 1:59:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12815.0  ask  12817.5
+overnight 4-13 2:00:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12812.5  ask  12817.5
+overnight 4-13 2:01:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12815.0  ask  12820.0
+overnight 4-13 2:02:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 2:03:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 2:04:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 2:05:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 2:06:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 2:07:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12815.0  ask  12820.0
+overnight 4-13 2:08:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 2:09:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 2:10:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 2:11:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 2:12:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 2:13:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 2:14:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 2:15:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 2:16:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:17:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:18:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 2:19:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-13 2:20:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 2:21:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:22:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:23:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:24:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:25:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:26:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:27:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:28:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:29:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:30:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:31:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:32:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 2:33:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:34:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:35:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:36:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:37:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:38:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12832.5
+overnight 4-13 2:39:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 2:40:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:41:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:42:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:43:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:44:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:45:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:46:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 2:47:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 2:48:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:49:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:50:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:51:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12830.0
+overnight 4-13 2:52:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 2:53:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:54:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:55:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:56:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:57:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 2:58:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 2:59:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 3:00:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 3:01:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:02:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:03:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:04:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:05:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:06:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:07:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 3:08:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 3:09:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 3:10:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 3:11:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 3:12:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:13:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:14:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:15:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:16:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:17:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12827.5  ask  12830.0
+overnight 4-13 3:18:09  overnight trade done 0 current percentile  88  PD:  0.0089 current price  12830.0  index  12717.22 bid  12830.0  ask  12832.5
+overnight 4-13 3:19:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12830.0  ask  12835.0
+overnight 4-13 3:20:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:21:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:22:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:23:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:24:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:25:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:26:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:27:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:28:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:29:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:30:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:31:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:32:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:33:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:34:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:35:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:36:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:37:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:38:09  overnight trade done 0 current percentile  90  PD:  0.0091 current price  12832.5  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:39:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:40:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:41:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:42:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:43:09  overnight trade done 0 current percentile  94  PD:  0.0095 current price  12837.5  index  12717.22 bid  12835.0  ask  12837.5
+overnight 4-13 3:44:09  overnight trade done 0 current percentile  92  PD:  0.0093 current price  12835.0  index  12717.22 bid  12832.5  ask  12835.0
+overnight 4-13 3:45:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 3:46:09  overnight trade done 0 current percentile  86  PD:  0.0087 current price  12827.5  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 3:47:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 3:48:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 3:49:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 3:50:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12825.0  ask  12827.5
+overnight 4-13 3:51:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 3:52:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 3:53:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 3:54:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 3:55:09  overnight trade done 0 current percentile  84  PD:  0.0085 current price  12825.0  index  12717.22 bid  12820.0  ask  12825.0
+overnight 4-13 3:56:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 3:57:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12822.5  ask  12825.0
+overnight 4-13 3:58:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 3:59:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:00:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:01:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 4:02:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 4:03:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:04:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:05:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:06:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:07:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:08:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:09:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:10:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:11:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:12:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:13:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 4:14:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:15:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:16:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:17:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:18:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:19:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:20:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:21:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:22:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:23:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:24:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:25:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:26:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 4:27:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:28:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:29:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:30:09  overnight trade done 0 current percentile  82  PD:  0.0083 current price  12822.5  index  12717.22 bid  12820.0  ask  12822.5
+overnight 4-13 4:31:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 4:32:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12822.5
+overnight 4-13 4:33:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:34:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:35:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:36:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12817.5  ask  12820.0
+overnight 4-13 4:37:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12815.0  ask  12817.5
+overnight 4-13 4:38:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12812.5  ask  12815.0
+overnight 4-13 4:39:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12812.5  ask  12815.0
+overnight 4-13 4:40:09  overnight trade done 0 current percentile  80  PD:  0.0081 current price  12820.0  index  12717.22 bid  12817.5  ask  12820.0
+2018-04-13T04:41:09.322  nothing done 
+overnight 4-13 4:41:09  overnight trade done 0 current percentile  78  PD:  0.0079 current price  12817.5  index  12717.22 bid  12815.0  ask  12817.5
+2018-04-13T04:42:09.322  nothing done 
+overnight 4-13 4:42:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12815.0  ask  12817.5
+2018-04-13T04:43:09.321  nothing done 
+overnight 4-13 4:43:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12815.0  ask  12817.5
+2018-04-13T04:44:09.322  nothing done 
+overnight 4-13 4:44:09  overnight trade done 0 current percentile  76  PD:  0.0077 current price  12815.0  index  12717.22 bid  12815.0  ask  12817.5
+2018-04-13T04:45:09.322  nothing done 
+overnight 4-13 4:45:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:46:09.321  nothing done 
+overnight 4-13 4:46:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:47:09.322  nothing done 
+overnight 4-13 4:47:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:48:09.322  nothing done 
+overnight 4-13 4:48:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:49:09.322  nothing done 
+overnight 4-13 4:49:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:50:09.322  nothing done 
+overnight 4-13 4:50:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:51:09.322  nothing done 
+overnight 4-13 4:51:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:52:09.321  nothing done 
+overnight 4-13 4:52:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:53:09.321  nothing done 
+overnight 4-13 4:53:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:54:09.322  nothing done 
+overnight 4-13 4:54:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:55:09.322  nothing done 
+overnight 4-13 4:55:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:56:09.321  nothing done 
+overnight 4-13 4:56:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:57:09.322  nothing done 
+overnight 4-13 4:57:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:58:09.321  nothing done 
+overnight 4-13 4:58:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+2018-04-13T04:59:09.322  nothing done 
+overnight 4-13 4:59:09  overnight trade done 0 current percentile  74  PD:  0.0075 current price  12812.5  index  12717.22 bid  0.0  ask  0.0
+overnight 4-13 18:09:33  overnight trade done 0 current percentile  100  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 18:10:33  overnight trade done 0 current percentile  96  PD:  0.0023 current price  12625.0  index  12596.51 bid  12620.0  ask  12625.0
+overnight 4-13 18:11:33  overnight trade done 0 current percentile  91  PD:  0.0021 current price  12622.5  index  12596.51 bid  12620.0  ask  12622.5
+overnight 4-13 18:12:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12617.5  ask  12620.0
+overnight 4-13 18:13:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12617.5  ask  12620.0
+overnight 4-13 18:14:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:15:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12612.5  ask  12615.0
+overnight 4-13 18:16:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:17:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:18:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:19:33  overnight trade done 0 current percentile  87  PD:  0.0019 current price  12620.0  index  12596.51 bid  12615.0  ask  12617.5
+overnight 4-13 18:20:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:21:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:22:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:23:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:24:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:25:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:26:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:27:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12615.0  ask  12617.5
+overnight 4-13 18:28:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12615.0  ask  12617.5
+overnight 4-13 18:29:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:30:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:31:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:32:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12617.5
+overnight 4-13 18:33:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:34:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12615.0  ask  12620.0
+overnight 4-13 18:35:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12612.5  ask  12617.5
+overnight 4-13 18:36:33  overnight trade done 0 current percentile  74  PD:  0.0013 current price  12612.5  index  12596.51 bid  12612.5  ask  12615.0
+overnight 4-13 18:37:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12612.5  ask  12615.0
+overnight 4-13 18:38:33  overnight trade done 0 current percentile  74  PD:  0.0013 current price  12612.5  index  12596.51 bid  12612.5  ask  12615.0
+overnight 4-13 18:39:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12612.5  ask  12615.0
+overnight 4-13 18:40:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12612.5  ask  12617.5
+overnight 4-13 18:41:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12612.5  ask  12615.0
+overnight 4-13 18:42:33  overnight trade done 0 current percentile  74  PD:  0.0013 current price  12612.5  index  12596.51 bid  12610.0  ask  12615.0
+overnight 4-13 18:43:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12612.5  ask  12617.5
+overnight 4-13 18:44:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12612.5  ask  12615.0
+overnight 4-13 18:45:33  overnight trade done 0 current percentile  78  PD:  0.0015 current price  12615.0  index  12596.51 bid  12612.5  ask  12615.0
+overnight 4-13 18:46:33  overnight trade done 0 current percentile  83  PD:  0.0017 current price  12617.5  index  12596.51 bid  12617.5  ask  12620.0
+overnight 4-13 18:47:33  overnight trade done 0 current percentile  87  PD:  0.0019 current price  12620.0  index  12596.51 bid  12617.5  ask  12622.5
+overnight 4-13 18:48:33  overnight trade done 0 current percentile  91  PD:  0.0021 current price  12622.5  index  12596.51 bid  12620.0  ask  12622.5
+overnight 4-13 18:49:33  overnight trade done 0 current percentile  91  PD:  0.0021 current price  12622.5  index  12596.51 bid  12620.0  ask  12622.5
+overnight 4-13 18:50:33  overnight trade done 0 current percentile  91  PD:  0.0021 current price  12622.5  index  12596.51 bid  12620.0  ask  12622.5
+overnight 4-13 18:51:33  overnight trade done 0 current percentile  96  PD:  0.0023 current price  12625.0  index  12596.51 bid  12622.5  ask  12625.0
+overnight 4-13 18:52:33  overnight trade done 0 current percentile  96  PD:  0.0023 current price  12625.0  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 18:53:33  overnight trade done 0 current percentile  100  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 18:54:33  overnight trade done 0 current percentile  100  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 18:55:33  overnight trade done 0 current percentile  100  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 18:56:33  overnight trade done 0 current percentile  96  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 18:57:33  overnight trade done 0 current percentile  92  PD:  0.0023 current price  12625.0  index  12596.51 bid  12622.5  ask  12625.0
+overnight 4-13 18:58:33  overnight trade done 0 current percentile  92  PD:  0.0023 current price  12625.0  index  12596.51 bid  12622.5  ask  12625.0
+overnight 4-13 18:59:33  overnight trade done 0 current percentile  96  PD:  0.0025 current price  12627.5  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:00:33  overnight trade done 0 current percentile  96  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 19:01:33  overnight trade done 0 current percentile  100  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:02:33  overnight trade done 0 current percentile  100  PD:  0.0029 current price  12632.5  index  12596.51 bid  12630.0  ask  12632.5
+overnight 4-13 19:03:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:04:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:05:33  overnight trade done 0 current percentile  100  PD:  0.0029 current price  12632.5  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:06:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:07:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:08:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:09:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:10:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 19:11:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:12:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:13:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:14:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:15:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 19:16:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:17:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:18:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:19:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 19:20:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 19:21:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:22:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:23:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:24:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:25:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:26:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:27:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 19:28:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 19:29:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 19:30:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:31:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12632.5
+overnight 4-13 19:32:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:33:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12627.5  ask  12630.0
+overnight 4-13 19:34:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 19:35:33  overnight trade done 0 current percentile  96  PD:  0.0027 current price  12630.0  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 19:36:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 19:37:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 19:38:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 19:39:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 19:40:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 19:41:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 19:42:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12627.5
+overnight 4-13 19:43:33  overnight trade done 0 current percentile  92  PD:  0.0025 current price  12627.5  index  12596.51 bid  12625.0  ask  12630.0
+overnight 4-13 22:51:48  overnight trade done 0 current percentile  35  PD:  0.0 current price  12590.0  index  0.0 bid  12587.5  ask  12590.0
+overnight 4-13 22:52:48  overnight trade done 1 current percentile  32  PD:  0.0 current price  12587.5  index  0.0 bid  12585.0  ask  12590.0
+overnight 4-13 22:53:48  overnight trade done 1 current percentile  30  PD:  0.0 current price  12585.0  index  0.0 bid  12582.5  ask  12585.0
+overnight 4-13 22:54:48  overnight trade done 1 current percentile  30  PD:  0.0 current price  12585.0  index  0.0 bid  12582.5  ask  12587.5
+overnight 4-13 22:55:48  overnight trade done 1 current percentile  24  PD:  0.0 current price  12580.0  index  0.0 bid  12580.0  ask  12582.5
+overnight 4-13 22:56:48  overnight trade done 1 current percentile  27  PD:  0.0 current price  12582.5  index  0.0 bid  12580.0  ask  12585.0
+overnight 4-13 22:57:48  overnight trade done 1 current percentile  27  PD:  0.0 current price  12582.5  index  0.0 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-13T22:58 #:  0 {}
+MA TRADER ||  2018-04-13T22:59 #:  0 {}
+MA TRADER ||  2018-04-13T23:00 #:  0 {}
+MA TRADER ||  2018-04-13T23:01 #:  0 {}
+MA TRADER ||  2018-04-13T23:02 #:  0 {}
+MA TRADER ||  2018-04-13T23:03 #:  0 {}
+MA TRADER ||  2018-04-13T23:04 #:  0 {}
+MA TRADER ||  2018-04-13T23:05 #:  0 {}
+MA TRADER ||  2018-04-13T23:06 #:  0 {}
+MA TRADER ||  2018-04-13T23:07 #:  0 {}
+MA TRADER ||  2018-04-13T23:08 #:  0 {}
+overnight 4-13 23:08:37  overnight trade done 0 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-13T23:09 #:  0 {}
+overnight 4-13 23:09:37  overnight trade done 1 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-13T23:10 #:  0 {}
+overnight 4-13 23:10:37  overnight trade done 1 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-13T23:11 #:  0 {}
+overnight 4-13 23:11:37  overnight trade done 1 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-13T23:12 #:  0 {}
+overnight 4-13 23:12:37  overnight trade done 1 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-13T23:13 #:  0 {}
+overnight 4-13 23:13:37  overnight trade done 1 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-13T23:14 #:  0 {}
+overnight 4-13 23:14:37  overnight trade done 1 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-13T23:15 #:  0 {}
+overnight 4-13 23:15:37  overnight trade done 1 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-13T23:16 #:  0 {}
+overnight 4-13 23:16:37  overnight trade done 1 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12557.5
+MA TRADER ||  2018-04-13T23:17 #:  0 {}
+overnight 4-13 23:17:37  overnight trade done 1 current percentile  25  PD:  -0.0029 current price  12560.0  index  12596.51 bid  12555.0  ask  12560.0
+MA TRADER ||  2018-04-13T23:18 #:  0 {}
+overnight 4-13 23:18:37  overnight trade done 1 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-13T23:19 #:  0 {}
+overnight 4-13 23:19:37  overnight trade done 1 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-13T23:20 #:  0 {}
+overnight 4-13 23:20:37  overnight trade done 1 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12557.5
+MA TRADER ||  2018-04-13T23:21 #:  0 {}
+overnight 4-13 23:21:37  overnight trade done 1 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-13T23:22 #:  0 {}
+overnight 4-13 23:22:37  overnight trade done 1 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12550.0  ask  12555.0
+MA TRADER ||  2018-04-13T23:23 #:  0 {}
+overnight 4-13 23:23:37  overnight trade done 1 current percentile  25  PD:  -0.0029 current price  12560.0  index  12596.51 bid  12560.0  ask  12562.5
+MA TRADER ||  2018-04-13T23:24 #:  0 {}
+overnight 4-13 23:24:37  overnight trade done 1 current percentile  29  PD:  -0.0025 current price  12565.0  index  12596.51 bid  12562.5  ask  12567.5
+MA TRADER ||  2018-04-13T23:25 #:  0 {}
+overnight 4-13 23:25:37  overnight trade done 1 current percentile  29  PD:  -0.0025 current price  12565.0  index  12596.51 bid  12567.5  ask  12570.0
+MA TRADER ||  2018-04-13T23:26 #:  0 {}
+overnight 4-13 23:26:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12572.5
+MA TRADER ||  2018-04-13T23:27 #:  0 {}
+overnight 4-13 23:27:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12570.0
+MA TRADER ||  2018-04-13T23:28 #:  0 {}
+overnight 4-13 23:28:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12567.5  ask  12570.0
+MA TRADER ||  2018-04-13T23:29 #:  0 {}
+overnight 4-13 23:29:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-13T23:30 #:  0 {}
+overnight 4-13 23:30:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12570.0
+MA TRADER ||  2018-04-13T23:31 #:  0 {}
+overnight 4-13 23:31:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12572.5
+MA TRADER ||  2018-04-13T23:32 #:  0 {}
+overnight 4-13 23:32:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-13T23:33 #:  0 {}
+overnight 4-13 23:33:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12572.5
+MA TRADER ||  2018-04-13T23:34 #:  0 {}
+overnight 4-13 23:34:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12570.0
+MA TRADER ||  2018-04-13T23:35 #:  0 {}
+overnight 4-13 23:35:37  overnight trade done 1 current percentile  29  PD:  -0.0025 current price  12565.0  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-13T23:36 #:  0 {}
+overnight 4-13 23:36:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-13T23:37 #:  0 {}
+overnight 4-13 23:37:37  overnight trade done 1 current percentile  29  PD:  -0.0025 current price  12565.0  index  12596.51 bid  12562.5  ask  12565.0
+MA TRADER ||  2018-04-13T23:38 #:  0 {}
+overnight 4-13 23:38:37  overnight trade done 1 current percentile  23  PD:  -0.0031 current price  12557.5  index  12596.51 bid  12555.0  ask  12560.0
+MA TRADER ||  2018-04-13T23:39 #:  0 {}
+overnight 4-13 23:39:37  overnight trade done 1 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12562.5  ask  12565.0
+MA TRADER ||  2018-04-13T23:40 #:  0 {}
+overnight 4-13 23:40:37  overnight trade done 1 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12562.5  ask  12565.0
+MA TRADER ||  2018-04-13T23:41 #:  0 {}
+overnight 4-13 23:41:37  overnight trade done 1 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12560.0  ask  12562.5
+MA TRADER ||  2018-04-13T23:42 #:  0 {}
+overnight 4-13 23:42:37  overnight trade done 1 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12562.5  ask  12567.5
+MA TRADER ||  2018-04-13T23:43 #:  0 {}
+overnight 4-13 23:43:37  overnight trade done 1 current percentile  29  PD:  -0.0025 current price  12565.0  index  12596.51 bid  12562.5  ask  12567.5
+MA TRADER ||  2018-04-13T23:44 #:  0 {}
+overnight 4-13 23:44:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12570.0
+MA TRADER ||  2018-04-13T23:45 #:  0 {}
+overnight 4-13 23:45:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12567.5  ask  12570.0
+MA TRADER ||  2018-04-13T23:46 #:  0 {}
+overnight 4-13 23:46:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12570.0
+MA TRADER ||  2018-04-13T23:47 #:  0 {}
+overnight 4-13 23:47:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-13T23:48 #:  0 {}
+overnight 4-13 23:48:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-13T23:49 #:  0 {}
+overnight 4-13 23:49:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-13T23:50 #:  0 {}
+overnight 4-13 23:50:37  overnight trade done 1 current percentile  23  PD:  -0.0031 current price  12557.5  index  12596.51 bid  12555.0  ask  12560.0
+MA TRADER ||  2018-04-13T23:51 #:  0 {}
+overnight 4-13 23:51:37  overnight trade done 1 current percentile  25  PD:  -0.0029 current price  12560.0  index  12596.51 bid  12560.0  ask  12562.5
+MA TRADER ||  2018-04-13T23:52 #:  0 {}
+overnight 4-13 23:52:37  overnight trade done 1 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12560.0  ask  12565.0
+MA TRADER ||  2018-04-13T23:53 #:  0 {}
+overnight 4-13 23:53:37  overnight trade done 1 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12560.0  ask  12562.5
+MA TRADER ||  2018-04-13T23:54 #:  0 {}
+overnight 4-13 23:54:37  overnight trade done 1 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-13T23:55 #:  0 {}
+overnight 4-13 23:55:37  overnight trade done 1 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12560.0  ask  12565.0
+MA TRADER ||  2018-04-13T23:56 #:  0 {}
+overnight 4-13 23:56:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-13T23:57 #:  0 {}
+overnight 4-13 23:57:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12572.5
+MA TRADER ||  2018-04-13T23:58 #:  0 {}
+overnight 4-13 23:58:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-13T23:59 #:  0 {}
+overnight 4-13 23:59:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T00:00 #:  0 {}
+overnight 4-14 0:00:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12570.0
+MA TRADER ||  2018-04-14T00:01 #:  0 {}
+overnight 4-14 0:01:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12580.0
+MA TRADER ||  2018-04-14T00:02 #:  0 {}
+overnight 4-14 0:02:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12575.0  ask  12577.5
+MA TRADER ||  2018-04-14T00:03 #:  0 {}
+overnight 4-14 0:03:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T00:04 #:  0 {}
+overnight 4-14 0:04:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12572.5  ask  12577.5
+MA TRADER ||  2018-04-14T00:05 #:  0 {}
+overnight 4-14 0:05:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12572.5  ask  12577.5
+MA TRADER ||  2018-04-14T00:06 #:  0 {}
+overnight 4-14 0:06:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12572.5  ask  12577.5
+MA TRADER ||  2018-04-14T00:07 #:  0 {}
+overnight 4-14 0:07:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12565.0  ask  12570.0
+MA TRADER ||  2018-04-14T00:08 #:  0 {}
+overnight 4-14 0:08:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-14T00:09 #:  0 {}
+overnight 4-14 0:09:37  overnight trade done 1 current percentile  29  PD:  -0.0025 current price  12565.0  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-14T00:10 #:  0 {}
+overnight 4-14 0:10:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12570.0
+MA TRADER ||  2018-04-14T00:11 #:  0 {}
+overnight 4-14 0:11:37  overnight trade done 1 current percentile  25  PD:  -0.0029 current price  12560.0  index  12596.51 bid  12557.5  ask  12560.0
+MA TRADER ||  2018-04-14T00:12 #:  0 {}
+overnight 4-14 0:12:37  overnight trade done 1 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12560.0  ask  12562.5
+MA TRADER ||  2018-04-14T00:13 #:  0 {}
+overnight 4-14 0:13:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12562.5  ask  12567.5
+MA TRADER ||  2018-04-14T00:14 #:  0 {}
+overnight 4-14 0:14:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-14T00:15 #:  0 {}
+overnight 4-14 0:15:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12570.0
+MA TRADER ||  2018-04-14T00:16 #:  0 {}
+overnight 4-14 0:16:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12572.5
+MA TRADER ||  2018-04-14T00:17 #:  0 {}
+overnight 4-14 0:17:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12570.0
+MA TRADER ||  2018-04-14T00:18 #:  0 {}
+overnight 4-14 0:18:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12572.5
+MA TRADER ||  2018-04-14T00:19 #:  0 {}
+overnight 4-14 0:19:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12565.0  ask  12570.0
+MA TRADER ||  2018-04-14T00:20 #:  0 {}
+overnight 4-14 0:20:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12570.0
+MA TRADER ||  2018-04-14T00:21 #:  0 {}
+overnight 4-14 0:21:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T00:22 #:  0 {}
+overnight 4-14 0:22:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12572.5  ask  12577.5
+MA TRADER ||  2018-04-14T00:23 #:  0 {}
+overnight 4-14 0:23:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12572.5  ask  12577.5
+MA TRADER ||  2018-04-14T00:24 #:  0 {}
+overnight 4-14 0:24:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12572.5  ask  12577.5
+MA TRADER ||  2018-04-14T00:25 #:  0 {}
+overnight 4-14 0:25:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T00:26 #:  0 {}
+overnight 4-14 0:26:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T00:27 #:  0 {}
+overnight 4-14 0:27:37  overnight trade done 1 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-14T00:28 #:  0 {}
+overnight 4-14 0:28:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T00:29 #:  0 {}
+overnight 4-14 0:29:37  overnight trade done 1 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T00:30 #:  0 {}
+overnight 4-14 0:30:37  overnight trade done 1 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12582.5
+MA TRADER ||  2018-04-14T00:31 #:  0 {}
+overnight 4-14 0:31:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12577.5
+MA TRADER ||  2018-04-14T00:32 #:  0 {}
+overnight 4-14 0:32:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T00:33 #:  0 {}
+overnight 4-14 0:33:37  overnight trade done 1 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T00:34 #:  0 {}
+overnight 4-14 0:34:37  overnight trade done 1 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12575.0  ask  12580.0
+MA TRADER ||  2018-04-14T00:35 #:  0 {}
+overnight 4-14 0:35:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T00:36 #:  0 {}
+overnight 4-14 0:36:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12577.5
+MA TRADER ||  2018-04-14T00:37 #:  0 {}
+overnight 4-14 0:37:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12567.5  ask  12570.0
+MA TRADER ||  2018-04-14T00:38 #:  0 {}
+overnight 4-14 0:38:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T00:39 #:  0 {}
+overnight 4-14 0:39:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T00:40 #:  0 {}
+overnight 4-14 0:40:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12572.5  ask  12577.5
+MA TRADER ||  2018-04-14T00:41 #:  0 {}
+overnight 4-14 0:41:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12575.0  ask  12577.5
+MA TRADER ||  2018-04-14T00:42 #:  0 {}
+overnight 4-14 0:42:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T00:43 #:  0 {}
+overnight 4-14 0:43:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T00:44 #:  0 {}
+overnight 4-14 0:44:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T00:45 #:  0 {}
+overnight 4-14 0:45:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T00:46 #:  0 {}
+overnight 4-14 0:46:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T00:47 #:  0 {}
+overnight 4-14 0:47:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T00:48 #:  0 {}
+overnight 4-14 0:48:37  overnight trade done 1 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T00:49 #:  0 {}
+overnight 4-14 0:49:37  overnight trade done 1 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T00:50 #:  0 {}
+overnight 4-14 0:50:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12577.5
+MA TRADER ||  2018-04-14T00:51 #:  0 {}
+overnight 4-14 0:51:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T00:52 #:  0 {}
+overnight 4-14 0:52:37  overnight trade done 1 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12577.5
+MA TRADER ||  2018-04-14T00:53 #:  0 {}
+overnight 4-14 0:53:37  overnight trade done 1 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T00:54 #:  0 {}
+overnight 4-14 0:54:37  overnight trade done 1 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12575.0  ask  12580.0
+MA TRADER ||  2018-04-14T00:55 #:  0 {}
+overnight 4-14 0:55:37  overnight trade done 1 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12582.5
+MA TRADER ||  2018-04-14T00:56 #:  0 {}
+overnight 4-14 0:56:37  overnight trade done 1 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12575.0  ask  12577.5
+MA TRADER ||  2018-04-14T00:57 #:  0 {}
+overnight 4-14 0:57:37  overnight trade done 1 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T00:58 #:  0 {}
+overnight 4-14 0:58:37  overnight trade done 1 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12582.5
+MA TRADER ||  2018-04-14T00:59 #:  0 {}
+overnight 4-14 0:59:37  overnight trade done 1 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T01:00 #:  0 {}
+overnight 4-14 1:00:37  overnight trade done 1 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T01:01 #:  0 {}
+overnight 4-14 1:01:37  overnight trade done 1 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12585.0  ask  12587.5
+MA TRADER ||  2018-04-14T01:02 #:  0 {}
+overnight 4-14 1:02:37  overnight trade done 1 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T01:03 #:  0 {}
+overnight 4-14 1:03:37  overnight trade done 1 current percentile  48  PD:  -7.0E-4 current price  12587.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T01:04 #:  0 {}
+overnight 4-14 1:04:37  overnight trade done 1 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T01:05 #:  0 {}
+overnight 4-14 1:05:37  overnight trade done 1 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T01:06 #:  0 {}
+overnight 4-14 1:06:37  overnight trade done 1 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T01:07 #:  0 {}
+overnight 4-14 1:07:37  overnight trade done 1 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T01:08 #:  0 {}
+overnight 4-14 1:08:37  overnight trade done 1 current percentile  48  PD:  -7.0E-4 current price  12587.5  index  12596.51 bid  12587.5  ask  12590.0
+MA TRADER ||  2018-04-14T01:09 #:  0 {}
+overnight 4-14 1:09:37  overnight trade done 1 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12585.0  ask  12587.5
+MA TRADER ||  2018-04-14T01:10 #:  0 {}
+overnight 4-14 1:10:37  overnight trade done 1 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T01:11 #:  0 {}
+overnight 4-14 1:11:37  overnight trade done 1 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T01:12 #:  0 {}
+overnight 4-14 1:12:37  overnight trade done 1 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T01:13 #:  0 {}
+overnight 4-14 1:13:37  overnight trade done 1 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12585.0  ask  12587.5
+MA TRADER ||  2018-04-14T01:14 #:  0 {}
+overnight 4-14 1:14:37  overnight trade done 1 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T01:15 #:  0 {}
+overnight 4-14 1:15:37  overnight trade done 1 current percentile  48  PD:  -7.0E-4 current price  12587.5  index  12596.51 bid  12587.5  ask  12590.0
+MA TRADER ||  2018-04-14T01:16 #:  0 {}
+overnight 4-14 1:16:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12590.0
+MA TRADER ||  2018-04-14T01:17 #:  0 {}
+overnight 4-14 1:17:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:18 #:  0 {}
+overnight 4-14 1:18:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12590.0
+MA TRADER ||  2018-04-14T01:19 #:  0 {}
+overnight 4-14 1:19:37  overnight trade done 1 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12585.0  ask  12590.0
+MA TRADER ||  2018-04-14T01:20 #:  0 {}
+overnight 4-14 1:20:37  overnight trade done 1 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12585.0  ask  12587.5
+MA TRADER ||  2018-04-14T01:21 #:  0 {}
+overnight 4-14 1:21:37  overnight trade done 1 current percentile  48  PD:  -7.0E-4 current price  12587.5  index  12596.51 bid  12585.0  ask  12590.0
+MA TRADER ||  2018-04-14T01:22 #:  0 {}
+overnight 4-14 1:22:37  overnight trade done 1 current percentile  48  PD:  -7.0E-4 current price  12587.5  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:23 #:  0 {}
+overnight 4-14 1:23:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12590.0
+MA TRADER ||  2018-04-14T01:24 #:  0 {}
+overnight 4-14 1:24:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:25 #:  0 {}
+overnight 4-14 1:25:37  overnight trade done 1 current percentile  48  PD:  -7.0E-4 current price  12587.5  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:26 #:  0 {}
+overnight 4-14 1:26:37  overnight trade done 1 current percentile  52  PD:  -3.0E-4 current price  12592.5  index  12596.51 bid  12590.0  ask  12595.0
+MA TRADER ||  2018-04-14T01:27 #:  0 {}
+overnight 4-14 1:27:37  overnight trade done 1 current percentile  54  PD:  -1.0E-4 current price  12595.0  index  12596.51 bid  12592.5  ask  12595.0
+MA TRADER ||  2018-04-14T01:28 #:  0 {}
+overnight 4-14 1:28:37  overnight trade done 1 current percentile  54  PD:  -1.0E-4 current price  12595.0  index  12596.51 bid  12592.5  ask  12595.0
+MA TRADER ||  2018-04-14T01:29 #:  0 {}
+overnight 4-14 1:29:37  overnight trade done 1 current percentile  54  PD:  -1.0E-4 current price  12595.0  index  12596.51 bid  12590.0  ask  12592.5
+2018-04-14T01:30:13.096  MA Trade || selling @  SELL LMT 1.0  at  12595.0
+MA TRADER ||  2018-04-14T01:30 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:30:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:31 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:31:37  overnight trade done 1 current percentile  52  PD:  -3.0E-4 current price  12592.5  index  12596.51 bid  12592.5  ask  12595.0
+MA TRADER ||  2018-04-14T01:32 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:32:37  overnight trade done 1 current percentile  52  PD:  -3.0E-4 current price  12592.5  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:33 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:33:37  overnight trade done 1 current percentile  52  PD:  -3.0E-4 current price  12592.5  index  12596.51 bid  12587.5  ask  12590.0
+MA TRADER ||  2018-04-14T01:34 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:34:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:35 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:35:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12585.0  ask  12590.0
+MA TRADER ||  2018-04-14T01:36 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:36:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12585.0  ask  12590.0
+MA TRADER ||  2018-04-14T01:37 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:37:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:38 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:38:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:39 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:39:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:40 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:40:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:41 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:41:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:42 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:42:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:43 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:43:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:44 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:44:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:45 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:45:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:46 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:46:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:47 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:47:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:48 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:48:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12592.5
+MA TRADER ||  2018-04-14T01:49 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:49:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:50 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:50:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:51 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:51:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12587.5  ask  12590.0
+MA TRADER ||  2018-04-14T01:52 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:52:37  overnight trade done 1 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:53 #:  1 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0}
+overnight 4-14 1:53:37  overnight trade done 1 current percentile  52  PD:  -3.0E-4 current price  12592.5  index  12596.51 bid  12590.0  ask  12595.0
+2018-04-14T01:54:13.094  MA Trade || bidding @  BUY LMT 1.0  at  12590.0
+MA TRADER ||  2018-04-14T01:54 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 1:54:37  overnight trade done 1 current percentile  52  PD:  -3.0E-4 current price  12592.5  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:55 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 1:55:37  overnight trade done 1 current percentile  52  PD:  -3.0E-4 current price  12592.5  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:56 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 1:56:37  overnight trade done 2 current percentile  50  PD:  -5.0E-4 current price  12590.0  index  12596.51 bid  12590.0  ask  12592.5
+MA TRADER ||  2018-04-14T01:57 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 1:57:37  overnight trade done 2 current percentile  48  PD:  -7.0E-4 current price  12587.5  index  12596.51 bid  12585.0  ask  12587.5
+MA TRADER ||  2018-04-14T01:58 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 1:58:37  overnight trade done 2 current percentile  48  PD:  -7.0E-4 current price  12587.5  index  12596.51 bid  12585.0  ask  12587.5
+MA TRADER ||  2018-04-14T01:59 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 1:59:37  overnight trade done 2 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:00 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:00:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:01 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:01:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:02 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:02:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:03 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:03:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:04 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:04:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:05 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:05:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:06 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:06:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:07 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:07:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:08 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:08:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12585.0  ask  12590.0
+MA TRADER ||  2018-04-14T02:09 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:09:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:10 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:10:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12585.0  ask  12590.0
+MA TRADER ||  2018-04-14T02:11 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:11:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12585.0  ask  12590.0
+MA TRADER ||  2018-04-14T02:12 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:12:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12585.0  ask  12587.5
+MA TRADER ||  2018-04-14T02:13 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:13:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12587.5
+MA TRADER ||  2018-04-14T02:14 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:14:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T02:15 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:15:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T02:16 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:16:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T02:17 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:17:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12580.0  ask  12585.0
+MA TRADER ||  2018-04-14T02:18 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:18:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:19 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:19:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:20 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:20:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:21 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:21:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:22 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:22:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:23 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:23:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:24 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:24:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:25 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:25:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:26 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:26:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:27 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:27:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:28 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:28:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:29 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:29:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:30 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:30:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12580.0  ask  12582.5
+MA TRADER ||  2018-04-14T02:31 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:31:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T02:32 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:32:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T02:33 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:33:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T02:34 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:34:37  overnight trade done 2 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T02:35 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:35:37  overnight trade done 2 current percentile  46  PD:  -9.0E-4 current price  12585.0  index  12596.51 bid  12582.5  ask  12585.0
+MA TRADER ||  2018-04-14T02:36 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:36:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12580.0  ask  12585.0
+MA TRADER ||  2018-04-14T02:37 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:37:37  overnight trade done 2 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12580.0
+MA TRADER ||  2018-04-14T02:38 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:38:37  overnight trade done 2 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12580.0
+MA TRADER ||  2018-04-14T02:39 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:39:37  overnight trade done 2 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12580.0
+MA TRADER ||  2018-04-14T02:40 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:40:37  overnight trade done 2 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12580.0
+MA TRADER ||  2018-04-14T02:41 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:41:37  overnight trade done 2 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T02:42 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:42:37  overnight trade done 2 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T02:43 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:43:37  overnight trade done 2 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12572.5  ask  12577.5
+MA TRADER ||  2018-04-14T02:44 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:44:37  overnight trade done 2 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T02:45 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:45:37  overnight trade done 2 current percentile  38  PD:  -0.0017 current price  12575.0  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T02:46 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:46:37  overnight trade done 2 current percentile  44  PD:  -0.0011 current price  12582.5  index  12596.51 bid  12580.0  ask  12585.0
+MA TRADER ||  2018-04-14T02:47 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:47:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12582.5
+MA TRADER ||  2018-04-14T02:48 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:48:37  overnight trade done 2 current percentile  42  PD:  -0.0013 current price  12580.0  index  12596.51 bid  12577.5  ask  12580.0
+MA TRADER ||  2018-04-14T02:49 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:49:37  overnight trade done 2 current percentile  40  PD:  -0.0015 current price  12577.5  index  12596.51 bid  12575.0  ask  12577.5
+MA TRADER ||  2018-04-14T02:50 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:50:37  overnight trade done 2 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T02:51 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:51:37  overnight trade done 2 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12572.5  ask  12575.0
+MA TRADER ||  2018-04-14T02:52 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:52:37  overnight trade done 2 current percentile  35  PD:  -0.0019 current price  12572.5  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T02:53 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:53:37  overnight trade done 2 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12567.5  ask  12572.5
+MA TRADER ||  2018-04-14T02:54 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:54:37  overnight trade done 2 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T02:55 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:55:37  overnight trade done 2 current percentile  33  PD:  -0.0021 current price  12570.0  index  12596.51 bid  12570.0  ask  12572.5
+MA TRADER ||  2018-04-14T02:56 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:56:37  overnight trade done 2 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12567.5  ask  12570.0
+MA TRADER ||  2018-04-14T02:57 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:57:37  overnight trade done 2 current percentile  31  PD:  -0.0023 current price  12567.5  index  12596.51 bid  12567.5  ask  12570.0
+MA TRADER ||  2018-04-14T02:58 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:58:37  overnight trade done 2 current percentile  29  PD:  -0.0025 current price  12565.0  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-14T02:59 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 2:59:37  overnight trade done 2 current percentile  29  PD:  -0.0025 current price  12565.0  index  12596.51 bid  12565.0  ask  12567.5
+MA TRADER ||  2018-04-14T03:00 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:00:37  overnight trade done 2 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12562.5  ask  12565.0
+MA TRADER ||  2018-04-14T03:01 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:01:37  overnight trade done 2 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12560.0  ask  12562.5
+MA TRADER ||  2018-04-14T03:02 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:02:37  overnight trade done 2 current percentile  25  PD:  -0.0029 current price  12560.0  index  12596.51 bid  12557.5  ask  12560.0
+MA TRADER ||  2018-04-14T03:03 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:03:37  overnight trade done 2 current percentile  25  PD:  -0.0029 current price  12560.0  index  12596.51 bid  12557.5  ask  12560.0
+MA TRADER ||  2018-04-14T03:04 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:04:37  overnight trade done 2 current percentile  25  PD:  -0.0029 current price  12560.0  index  12596.51 bid  12557.5  ask  12560.0
+MA TRADER ||  2018-04-14T03:05 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:05:37  overnight trade done 2 current percentile  23  PD:  -0.0031 current price  12557.5  index  12596.51 bid  12555.0  ask  12557.5
+MA TRADER ||  2018-04-14T03:06 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:06:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T03:07 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:07:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T03:08 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:08:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T03:09 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:09:37  overnight trade done 2 current percentile  23  PD:  -0.0031 current price  12557.5  index  12596.51 bid  12555.0  ask  12557.5
+MA TRADER ||  2018-04-14T03:10 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:10:37  overnight trade done 2 current percentile  23  PD:  -0.0031 current price  12557.5  index  12596.51 bid  12555.0  ask  12557.5
+MA TRADER ||  2018-04-14T03:11 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:11:37  overnight trade done 2 current percentile  25  PD:  -0.0029 current price  12560.0  index  12596.51 bid  12560.0  ask  12562.5
+MA TRADER ||  2018-04-14T03:12 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:12:37  overnight trade done 2 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12560.0  ask  12562.5
+MA TRADER ||  2018-04-14T03:13 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:13:37  overnight trade done 2 current percentile  25  PD:  -0.0029 current price  12560.0  index  12596.51 bid  12557.5  ask  12562.5
+MA TRADER ||  2018-04-14T03:14 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:14:37  overnight trade done 2 current percentile  27  PD:  -0.0027 current price  12562.5  index  12596.51 bid  12560.0  ask  12562.5
+MA TRADER ||  2018-04-14T03:15 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:15:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T03:16 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:16:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T03:17 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:17:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:18 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:18:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:19 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:19:37  overnight trade done 2 current percentile  10  PD:  -0.0043 current price  12542.5  index  12596.51 bid  12540.0  ask  12542.5
+MA TRADER ||  2018-04-14T03:20 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:20:37  overnight trade done 2 current percentile  10  PD:  -0.0043 current price  12542.5  index  12596.51 bid  12540.0  ask  12542.5
+MA TRADER ||  2018-04-14T03:21 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:21:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-14T03:22 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:22:37  overnight trade done 2 current percentile  8  PD:  -0.0045 current price  12540.0  index  12596.51 bid  12540.0  ask  12545.0
+MA TRADER ||  2018-04-14T03:23 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:23:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-14T03:24 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:24:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12542.5  ask  12545.0
+MA TRADER ||  2018-04-14T03:25 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:25:37  overnight trade done 2 current percentile  10  PD:  -0.0043 current price  12542.5  index  12596.51 bid  12542.5  ask  12545.0
+MA TRADER ||  2018-04-14T03:26 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:26:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-14T03:27 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:27:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12540.0  ask  12542.5
+MA TRADER ||  2018-04-14T03:28 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:28:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12540.0  ask  12545.0
+MA TRADER ||  2018-04-14T03:29 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:29:37  overnight trade done 2 current percentile  10  PD:  -0.0043 current price  12542.5  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-14T03:30 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:30:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12540.0  ask  12542.5
+MA TRADER ||  2018-04-14T03:31 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:31:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12542.5  ask  12545.0
+MA TRADER ||  2018-04-14T03:32 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:32:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-14T03:33 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:33:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12542.5  ask  12545.0
+MA TRADER ||  2018-04-14T03:34 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:34:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12540.0  ask  12545.0
+MA TRADER ||  2018-04-14T03:35 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:35:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12540.0  ask  12545.0
+MA TRADER ||  2018-04-14T03:36 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:36:37  overnight trade done 2 current percentile  10  PD:  -0.0043 current price  12542.5  index  12596.51 bid  12540.0  ask  12545.0
+MA TRADER ||  2018-04-14T03:37 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:37:37  overnight trade done 2 current percentile  10  PD:  -0.0043 current price  12542.5  index  12596.51 bid  12540.0  ask  12542.5
+MA TRADER ||  2018-04-14T03:38 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:38:37  overnight trade done 2 current percentile  6  PD:  -0.0047 current price  12537.5  index  12596.51 bid  12537.5  ask  12540.0
+MA TRADER ||  2018-04-14T03:39 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:39:37  overnight trade done 2 current percentile  8  PD:  -0.0045 current price  12540.0  index  12596.51 bid  12537.5  ask  12540.0
+MA TRADER ||  2018-04-14T03:40 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:40:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T03:41 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:41:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12542.5  ask  12545.0
+MA TRADER ||  2018-04-14T03:42 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:42:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12542.5  ask  12547.5
+MA TRADER ||  2018-04-14T03:43 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:43:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:44 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:44:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:45 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:45:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:46 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:46:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T03:47 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:47:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T03:48 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:48:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T03:49 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:49:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:50 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:50:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:51 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:51:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:52 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:52:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T03:53 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:53:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T03:54 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:54:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T03:55 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:55:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:56 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:56:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:57 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:57:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T03:58 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:58:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T03:59 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 3:59:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T04:00 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:00:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:01 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:01:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:02 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:02:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:03 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:03:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12542.5  ask  12545.0
+MA TRADER ||  2018-04-14T04:04 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:04:37  overnight trade done 2 current percentile  10  PD:  -0.0043 current price  12542.5  index  12596.51 bid  12542.5  ask  12545.0
+MA TRADER ||  2018-04-14T04:05 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:05:37  overnight trade done 2 current percentile  13  PD:  -0.0041 current price  12545.0  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-14T04:06 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:06:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-14T04:07 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:07:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-14T04:08 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:08:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12545.0  ask  12547.5
+MA TRADER ||  2018-04-14T04:09 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:09:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12545.0  ask  12550.0
+MA TRADER ||  2018-04-14T04:10 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:10:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:11 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:11:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:12 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:12:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:13 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:13:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:14 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:14:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:15 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:15:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:16 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:16:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:17 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:17:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:18 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:18:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:19 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:19:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:20 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:20:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:21 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:21:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:22 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:22:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:23 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:23:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:24 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:24:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:25 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:25:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:26 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:26:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:27 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:27:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:28 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:28:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:29 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:29:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:30 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:30:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:31 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:31:37  overnight trade done 2 current percentile  15  PD:  -0.0039 current price  12547.5  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:32 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:32:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12547.5  ask  12550.0
+MA TRADER ||  2018-04-14T04:33 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:33:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:34 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:34:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12550.0  ask  12552.5
+MA TRADER ||  2018-04-14T04:35 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:35:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12555.0
+MA TRADER ||  2018-04-14T04:36 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:36:37  overnight trade done 2 current percentile  17  PD:  -0.0037 current price  12550.0  index  12596.51 bid  12550.0  ask  12555.0
+MA TRADER ||  2018-04-14T04:37 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:37:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T04:38 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:38:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T04:39 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:39:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T04:40 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+overnight 4-14 4:40:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12555.0  ask  12557.5
+MA TRADER ||  2018-04-14T04:41 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:41:37.602  nothing done 
+overnight 4-14 4:41:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T04:42 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:42:37.602  nothing done 
+overnight 4-14 4:42:37  overnight trade done 2 current percentile  19  PD:  -0.0035 current price  12552.5  index  12596.51 bid  12552.5  ask  12555.0
+MA TRADER ||  2018-04-14T04:43 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:43:37.602  nothing done 
+overnight 4-14 4:43:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12555.0  ask  12557.5
+MA TRADER ||  2018-04-14T04:44 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:44:37.602  nothing done 
+overnight 4-14 4:44:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  12550.0  ask  12555.0
+MA TRADER ||  2018-04-14T04:45 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:45:37.602  nothing done 
+overnight 4-14 4:45:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:46 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:46:37.602  nothing done 
+overnight 4-14 4:46:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:47 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:47:37.602  nothing done 
+overnight 4-14 4:47:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:48 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:48:37.602  nothing done 
+overnight 4-14 4:48:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:49 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:49:37.603  nothing done 
+overnight 4-14 4:49:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:50 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:50:37.602  nothing done 
+overnight 4-14 4:50:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:51 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:51:37.603  nothing done 
+overnight 4-14 4:51:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:52 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:52:37.602  nothing done 
+overnight 4-14 4:52:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:53 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:53:37.602  nothing done 
+overnight 4-14 4:53:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:54 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:54:37.603  nothing done 
+overnight 4-14 4:54:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:55 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:55:37.604  nothing done 
+overnight 4-14 4:55:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:56 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:56:37.602  nothing done 
+overnight 4-14 4:56:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:57 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:57:37.602  nothing done 
+overnight 4-14 4:57:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:58 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:58:37.603  nothing done 
+overnight 4-14 4:58:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T04:59 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+2018-04-14T04:59:37.602  nothing done 
+overnight 4-14 4:59:37  overnight trade done 2 current percentile  21  PD:  -0.0033 current price  12555.0  index  12596.51 bid  0.0  ask  0.0
+MA TRADER ||  2018-04-14T05:00 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:01 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:02 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:03 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:04 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:05 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:06 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:07 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:08 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:09 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:10 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:11 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:12 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:13 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:14 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:15 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:16 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:17 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:18 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:19 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:20 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:21 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:22 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:23 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:24 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:25 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:26 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:27 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:28 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:29 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:30 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:31 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:32 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:33 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:34 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:35 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:36 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:37 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:38 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:39 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:40 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:41 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:42 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:43 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:44 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:45 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:46 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:47 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:48 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:49 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:50 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:51 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:52 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:53 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:54 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:55 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:56 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:57 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:58 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T05:59 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:00 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:01 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:02 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:03 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:04 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:05 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:06 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:07 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:08 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:09 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:10 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:11 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:12 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:13 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:14 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:15 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:16 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:17 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:18 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:19 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:20 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:21 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:22 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:23 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:24 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:25 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:26 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:27 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:28 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:29 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:30 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:31 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:32 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:33 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:34 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:35 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:36 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:37 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:38 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:39 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:40 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:41 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:42 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:43 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:44 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:45 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:46 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:47 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:48 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:49 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:50 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:51 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:52 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:53 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:54 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:55 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:56 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:57 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:58 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T06:59 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:00 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:01 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:02 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:03 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:04 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:05 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:06 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:07 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:08 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:09 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:10 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:11 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:12 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:13 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:14 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:15 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:16 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:17 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:18 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:19 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:20 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:21 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:22 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:23 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:24 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:25 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:26 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:27 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:28 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:29 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:30 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:31 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:32 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:33 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:34 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:35 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:36 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:37 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:38 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:39 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:40 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:41 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:42 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:43 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:44 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:45 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:46 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:47 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:48 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:49 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:50 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:51 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:52 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:53 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:54 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:55 #:  2 {2018-04-14T01:30:13.096=SELL LMT 1.0  at  12595.0, 2018-04-14T01:54:13.094=BUY LMT 1.0  at  12590.0}
+MA TRADER ||  2018-04-14T07:57 #:  0 {}
+MA TRADER ||  2018-04-14T07:58 #:  0 {}
+MA TRADER ||  2018-04-14T07:59 #:  0 {}
+MA TRADER ||  2018-04-14T08:00 #:  0 {}
+MA TRADER ||  2018-04-14T08:01 #:  0 {}
+MA TRADER ||  2018-04-14T08:02 #:  0 {}
+MA TRADER ||  2018-04-14T08:03 #:  0 {}
+MA TRADER ||  2018-04-14T08:04 #:  0 {}
+MA TRADER ||  2018-04-14T08:05 #:  0 {}
+MA TRADER ||  2018-04-14T08:06 #:  0 {}
+MA TRADER ||  2018-04-14T08:07 #:  0 {}
+MA TRADER ||  2018-04-14T08:08 #:  0 {}
+MA TRADER ||  2018-04-14T08:09 #:  0 {}
+MA TRADER ||  2018-04-14T08:10 #:  0 {}
+MA TRADER ||  2018-04-14T08:11 #:  0 {}
+MA TRADER ||  2018-04-14T08:12 #:  0 {}
+MA TRADER ||  2018-04-14T08:13 #:  0 {}
+MA TRADER ||  2018-04-14T08:14 #:  0 {}
+MA TRADER ||  2018-04-14T08:15 #:  0 {}
+MA TRADER ||  2018-04-14T08:16 #:  0 {}
+MA TRADER ||  2018-04-14T08:17 #:  0 {}
+MA TRADER ||  2018-04-14T08:18 #:  0 {}
+MA TRADER ||  2018-04-14T08:19 #:  0 {}
+MA TRADER ||  2018-04-14T08:20 #:  0 {}
+MA TRADER ||  2018-04-14T08:21 #:  0 {}
+MA TRADER ||  2018-04-14T08:22 #:  0 {}
+MA TRADER ||  2018-04-14T08:23 #:  0 {}
+MA TRADER ||  2018-04-14T08:24 #:  0 {}
+MA TRADER ||  2018-04-14T08:25 #:  0 {}
+MA TRADER ||  2018-04-14T08:26 #:  0 {}
+MA TRADER ||  2018-04-14T08:27 #:  0 {}
+MA TRADER ||  2018-04-14T08:28 #:  0 {}
+MA TRADER ||  2018-04-14T08:29 #:  0 {}
+MA TRADER ||  2018-04-14T08:30 #:  0 {}
+MA TRADER ||  2018-04-14T08:31 #:  0 {}
+MA TRADER ||  2018-04-14T08:32 #:  0 {}
+MA TRADER ||  2018-04-14T08:33 #:  0 {}
+MA TRADER ||  2018-04-14T08:34 #:  0 {}
+MA TRADER ||  2018-04-14T08:35 #:  0 {}
+MA TRADER ||  2018-04-14T08:36 #:  0 {}
+MA TRADER ||  2018-04-14T08:37 #:  0 {}
+MA TRADER ||  2018-04-14T08:38 #:  0 {}
+MA TRADER ||  2018-04-14T08:39 #:  0 {}
+MA TRADER ||  2018-04-14T08:40 #:  0 {}
+MA TRADER ||  2018-04-14T08:41 #:  0 {}
+MA TRADER ||  2018-04-14T08:42 #:  0 {}
+MA TRADER ||  2018-04-14T08:43 #:  0 {}
+MA TRADER ||  2018-04-14T08:44 #:  0 {}
+MA TRADER ||  2018-04-14T08:45 #:  0 {}
