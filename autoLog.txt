@@ -1,0 +1,1279 @@
+MA TRADER ||  2018-04-16T06:53 #:  0 {}
+MA TRADER ||  2018-04-16T06:54 #:  0 {}
+MA TRADER ||  2018-04-16T06:55 #:  0 {}
+MA TRADER ||  2018-04-16T06:56 #:  0 {}
+MA TRADER ||  2018-04-16T06:57 #:  0 {}
+MA TRADER ||  2018-04-16T06:58 #:  0 {}
+MA TRADER ||  2018-04-16T06:59 #:  0 {}
+MA TRADER ||  2018-04-16T07:00 #:  0 {}
+MA TRADER ||  2018-04-16T07:01 #:  0 {}
+MA TRADER ||  2018-04-16T07:02 #:  0 {}
+MA TRADER ||  2018-04-16T07:03 #:  0 {}
+MA TRADER ||  2018-04-16T07:04 #:  0 {}
+MA TRADER ||  2018-04-16T07:05 #:  0 {}
+MA TRADER ||  2018-04-16T07:06 #:  0 {}
+MA TRADER ||  2018-04-16T07:07 #:  0 {}
+MA TRADER ||  2018-04-16T07:08 #:  0 {}
+MA TRADER ||  2018-04-16T07:09 #:  0 {}
+MA TRADER ||  2018-04-16T07:10 #:  0 {}
+MA TRADER ||  2018-04-16T07:11 #:  0 {}
+MA TRADER ||  2018-04-16T07:12 #:  0 {}
+MA TRADER ||  2018-04-16T07:13 #:  0 {}
+MA TRADER ||  2018-04-16T07:14 #:  0 {}
+MA TRADER ||  2018-04-16T07:15 #:  0 {}
+MA TRADER ||  2018-04-16T07:16 #:  0 {}
+MA TRADER ||  2018-04-16T07:17 #:  0 {}
+MA TRADER ||  2018-04-16T07:18 #:  0 {}
+MA TRADER ||  2018-04-16T07:19 #:  0 {}
+MA TRADER ||  2018-04-16T07:20 #:  0 {}
+MA TRADER ||  2018-04-16T07:21 #:  0 {}
+MA TRADER ||  2018-04-16T07:22 #:  0 {}
+MA TRADER ||  2018-04-16T07:23 #:  0 {}
+MA TRADER ||  2018-04-16T07:24 #:  0 {}
+MA TRADER ||  2018-04-16T07:25 #:  0 {}
+MA TRADER ||  2018-04-16T07:26 #:  0 {}
+MA TRADER ||  2018-04-16T07:27 #:  0 {}
+MA TRADER ||  2018-04-16T07:28 #:  0 {}
+MA TRADER ||  2018-04-16T07:29 #:  0 {}
+MA TRADER ||  2018-04-16T07:30 #:  0 {}
+MA TRADER ||  2018-04-16T07:31 #:  0 {}
+MA TRADER ||  2018-04-16T07:32 #:  0 {}
+MA TRADER ||  2018-04-16T07:33 #:  0 {}
+MA TRADER ||  2018-04-16T07:34 #:  0 {}
+MA TRADER ||  2018-04-16T07:35 #:  0 {}
+MA TRADER ||  2018-04-16T07:36 #:  0 {}
+MA TRADER ||  2018-04-16T07:37 #:  0 {}
+MA TRADER ||  2018-04-16T07:38 #:  0 {}
+MA TRADER ||  2018-04-16T07:39 #:  0 {}
+MA TRADER ||  2018-04-16T07:40 #:  0 {}
+MA TRADER ||  2018-04-16T07:41 #:  0 {}
+MA TRADER ||  2018-04-16T07:42 #:  0 {}
+MA TRADER ||  2018-04-16T07:43 #:  0 {}
+MA TRADER ||  2018-04-16T07:44 #:  0 {}
+MA TRADER ||  2018-04-16T07:45 #:  0 {}
+MA TRADER ||  2018-04-16T07:46 #:  0 {}
+MA TRADER ||  2018-04-16T07:47 #:  0 {}
+MA TRADER ||  2018-04-16T07:48 #:  0 {}
+MA TRADER ||  2018-04-16T07:49 #:  0 {}
+MA TRADER ||  2018-04-16T07:50 #:  0 {}
+MA TRADER ||  2018-04-16T07:51 #:  0 {}
+MA TRADER ||  2018-04-16T07:52 #:  0 {}
+MA TRADER ||  2018-04-16T07:53 #:  0 {}
+MA TRADER ||  2018-04-16T07:54 #:  0 {}
+MA TRADER ||  2018-04-16T07:55 #:  0 {}
+MA TRADER ||  2018-04-16T07:56 #:  0 {}
+MA TRADER ||  2018-04-16T07:57 #:  0 {}
+MA TRADER ||  2018-04-16T07:58 #:  0 {}
+MA TRADER ||  2018-04-16T07:59 #:  0 {}
+MA TRADER ||  2018-04-16T08:00 #:  0 {}
+MA TRADER ||  2018-04-16T08:01 #:  0 {}
+MA TRADER ||  2018-04-16T08:02 #:  0 {}
+MA TRADER ||  2018-04-16T08:03 #:  0 {}
+MA TRADER ||  2018-04-16T08:04 #:  0 {}
+MA TRADER ||  2018-04-16T08:05 #:  0 {}
+MA TRADER ||  2018-04-16T08:06 #:  0 {}
+MA TRADER ||  2018-04-16T08:07 #:  0 {}
+MA TRADER ||  2018-04-16T08:08 #:  0 {}
+MA TRADER ||  2018-04-16T08:09 #:  0 {}
+MA TRADER ||  2018-04-16T08:10 #:  0 {}
+MA TRADER ||  2018-04-16T08:11 #:  0 {}
+MA TRADER ||  2018-04-16T08:12 #:  0 {}
+MA TRADER ||  2018-04-16T08:13 #:  0 {}
+MA TRADER ||  2018-04-16T08:14 #:  0 {}
+MA TRADER ||  2018-04-16T08:15 #:  0 {}
+MA TRADER ||  2018-04-16T08:16 #:  0 {}
+MA TRADER ||  2018-04-16T08:17 #:  0 {}
+MA TRADER ||  2018-04-16T08:18 #:  0 {}
+MA TRADER ||  2018-04-16T08:19 #:  0 {}
+MA TRADER ||  2018-04-16T08:20 #:  0 {}
+MA TRADER ||  2018-04-16T08:21 #:  0 {}
+MA TRADER ||  2018-04-16T08:22 #:  0 {}
+MA TRADER ||  2018-04-16T08:23 #:  0 {}
+MA TRADER ||  2018-04-16T08:24 #:  0 {}
+MA TRADER ||  2018-04-16T08:25 #:  0 {}
+MA TRADER ||  2018-04-16T08:26 #:  0 {}
+MA TRADER ||  2018-04-16T08:27 #:  0 {}
+MA TRADER ||  2018-04-16T08:28 #:  0 {}
+MA TRADER ||  2018-04-16T08:29 #:  0 {}
+MA TRADER ||  2018-04-16T08:30 #:  0 {}
+MA TRADER ||  2018-04-16T08:31 #:  0 {}
+MA TRADER ||  2018-04-16T08:32 #:  0 {}
+MA TRADER ||  2018-04-16T08:33 #:  0 {}
+MA TRADER ||  2018-04-16T08:38 #:  0 {}
+MA TRADER ||  2018-04-16T08:39 #:  0 {}
+MA TRADER ||  2018-04-16T08:40 #:  0 {}
+MA TRADER ||  2018-04-16T08:41 #:  0 {}
+MA TRADER ||  2018-04-16T08:42 #:  0 {}
+MA TRADER ||  2018-04-16T08:43 #:  0 {}
+MA TRADER ||  2018-04-16T08:44 #:  0 {}
+MA TRADER ||  2018-04-16T08:45 #:  0 {}
+MA TRADER ||  2018-04-16T08:46 #:  0 {}
+MA TRADER ||  2018-04-16T08:47 #:  0 {}
+MA TRADER ||  2018-04-16T08:48 #:  0 {}
+MA TRADER ||  2018-04-16T08:49 #:  0 {}
+MA TRADER ||  2018-04-16T08:50 #:  0 {}
+MA TRADER ||  2018-04-16T08:51 #:  0 {}
+MA TRADER ||  2018-04-16T08:52 #:  0 {}
+MA TRADER ||  2018-04-16T08:53 #:  0 {}
+MA TRADER ||  2018-04-16T08:54 #:  0 {}
+MA TRADER ||  2018-04-16T08:55 #:  0 {}
+MA TRADER ||  2018-04-16T08:56 #:  0 {}
+MA TRADER ||  2018-04-16T08:57 #:  0 {}
+MA TRADER ||  2018-04-16T08:58 #:  0 {}
+MA TRADER ||  2018-04-16T08:59 #:  0 {}
+MA TRADER ||  2018-04-16T09:00 #:  0 {}
+MA TRADER ||  2018-04-16T09:01 #:  0 {}
+MA TRADER ||  2018-04-16T09:02 #:  0 {}
+MA TRADER ||  2018-04-16T09:03 #:  0 {}
+MA TRADER ||  2018-04-16T09:04 #:  0 {}
+MA TRADER ||  2018-04-16T09:05 #:  0 {}
+MA TRADER ||  2018-04-16T09:06 #:  0 {}
+MA TRADER ||  2018-04-16T09:07 #:  0 {}
+MA TRADER ||  2018-04-16T09:08 #:  0 {}
+MA TRADER ||  2018-04-16T09:09 #:  0 {}
+MA TRADER ||  2018-04-16T09:10 #:  0 {}
+MA TRADER ||  2018-04-16T09:11 #:  0 {}
+MA TRADER ||  2018-04-16T09:12 #:  0 {}
+MA TRADER ||  2018-04-16T09:13 #:  0 {}
+MA TRADER ||  2018-04-16T09:14 #:  0 {}
+MA TRADER ||  2018-04-16T09:15 #:  0 {}
+MA TRADER ||  2018-04-16T09:16 #:  0 {}
+MA TRADER ||  2018-04-16T09:17 #:  0 {}
+MA TRADER ||  2018-04-16T09:18 #:  0 {}
+MA TRADER ||  2018-04-16T09:19 #:  0 {}
+MA TRADER ||  2018-04-16T09:20 #:  0 {}
+MA TRADER ||  2018-04-16T09:21 #:  0 {}
+MA TRADER ||  2018-04-16T09:22 #:  0 {}
+MA TRADER ||  2018-04-16T09:23 #:  0 {}
+MA TRADER ||  2018-04-16T09:24 #:  0 {}
+MA TRADER ||  2018-04-16T09:25 #:  0 {}
+MA TRADER ||  2018-04-16T09:26 #:  0 {}
+MA TRADER ||  2018-04-16T09:27 #:  0 {}
+MA TRADER ||  2018-04-16T09:28 #:  0 {} last Bar  open: 12600.0  high: 12600.0 low: 12597.5 close: 12597.5  SMA  0.0
+Observing MA Touch ||  Time:  09:29  || Last Bar open: 12595.0  high: 12600.0 low: 12592.5 close: 12597.5  || SMA60  12573.9
+ no touch 
+MA TRADER ||  2018-04-16T09:29 #:  0 {} last Bar  open: 12595.0  high: 12600.0 low: 12592.5 close: 12597.5  SMA  12573.895833333334
+Observing MA Touch ||  Time:  09:30  || Last Bar open: 12595.0  high: 12605.0 low: 12570.0 close: 12580.0  || SMA60  12573.9
+MA TRADER ||  2018-04-16T09:30 #:  0 {} last Bar  open: 12595.0  high: 12605.0 low: 12570.0 close: 12580.0  SMA  12573.895833333334
+ touching MA, playing clip 
+Observing MA Touch ||  Time:  09:31  || Last Bar open: 12572.5  high: 12572.5 low: 12555.0 close: 12567.5  || SMA60  12574.21
+MA TRADER ||  2018-04-16T09:31 #:  0 {} last Bar  open: 12572.5  high: 12572.5 low: 12555.0 close: 12567.5  SMA  12574.208333333334
+ no touch 
+Observing MA Touch ||  Time:  09:32  || Last Bar open: 12572.5  high: 12572.5 low: 12550.0 close: 12552.5  || SMA60  12574.21
+MA TRADER ||  2018-04-16T09:32 #:  0 {} last Bar  open: 12572.5  high: 12572.5 low: 12550.0 close: 12552.5  SMA  12574.208333333334
+ no touch 
+Observing MA Touch ||  Time:  09:33  || Last Bar open: 12572.5  high: 12577.5 low: 12542.5 close: 12572.5  || SMA60  12574.21
+ touching MA, playing clip 
+2018-04-16T09:33:15.213  MA Trade || bidding @  BUY LMT 1.0  at  12572.5
+MA TRADER ||  2018-04-16T09:33 #:  0 {} last Bar  open: 12572.5  high: 12577.5 low: 12542.5 close: 12572.5  SMA  12574.208333333334
+2018-04-16T09:34:15.214  MA Trade || bidding @  BUY LMT 1.0  at  12595.0
+MA TRADER ||  2018-04-16T09:34 #:  0 {} last Bar  open: 12572.5  high: 12600.0 low: 12542.5 close: 12597.5  SMA  12574.208333333334
+Observing MA Touch ||  Time:  09:34  || Last Bar open: 12572.5  high: 12600.0 low: 12542.5 close: 12597.5  || SMA60  12574.21
+ touching MA, playing clip 
+2018-04-16T09:35:15.213  MA Trade || bidding @  BUY LMT 1.0  at  12597.5
+MA TRADER ||  2018-04-16T09:35 #:  0 {} last Bar  open: 12572.5  high: 12600.0 low: 12542.5 close: 12597.5  SMA  12574.208333333334
+Observing MA Touch ||  Time:  09:35  || Last Bar open: 12572.5  high: 12600.0 low: 12542.5 close: 12597.5  || SMA60  12574.21
+ touching MA, playing clip 
+MA TRADER ||  2018-04-16T09:35 #:  0 {} last Price  open: 12605.0  high: 12610.0 low: 12602.5 close: 12605.0  SMA  0.0
+MA TRADER ||  2018-04-16T09:36 #:  0 {} last Price  open: 12600.0  high: 12607.5 low: 12595.0 close: 12597.5  SMA  12574.270833333334
+Observing MA Touch ||  Time:  09:36  || Last Bar open: 12600.0  high: 12607.5 low: 12595.0 close: 12597.5  || SMA60  12574.27
+ no touch 
+Observing MA Touch ||  Time:  09:37  || Last Bar open: 12600.0  high: 12607.5 low: 12580.0 close: 12580.0  || SMA60  12574.27
+MA TRADER ||  2018-04-16T09:37 #:  0 {} last Price  open: 12600.0  high: 12607.5 low: 12580.0 close: 12580.0  SMA  12574.270833333334
+ no touch 
+Observing MA Touch ||  Time:  09:38  || Last Bar open: 12600.0  high: 12607.5 low: 12557.5 close: 12560.0  || SMA60  12574.27
+MA TRADER ||  2018-04-16T09:38 #:  0 {} last Price  open: 12600.0  high: 12607.5 low: 12557.5 close: 12560.0  SMA  12574.270833333334
+ touching MA, playing clip 
+MA TRADER ||  2018-04-16T09:39 #:  0 {} last Price  open: 12600.0  high: 12607.5 low: 12535.0 close: 12540.0  SMA  12574.270833333334
+Observing MA Touch ||  Time:  09:39  || Last Bar open: 12600.0  high: 12607.5 low: 12535.0 close: 12540.0  || SMA60  12574.27
+ touching MA, playing clip 
+2018-04-16T09:40:46.774  MA Trade || selling @  SELL LMT 1.0  at  12537.5
+MA TRADER ||  2018-04-16T09:40 #:  1 {2018-04-16T09:40:46.774=SELL LMT 1.0  at  12537.5} last Price  open: 12600.0  high: 12607.5 low: 12525.0 close: 12535.0  SMA  12574.270833333334
+Observing MA Touch ||  Time:  09:40  || Last Bar open: 12600.0  high: 12607.5 low: 12525.0 close: 12535.0  || SMA60  12574.27
+ touching MA, playing clip 
+MA TRADER ||  2018-04-16T09:41 #:  1 {2018-04-16T09:40:46.774=SELL LMT 1.0  at  12537.5} last Price  open: 12520.0  high: 12527.5 low: 12510.0 close: 12517.5  SMA  12574.0625
+Observing MA Touch ||  Time:  09:41  || Last Bar open: 12520.0  high: 12527.5 low: 12510.0 close: 12517.5  || SMA60  12574.06
+ no touch 
+MA TRADER ||  2018-04-16T09:42 #:  1 {2018-04-16T09:40:46.774=SELL LMT 1.0  at  12537.5} last Price  open: 12520.0  high: 12527.5 low: 12502.5 close: 12515.0  SMA  12574.0625
+Observing MA Touch ||  Time:  09:42  || Last Bar open: 12520.0  high: 12527.5 low: 12502.5 close: 12515.0  || SMA60  12574.06
+ no touch 
+Observing MA Touch ||  Time:  09:43  || Last Bar open: 12520.0  high: 12527.5 low: 12502.5 close: 12515.0  || SMA60  12574.06
+MA TRADER ||  2018-04-16T09:43 #:  1 {2018-04-16T09:40:46.774=SELL LMT 1.0  at  12537.5} last Price  open: 12520.0  high: 12527.5 low: 12502.5 close: 12515.0  SMA  12574.0625
+ no touch 
+MA TRADER ||  2018-04-16T09:44 #:  0 {} last Price  open: 12507.5  high: 12512.5 low: 12502.5 close: 12510.0  SMA  0.0  last trade time  2018-04-16T09:44:29.006
+Observing MA Touch ||  Time:  09:45  || Last Bar open: 12517.5  high: 12535.0 low: 12502.5 close: 12535.0  || SMA60  12574.06
+MA TRADER ||  2018-04-16T09:45 #:  0 {} last Price  open: 12517.5  high: 12535.0 low: 12502.5 close: 12535.0  SMA  12574.0625  last trade time  2018-04-16T09:44:29.006
+ no touch 
+Observing MA Touch ||  Time:  09:46  || Last Bar open: 12522.5  high: 12525.0 low: 12515.0 close: 12520.0  || SMA60  12573.1
+MA TRADER ||  2018-04-16T09:46 #:  0 {} last Price  open: 12522.5  high: 12525.0 low: 12515.0 close: 12520.0  SMA  12573.104166666666  last trade time  2018-04-16T09:44:29.006
+ no touch 
+Observing MA Touch ||  Time:  09:47  || Last Bar open: 12522.5  high: 12525.0 low: 12510.0 close: 12517.5  || SMA60  12573.1
+MA TRADER ||  2018-04-16T09:47 #:  0 {} last Price  open: 12522.5  high: 12525.0 low: 12510.0 close: 12517.5  SMA  12573.104166666666  last trade time  2018-04-16T09:44:29.006
+ no touch 
+Observing MA Touch ||  Time:  09:48  || Last Bar open: 12522.5  high: 12525.0 low: 12495.0 close: 12500.0  || SMA60  12573.1
+MA TRADER ||  2018-04-16T09:48 #:  0 {} last Price  open: 12522.5  high: 12525.0 low: 12495.0 close: 12500.0  SMA  12573.104166666666  last trade time  2018-04-16T09:44:29.006
+ no touch 
+Observing MA Touch ||  Time:  09:49  || Last Bar open: 12522.5  high: 12525.0 low: 12492.5 close: 12515.0  || SMA60  12573.1
+MA TRADER ||  2018-04-16T09:49 #:  0 {} last Price  open: 12522.5  high: 12525.0 low: 12492.5 close: 12515.0  SMA  12573.104166666666  last trade time  2018-04-16T09:44:29.006
+ no touch 
+Observing MA Touch ||  Time:  09:50  || Last Bar open: 12522.5  high: 12525.0 low: 12492.5 close: 12510.0  || SMA60  12573.1
+MA TRADER ||  2018-04-16T09:50 #:  0 {} last Price  open: 12522.5  high: 12525.0 low: 12492.5 close: 12510.0  SMA  12573.104166666666  last trade time  2018-04-16T09:44:29.006
+ no touch 
+Observing MA Touch ||  Time:  09:51  || Last Bar open: 12510.0  high: 12515.0 low: 12502.5 close: 12510.0  || SMA60  12572.02
+MA TRADER ||  2018-04-16T09:51 #:  0 {} last Price  open: 12510.0  high: 12515.0 low: 12502.5 close: 12510.0  SMA  12572.020833333334  last trade time  2018-04-16T09:44:29.006
+ no touch 
+MA TRADER ||  2018-04-16T09:52 #:  0 {} last Price  open: 12517.5  high: 12522.5 low: 12515.0 close: 12515.0  SMA  0.0  last trade time  2018-04-16T09:51
+CANCELLING ALL ORDERS  2018-04-16T09:52
+Observing MA Touch ||  Time:  09:53  || Last Bar open: 12507.5  high: 12522.5 low: 12502.5 close: 12505.0  || SMA60  12572.04
+MA TRADER ||  2018-04-16T09:53 #:  0 {} last Price  open: 12507.5  high: 12522.5 low: 12502.5 close: 12505.0  SMA  12572.041666666666  last trade time  2018-04-16T09:51
+ no touch 
+MA TRADER ||  2018-04-16T09:54 #:  0 {} last Price  open: 12507.5  high: 12522.5 low: 12492.5 close: 12500.0  SMA  12572.041666666666  last trade time  2018-04-16T09:51
+Observing MA Touch ||  Time:  09:54  || Last Bar open: 12507.5  high: 12522.5 low: 12492.5 close: 12500.0  || SMA60  12572.04
+ no touch 
+Observing MA Touch ||  Time:  09:55  || Last Bar open: 12507.5  high: 12522.5 low: 12492.5 close: 12492.5  || SMA60  12572.04
+MA TRADER ||  2018-04-16T09:55 #:  0 {} last Price  open: 12507.5  high: 12522.5 low: 12492.5 close: 12492.5  SMA  12572.041666666666  last trade time  2018-04-16T09:51
+ no touch 
+MA TRADER ||  2018-04-16T09:56 #:  0 {} last Price  open: 12475.0  high: 12477.5 low: 12470.0 close: 12470.0  SMA  12570.75  last trade time  2018-04-16T09:51
+Observing MA Touch ||  Time:  09:56  || Last Bar open: 12475.0  high: 12477.5 low: 12470.0 close: 12470.0  || SMA60  12570.75
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T09:57
+Observing MA Touch ||  Time:  09:57  || Last Bar open: 12475.0  high: 12477.5 low: 12460.0 close: 12467.5  || SMA60  12570.75
+MA TRADER ||  2018-04-16T09:57 #:  0 {} last Price  open: 12475.0  high: 12477.5 low: 12460.0 close: 12467.5  SMA  12570.75  last trade time  2018-04-16T09:51
+ no touch 
+Observing MA Touch ||  Time:  09:58  || Last Bar open: 12475.0  high: 12477.5 low: 12460.0 close: 12472.5  || SMA60  12570.75
+MA TRADER ||  2018-04-16T09:58 #:  0 {} last Price  open: 12475.0  high: 12477.5 low: 12460.0 close: 12472.5  SMA  12570.75  last trade time  2018-04-16T09:51
+ no touch 
+Observing MA Touch ||  Time:  09:59  || Last Bar open: 12475.0  high: 12492.5 low: 12460.0 close: 12487.5  || SMA60  12570.75
+MA TRADER ||  2018-04-16T09:59 #:  0 {} last Price  open: 12475.0  high: 12492.5 low: 12460.0 close: 12487.5  SMA  12570.75  last trade time  2018-04-16T09:51
+ no touch 
+Observing MA Touch ||  Time:  10:00  || Last Bar open: 12475.0  high: 12495.0 low: 12460.0 close: 12482.5  || SMA60  12570.75
+MA TRADER ||  2018-04-16T10:00 #:  0 {} last Price  open: 12475.0  high: 12495.0 low: 12460.0 close: 12482.5  SMA  12570.75  last trade time  2018-04-16T09:51
+ no touch 
+MA TRADER ||  2018-04-16T10:01 #:  0 {} last Price  open: 12487.5  high: 12490.0 low: 12487.5 close: 12487.5  SMA  12569.145833333334  last trade time  2018-04-16T09:51
+Observing MA Touch ||  Time:  10:01  || Last Bar open: 12487.5  high: 12490.0 low: 12487.5 close: 12487.5  || SMA60  12569.15
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:02
+MA TRADER ||  2018-04-16T10:02 #:  0 {} last Price  open: 12487.5  high: 12490.0 low: 12477.5 close: 12487.5  SMA  12569.145833333334  last trade time  2018-04-16T09:51
+Observing MA Touch ||  Time:  10:02  || Last Bar open: 12487.5  high: 12490.0 low: 12477.5 close: 12487.5  || SMA60  12569.15
+ no touch 
+Observing MA Touch ||  Time:  10:03  || Last Bar open: 12487.5  high: 12495.0 low: 12477.5 close: 12492.5  || SMA60  12569.15
+MA TRADER ||  2018-04-16T10:03 #:  0 {} last Price  open: 12487.5  high: 12495.0 low: 12477.5 close: 12492.5  SMA  12569.145833333334  last trade time  2018-04-16T09:51
+ no touch 
+MA TRADER ||  2018-04-16T10:04 #:  0 {} last Price  open: 12487.5  high: 12502.5 low: 12477.5 close: 12497.5  SMA  12569.145833333334  last trade time  2018-04-16T09:51
+Observing MA Touch ||  Time:  10:04  || Last Bar open: 12487.5  high: 12502.5 low: 12477.5 close: 12497.5  || SMA60  12569.15
+ no touch 
+Observing MA Touch ||  Time:  10:05  || Last Bar open: 12487.5  high: 12505.0 low: 12477.5 close: 12502.5  || SMA60  12569.15
+MA TRADER ||  2018-04-16T10:05 #:  0 {} last Price  open: 12487.5  high: 12505.0 low: 12477.5 close: 12502.5  SMA  12569.145833333334  last trade time  2018-04-16T09:51
+ no touch 
+Observing MA Touch ||  Time:  10:06  || Last Bar open: 12500.0  high: 12500.0 low: 12500.0 close: 12500.0  || SMA60  12567.69
+MA TRADER ||  2018-04-16T10:06 #:  0 {} last Price  open: 12500.0  high: 12500.0 low: 12500.0 close: 12500.0  SMA  12567.6875  last trade time  2018-04-16T09:51
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:07
+Observing MA Touch ||  Time:  10:07  || Last Bar open: 12500.0  high: 12505.0 low: 12480.0 close: 12482.5  || SMA60  12567.69
+MA TRADER ||  2018-04-16T10:07 #:  0 {} last Price  open: 12500.0  high: 12505.0 low: 12480.0 close: 12482.5  SMA  12567.6875  last trade time  2018-04-16T09:51
+ no touch 
+MA TRADER ||  2018-04-16T10:08 #:  0 {} last Price  open: 12500.0  high: 12505.0 low: 12477.5 close: 12480.0  SMA  12567.6875  last trade time  2018-04-16T09:51
+Observing MA Touch ||  Time:  10:08  || Last Bar open: 12500.0  high: 12505.0 low: 12477.5 close: 12480.0  || SMA60  12567.69
+ no touch 
+Observing MA Touch ||  Time:  10:09  || Last Bar open: 12500.0  high: 12505.0 low: 12477.5 close: 12480.0  || SMA60  12567.69
+MA TRADER ||  2018-04-16T10:09 #:  0 {} last Price  open: 12500.0  high: 12505.0 low: 12477.5 close: 12480.0  SMA  12567.6875  last trade time  2018-04-16T09:51
+ no touch 
+MA TRADER ||  2018-04-16T10:10 #:  0 {} last Price  open: 12500.0  high: 12505.0 low: 12475.0 close: 12477.5  SMA  12567.6875  last trade time  2018-04-16T09:51
+Observing MA Touch ||  Time:  10:10  || Last Bar open: 12500.0  high: 12505.0 low: 12475.0 close: 12477.5  || SMA60  12567.69
+ no touch 
+Observing MA Touch ||  Time:  10:11  || Last Bar open: 12470.0  high: 12470.0 low: 12470.0 close: 12470.0  || SMA60  12566.15
+MA TRADER ||  2018-04-16T10:11 #:  0 {} last Price  open: 12470.0  high: 12470.0 low: 12470.0 close: 12470.0  SMA  12566.145833333334  last trade time  2018-04-16T09:51
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:12
+Observing MA Touch ||  Time:  10:12  || Last Bar open: 12470.0  high: 12472.5 low: 12460.0 close: 12470.0  || SMA60  12566.15
+MA TRADER ||  2018-04-16T10:12 #:  0 {} last Price  open: 12470.0  high: 12472.5 low: 12460.0 close: 12470.0  SMA  12566.145833333334  last trade time  2018-04-16T09:51
+ no touch 
+Observing MA Touch ||  Time:  10:13  || Last Bar open: 12470.0  high: 12472.5 low: 12457.5 close: 12460.0  || SMA60  12566.15
+MA TRADER ||  2018-04-16T10:13 #:  0 {} last Price  open: 12470.0  high: 12472.5 low: 12457.5 close: 12460.0  SMA  12566.145833333334  last trade time  2018-04-16T09:51
+ no touch 
+Observing MA Touch ||  Time:  10:14  || Last Bar open: 12470.0  high: 12472.5 low: 12452.5 close: 12455.0  || SMA60  12566.15
+MA TRADER ||  2018-04-16T10:14 #:  0 {} last Price  open: 12470.0  high: 12472.5 low: 12452.5 close: 12455.0  SMA  12566.145833333334  last trade time  2018-04-16T09:51
+ no touch 
+Observing MA Touch ||  Time:  10:15  || Last Bar open: 12470.0  high: 12472.5 low: 12445.0 close: 12452.5  || SMA60  12566.15
+MA TRADER ||  2018-04-16T10:15 #:  0 {} last Price  open: 12470.0  high: 12472.5 low: 12445.0 close: 12452.5  SMA  12566.145833333334  last trade time  2018-04-16T09:51
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:16
+MA TRADER ||  2018-04-16T10:16 #:  0 {} last Price  open: 12452.5  high: 12462.5 low: 12452.5 close: 12460.0  SMA  0.0  last trade time  2018-04-16T10:16
+Observing MA Touch ||  Time:  10:17  || Last Bar open: 12455.0  high: 12470.0 low: 12452.5 close: 12465.0  || SMA60  12564.04
+MA TRADER ||  2018-04-16T10:17 #:  0 {} last Price  open: 12455.0  high: 12470.0 low: 12452.5 close: 12465.0  SMA  12564.041666666666  last trade time  2018-04-16T10:16
+ no touch 
+Observing MA Touch ||  Time:  10:18  || Last Bar open: 12455.0  high: 12470.0 low: 12452.5 close: 12462.5  || SMA60  12564.04
+MA TRADER ||  2018-04-16T10:18 #:  0 {} last Price  open: 12455.0  high: 12470.0 low: 12452.5 close: 12462.5  SMA  12564.041666666666  last trade time  2018-04-16T10:16
+ no touch 
+Observing MA Touch ||  Time:  10:19  || Last Bar open: 12455.0  high: 12470.0 low: 12452.5 close: 12457.5  || SMA60  12564.04
+MA TRADER ||  2018-04-16T10:19 #:  0 {} last Price  open: 12455.0  high: 12470.0 low: 12452.5 close: 12457.5  SMA  12564.041666666666  last trade time  2018-04-16T10:16
+ no touch 
+Observing MA Touch ||  Time:  10:20  || Last Bar open: 12455.0  high: 12470.0 low: 12452.5 close: 12457.5  || SMA60  12564.04
+MA TRADER ||  2018-04-16T10:20 #:  0 {} last Price  open: 12455.0  high: 12470.0 low: 12452.5 close: 12457.5  SMA  12564.041666666666  last trade time  2018-04-16T10:16
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:21
+MA TRADER ||  2018-04-16T10:21 #:  0 {} last Price  open: 12455.0  high: 12455.0 low: 12450.0 close: 12452.5  SMA  12561.9375  last trade time  2018-04-16T10:16
+Observing MA Touch ||  Time:  10:21  || Last Bar open: 12455.0  high: 12455.0 low: 12450.0 close: 12452.5  || SMA60  12561.94
+ no touch 
+Observing MA Touch ||  Time:  10:22  || Last Bar open: 12455.0  high: 12467.5 low: 12445.0 close: 12465.0  || SMA60  12561.94
+MA TRADER ||  2018-04-16T10:22 #:  0 {} last Price  open: 12455.0  high: 12467.5 low: 12445.0 close: 12465.0  SMA  12561.9375  last trade time  2018-04-16T10:16
+ no touch 
+Observing MA Touch ||  Time:  10:23  || Last Bar open: 12455.0  high: 12470.0 low: 12445.0 close: 12467.5  || SMA60  12561.94
+MA TRADER ||  2018-04-16T10:23 #:  0 {} last Price  open: 12455.0  high: 12470.0 low: 12445.0 close: 12467.5  SMA  12561.9375  last trade time  2018-04-16T10:16
+ no touch 
+Observing MA Touch ||  Time:  10:24  || Last Bar open: 12455.0  high: 12470.0 low: 12445.0 close: 12465.0  || SMA60  12561.94
+ no touch 
+MA TRADER ||  2018-04-16T10:24 #:  0 {} last Price  open: 12455.0  high: 12470.0 low: 12445.0 close: 12465.0  SMA  12561.9375  last trade time  2018-04-16T10:16
+Observing MA Touch ||  Time:  10:25  || Last Bar open: 12455.0  high: 12470.0 low: 12445.0 close: 12467.5  || SMA60  12561.94
+MA TRADER ||  2018-04-16T10:25 #:  0 {} last Price  open: 12455.0  high: 12470.0 low: 12445.0 close: 12467.5  SMA  12561.9375  last trade time  2018-04-16T10:16
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:26
+MA TRADER ||  2018-04-16T10:26 #:  0 {} last Price  open: 12472.5  high: 12472.5 low: 12470.0 close: 12470.0  SMA  12559.791666666666  last trade time  2018-04-16T10:16
+Observing MA Touch ||  Time:  10:26  || Last Bar open: 12472.5  high: 12472.5 low: 12470.0 close: 12470.0  || SMA60  12559.79
+ no touch 
+Observing MA Touch ||  Time:  10:27  || Last Bar open: 12472.5  high: 12477.5 low: 12467.5 close: 12467.5  || SMA60  12559.79
+MA TRADER ||  2018-04-16T10:27 #:  0 {} last Price  open: 12472.5  high: 12477.5 low: 12467.5 close: 12467.5  SMA  12559.791666666666  last trade time  2018-04-16T10:16
+ no touch 
+Observing MA Touch ||  Time:  10:28  || Last Bar open: 12472.5  high: 12477.5 low: 12462.5 close: 12465.0  || SMA60  12559.79
+MA TRADER ||  2018-04-16T10:28 #:  0 {} last Price  open: 12472.5  high: 12477.5 low: 12462.5 close: 12465.0  SMA  12559.791666666666  last trade time  2018-04-16T10:16
+ no touch 
+MA TRADER ||  2018-04-16T10:29 #:  0 {} last Price  open: 12472.5  high: 12477.5 low: 12455.0 close: 12457.5  SMA  12559.791666666666  last trade time  2018-04-16T10:16
+Observing MA Touch ||  Time:  10:29  || Last Bar open: 12472.5  high: 12477.5 low: 12455.0 close: 12457.5  || SMA60  12559.79
+ no touch 
+MA TRADER ||  2018-04-16T10:30 #:  0 {} last Price  open: 12472.5  high: 12477.5 low: 12452.5 close: 12452.5  SMA  12559.791666666666  last trade time  2018-04-16T10:16
+Observing MA Touch ||  Time:  10:30  || Last Bar open: 12472.5  high: 12477.5 low: 12452.5 close: 12452.5  || SMA60  12559.79
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:31
+MA TRADER ||  2018-04-16T10:31 #:  0 {} last Price  open: 12465.0  high: 12465.0 low: 12457.5 close: 12457.5  SMA  12557.75  last trade time  2018-04-16T10:16
+Observing MA Touch ||  Time:  10:31  || Last Bar open: 12465.0  high: 12465.0 low: 12457.5 close: 12457.5  || SMA60  12557.75
+ no touch 
+Observing MA Touch ||  Time:  10:32  || Last Bar open: 12465.0  high: 12465.0 low: 12452.5 close: 12455.0  || SMA60  12557.75
+MA TRADER ||  2018-04-16T10:32 #:  0 {} last Price  open: 12465.0  high: 12465.0 low: 12452.5 close: 12455.0  SMA  12557.75  last trade time  2018-04-16T10:16
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:32
+MA TRADER ||  2018-04-16T10:32 #:  0 {} last Price  open: 12450.0  high: 12450.0 low: 12447.5 close: 12450.0  SMA  0.0  last trade time  2018-04-16T10:32
+MA TRADER ||  2018-04-16T10:33 #:  0 {} last Price  open: 12465.0  high: 12465.0 low: 12447.5 close: 12450.0  SMA  12557.75  last trade time  2018-04-16T10:32
+Observing MA Touch ||  Time:  10:33  || Last Bar open: 12465.0  high: 12465.0 low: 12447.5 close: 12450.0  || SMA60  12557.75
+ no touch 
+Observing MA Touch ||  Time:  10:34  || Last Bar open: 12465.0  high: 12465.0 low: 12435.0 close: 12437.5  || SMA60  12557.75
+MA TRADER ||  2018-04-16T10:34 #:  0 {} last Price  open: 12465.0  high: 12465.0 low: 12435.0 close: 12437.5  SMA  12557.75  last trade time  2018-04-16T10:32
+ no touch 
+Observing MA Touch ||  Time:  10:35  || Last Bar open: 12465.0  high: 12465.0 low: 12435.0 close: 12442.5  || SMA60  12557.75
+MA TRADER ||  2018-04-16T10:35 #:  0 {} last Price  open: 12465.0  high: 12465.0 low: 12435.0 close: 12442.5  SMA  12557.75  last trade time  2018-04-16T10:32
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:36
+MA TRADER ||  2018-04-16T10:36 #:  0 {} last Price  open: 12445.0  high: 12445.0 low: 12442.5 close: 12445.0  SMA  0.0  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  10:37  || Last Bar open: 12442.5  high: 12457.5 low: 12442.5 close: 12452.5  || SMA60  12555.42
+MA TRADER ||  2018-04-16T10:37 #:  0 {} last Price  open: 12442.5  high: 12457.5 low: 12442.5 close: 12452.5  SMA  12555.416666666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:38  || Last Bar open: 12442.5  high: 12457.5 low: 12442.5 close: 12447.5  || SMA60  12555.42
+MA TRADER ||  2018-04-16T10:38 #:  0 {} last Price  open: 12442.5  high: 12457.5 low: 12442.5 close: 12447.5  SMA  12555.416666666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:39  || Last Bar open: 12442.5  high: 12457.5 low: 12442.5 close: 12447.5  || SMA60  12555.42
+MA TRADER ||  2018-04-16T10:39 #:  0 {} last Price  open: 12442.5  high: 12457.5 low: 12442.5 close: 12447.5  SMA  12555.416666666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:40  || Last Bar open: 12442.5  high: 12457.5 low: 12437.5 close: 12442.5  || SMA60  12555.42
+MA TRADER ||  2018-04-16T10:40 #:  0 {} last Price  open: 12442.5  high: 12457.5 low: 12437.5 close: 12442.5  SMA  12555.416666666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:41
+MA TRADER ||  2018-04-16T10:41 #:  0 {} last Price  open: 12442.5  high: 12442.5 low: 12440.0 close: 12440.0  SMA  12552.979166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  10:41  || Last Bar open: 12442.5  high: 12442.5 low: 12440.0 close: 12440.0  || SMA60  12552.98
+ no touch 
+MA TRADER ||  2018-04-16T10:42 #:  0 {} last Price  open: 12442.5  high: 12442.5 low: 12422.5 close: 12427.5  SMA  12552.979166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  10:42  || Last Bar open: 12442.5  high: 12442.5 low: 12422.5 close: 12427.5  || SMA60  12552.98
+ no touch 
+Observing MA Touch ||  Time:  10:43  || Last Bar open: 12442.5  high: 12442.5 low: 12420.0 close: 12422.5  || SMA60  12552.98
+MA TRADER ||  2018-04-16T10:43 #:  0 {} last Price  open: 12442.5  high: 12442.5 low: 12420.0 close: 12422.5  SMA  12552.979166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:44  || Last Bar open: 12442.5  high: 12442.5 low: 12420.0 close: 12430.0  || SMA60  12552.98
+MA TRADER ||  2018-04-16T10:44 #:  0 {} last Price  open: 12442.5  high: 12442.5 low: 12420.0 close: 12430.0  SMA  12552.979166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T10:45 #:  0 {} last Price  open: 12442.5  high: 12442.5 low: 12420.0 close: 12425.0  SMA  12552.979166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  10:45  || Last Bar open: 12442.5  high: 12442.5 low: 12420.0 close: 12425.0  || SMA60  12552.98
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:46
+MA TRADER ||  2018-04-16T10:46 #:  0 {} last Price  open: 12420.0  high: 12422.5 low: 12417.5 close: 12417.5  SMA  12550.333333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  10:46  || Last Bar open: 12420.0  high: 12422.5 low: 12417.5 close: 12417.5  || SMA60  12550.33
+ no touch 
+Observing MA Touch ||  Time:  10:47  || Last Bar open: 12420.0  high: 12422.5 low: 12410.0 close: 12410.0  || SMA60  12550.33
+MA TRADER ||  2018-04-16T10:47 #:  0 {} last Price  open: 12420.0  high: 12422.5 low: 12410.0 close: 12410.0  SMA  12550.333333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:48  || Last Bar open: 12420.0  high: 12422.5 low: 12400.0 close: 12402.5  || SMA60  12550.33
+MA TRADER ||  2018-04-16T10:48 #:  0 {} last Price  open: 12420.0  high: 12422.5 low: 12400.0 close: 12402.5  SMA  12550.333333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:49  || Last Bar open: 12420.0  high: 12422.5 low: 12392.5 close: 12397.5  || SMA60  12550.33
+MA TRADER ||  2018-04-16T10:49 #:  0 {} last Price  open: 12420.0  high: 12422.5 low: 12392.5 close: 12397.5  SMA  12550.333333333334  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T10:50 #:  0 {} last Price  open: 12420.0  high: 12422.5 low: 12392.5 close: 12405.0  SMA  12550.333333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  10:50  || Last Bar open: 12420.0  high: 12422.5 low: 12392.5 close: 12405.0  || SMA60  12550.33
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:51
+MA TRADER ||  2018-04-16T10:51 #:  0 {} last Price  open: 12397.5  high: 12397.5 low: 12392.5 close: 12397.5  SMA  12547.291666666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  10:51  || Last Bar open: 12397.5  high: 12397.5 low: 12392.5 close: 12397.5  || SMA60  12547.29
+ no touch 
+Observing MA Touch ||  Time:  10:52  || Last Bar open: 12397.5  high: 12402.5 low: 12392.5 close: 12400.0  || SMA60  12547.29
+MA TRADER ||  2018-04-16T10:52 #:  0 {} last Price  open: 12397.5  high: 12402.5 low: 12392.5 close: 12400.0  SMA  12547.291666666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:53  || Last Bar open: 12397.5  high: 12410.0 low: 12392.5 close: 12402.5  || SMA60  12547.29
+MA TRADER ||  2018-04-16T10:53 #:  0 {} last Price  open: 12397.5  high: 12410.0 low: 12392.5 close: 12402.5  SMA  12547.291666666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T10:54 #:  0 {} last Price  open: 12397.5  high: 12410.0 low: 12392.5 close: 12405.0  SMA  12547.291666666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  10:54  || Last Bar open: 12397.5  high: 12410.0 low: 12392.5 close: 12405.0  || SMA60  12547.29
+ no touch 
+Observing MA Touch ||  Time:  10:55  || Last Bar open: 12397.5  high: 12410.0 low: 12392.5 close: 12405.0  || SMA60  12547.29
+MA TRADER ||  2018-04-16T10:55 #:  0 {} last Price  open: 12397.5  high: 12410.0 low: 12392.5 close: 12405.0  SMA  12547.291666666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T10:56
+Observing MA Touch ||  Time:  10:56  || Last Bar open: 12400.0  high: 12402.5 low: 12397.5 close: 12402.5  || SMA60  12544.15
+MA TRADER ||  2018-04-16T10:56 #:  0 {} last Price  open: 12400.0  high: 12402.5 low: 12397.5 close: 12402.5  SMA  12544.145833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:57  || Last Bar open: 12400.0  high: 12402.5 low: 12397.5 close: 12397.5  || SMA60  12544.15
+MA TRADER ||  2018-04-16T10:57 #:  0 {} last Price  open: 12400.0  high: 12402.5 low: 12397.5 close: 12397.5  SMA  12544.145833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:58  || Last Bar open: 12400.0  high: 12402.5 low: 12395.0 close: 12397.5  || SMA60  12544.15
+MA TRADER ||  2018-04-16T10:58 #:  0 {} last Price  open: 12400.0  high: 12402.5 low: 12395.0 close: 12397.5  SMA  12544.145833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  10:59  || Last Bar open: 12400.0  high: 12402.5 low: 12390.0 close: 12390.0  || SMA60  12544.15
+MA TRADER ||  2018-04-16T10:59 #:  0 {} last Price  open: 12400.0  high: 12402.5 low: 12390.0 close: 12390.0  SMA  12544.145833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:00  || Last Bar open: 12400.0  high: 12402.5 low: 12375.0 close: 12377.5  || SMA60  12544.15
+MA TRADER ||  2018-04-16T11:00 #:  0 {} last Price  open: 12400.0  high: 12402.5 low: 12375.0 close: 12377.5  SMA  12544.145833333334  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:01
+Observing MA Touch ||  Time:  11:01  || Last Bar open: 12380.0  high: 12380.0 low: 12380.0 close: 12380.0  || SMA60  12540.75
+ no touch 
+MA TRADER ||  2018-04-16T11:01 #:  0 {} last Price  open: 12380.0  high: 12380.0 low: 12380.0 close: 12380.0  SMA  12540.75  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:02  || Last Bar open: 12380.0  high: 12382.5 low: 12372.5 close: 12372.5  || SMA60  12540.75
+ no touch 
+MA TRADER ||  2018-04-16T11:02 #:  0 {} last Price  open: 12380.0  high: 12382.5 low: 12372.5 close: 12372.5  SMA  12540.75  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:03  || Last Bar open: 12380.0  high: 12382.5 low: 12362.5 close: 12362.5  || SMA60  12540.75
+MA TRADER ||  2018-04-16T11:03 #:  0 {} last Price  open: 12380.0  high: 12382.5 low: 12362.5 close: 12362.5  SMA  12540.75  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T11:04 #:  0 {} last Price  open: 12380.0  high: 12382.5 low: 12357.5 close: 12365.0  SMA  12540.75  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:04  || Last Bar open: 12380.0  high: 12382.5 low: 12357.5 close: 12365.0  || SMA60  12540.75
+ no touch 
+Observing MA Touch ||  Time:  11:05  || Last Bar open: 12380.0  high: 12382.5 low: 12357.5 close: 12360.0  || SMA60  12540.75
+MA TRADER ||  2018-04-16T11:05 #:  0 {} last Price  open: 12380.0  high: 12382.5 low: 12357.5 close: 12360.0  SMA  12540.75  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:06
+MA TRADER ||  2018-04-16T11:06 #:  0 {} last Price  open: 12360.0  high: 12362.5 low: 12360.0 close: 12360.0  SMA  12537.083333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:06  || Last Bar open: 12360.0  high: 12362.5 low: 12360.0 close: 12360.0  || SMA60  12537.08
+ no touch 
+Observing MA Touch ||  Time:  11:07  || Last Bar open: 12360.0  high: 12365.0 low: 12357.5 close: 12357.5  || SMA60  12537.08
+MA TRADER ||  2018-04-16T11:07 #:  0 {} last Price  open: 12360.0  high: 12365.0 low: 12357.5 close: 12357.5  SMA  12537.083333333334  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T11:08 #:  0 {} last Price  open: 12360.0  high: 12365.0 low: 12357.5 close: 12360.0  SMA  12537.083333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:08  || Last Bar open: 12360.0  high: 12365.0 low: 12357.5 close: 12360.0  || SMA60  12537.08
+ no touch 
+MA TRADER ||  2018-04-16T11:09 #:  0 {} last Price  open: 12360.0  high: 12365.0 low: 12345.0 close: 12345.0  SMA  12537.083333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:09  || Last Bar open: 12360.0  high: 12365.0 low: 12345.0 close: 12345.0  || SMA60  12537.08
+ no touch 
+MA TRADER ||  2018-04-16T11:10 #:  0 {} last Price  open: 12360.0  high: 12365.0 low: 12335.0 close: 12337.5  SMA  12537.083333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:10  || Last Bar open: 12360.0  high: 12365.0 low: 12335.0 close: 12337.5  || SMA60  12537.08
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:11
+Observing MA Touch ||  Time:  11:11  || Last Bar open: 12332.5  high: 12335.0 low: 12327.5 close: 12332.5  || SMA60  12533.08
+ no touch 
+MA TRADER ||  2018-04-16T11:11 #:  0 {} last Price  open: 12332.5  high: 12335.0 low: 12327.5 close: 12332.5  SMA  12533.083333333334  last trade time  2018-04-16T10:36
+MA TRADER ||  2018-04-16T11:12 #:  0 {} last Price  open: 12332.5  high: 12335.0 low: 12320.0 close: 12320.0  SMA  12533.083333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:12  || Last Bar open: 12332.5  high: 12335.0 low: 12320.0 close: 12320.0  || SMA60  12533.08
+ no touch 
+Observing MA Touch ||  Time:  11:13  || Last Bar open: 12332.5  high: 12335.0 low: 12312.5 close: 12320.0  || SMA60  12533.08
+MA TRADER ||  2018-04-16T11:13 #:  0 {} last Price  open: 12332.5  high: 12335.0 low: 12312.5 close: 12320.0  SMA  12533.083333333334  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T11:14 #:  0 {} last Price  open: 12332.5  high: 12335.0 low: 12312.5 close: 12317.5  SMA  12533.083333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:14  || Last Bar open: 12332.5  high: 12335.0 low: 12312.5 close: 12317.5  || SMA60  12533.08
+ no touch 
+Observing MA Touch ||  Time:  11:15  || Last Bar open: 12332.5  high: 12335.0 low: 12302.5 close: 12307.5  || SMA60  12533.08
+MA TRADER ||  2018-04-16T11:15 #:  0 {} last Price  open: 12332.5  high: 12335.0 low: 12302.5 close: 12307.5  SMA  12533.083333333334  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:16
+Observing MA Touch ||  Time:  11:16  || Last Bar open: 12307.5  high: 12310.0 low: 12307.5 close: 12307.5  || SMA60  12528.69
+MA TRADER ||  2018-04-16T11:16 #:  0 {} last Price  open: 12307.5  high: 12310.0 low: 12307.5 close: 12307.5  SMA  12528.6875  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:17  || Last Bar open: 12307.5  high: 12312.5 low: 12305.0 close: 12312.5  || SMA60  12528.69
+MA TRADER ||  2018-04-16T11:17 #:  0 {} last Price  open: 12307.5  high: 12312.5 low: 12305.0 close: 12312.5  SMA  12528.6875  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T11:18 #:  0 {} last Price  open: 12307.5  high: 12317.5 low: 12305.0 close: 12315.0  SMA  12528.6875  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:18  || Last Bar open: 12307.5  high: 12317.5 low: 12305.0 close: 12315.0  || SMA60  12528.69
+ no touch 
+Observing MA Touch ||  Time:  11:19  || Last Bar open: 12307.5  high: 12322.5 low: 12305.0 close: 12320.0  || SMA60  12528.69
+MA TRADER ||  2018-04-16T11:19 #:  0 {} last Price  open: 12307.5  high: 12322.5 low: 12305.0 close: 12320.0  SMA  12528.6875  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:20  || Last Bar open: 12307.5  high: 12322.5 low: 12305.0 close: 12320.0  || SMA60  12528.69
+MA TRADER ||  2018-04-16T11:20 #:  0 {} last Price  open: 12307.5  high: 12322.5 low: 12305.0 close: 12320.0  SMA  12528.6875  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:21
+Observing MA Touch ||  Time:  11:21  || Last Bar open: 12320.0  high: 12322.5 low: 12320.0 close: 12320.0  || SMA60  12524.21
+ no touch 
+MA TRADER ||  2018-04-16T11:21 #:  0 {} last Price  open: 12320.0  high: 12322.5 low: 12320.0 close: 12320.0  SMA  12524.208333333334  last trade time  2018-04-16T10:36
+MA TRADER ||  2018-04-16T11:22 #:  0 {} last Price  open: 12320.0  high: 12325.0 low: 12315.0 close: 12317.5  SMA  12524.208333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:22  || Last Bar open: 12320.0  high: 12325.0 low: 12315.0 close: 12317.5  || SMA60  12524.21
+ no touch 
+Observing MA Touch ||  Time:  11:23  || Last Bar open: 12320.0  high: 12325.0 low: 12315.0 close: 12320.0  || SMA60  12524.21
+MA TRADER ||  2018-04-16T11:23 #:  0 {} last Price  open: 12320.0  high: 12325.0 low: 12315.0 close: 12320.0  SMA  12524.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:24  || Last Bar open: 12320.0  high: 12332.5 low: 12315.0 close: 12330.0  || SMA60  12524.21
+MA TRADER ||  2018-04-16T11:24 #:  0 {} last Price  open: 12320.0  high: 12332.5 low: 12315.0 close: 12330.0  SMA  12524.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T11:25 #:  0 {} last Price  open: 12320.0  high: 12332.5 low: 12315.0 close: 12327.5  SMA  12524.208333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:25  || Last Bar open: 12320.0  high: 12332.5 low: 12315.0 close: 12327.5  || SMA60  12524.21
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:26
+Observing MA Touch ||  Time:  11:26  || Last Bar open: 12325.0  high: 12325.0 low: 12322.5 close: 12322.5  || SMA60  12519.9
+MA TRADER ||  2018-04-16T11:26 #:  0 {} last Price  open: 12325.0  high: 12325.0 low: 12322.5 close: 12322.5  SMA  12519.895833333334  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T11:27 #:  0 {} last Price  open: 12325.0  high: 12325.0 low: 12315.0 close: 12315.0  SMA  12519.895833333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:27  || Last Bar open: 12325.0  high: 12325.0 low: 12315.0 close: 12315.0  || SMA60  12519.9
+ no touch 
+MA TRADER ||  2018-04-16T11:28 #:  0 {} last Price  open: 12325.0  high: 12325.0 low: 12310.0 close: 12312.5  SMA  12519.895833333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:28  || Last Bar open: 12325.0  high: 12325.0 low: 12310.0 close: 12312.5  || SMA60  12519.9
+ no touch 
+Observing MA Touch ||  Time:  11:29  || Last Bar open: 12325.0  high: 12325.0 low: 12310.0 close: 12317.5  || SMA60  12519.9
+MA TRADER ||  2018-04-16T11:29 #:  0 {} last Price  open: 12325.0  high: 12325.0 low: 12310.0 close: 12317.5  SMA  12519.895833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:30  || Last Bar open: 12325.0  high: 12327.5 low: 12310.0 close: 12320.0  || SMA60  12519.9
+MA TRADER ||  2018-04-16T11:30 #:  0 {} last Price  open: 12325.0  high: 12327.5 low: 12310.0 close: 12320.0  SMA  12519.895833333334  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:31
+Observing MA Touch ||  Time:  11:31  || Last Bar open: 12325.0  high: 12327.5 low: 12310.0 close: 12315.0  || SMA60  12519.9
+MA TRADER ||  2018-04-16T11:31 #:  0 {} last Price  open: 12325.0  high: 12327.5 low: 12310.0 close: 12315.0  SMA  12519.895833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:32  || Last Bar open: 12317.5  high: 12327.5 low: 12317.5 close: 12325.0  || SMA60  12515.52
+MA TRADER ||  2018-04-16T11:32 #:  0 {} last Price  open: 12317.5  high: 12327.5 low: 12317.5 close: 12325.0  SMA  12515.520833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:33  || Last Bar open: 12317.5  high: 12330.0 low: 12317.5 close: 12327.5  || SMA60  12515.52
+MA TRADER ||  2018-04-16T11:33 #:  0 {} last Price  open: 12317.5  high: 12330.0 low: 12317.5 close: 12327.5  SMA  12515.520833333334  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T11:34 #:  0 {} last Price  open: 12317.5  high: 12330.0 low: 12317.5 close: 12327.5  SMA  12515.520833333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:34  || Last Bar open: 12317.5  high: 12330.0 low: 12317.5 close: 12327.5  || SMA60  12515.52
+ no touch 
+Observing MA Touch ||  Time:  11:35  || Last Bar open: 12317.5  high: 12330.0 low: 12317.5 close: 12322.5  || SMA60  12515.52
+MA TRADER ||  2018-04-16T11:35 #:  0 {} last Price  open: 12317.5  high: 12330.0 low: 12317.5 close: 12322.5  SMA  12515.520833333334  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:36
+Observing MA Touch ||  Time:  11:36  || Last Bar open: 12325.0  high: 12325.0 low: 12325.0 close: 12325.0  || SMA60  12511.23
+MA TRADER ||  2018-04-16T11:36 #:  0 {} last Price  open: 12325.0  high: 12325.0 low: 12325.0 close: 12325.0  SMA  12511.229166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:37  || Last Bar open: 12325.0  high: 12335.0 low: 12325.0 close: 12335.0  || SMA60  12511.23
+MA TRADER ||  2018-04-16T11:37 #:  0 {} last Price  open: 12325.0  high: 12335.0 low: 12325.0 close: 12335.0  SMA  12511.229166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:38  || Last Bar open: 12325.0  high: 12337.5 low: 12325.0 close: 12332.5  || SMA60  12511.23
+MA TRADER ||  2018-04-16T11:38 #:  0 {} last Price  open: 12325.0  high: 12337.5 low: 12325.0 close: 12332.5  SMA  12511.229166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T11:39 #:  0 {} last Price  open: 12325.0  high: 12352.5 low: 12325.0 close: 12342.5  SMA  12511.229166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:39  || Last Bar open: 12325.0  high: 12352.5 low: 12325.0 close: 12342.5  || SMA60  12511.23
+ no touch 
+Observing MA Touch ||  Time:  11:40  || Last Bar open: 12325.0  high: 12352.5 low: 12325.0 close: 12340.0  || SMA60  12511.23
+MA TRADER ||  2018-04-16T11:40 #:  0 {} last Price  open: 12325.0  high: 12352.5 low: 12325.0 close: 12340.0  SMA  12511.229166666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:41
+Observing MA Touch ||  Time:  11:41  || Last Bar open: 12340.0  high: 12342.5 low: 12337.5 close: 12342.5  || SMA60  12507.21
+MA TRADER ||  2018-04-16T11:41 #:  0 {} last Price  open: 12340.0  high: 12342.5 low: 12337.5 close: 12342.5  SMA  12507.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:42  || Last Bar open: 12340.0  high: 12342.5 low: 12337.5 close: 12340.0  || SMA60  12507.21
+MA TRADER ||  2018-04-16T11:42 #:  0 {} last Price  open: 12340.0  high: 12342.5 low: 12337.5 close: 12340.0  SMA  12507.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:43  || Last Bar open: 12340.0  high: 12347.5 low: 12337.5 close: 12345.0  || SMA60  12507.21
+MA TRADER ||  2018-04-16T11:43 #:  0 {} last Price  open: 12340.0  high: 12347.5 low: 12337.5 close: 12345.0  SMA  12507.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:44  || Last Bar open: 12340.0  high: 12347.5 low: 12337.5 close: 12340.0  || SMA60  12507.21
+MA TRADER ||  2018-04-16T11:44 #:  0 {} last Price  open: 12340.0  high: 12347.5 low: 12337.5 close: 12340.0  SMA  12507.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:45  || Last Bar open: 12340.0  high: 12347.5 low: 12337.5 close: 12342.5  || SMA60  12507.21
+MA TRADER ||  2018-04-16T11:45 #:  0 {} last Price  open: 12340.0  high: 12347.5 low: 12337.5 close: 12342.5  SMA  12507.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:46
+Observing MA Touch ||  Time:  11:46  || Last Bar open: 12342.5  high: 12342.5 low: 12340.0 close: 12340.0  || SMA60  12503.21
+MA TRADER ||  2018-04-16T11:46 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12340.0 close: 12340.0  SMA  12503.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:47  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12340.0  || SMA60  12503.21
+ no touch 
+MA TRADER ||  2018-04-16T11:47 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12340.0  SMA  12503.208333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:48  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12342.5  || SMA60  12503.21
+MA TRADER ||  2018-04-16T11:48 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12342.5  SMA  12503.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:49  || Last Bar open: 12342.5  high: 12345.0 low: 12337.5 close: 12340.0  || SMA60  12503.21
+MA TRADER ||  2018-04-16T11:49 #:  0 {} last Price  open: 12342.5  high: 12345.0 low: 12337.5 close: 12340.0  SMA  12503.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:50  || Last Bar open: 12342.5  high: 12345.0 low: 12337.5 close: 12340.0  || SMA60  12503.21
+MA TRADER ||  2018-04-16T11:50 #:  0 {} last Price  open: 12342.5  high: 12345.0 low: 12337.5 close: 12340.0  SMA  12503.208333333334  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:51
+MA TRADER ||  2018-04-16T11:51 #:  0 {} last Price  open: 12342.5  high: 12345.0 low: 12337.5 close: 12337.5  SMA  12503.208333333334  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:51  || Last Bar open: 12342.5  high: 12345.0 low: 12337.5 close: 12337.5  || SMA60  12503.21
+ no touch 
+Observing MA Touch ||  Time:  11:52  || Last Bar open: 12340.0  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12499.27
+MA TRADER ||  2018-04-16T11:52 #:  0 {} last Price  open: 12340.0  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12499.270833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:53  || Last Bar open: 12340.0  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12499.27
+MA TRADER ||  2018-04-16T11:53 #:  0 {} last Price  open: 12340.0  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12499.270833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:54  || Last Bar open: 12340.0  high: 12342.5 low: 12337.5 close: 12340.0  || SMA60  12499.27
+MA TRADER ||  2018-04-16T11:54 #:  0 {} last Price  open: 12340.0  high: 12342.5 low: 12337.5 close: 12340.0  SMA  12499.270833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:55  || Last Bar open: 12340.0  high: 12342.5 low: 12337.5 close: 12340.0  || SMA60  12499.27
+MA TRADER ||  2018-04-16T11:55 #:  0 {} last Price  open: 12340.0  high: 12342.5 low: 12337.5 close: 12340.0  SMA  12499.270833333334  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T11:56
+Observing MA Touch ||  Time:  11:56  || Last Bar open: 12340.0  high: 12342.5 low: 12337.5 close: 12340.0  || SMA60  12499.27
+MA TRADER ||  2018-04-16T11:56 #:  0 {} last Price  open: 12340.0  high: 12342.5 low: 12337.5 close: 12340.0  SMA  12499.270833333334  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  11:57  || Last Bar open: 12342.5  high: 12342.5 low: 12340.0 close: 12342.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T11:57 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12340.0 close: 12342.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T11:58 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12340.0 close: 12340.0  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:58  || Last Bar open: 12342.5  high: 12342.5 low: 12340.0 close: 12340.0  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T11:59 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12340.0 close: 12340.0  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  11:59  || Last Bar open: 12342.5  high: 12342.5 low: 12340.0 close: 12340.0  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:00  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:00 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:01
+MA TRADER ||  2018-04-16T12:01 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:01  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T12:02 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:02  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T12:03 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:03  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:04  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:04 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:05 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:05  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:06
+Observing MA Touch ||  Time:  12:06  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:06 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:07 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:07  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T12:08 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:08  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:09  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T12:09 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:10  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:10 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:11  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+CANCELLING ALL ORDERS  2018-04-16T12:11
+ no touch 
+MA TRADER ||  2018-04-16T12:11 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:12  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:12 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:13 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:13  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:14  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:14 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:15 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:15  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:16
+Observing MA Touch ||  Time:  12:16  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:16 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:17 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:17  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T12:18 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:18  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:19  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:19 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:20  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:20 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:21
+MA TRADER ||  2018-04-16T12:21 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:21  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T12:22 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:22  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:23  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:23 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:24  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:24 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:25 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:25  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:26
+MA TRADER ||  2018-04-16T12:26 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:26  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:27  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:27 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:28  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:28 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:29  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:29 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:30  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:30 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:31
+Observing MA Touch ||  Time:  12:31  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:31 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:32 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:32  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T12:33 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:33  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:34  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T12:34 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:35  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:35 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:36
+Observing MA Touch ||  Time:  12:36  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:36 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:37  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:37 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:38  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:38 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:39  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:39 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:40 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:40  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:41
+Observing MA Touch ||  Time:  12:41  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:41 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:42  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:42 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:43  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:43 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:44  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:44 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:45 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:45  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:46
+Observing MA Touch ||  Time:  12:46  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T12:46 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:47  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:47 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:48 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:48  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:49  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:49 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:50  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:50 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:51
+Observing MA Touch ||  Time:  12:51  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:51 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T12:52 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  12:52  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  12:53  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:53 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:54  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:54 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:55  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:55 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T12:56
+Observing MA Touch ||  Time:  12:56  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:56 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:57  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:57 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:58  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:58 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  12:59  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T12:59 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  13:00  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T13:00 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:01
+Observing MA Touch ||  Time:  13:01  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T13:01 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+MA TRADER ||  2018-04-16T13:02 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  13:02  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  13:03  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T13:03 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  13:04  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T13:04 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+MA TRADER ||  2018-04-16T13:05 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  13:05  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:06
+MA TRADER ||  2018-04-16T13:06 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  13:06  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T13:07 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  13:07  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T13:08 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  13:08  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  13:09  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+MA TRADER ||  2018-04-16T13:09 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  13:10  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T13:10 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  13:11  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+CANCELLING ALL ORDERS  2018-04-16T13:11
+MA TRADER ||  2018-04-16T13:11 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  13:12  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+MA TRADER ||  2018-04-16T13:12 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:12
+MA TRADER ||  2018-04-16T13:12 #:  0 {} last Price  open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  SMA  12495.354166666666  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  13:12  || Last Bar open: 12342.5  high: 12342.5 low: 12337.5 close: 12337.5  || SMA60  12495.35
+ no touch 
+Observing MA Touch ||  Time:  13:13  || Last Bar open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  || SMA60  12443.31
+MA TRADER ||  2018-04-16T13:13 #:  0 {} last Price  open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  SMA  12443.3125  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  13:13  || Last Bar open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  || SMA60  12443.31
+ no touch 
+MA TRADER ||  2018-04-16T13:13 #:  0 {} last Price  open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  SMA  12443.3125  last trade time  2018-04-16T10:36
+MA TRADER ||  2018-04-16T13:14 #:  0 {} last Price  open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  SMA  12443.3125  last trade time  2018-04-16T10:36
+Observing MA Touch ||  Time:  13:14  || Last Bar open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  || SMA60  12443.31
+ no touch 
+Observing MA Touch ||  Time:  13:14  || Last Bar open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  || SMA60  12443.31
+MA TRADER ||  2018-04-16T13:14 #:  0 {} last Price  open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  SMA  12443.3125  last trade time  2018-04-16T10:36
+ no touch 
+Observing MA Touch ||  Time:  13:15  || Last Bar open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  || SMA60  12443.31
+MA TRADER ||  2018-04-16T13:15 #:  0 {} last Price  open: 12362.5  high: 12365.0 low: 12352.5 close: 12355.0  SMA  12443.3125  last trade time  2018-04-16T10:36
+ no touch 
+MA TRADER ||  2018-04-16T13:18 #:  0 {} last Price  open: 12347.5  high: 12355.0 low: 12337.5 close: 12355.0  SMA  0.0  last trade time  2018-04-16T13:15
+CANCELLING ALL ORDERS  2018-04-16T13:18
+Observing MA Touch ||  Time:  13:19  || Last Bar open: 12347.5  high: 12355.0 low: 12337.5 close: 12337.5  || SMA60  12440.15
+MA TRADER ||  2018-04-16T13:19 #:  0 {} last Price  open: 12347.5  high: 12355.0 low: 12337.5 close: 12337.5  SMA  12440.145833333334  last trade time  2018-04-16T13:15
+ no touch 
+MA TRADER ||  2018-04-16T13:20 #:  0 {} last Price  open: 12347.5  high: 12355.0 low: 12332.5 close: 12335.0  SMA  12440.145833333334  last trade time  2018-04-16T13:15
+Observing MA Touch ||  Time:  13:20  || Last Bar open: 12347.5  high: 12355.0 low: 12332.5 close: 12335.0  || SMA60  12440.15
+ no touch 
+MA TRADER ||  2018-04-16T13:21 #:  0 {} last Price  open: 12332.5  high: 12337.5 low: 12330.0 close: 12337.5  SMA  12436.75  last trade time  2018-04-16T13:15
+Observing MA Touch ||  Time:  13:21  || Last Bar open: 12332.5  high: 12337.5 low: 12330.0 close: 12337.5  || SMA60  12436.75
+ no touch 
+Observing MA Touch ||  Time:  13:22  || Last Bar open: 12332.5  high: 12337.5 low: 12330.0 close: 12335.0  || SMA60  12436.75
+MA TRADER ||  2018-04-16T13:22 #:  0 {} last Price  open: 12332.5  high: 12337.5 low: 12330.0 close: 12335.0  SMA  12436.75  last trade time  2018-04-16T13:15
+ no touch 
+MA TRADER ||  2018-04-16T13:23 #:  0 {} last Price  open: 12330.0  high: 12330.0 low: 12327.5 close: 12327.5  SMA  0.0  last trade time  2018-04-16T13:23
+CANCELLING ALL ORDERS  2018-04-16T13:23
+Observing MA Touch ||  Time:  13:24  || Last Bar open: 12332.5  high: 12337.5 low: 12325.0 close: 12327.5  || SMA60  12436.75
+MA TRADER ||  2018-04-16T13:24 #:  0 {} last Price  open: 12332.5  high: 12337.5 low: 12325.0 close: 12327.5  SMA  12436.75  last trade time  2018-04-16T13:23
+ no touch 
+Observing MA Touch ||  Time:  13:25  || Last Bar open: 12332.5  high: 12337.5 low: 12312.5 close: 12325.0  || SMA60  12436.75
+MA TRADER ||  2018-04-16T13:25 #:  0 {} last Price  open: 12332.5  high: 12337.5 low: 12312.5 close: 12325.0  SMA  12436.75  last trade time  2018-04-16T13:23
+ no touch 
+Observing MA Touch ||  Time:  13:26  || Last Bar open: 12317.5  high: 12322.5 low: 12317.5 close: 12322.5  || SMA60  12433.02
+MA TRADER ||  2018-04-16T13:26 #:  0 {} last Price  open: 12317.5  high: 12322.5 low: 12317.5 close: 12322.5  SMA  12433.020833333334  last trade time  2018-04-16T13:23
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:26
+MA TRADER ||  2018-04-16T13:26 #:  0 {} last Price  O: 12327.5 H: 12330.0 L: 12325.0 C: 12330.0  SMA  0.0  last trade time  2018-04-16T13:26
+Observing MA Touch ||  Time:  13:27  || Last Bar O: 12317.5 H: 12327.5 L: 12315.0 C: 12325.0  || SMA60  12433.02
+MA TRADER ||  2018-04-16T13:27 #:  0 {} last Price  O: 12317.5 H: 12327.5 L: 12315.0 C: 12325.0  SMA  12433.020833333334  last trade time  2018-04-16T13:26
+ no touch 
+MA TRADER ||  2018-04-16T13:28 #:  0 {} last Price  O:  12320.0 H:  12322.5 L:  12320.0 C:  12320.0  SMA  0.0  last trade time  2018-04-16T13:28
+CANCELLING ALL ORDERS  2018-04-16T13:28
+Observing MA Touch ||  Time:  13:29  || Last Bar O:  12317.5 H:  12330.0 L:  12315.0 C:  12322.5  || SMA60  12433.02
+ no touch 
+MA TRADER ||  2018-04-16T13:29 #:  0 {} last Price  O:  12317.5 H:  12330.0 L:  12315.0 C:  12322.5  SMA  12433.020833333334  last trade time  2018-04-16T13:28
+Observing MA Touch ||  Time:  13:30  || Last Bar O:  12317.5 H:  12330.0 L:  12315.0 C:  12315.0  || SMA60  12433.02
+MA TRADER ||  2018-04-16T13:30 #:  0 {} last Price  O:  12317.5 H:  12330.0 L:  12315.0 C:  12315.0  SMA  12433.020833333334  last trade time  2018-04-16T13:28
+ no touch 
+Observing MA Touch ||  Time:  13:31  || Last Bar O:  12317.5 H:  12320.0 L:  12317.5 C:  12320.0  || SMA60  12429.25
+MA TRADER ||  2018-04-16T13:31 #:  0 {} last Price  O:  12317.5 H:  12320.0 L:  12317.5 C:  12320.0  SMA  12429.25  last trade time  2018-04-16T13:28
+ no touch 
+MA TRADER ||  2018-04-16T13:32 #:  0 {} last Price  O:  12317.5 H:  12325.0 L:  12312.5 C:  12312.5  SMA  12429.25  last trade time  2018-04-16T13:28
+Observing MA Touch ||  Time:  13:32  || Last Bar O:  12317.5 H:  12325.0 L:  12312.5 C:  12312.5  || SMA60  12429.25
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:33
+Observing MA Touch ||  Time:  13:33  || Last Bar O:  12317.5 H:  12325.0 L:  12307.5 C:  12307.5  || SMA60  12429.25
+MA TRADER ||  2018-04-16T13:33 #:  0 {} last Price  O:  12317.5 H:  12325.0 L:  12307.5 C:  12307.5  SMA  12429.25  last trade time  2018-04-16T13:28
+ no touch 
+Observing MA Touch ||  Time:  13:34  || Last Bar O:  12317.5 H:  12325.0 L:  12297.5 C:  12300.0  || SMA60  12429.25
+MA TRADER ||  2018-04-16T13:34 #:  0 {} last Price  O:  12317.5 H:  12325.0 L:  12297.5 C:  12300.0  SMA  12429.25  last trade time  2018-04-16T13:28
+ no touch 
+MA TRADER ||  2018-04-16T13:35 #:  0 {} last Price  O:  12317.5 H:  12325.0 L:  12292.5 C:  12300.0  SMA  12429.25  last trade time  2018-04-16T13:28
+Observing MA Touch ||  Time:  13:35  || Last Bar O:  12317.5 H:  12325.0 L:  12292.5 C:  12300.0  || SMA60  12429.25
+ no touch 
+Observing MA Touch ||  Time:  13:36  || Last Bar O:  12297.5 H:  12302.5 L:  12295.0 C:  12297.5  || SMA60  12425.23
+MA TRADER ||  2018-04-16T13:36 #:  0 {} last Price  O:  12297.5 H:  12302.5 L:  12295.0 C:  12297.5  SMA  12425.229166666666  last trade time  2018-04-16T13:28
+ no touch 
+Observing MA Touch ||  Time:  13:37  || Last Bar O:  12297.5 H:  12302.5 L:  12290.0 C:  12297.5  || SMA60  12425.23
+MA TRADER ||  2018-04-16T13:37 #:  0 {} last Price  O:  12297.5 H:  12302.5 L:  12290.0 C:  12297.5  SMA  12425.229166666666  last trade time  2018-04-16T13:28
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:38
+Observing MA Touch ||  Time:  13:38  || Last Bar O:  12297.5 H:  12307.5 L:  12290.0 C:  12305.0  || SMA60  12425.23
+MA TRADER ||  2018-04-16T13:38 #:  0 {} last Price  O:  12297.5 H:  12307.5 L:  12290.0 C:  12305.0  SMA  12425.229166666666  last trade time  2018-04-16T13:28
+ no touch 
+Observing MA Touch ||  Time:  13:39  || Last Bar O:  12297.5 H:  12322.5 L:  12290.0 C:  12307.5  || SMA60  12425.23
+MA TRADER ||  2018-04-16T13:39 #:  0 {} last Price  O:  12297.5 H:  12322.5 L:  12290.0 C:  12307.5  SMA  12425.229166666666  last trade time  2018-04-16T13:28
+ no touch 
+MA TRADER ||  2018-04-16T13:40 #:  0 {} last Price  O:  12297.5 H:  12322.5 L:  12290.0 C:  12302.5  SMA  12425.229166666666  last trade time  2018-04-16T13:28
+Observing MA Touch ||  Time:  13:40  || Last Bar O:  12297.5 H:  12322.5 L:  12290.0 C:  12302.5  || SMA60  12425.23
+ no touch 
+Observing MA Touch ||  Time:  13:41  || Last Bar O:  12305.0 H:  12307.5 L:  12300.0 C:  12302.5  || SMA60  12421.21
+MA TRADER ||  2018-04-16T13:41 #:  0 {} last Price  O:  12305.0 H:  12307.5 L:  12300.0 C:  12302.5  SMA  12421.208333333334  last trade time  2018-04-16T13:28
+ no touch 
+Observing MA Touch ||  Time:  13:42  || Last Bar O:  12305.0 H:  12307.5 L:  12295.0 C:  12305.0  || SMA60  12421.21
+MA TRADER ||  2018-04-16T13:42 #:  0 {} last Price  O:  12305.0 H:  12307.5 L:  12295.0 C:  12305.0  SMA  12421.208333333334  last trade time  2018-04-16T13:28
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:43
+MA TRADER ||  2018-04-16T13:43 #:  0 {} last Price  O:  12305.0 H:  12312.5 L:  12295.0 C:  12312.5  SMA  12421.208333333334  last trade time  2018-04-16T13:28
+Observing MA Touch ||  Time:  13:43  || Last Bar O:  12305.0 H:  12312.5 L:  12295.0 C:  12312.5  || SMA60  12421.21
+ no touch 
+Observing MA Touch ||  Time:  13:44  || Last Bar O:  12305.0 H:  12315.0 L:  12295.0 C:  12307.5  || SMA60  12421.21
+MA TRADER ||  2018-04-16T13:44 #:  0 {} last Price  O:  12305.0 H:  12315.0 L:  12295.0 C:  12307.5  SMA  12421.208333333334  last trade time  2018-04-16T13:28
+ no touch 
+MA TRADER ||  2018-04-16T13:45 #:  0 {} last Price  O:  12305.0 H:  12315.0 L:  12292.5 C:  12295.0  SMA  12421.208333333334  last trade time  2018-04-16T13:28
+Observing MA Touch ||  Time:  13:45  || Last Bar O:  12305.0 H:  12315.0 L:  12292.5 C:  12295.0  || SMA60  12421.21
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:46
+MA TRADER ||  2018-04-16T13:46 #:  0 {} last Price  O:  12280.0 H:  12280.0 L:  12280.0 C:  12280.0  SMA  0.0  last trade time  2018-04-16T13:45
+MA TRADER ||  2018-04-16T13:47 #:  0 {} last Price  O:  12280.0 H:  12295.0 L:  12280.0 C:  12287.5  SMA  12416.958333333334  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  13:47  || Last Bar O:  12280.0 H:  12295.0 L:  12280.0 C:  12287.5  || SMA60  12416.96
+ no touch 
+Observing MA Touch ||  Time:  13:48  || Last Bar O:  12280.0 H:  12295.0 L:  12280.0 C:  12280.0  || SMA60  12416.96
+MA TRADER ||  2018-04-16T13:48 #:  0 {} last Price  O:  12280.0 H:  12295.0 L:  12280.0 C:  12280.0  SMA  12416.958333333334  last trade time  2018-04-16T13:45
+ no touch 
+MA TRADER ||  2018-04-16T13:49 #:  0 {} last Price  O:  12280.0 H:  12295.0 L:  12280.0 C:  12292.5  SMA  12416.958333333334  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  13:49  || Last Bar O:  12280.0 H:  12295.0 L:  12280.0 C:  12292.5  || SMA60  12416.96
+ no touch 
+Observing MA Touch ||  Time:  13:50  || Last Bar O:  12280.0 H:  12300.0 L:  12280.0 C:  12280.0  || SMA60  12416.96
+MA TRADER ||  2018-04-16T13:50 #:  0 {} last Price  O:  12280.0 H:  12300.0 L:  12280.0 C:  12280.0  SMA  12416.958333333334  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:51
+MA TRADER ||  2018-04-16T13:51 #:  0 {} last Price  O:  12270.0 H:  12270.0 L:  12270.0 C:  12270.0  SMA  12412.520833333334  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  13:51  || Last Bar O:  12270.0 H:  12270.0 L:  12270.0 C:  12270.0  || SMA60  12412.52
+ no touch 
+Observing MA Touch ||  Time:  13:52  || Last Bar O:  12270.0 H:  12280.0 L:  12270.0 C:  12280.0  || SMA60  12412.52
+MA TRADER ||  2018-04-16T13:52 #:  0 {} last Price  O:  12270.0 H:  12280.0 L:  12270.0 C:  12280.0  SMA  12412.520833333334  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  13:53  || Last Bar O:  12270.0 H:  12290.0 L:  12270.0 C:  12290.0  || SMA60  12412.52
+MA TRADER ||  2018-04-16T13:53 #:  0 {} last Price  O:  12270.0 H:  12290.0 L:  12270.0 C:  12290.0  SMA  12412.520833333334  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  13:54  || Last Bar O:  12270.0 H:  12290.0 L:  12270.0 C:  12282.5  || SMA60  12412.52
+MA TRADER ||  2018-04-16T13:54 #:  0 {} last Price  O:  12270.0 H:  12290.0 L:  12270.0 C:  12282.5  SMA  12412.520833333334  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  13:55  || Last Bar O:  12270.0 H:  12290.0 L:  12270.0 C:  12277.5  || SMA60  12412.52
+MA TRADER ||  2018-04-16T13:55 #:  0 {} last Price  O:  12270.0 H:  12290.0 L:  12270.0 C:  12277.5  SMA  12412.520833333334  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T13:56
+MA TRADER ||  2018-04-16T13:56 #:  0 {} last Price  O:  12270.0 H:  12290.0 L:  12270.0 C:  12277.5  SMA  12412.520833333334  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  13:56  || Last Bar O:  12270.0 H:  12290.0 L:  12270.0 C:  12277.5  || SMA60  12412.52
+ no touch 
+Observing MA Touch ||  Time:  13:57  || Last Bar O:  12280.0 H:  12282.5 L:  12265.0 C:  12270.0  || SMA60  12407.98
+ no touch 
+MA TRADER ||  2018-04-16T13:57 #:  0 {} last Price  O:  12280.0 H:  12282.5 L:  12265.0 C:  12270.0  SMA  12407.979166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  13:58  || Last Bar O:  12280.0 H:  12310.0 L:  12265.0 C:  12310.0  || SMA60  12407.98
+MA TRADER ||  2018-04-16T13:58 #:  0 {} last Price  O:  12280.0 H:  12310.0 L:  12265.0 C:  12310.0  SMA  12407.979166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  13:59  || Last Bar O:  12280.0 H:  12332.5 L:  12265.0 C:  12327.5  || SMA60  12407.98
+MA TRADER ||  2018-04-16T13:59 #:  0 {} last Price  O:  12280.0 H:  12332.5 L:  12265.0 C:  12327.5  SMA  12407.979166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:00  || Last Bar O:  12280.0 H:  12332.5 L:  12265.0 C:  12322.5  || SMA60  12407.98
+MA TRADER ||  2018-04-16T14:00 #:  0 {} last Price  O:  12280.0 H:  12332.5 L:  12265.0 C:  12322.5  SMA  12407.979166666666  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:01
+Observing MA Touch ||  Time:  14:01  || Last Bar O:  12317.5 H:  12317.5 L:  12317.5 C:  12317.5  || SMA60  12402.6
+MA TRADER ||  2018-04-16T14:01 #:  0 {} last Price  O:  12317.5 H:  12317.5 L:  12317.5 C:  12317.5  SMA  12402.604166666666  last trade time  2018-04-16T13:45
+ no touch 
+MA TRADER ||  2018-04-16T14:02 #:  0 {} last Price  O:  12317.5 H:  12327.5 L:  12315.0 C:  12325.0  SMA  12402.604166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:02  || Last Bar O:  12317.5 H:  12327.5 L:  12315.0 C:  12325.0  || SMA60  12402.6
+ no touch 
+MA TRADER ||  2018-04-16T14:03 #:  0 {} last Price  O:  12317.5 H:  12330.0 L:  12315.0 C:  12322.5  SMA  12402.604166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:03  || Last Bar O:  12317.5 H:  12330.0 L:  12315.0 C:  12322.5  || SMA60  12402.6
+ no touch 
+Observing MA Touch ||  Time:  14:04  || Last Bar O:  12317.5 H:  12330.0 L:  12315.0 C:  12322.5  || SMA60  12402.6
+MA TRADER ||  2018-04-16T14:04 #:  0 {} last Price  O:  12317.5 H:  12330.0 L:  12315.0 C:  12322.5  SMA  12402.604166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:05  || Last Bar O:  12317.5 H:  12330.0 L:  12312.5 C:  12315.0  || SMA60  12402.6
+MA TRADER ||  2018-04-16T14:05 #:  0 {} last Price  O:  12317.5 H:  12330.0 L:  12312.5 C:  12315.0  SMA  12402.604166666666  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:06
+Observing MA Touch ||  Time:  14:06  || Last Bar O:  12317.5 H:  12330.0 L:  12305.0 C:  12310.0  || SMA60  12402.6
+MA TRADER ||  2018-04-16T14:06 #:  0 {} last Price  O:  12317.5 H:  12330.0 L:  12305.0 C:  12310.0  SMA  12402.604166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:07  || Last Bar O:  12312.5 H:  12322.5 L:  12312.5 C:  12320.0  || SMA60  12397.48
+MA TRADER ||  2018-04-16T14:07 #:  0 {} last Price  O:  12312.5 H:  12322.5 L:  12312.5 C:  12320.0  SMA  12397.479166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:08  || Last Bar O:  12312.5 H:  12322.5 L:  12305.0 C:  12307.5  || SMA60  12397.48
+MA TRADER ||  2018-04-16T14:08 #:  0 {} last Price  O:  12312.5 H:  12322.5 L:  12305.0 C:  12307.5  SMA  12397.479166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:09  || Last Bar O:  12312.5 H:  12322.5 L:  12295.0 C:  12300.0  || SMA60  12397.48
+ no touch 
+MA TRADER ||  2018-04-16T14:09 #:  0 {} last Price  O:  12312.5 H:  12322.5 L:  12295.0 C:  12300.0  SMA  12397.479166666666  last trade time  2018-04-16T13:45
+MA TRADER ||  2018-04-16T14:10 #:  0 {} last Price  O:  12312.5 H:  12322.5 L:  12295.0 C:  12297.5  SMA  12397.479166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:10  || Last Bar O:  12312.5 H:  12322.5 L:  12295.0 C:  12297.5  || SMA60  12397.48
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:11
+Observing MA Touch ||  Time:  14:11  || Last Bar O:  12317.5 H:  12317.5 L:  12317.5 C:  12317.5  || SMA60  12392.33
+MA TRADER ||  2018-04-16T14:11 #:  0 {} last Price  O:  12317.5 H:  12317.5 L:  12317.5 C:  12317.5  SMA  12392.333333333334  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:12  || Last Bar O:  12317.5 H:  12327.5 L:  12317.5 C:  12325.0  || SMA60  12392.33
+ no touch 
+MA TRADER ||  2018-04-16T14:12 #:  0 {} last Price  O:  12317.5 H:  12327.5 L:  12317.5 C:  12325.0  SMA  12392.333333333334  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:13  || Last Bar O:  12317.5 H:  12345.0 L:  12317.5 C:  12337.5  || SMA60  12392.33
+MA TRADER ||  2018-04-16T14:13 #:  0 {} last Price  O:  12317.5 H:  12345.0 L:  12317.5 C:  12337.5  SMA  12392.333333333334  last trade time  2018-04-16T13:45
+ no touch 
+MA TRADER ||  2018-04-16T14:14 #:  0 {} last Price  O:  12317.5 H:  12345.0 L:  12317.5 C:  12322.5  SMA  12392.333333333334  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:14  || Last Bar O:  12317.5 H:  12345.0 L:  12317.5 C:  12322.5  || SMA60  12392.33
+ no touch 
+Observing MA Touch ||  Time:  14:15  || Last Bar O:  12317.5 H:  12345.0 L:  12317.5 C:  12325.0  || SMA60  12392.33
+MA TRADER ||  2018-04-16T14:15 #:  0 {} last Price  O:  12317.5 H:  12345.0 L:  12317.5 C:  12325.0  SMA  12392.333333333334  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:16
+Observing MA Touch ||  Time:  14:16  || Last Bar O:  12317.5 H:  12345.0 L:  12315.0 C:  12317.5  || SMA60  12392.33
+MA TRADER ||  2018-04-16T14:16 #:  0 {} last Price  O:  12317.5 H:  12345.0 L:  12315.0 C:  12317.5  SMA  12392.333333333334  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:17  || Last Bar O:  12315.0 H:  12322.5 L:  12307.5 C:  12312.5  || SMA60  12387.48
+MA TRADER ||  2018-04-16T14:17 #:  0 {} last Price  O:  12315.0 H:  12322.5 L:  12307.5 C:  12312.5  SMA  12387.479166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:18  || Last Bar O:  12315.0 H:  12322.5 L:  12307.5 C:  12310.0  || SMA60  12387.48
+MA TRADER ||  2018-04-16T14:18 #:  0 {} last Price  O:  12315.0 H:  12322.5 L:  12307.5 C:  12310.0  SMA  12387.479166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:19  || Last Bar O:  12315.0 H:  12322.5 L:  12307.5 C:  12310.0  || SMA60  12387.48
+MA TRADER ||  2018-04-16T14:19 #:  0 {} last Price  O:  12315.0 H:  12322.5 L:  12307.5 C:  12310.0  SMA  12387.479166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:20  || Last Bar O:  12315.0 H:  12322.5 L:  12307.5 C:  12322.5  || SMA60  12387.48
+MA TRADER ||  2018-04-16T14:20 #:  0 {} last Price  O:  12315.0 H:  12322.5 L:  12307.5 C:  12322.5  SMA  12387.479166666666  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:21
+Observing MA Touch ||  Time:  14:21  || Last Bar O:  12315.0 H:  12322.5 L:  12307.5 C:  12307.5  || SMA60  12387.48
+MA TRADER ||  2018-04-16T14:21 #:  0 {} last Price  O:  12315.0 H:  12322.5 L:  12307.5 C:  12307.5  SMA  12387.479166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:22  || Last Bar O:  12310.0 H:  12310.0 L:  12297.5 C:  12302.5  || SMA60  12382.42
+MA TRADER ||  2018-04-16T14:22 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12297.5 C:  12302.5  SMA  12382.416666666666  last trade time  2018-04-16T13:45
+ no touch 
+MA TRADER ||  2018-04-16T14:23 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12297.5 C:  12305.0  SMA  12382.416666666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:23  || Last Bar O:  12310.0 H:  12310.0 L:  12297.5 C:  12305.0  || SMA60  12382.42
+ no touch 
+Observing MA Touch ||  Time:  14:24  || Last Bar O:  12310.0 H:  12310.0 L:  12295.0 C:  12297.5  || SMA60  12382.42
+ no touch 
+MA TRADER ||  2018-04-16T14:24 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12295.0 C:  12297.5  SMA  12382.416666666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:25  || Last Bar O:  12310.0 H:  12310.0 L:  12290.0 C:  12297.5  || SMA60  12382.42
+MA TRADER ||  2018-04-16T14:25 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12290.0 C:  12297.5  SMA  12382.416666666666  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:26
+MA TRADER ||  2018-04-16T14:26 #:  0 {} last Price  O:  12295.0 H:  12295.0 L:  12295.0 C:  12295.0  SMA  12377.354166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:26  || Last Bar O:  12295.0 H:  12295.0 L:  12295.0 C:  12295.0  || SMA60  12377.35
+ no touch 
+Observing MA Touch ||  Time:  14:27  || Last Bar O:  12295.0 H:  12297.5 L:  12290.0 C:  12292.5  || SMA60  12377.35
+MA TRADER ||  2018-04-16T14:27 #:  0 {} last Price  O:  12295.0 H:  12297.5 L:  12290.0 C:  12292.5  SMA  12377.354166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:28  || Last Bar O:  12295.0 H:  12305.0 L:  12290.0 C:  12302.5  || SMA60  12377.35
+MA TRADER ||  2018-04-16T14:28 #:  0 {} last Price  O:  12295.0 H:  12305.0 L:  12290.0 C:  12302.5  SMA  12377.354166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:29  || Last Bar O:  12295.0 H:  12305.0 L:  12285.0 C:  12287.5  || SMA60  12377.35
+MA TRADER ||  2018-04-16T14:29 #:  0 {} last Price  O:  12295.0 H:  12305.0 L:  12285.0 C:  12287.5  SMA  12377.354166666666  last trade time  2018-04-16T13:45
+ no touch 
+MA TRADER ||  2018-04-16T14:30 #:  0 {} last Price  O:  12295.0 H:  12305.0 L:  12275.0 C:  12282.5  SMA  12377.354166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:30  || Last Bar O:  12295.0 H:  12305.0 L:  12275.0 C:  12282.5  || SMA60  12377.35
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:31
+Observing MA Touch ||  Time:  14:31  || Last Bar O:  12292.5 H:  12292.5 L:  12292.5 C:  12292.5  || SMA60  12372.35
+MA TRADER ||  2018-04-16T14:31 #:  0 {} last Price  O:  12292.5 H:  12292.5 L:  12292.5 C:  12292.5  SMA  12372.354166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:32  || Last Bar O:  12292.5 H:  12312.5 L:  12292.5 C:  12310.0  || SMA60  12372.35
+MA TRADER ||  2018-04-16T14:32 #:  0 {} last Price  O:  12292.5 H:  12312.5 L:  12292.5 C:  12310.0  SMA  12372.354166666666  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:33  || Last Bar O:  12292.5 H:  12325.0 L:  12292.5 C:  12322.5  || SMA60  12372.35
+MA TRADER ||  2018-04-16T14:33 #:  0 {} last Price  O:  12292.5 H:  12325.0 L:  12292.5 C:  12322.5  SMA  12372.354166666666  last trade time  2018-04-16T13:45
+ no touch 
+MA TRADER ||  2018-04-16T14:34 #:  0 {} last Price  O:  12292.5 H:  12327.5 L:  12292.5 C:  12312.5  SMA  12372.354166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:34  || Last Bar O:  12292.5 H:  12327.5 L:  12292.5 C:  12312.5  || SMA60  12372.35
+ no touch 
+Observing MA Touch ||  Time:  14:35  || Last Bar O:  12292.5 H:  12327.5 L:  12292.5 C:  12305.0  || SMA60  12372.35
+ no touch 
+MA TRADER ||  2018-04-16T14:35 #:  0 {} last Price  O:  12292.5 H:  12327.5 L:  12292.5 C:  12305.0  SMA  12372.354166666666  last trade time  2018-04-16T13:45
+CANCELLING ALL ORDERS  2018-04-16T14:36
+Observing MA Touch ||  Time:  14:36  || Last Bar O:  12305.0 H:  12305.0 L:  12305.0 C:  12305.0  || SMA60  12367.9
+MA TRADER ||  2018-04-16T14:36 #:  0 {} last Price  O:  12305.0 H:  12305.0 L:  12305.0 C:  12305.0  SMA  12367.895833333334  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:37  || Last Bar O:  12305.0 H:  12307.5 L:  12302.5 C:  12305.0  || SMA60  12367.9
+ no touch 
+MA TRADER ||  2018-04-16T14:37 #:  0 {} last Price  O:  12305.0 H:  12307.5 L:  12302.5 C:  12305.0  SMA  12367.895833333334  last trade time  2018-04-16T13:45
+MA TRADER ||  2018-04-16T14:38 #:  0 {} last Price  O:  12305.0 H:  12312.5 L:  12302.5 C:  12305.0  SMA  12367.895833333334  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:38  || Last Bar O:  12305.0 H:  12312.5 L:  12302.5 C:  12305.0  || SMA60  12367.9
+ no touch 
+Observing MA Touch ||  Time:  14:39  || Last Bar O:  12305.0 H:  12312.5 L:  12302.5 C:  12307.5  || SMA60  12367.9
+MA TRADER ||  2018-04-16T14:39 #:  0 {} last Price  O:  12305.0 H:  12312.5 L:  12302.5 C:  12307.5  SMA  12367.895833333334  last trade time  2018-04-16T13:45
+ no touch 
+MA TRADER ||  2018-04-16T14:40 #:  0 {} last Price  O:  12305.0 H:  12312.5 L:  12300.0 C:  12307.5  SMA  12367.895833333334  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:40  || Last Bar O:  12305.0 H:  12312.5 L:  12300.0 C:  12307.5  || SMA60  12367.9
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:41
+Observing MA Touch ||  Time:  14:41  || Last Bar O:  12305.0 H:  12305.0 L:  12305.0 C:  12305.0  || SMA60  12363.63
+MA TRADER ||  2018-04-16T14:41 #:  0 {} last Price  O:  12305.0 H:  12305.0 L:  12305.0 C:  12305.0  SMA  12363.625  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:42  || Last Bar O:  12305.0 H:  12305.0 L:  12295.0 C:  12295.0  || SMA60  12363.63
+MA TRADER ||  2018-04-16T14:42 #:  0 {} last Price  O:  12305.0 H:  12305.0 L:  12295.0 C:  12295.0  SMA  12363.625  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:43  || Last Bar O:  12305.0 H:  12305.0 L:  12292.5 C:  12297.5  || SMA60  12363.63
+MA TRADER ||  2018-04-16T14:43 #:  0 {} last Price  O:  12305.0 H:  12305.0 L:  12292.5 C:  12297.5  SMA  12363.625  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:44  || Last Bar O:  12305.0 H:  12305.0 L:  12292.5 C:  12295.0  || SMA60  12363.63
+MA TRADER ||  2018-04-16T14:44 #:  0 {} last Price  O:  12305.0 H:  12305.0 L:  12292.5 C:  12295.0  SMA  12363.625  last trade time  2018-04-16T13:45
+ no touch 
+Observing MA Touch ||  Time:  14:45  || Last Bar O:  12305.0 H:  12305.0 L:  12287.5 C:  12287.5  || SMA60  12363.63
+MA TRADER ||  2018-04-16T14:45 #:  0 {} last Price  O:  12305.0 H:  12305.0 L:  12287.5 C:  12287.5  SMA  12363.625  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:46
+Observing MA Touch ||  Time:  14:46  || Last Bar O:  12305.0 H:  12305.0 L:  12280.0 C:  12285.0  || SMA60  12363.63
+MA TRADER ||  2018-04-16T14:46 #:  0 {} last Price  O:  12305.0 H:  12305.0 L:  12280.0 C:  12285.0  SMA  12363.625  last trade time  2018-04-16T13:45
+ no touch 
+MA TRADER ||  2018-04-16T14:47 #:  0 {} last Price  O:  12282.5 H:  12302.5 L:  12280.0 C:  12302.5  SMA  12359.854166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:47  || Last Bar O:  12282.5 H:  12302.5 L:  12280.0 C:  12302.5  || SMA60  12359.85
+ no touch 
+MA TRADER ||  2018-04-16T14:48 #:  0 {} last Price  O:  12282.5 H:  12312.5 L:  12280.0 C:  12312.5  SMA  12359.854166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:48  || Last Bar O:  12282.5 H:  12312.5 L:  12280.0 C:  12312.5  || SMA60  12359.85
+ no touch 
+MA TRADER ||  2018-04-16T14:49 #:  0 {} last Price  O:  12282.5 H:  12322.5 L:  12280.0 C:  12322.5  SMA  12359.854166666666  last trade time  2018-04-16T13:45
+Observing MA Touch ||  Time:  14:49  || Last Bar O:  12282.5 H:  12322.5 L:  12280.0 C:  12322.5  || SMA60  12359.85
+ no touch 
+Observing MA Touch ||  Time:  14:50  || Last Bar O:  12282.5 H:  12325.0 L:  12280.0 C:  12317.5  || SMA60  12359.85
+MA TRADER ||  2018-04-16T14:50 #:  0 {} last Price  O:  12282.5 H:  12325.0 L:  12280.0 C:  12317.5  SMA  12359.854166666666  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:51
+Observing MA Touch ||  Time:  14:51  || Last Bar O:  12282.5 H:  12325.0 L:  12280.0 C:  12320.0  || SMA60  12359.85
+MA TRADER ||  2018-04-16T14:51 #:  0 {} last Price  O:  12282.5 H:  12325.0 L:  12280.0 C:  12320.0  SMA  12359.854166666666  last trade time  2018-04-16T13:45
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:51
+MA TRADER ||  2018-04-16T14:51 #:  0 {} last Price  O:  12317.5 H:  12317.5 L:  12315.0 C:  12315.0  SMA  0.0  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  14:52  || Last Bar O:  12317.5 H:  12322.5 L:  12310.0 C:  12315.0  || SMA60  12356.4
+MA TRADER ||  2018-04-16T14:52 #:  0 {} last Price  O:  12317.5 H:  12322.5 L:  12310.0 C:  12315.0  SMA  12356.395833333334  last trade time  2018-04-16T14:51
+ no touch 
+Observing MA Touch ||  Time:  14:53  || Last Bar O:  12317.5 H:  12322.5 L:  12310.0 C:  12320.0  || SMA60  12356.4
+MA TRADER ||  2018-04-16T14:53 #:  0 {} last Price  O:  12317.5 H:  12322.5 L:  12310.0 C:  12320.0  SMA  12356.395833333334  last trade time  2018-04-16T14:51
+ no touch 
+MA TRADER ||  2018-04-16T14:54 #:  0 {} last Price  O:  12317.5 H:  12322.5 L:  12310.0 C:  12317.5  SMA  12356.395833333334  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  14:54  || Last Bar O:  12317.5 H:  12322.5 L:  12310.0 C:  12317.5  || SMA60  12356.4
+ no touch 
+MA TRADER ||  2018-04-16T14:55 #:  0 {} last Price  O:  12317.5 H:  12322.5 L:  12310.0 C:  12312.5  SMA  12356.395833333334  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  14:55  || Last Bar O:  12317.5 H:  12322.5 L:  12310.0 C:  12312.5  || SMA60  12356.4
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T14:56
+Observing MA Touch ||  Time:  14:56  || Last Bar O:  12310.0 H:  12310.0 L:  12305.0 C:  12305.0  || SMA60  12353.4
+MA TRADER ||  2018-04-16T14:56 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12305.0 C:  12305.0  SMA  12353.395833333334  last trade time  2018-04-16T14:51
+ no touch 
+Observing MA Touch ||  Time:  14:57  || Last Bar O:  12310.0 H:  12310.0 L:  12300.0 C:  12300.0  || SMA60  12353.4
+MA TRADER ||  2018-04-16T14:57 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12300.0 C:  12300.0  SMA  12353.395833333334  last trade time  2018-04-16T14:51
+ no touch 
+Observing MA Touch ||  Time:  14:58  || Last Bar O:  12310.0 H:  12310.0 L:  12295.0 C:  12297.5  || SMA60  12353.4
+MA TRADER ||  2018-04-16T14:58 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12295.0 C:  12297.5  SMA  12353.395833333334  last trade time  2018-04-16T14:51
+ no touch 
+MA TRADER ||  2018-04-16T14:59 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12292.5 C:  12295.0  SMA  12353.395833333334  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  14:59  || Last Bar O:  12310.0 H:  12310.0 L:  12292.5 C:  12295.0  || SMA60  12353.4
+ no touch 
+MA TRADER ||  2018-04-16T15:00 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12287.5 C:  12297.5  SMA  12353.395833333334  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  15:00  || Last Bar O:  12310.0 H:  12310.0 L:  12287.5 C:  12297.5  || SMA60  12353.4
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T15:01
+MA TRADER ||  2018-04-16T15:01 #:  0 {} last Price  O:  12310.0 H:  12310.0 L:  12287.5 C:  12300.0  SMA  12353.395833333334  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  15:01  || Last Bar O:  12310.0 H:  12310.0 L:  12287.5 C:  12300.0  || SMA60  12353.4
+ no touch 
+MA TRADER ||  2018-04-16T15:02 #:  0 {} last Price  O:  12297.5 H:  12297.5 L:  12287.5 C:  12292.5  SMA  12350.416666666666  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  15:02  || Last Bar O:  12297.5 H:  12297.5 L:  12287.5 C:  12292.5  || SMA60  12350.42
+ no touch 
+Observing MA Touch ||  Time:  15:03  || Last Bar O:  12297.5 H:  12302.5 L:  12287.5 C:  12302.5  || SMA60  12350.42
+MA TRADER ||  2018-04-16T15:03 #:  0 {} last Price  O:  12297.5 H:  12302.5 L:  12287.5 C:  12302.5  SMA  12350.416666666666  last trade time  2018-04-16T14:51
+ no touch 
+Observing MA Touch ||  Time:  15:04  || Last Bar O:  12297.5 H:  12302.5 L:  12287.5 C:  12295.0  || SMA60  12350.42
+MA TRADER ||  2018-04-16T15:04 #:  0 {} last Price  O:  12297.5 H:  12302.5 L:  12287.5 C:  12295.0  SMA  12350.416666666666  last trade time  2018-04-16T14:51
+ no touch 
+Observing MA Touch ||  Time:  15:05  || Last Bar O:  12297.5 H:  12302.5 L:  12287.5 C:  12287.5  || SMA60  12350.42
+MA TRADER ||  2018-04-16T15:05 #:  0 {} last Price  O:  12297.5 H:  12302.5 L:  12287.5 C:  12287.5  SMA  12350.416666666666  last trade time  2018-04-16T14:51
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T15:06
+MA TRADER ||  2018-04-16T15:06 #:  0 {} last Price  O:  12290.0 H:  12292.5 L:  12287.5 C:  12292.5  SMA  12347.125  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  15:06  || Last Bar O:  12290.0 H:  12292.5 L:  12287.5 C:  12292.5  || SMA60  12347.13
+ no touch 
+Observing MA Touch ||  Time:  15:07  || Last Bar O:  12290.0 H:  12295.0 L:  12287.5 C:  12287.5  || SMA60  12347.13
+MA TRADER ||  2018-04-16T15:07 #:  0 {} last Price  O:  12290.0 H:  12295.0 L:  12287.5 C:  12287.5  SMA  12347.125  last trade time  2018-04-16T14:51
+ no touch 
+MA TRADER ||  2018-04-16T15:08 #:  0 {} last Price  O:  12290.0 H:  12295.0 L:  12285.0 C:  12287.5  SMA  12347.125  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  15:08  || Last Bar O:  12290.0 H:  12295.0 L:  12285.0 C:  12287.5  || SMA60  12347.13
+ no touch 
+MA TRADER ||  2018-04-16T15:09 #:  0 {} last Price  O:  12290.0 H:  12295.0 L:  12285.0 C:  12287.5  SMA  12347.125  last trade time  2018-04-16T14:51
+Observing MA Touch ||  Time:  15:09  || Last Bar O:  12290.0 H:  12295.0 L:  12285.0 C:  12287.5  || SMA60  12347.13
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T15:10
+MA TRADER ||  2018-04-16T15:10 #:  0 {} last Price  O:  12280.0 H:  12280.0 L:  12280.0 C:  12280.0  SMA  0.0  last trade time  2018-04-16T15:10
+MA TRADER ||  2018-04-16T15:11 #:  0 {} last Price  O:  12275.0 H:  12275.0 L:  12270.0 C:  12272.5  SMA  12343.75  last trade time  2018-04-16T15:10
+Observing MA Touch ||  Time:  15:11  || Last Bar O:  12275.0 H:  12275.0 L:  12270.0 C:  12272.5  || SMA60  12343.75
+ no touch 
+Observing MA Touch ||  Time:  15:12  || Last Bar O:  12275.0 H:  12275.0 L:  12267.5 C:  12267.5  || SMA60  12343.75
+MA TRADER ||  2018-04-16T15:12 #:  0 {} last Price  O:  12275.0 H:  12275.0 L:  12267.5 C:  12267.5  SMA  12343.75  last trade time  2018-04-16T15:10
+ no touch 
+Observing MA Touch ||  Time:  15:13  || Last Bar O:  12275.0 H:  12275.0 L:  12262.5 C:  12265.0  || SMA60  12343.75
+MA TRADER ||  2018-04-16T15:13 #:  0 {} last Price  O:  12275.0 H:  12275.0 L:  12262.5 C:  12265.0  SMA  12343.75  last trade time  2018-04-16T15:10
+ no touch 
+MA TRADER ||  2018-04-16T15:14 #:  0 {} last Price  O:  12275.0 H:  12275.0 L:  12262.5 C:  12267.5  SMA  12343.75  last trade time  2018-04-16T15:10
+Observing MA Touch ||  Time:  15:14  || Last Bar O:  12275.0 H:  12275.0 L:  12262.5 C:  12267.5  || SMA60  12343.75
+ no touch 
+CANCELLING ALL ORDERS  2018-04-16T15:15
+Observing MA Touch ||  Time:  15:15  || Last Bar O:  12275.0 H:  12275.0 L:  12262.5 C:  12265.0  || SMA60  12343.75
+MA TRADER ||  2018-04-16T15:15 #:  0 {} last Price  O:  12275.0 H:  12275.0 L:  12262.5 C:  12265.0  SMA  12343.75  last trade time  2018-04-16T15:10
+ no touch 
+Observing MA Touch ||  Time:  15:16  || Last Bar O:  12265.0 H:  12270.0 L:  12265.0 C:  12270.0  || SMA60  12340.58
+MA TRADER ||  2018-04-16T15:16 #:  0 {} last Price  O:  12265.0 H:  12270.0 L:  12265.0 C:  12270.0  SMA  12340.583333333334  last trade time  2018-04-16T15:10
+ no touch 
+Observing MA Touch ||  Time:  15:17  || Last Bar O:  12265.0 H:  12272.5 L:  12265.0 C:  12272.5  || SMA60  12340.58
+MA TRADER ||  2018-04-16T15:17 #:  0 {} last Price  O:  12265.0 H:  12272.5 L:  12265.0 C:  12272.5  SMA  12340.583333333334  last trade time  2018-04-16T15:10
+ no touch 
+MA TRADER ||  2018-04-16T15:18 #:  0 {} last Price  O:  12265.0 H:  12272.5 L:  12265.0 C:  12270.0  SMA  12340.583333333334  last trade time  2018-04-16T15:10
+Observing MA Touch ||  Time:  15:18  || Last Bar O:  12265.0 H:  12272.5 L:  12265.0 C:  12270.0  || SMA60  12340.58
+ no touch 
+MA TRADER ||  2018-04-16T15:18 #:  0 {} last Price  O:  12270.0 H:  12270.0 L:  12270.0 C:  12270.0  SMA  0.0  last trade time  2018-04-16T15:18
+CANCELLING ALL ORDERS  2018-04-16T15:18
+ outside tradable time slot
+overnight 4-16 15:19:07  overnight trade done 0 current percentile  25  PD:  -0.0021 current price  12272.5  index  12297.8 bid  12272.5  ask  12275.0
+Observing MA Touch ||  Time:  15:19  || Last Bar O:  12265.0 H:  12277.5 L:  12265.0 C:  12275.0  || SMA60  12340.58
+MA TRADER ||  2018-04-16T15:19 #:  0 {} last Price  O:  12265.0 H:  12277.5 L:  12265.0 C:  12275.0  SMA  12340.58  last trade time  2018-04-16T15:18
+ no touch 
+ outside tradable time slot
+overnight 4-16 15:20:07  overnight trade done 0 current percentile  25  PD:  -0.0021 current price  12272.5  index  12297.8 bid  12272.5  ask  12275.0
+Observing MA Touch ||  Time:  15:20  || Last Bar O:  12265.0 H:  12277.5 L:  12265.0 C:  12270.0  || SMA60  12340.58
+MA TRADER ||  2018-04-16T15:20 #:  0 {} last Price  O:  12265.0 H:  12277.5 L:  12265.0 C:  12270.0  SMA  12340.58  last trade time  2018-04-16T15:18
+ no touch 
+ outside tradable time slot
+overnight 4-16 15:21:07  overnight trade done 0 current percentile  19  PD:  -0.0023 current price  12270.0  index  12297.8 bid  12270.0  ask  12272.5
