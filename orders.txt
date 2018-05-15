@@ -1,0 +1,146 @@
+1150 perc offer T:  09:00:03.377 Order: SELL LMT 1.0 at 12702.5 msg: Perc offer Tradetype PERC_DECC 1150 Status: Unknown FinalT:  00:00 perc 94
+1151 perc offer T:  09:10:30.765 Order: SELL LMT 1.0 at 12695.0 msg: Perc offer Tradetype PERC_DECC 1151 Status: Unknown FinalT:  00:00 perc 90
+1154 perc offer T:  09:13:57.892 Order: SELL LMT 1.0 at 12700.0 msg: Perc offer Tradetype PERC_DECC 1154 Status: Unknown FinalT:  00:00 perc 93
+2018-05-11T09:20:01.346 102 MA ORDER || bidding @  BUY LMT 0.0 at 12697.5 type pd > 0.003 BUY @ MA
+1157 perc bid T:  10:15:49.259 Order: BUY LMT 1.0 at 12592.5 msg: Perc bid Tradetype PERC_ACC 1157 Status: Unknown FinalT:  00:00  perc  28
+ MANUAL BID || bid price  12590.0  Checking order  true
+1159 perc offer,COVER T:  10:25:51.018 Order: SELL LMT 1.0 at 12602.5 msg: Perc offer COVER Tradetype PERC_DECC 1159 Status: Unknown FinalT:  00:00
+1160 perc offer T:  10:35:52.027 Order: SELL LMT 1.0 at 12672.5 msg: Perc offer Tradetype PERC_DECC 1160 Status: Unknown FinalT:  00:00 perc 76
+1161 perc offer T:  10:45:52.557 Order: SELL LMT 1.0 at 12665.0 msg: Perc offer Tradetype PERC_DECC 1161 Status: Unknown FinalT:  00:00 perc 72
+2018-05-11T13:40:04.757 105 MA ORDER || bidding @  BUY LMT 2.0 at 12650.0 type maSignals = 0 -> BUY BID
+1163 perc bid, COVER T:  14:08:58.469 Order: BUY LMT 1.0 at 12630.0 msg: Perc bid COVER Tradetype PERC_ACC 1163 Status: Unknown FinalT:  00:00
+1164 perc bid, COVER T:  14:18:58.792 Order: BUY LMT 1.0 at 12627.5 msg: Perc bid COVER Tradetype PERC_ACC 1164 Status: Unknown FinalT:  00:00
+1165 perc bid T:  14:29:24.878 Order: BUY LMT 1.0 at 12592.5 msg: Perc bid Tradetype PERC_ACC 1165 Status: Unknown FinalT:  00:00  perc  28
+1166 perc bid T:  14:40:14.827 Order: BUY LMT 1.0 at 12592.5 msg: Perc bid Tradetype PERC_ACC 1166 Status: Unknown FinalT:  00:00  perc  28
+1167 perc bid T:  14:53:24.963 Order: BUY LMT 1.0 at 12592.5 msg: Perc bid Tradetype PERC_ACC 1167 Status: Unknown FinalT:  00:00  perc  28
+2018-05-11T17:55:53.336 101 MA ORDER || bidding @  BUY LMT 1.0 at 12612.5 type pd > 0.003 BUY @ MA
+|| OrderState || 101 T:  17:55:53.336 Order: BUY LMT 1.0 at 12612.5 msg: MA Trade bid Tradetype MA 1170 Status: Filled FinalT:  18:41:43.805 Filled
+|| OrderState || 101 T:  17:55:53.336 Order: BUY LMT 1.0 at 12612.5 msg: MA Trade bid Tradetype MA 1170 Status: Filled FinalT:  18:41:43.849 Filled
+2018-05-11T20:12:07.049 102 MA ORDER || offering @  SELL LMT 1.0 at 12610.0 SELL: maSignals > 0 -> SELL @ last Bar OPEN
+|| OrderState || 102 T:  20:12:07.049 Order: SELL LMT 1.0 at 12610.0 msg: MA Trade offer Tradetype MA 1171 Status: Filled FinalT:  20:14:01.276 Filled
+|| OrderState || 102 T:  20:12:07.049 Order: SELL LMT 1.0 at 12610.0 msg: MA Trade offer Tradetype MA 1171 Status: Filled FinalT:  20:14:01.329 Filled
+2018-05-11T20:17:15.623 103 MA ORDER || bidding @  BUY LMT 1.0 at 12607.5 type pd > 0.003 BUY @ MA
+2018-05-11T21:16:00.683 104 MA ORDER || offering @  SELL LMT 1.0 at 12612.5 currDir is short(same) SELL @ MA
+|| OrderState || 104 T:  21:16:00.683 Order: SELL LMT 1.0 at 12612.5 msg: MA Trade offer Tradetype MA 1173 Status: Filled FinalT:  21:20:54.200 Filled
+|| OrderState || 104 T:  21:16:00.683 Order: SELL LMT 1.0 at 12612.5 msg: MA Trade offer Tradetype MA 1173 Status: Filled FinalT:  21:20:54.247 Filled
+2018-05-11T21:31:06.460 105 MA ORDER || offering @  SELL LMT 2.0 at 12612.5 currDir is short(same) SELL @ MA
+|| OrderState || 105 T:  21:31:06.460 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1174 Status: Filled FinalT:  21:31:06.665 Filled
+|| OrderState || 105 T:  21:31:06.460 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1174 Status: Filled FinalT:  21:31:06.673 Filled
+|| OrderState || 105 T:  21:31:06.460 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1174 Status: Filled FinalT:  21:31:06.682 Filled
+|| OrderState || 103 T:  20:17:15.623 Order: BUY LMT 1.0 at 12607.5 msg: MA Trade bid Tradetype MA 1172 Status: Filled FinalT:  21:33:26.296 Filled
+|| OrderState || 103 T:  20:17:15.623 Order: BUY LMT 1.0 at 12607.5 msg: MA Trade bid Tradetype MA 1172 Status: Filled FinalT:  21:33:26.406 Filled
+2018-05-11T23:35:00.345 106 MA ORDER || offering @  SELL LMT 2.0 at 12612.5 pd > 0.003 -> SELL @ BID
+|| OrderState || 106 T:  23:35:00.345 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1175 Status: Filled FinalT:  23:35:00.522 Filled
+|| OrderState || 106 T:  23:35:00.345 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1175 Status: Filled FinalT:  23:35:00.532 Filled
+|| OrderState || 106 T:  23:35:00.345 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1175 Status: Filled FinalT:  23:35:00.541 Filled
+2018-05-12T00:05:45.841 107 MA ORDER || bidding @  BUY LMT 1.0 at 12617.5 type pd > 0.003 BUY @ MA
+|| OrderState || 107 T:  00:05:45.841 Order: BUY LMT 1.0 at 12617.5 msg: MA Trade bid Tradetype MA 1176 Status: Filled FinalT:  00:13:18.870 Filled
+|| OrderState || 107 T:  00:05:45.841 Order: BUY LMT 1.0 at 12617.5 msg: MA Trade bid Tradetype MA 1176 Status: Filled FinalT:  00:13:18.923 Filled
+2018-05-12T01:37:26.308 108 MA ORDER || bidding @  BUY LMT 1.0 at 12617.5 type pd > 0.003 BUY @ MA
+|| OrderState || 108 T:  01:37:26.308 Order: BUY LMT 1.0 at 12617.5 msg: MA Trade bid Tradetype MA 1177 Status: Filled FinalT:  02:07:11.505 Filled
+|| OrderState || 108 T:  01:37:26.308 Order: BUY LMT 1.0 at 12617.5 msg: MA Trade bid Tradetype MA 1177 Status: Filled FinalT:  02:07:11.553 Filled
+2018-05-12T03:08:15.999 109 MA ORDER || bidding @  BUY LMT 1.0 at 12620.0 type pd > 0.003 BUY @ MA
+2018-05-14T09:00:19.825 101 1181 Bullish: DRIFT BUY 1
+2018-05-14T09:00:19.856 102 1182 Bullish: DRIFT BUY 1
+2018-05-14T09:00:20.831 103 1183 Bullish: DRIFT BUY 1
+2018-05-14T09:00:20.862 104 1184 Bullish: DRIFT BUY 1
+2018-05-14T09:00:21.030 105 1185 Bullish: DRIFT BUY 1
+2018-05-14T09:00:21.065 106 1186 Bullish: DRIFT BUY 1
+2018-05-14T09:00:21.107 107 1187 Bullish: DRIFT BUY 1
+2018-05-14T09:00:21.143 108 1188 Bullish: DRIFT BUY 1
+2018-05-14T09:00:21.531 109 1189 Bullish: DRIFT BUY 1
+2018-05-14T09:00:21.562 110 1190 Bullish: DRIFT BUY 1
+2018-05-14T09:00:22.548 111 1191 Bullish: DRIFT BUY 1
+2018-05-14T09:00:22.601 112 1192 Bullish: DRIFT BUY 1
+2018-05-14T09:00:25.134 113 1193 Bullish: DRIFT BUY 1
+2018-05-14T09:00:25.166 114 1194 Bullish: DRIFT BUY 1
+2018-05-14T09:00:28.742 115 1195 Bullish: DRIFT BUY 1
+2018-05-14T09:00:28.771 116 1196 Bullish: DRIFT BUY 1
+2018-05-14T09:00:28.897 117 1197 Bullish: DRIFT BUY 1
+2018-05-14T09:00:28.923 118 1198 Bullish: DRIFT BUY 1
+2018-05-14T09:00:29.246 119 1199 Bullish: DRIFT BUY 1
+2018-05-14T09:00:29.280 120 1200 Bullish: DRIFT BUY 1
+2018-05-14T09:00:32.046 121 1201 Bullish: DRIFT BUY 1
+2018-05-14T09:00:32.076 122 1202 Bullish: DRIFT BUY 1
+2018-05-14T09:00:33.949 123 1203 Bullish: DRIFT BUY 1
+2018-05-14T09:00:33.979 124 1204 Bullish: DRIFT BUY 1
+2018-05-14T09:00:35.451 125 1205 Bullish: DRIFT BUY 1
+2018-05-14T09:00:35.481 126 1206 Bullish: DRIFT BUY 1
+2018-05-14T09:00:35.534 127 1207 Bullish: DRIFT BUY 1
+2018-05-14T09:00:35.568 128 1208 Bullish: DRIFT BUY 1
+2018-05-14T09:00:35.956 129 1209 Bullish: DRIFT BUY 1
+2018-05-14T09:00:35.987 130 1210 Bullish: DRIFT BUY 1
+2018-05-14T09:00:36.034 131 1211 Bullish: DRIFT BUY 1
+2018-05-14T09:00:36.063 132 1212 Bullish: DRIFT BUY 1
+2018-05-14T09:00:36.459 133 1213 Bullish: DRIFT BUY 1
+2018-05-14T09:00:36.487 134 1214 Bullish: DRIFT BUY 1
+2018-05-14T09:00:40.740 135 1215 Bullish: DRIFT BUY 1
+2018-05-14T09:00:40.768 136 1216 Bullish: DRIFT BUY 1
+2018-05-14T09:00:42 137 1217 Bullish: DRIFT BUY 1
+2018-05-14T09:00:42.029 138 1218 Bullish: DRIFT BUY 1
+2018-05-14T09:00:43.366 139 1219 Bullish: DRIFT BUY 1
+2018-05-14T09:00:43.396 140 1220 Bullish: DRIFT BUY 1
+2018-05-14T09:00:45.571 141 1221 Bullish: DRIFT BUY 1
+2018-05-14T09:00:45.598 142 1222 Bullish: DRIFT BUY 1
+2018-05-14T09:00:45.970 143 1223 Bullish: DRIFT BUY 1
+2018-05-14T09:00:46.003 144 1224 Bullish: DRIFT BUY 1
+2018-05-14T09:00:46.973 145 1225 Bullish: DRIFT BUY 1
+2018-05-14T09:00:47.002 146 1226 Bullish: DRIFT BUY 1
+2018-05-14T09:00:47.207 147 1227 Bullish: DRIFT BUY 1
+2018-05-14T09:00:47.235 148 1228 Bullish: DRIFT BUY 1
+2018-05-14T09:00:49.088 149 1229 Bullish: DRIFT BUY 1
+2018-05-14T09:00:49.114 150 1230 Bullish: DRIFT BUY 1
+2018-05-14T09:00:49.168 151 1231 Bullish: DRIFT BUY 1
+2018-05-14T09:00:49.196 152 1232 Bullish: DRIFT BUY 1
+2018-05-14T09:00:51.882 153 1233 Bullish: DRIFT BUY 1
+2018-05-14T09:00:51.908 154 1234 Bullish: DRIFT BUY 1
+2018-05-14T09:00:52.583 155 1235 Bullish: DRIFT BUY 1
+2018-05-14T09:00:52.609 156 1236 Bullish: DRIFT BUY 1
+2018-05-14T09:00:53.360 157 1237 Bullish: DRIFT BUY 1
+2018-05-14T09:00:53.393 158 1238 Bullish: DRIFT BUY 1
+2018-05-14T09:00:59.493 159 1239 Bullish: DRIFT BUY 1
+2018-05-14T09:00:59.521 160 1240 Bullish: DRIFT BUY 1
+2018-05-14T09:01:02.401 161 1241 Bullish: DRIFT BUY 1
+2018-05-14T09:01:02.476 162 1242 Bullish: DRIFT BUY 1
+2018-05-14T09:01:04.399 163 1243 Bullish: DRIFT BUY 1
+2018-05-14T09:01:04.428 164 1244 Bullish: DRIFT BUY 1
+2018-05-14T09:01:07.048 165 1245 Bullish: DRIFT BUY 1
+2018-05-14T09:01:07.086 166 1246 Bullish: DRIFT BUY 1
+2018-05-14T09:01:09.166 167 1247 Bullish: DRIFT BUY 1
+2018-05-14T09:01:09.193 168 1248 Bullish: DRIFT BUY 1
+2018-05-14T09:01:09.809 169 1249 Bullish: DRIFT BUY 1
+2018-05-14T09:01:09.836 170 1250 Bullish: DRIFT BUY 1
+2018-05-14T09:01:10.704 171 1251 Bullish: DRIFT BUY 1
+2018-05-14T09:01:10.732 172 1252 Bullish: DRIFT BUY 1
+2018-05-14T09:01:15.676 173 1253 Bullish: DRIFT BUY 1
+2018-05-14T09:01:15.706 174 1254 Bullish: DRIFT BUY 1
+2018-05-14T09:01:16.822 175 1255 Bullish: DRIFT BUY 1
+2018-05-14T09:01:16.849 176 1256 Bullish: DRIFT BUY 1
+1259 perc offer T:  09:08:00.430 Order: SELL LMT 1.0 at 12675.0 msg: Perc offer Tradetype PERC_DECC 1259 Status: Unknown FinalT:  00:00 perc 72
+|| OrderState || 101 T:  09:08:00.430 Order: SELL LMT 1.0 at 12675.0 msg: Perc offer Tradetype PERC_DECC 1259 Status: Filled FinalT:  09:10:37.420 Filled
+|| OrderState || 101 T:  09:08:00.430 Order: SELL LMT 1.0 at 12675.0 msg: Perc offer Tradetype PERC_DECC 1259 Status: Filled FinalT:  09:10:37.454 Filled
+1260 perc bid, COVER T:  09:18:01.244 Order: BUY LMT 1.0 at 12670.0 msg: Perc bid COVER Tradetype PERC_ACC 1260 Status: Unknown FinalT:  00:00
+1263 perc offer T:  09:23:45.343 Order: SELL LMT 1.0 at 12680.0 msg: Perc offer Tradetype PERC_DECC 1263 Status: Unknown FinalT:  00:00 perc 75
+|| OrderState || 101 T:  09:23:45.343 Order: SELL LMT 1.0 at 12680.0 msg: Perc offer Tradetype PERC_DECC 1263 Status: Filled FinalT:  09:23:49.152 Filled
+|| OrderState || 101 T:  09:23:45.343 Order: SELL LMT 1.0 at 12680.0 msg: Perc offer Tradetype PERC_DECC 1263 Status: Filled FinalT:  09:23:49.203 Filled
+1266 perc offer T:  09:56:30.396 Order: SELL LMT 1.0 at 12725.0 msg: Perc offer Tradetype PERC_DECC 1266 Status: Unknown FinalT:  00:00 perc 72
+|| OrderState || 101 T:  09:56:30.396 Order: SELL LMT 1.0 at 12725.0 msg: Perc offer Tradetype PERC_DECC 1266 Status: Filled FinalT:  09:56:46.741 Filled
+|| OrderState || 101 T:  09:56:30.396 Order: SELL LMT 1.0 at 12725.0 msg: Perc offer Tradetype PERC_DECC 1266 Status: Filled FinalT:  09:56:46.794 Filled
+1267 perc bid, COVER T:  10:06:32.624 Order: BUY LMT 1.0 at 12690.0 msg: Perc bid COVER Tradetype PERC_ACC 1267 Status: Unknown FinalT:  00:00
+|| OrderState || 102 T:  10:06:32.624 Order: BUY LMT 1.0 at 12690.0 msg: Perc bid COVER Tradetype PERC_ACC 1267 Status: Filled FinalT:  10:06:32.803 Filled
+|| OrderState || 102 T:  10:06:32.624 Order: BUY LMT 1.0 at 12690.0 msg: Perc bid COVER Tradetype PERC_ACC 1267 Status: Filled FinalT:  10:06:32.812 Filled
+1268 perc offer T:  10:16:35.799 Order: SELL LMT 1.0 at 12735.0 msg: Perc offer Tradetype PERC_DECC 1268 Status: Unknown FinalT:  00:00 perc 77
+|| OrderState || 103 T:  10:16:35.799 Order: SELL LMT 1.0 at 12735.0 msg: Perc offer Tradetype PERC_DECC 1268 Status: Filled FinalT:  10:16:36.028 Filled
+|| OrderState || 103 T:  10:16:35.799 Order: SELL LMT 1.0 at 12735.0 msg: Perc offer Tradetype PERC_DECC 1268 Status: Filled FinalT:  10:16:36.044 Filled
+1269 perc offer T:  10:26:43.932 Order: SELL LMT 1.0 at 12730.0 msg: Perc offer Tradetype PERC_DECC 1269 Status: Unknown FinalT:  00:00 perc 74
+|| OrderState || 104 T:  10:26:43.932 Order: SELL LMT 1.0 at 12730.0 msg: Perc offer Tradetype PERC_DECC 1269 Status: Filled FinalT:  10:28:32.743 Filled
+|| OrderState || 104 T:  10:26:43.932 Order: SELL LMT 1.0 at 12730.0 msg: Perc offer Tradetype PERC_DECC 1269 Status: Filled FinalT:  10:28:32.805 Filled
+1270 perc offer T:  10:36:44.519 Order: SELL LMT 1.0 at 12735.0 msg: Perc offer Tradetype PERC_DECC 1270 Status: Unknown FinalT:  00:00 perc 77
+|| OrderState || 105 T:  10:36:44.519 Order: SELL LMT 1.0 at 12735.0 msg: Perc offer Tradetype PERC_DECC 1270 Status: Filled FinalT:  10:36:44.671 Filled
+|| OrderState || 105 T:  10:36:44.519 Order: SELL LMT 1.0 at 12735.0 msg: Perc offer Tradetype PERC_DECC 1270 Status: Filled FinalT:  10:36:44.681 Filled
+1271 perc offer T:  10:46:50.913 Order: SELL LMT 1.0 at 12775.0 msg: Perc offer Tradetype PERC_DECC 1271 Status: Unknown FinalT:  00:00 perc 94
+|| OrderState || 106 T:  10:46:50.913 Order: SELL LMT 1.0 at 12775.0 msg: Perc offer Tradetype PERC_DECC 1271 Status: Filled FinalT:  10:47:10.791 Filled
+|| OrderState || 106 T:  10:46:50.913 Order: SELL LMT 1.0 at 12775.0 msg: Perc offer Tradetype PERC_DECC 1271 Status: Filled FinalT:  10:47:10.846 Filled
+1272 perc offer T:  10:56:51.769 Order: SELL LMT 1.0 at 12772.5 msg: Perc offer Tradetype PERC_DECC 1272 Status: Unknown FinalT:  00:00 perc 93
+|| OrderState || 107 T:  10:56:51.769 Order: SELL LMT 1.0 at 12772.5 msg: Perc offer Tradetype PERC_DECC 1272 Status: Filled FinalT:  10:56:51.941 Filled
+|| OrderState || 107 T:  10:56:51.769 Order: SELL LMT 1.0 at 12772.5 msg: Perc offer Tradetype PERC_DECC 1272 Status: Filled FinalT:  10:56:51.951 Filled
