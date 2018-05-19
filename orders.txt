@@ -1,121 +1,3 @@
-1150 perc offer T:  09:00:03.377 Order: SELL LMT 1.0 at 12702.5 msg: Perc offer Tradetype PERC_DECC 1150 Status: Unknown FinalT:  00:00 perc 94
-1151 perc offer T:  09:10:30.765 Order: SELL LMT 1.0 at 12695.0 msg: Perc offer Tradetype PERC_DECC 1151 Status: Unknown FinalT:  00:00 perc 90
-1154 perc offer T:  09:13:57.892 Order: SELL LMT 1.0 at 12700.0 msg: Perc offer Tradetype PERC_DECC 1154 Status: Unknown FinalT:  00:00 perc 93
-2018-05-11T09:20:01.346 102 MA ORDER || bidding @  BUY LMT 0.0 at 12697.5 type pd > 0.003 BUY @ MA
-1157 perc bid T:  10:15:49.259 Order: BUY LMT 1.0 at 12592.5 msg: Perc bid Tradetype PERC_ACC 1157 Status: Unknown FinalT:  00:00  perc  28
- MANUAL BID || bid price  12590.0  Checking order  true
-1159 perc offer,COVER T:  10:25:51.018 Order: SELL LMT 1.0 at 12602.5 msg: Perc offer COVER Tradetype PERC_DECC 1159 Status: Unknown FinalT:  00:00
-1160 perc offer T:  10:35:52.027 Order: SELL LMT 1.0 at 12672.5 msg: Perc offer Tradetype PERC_DECC 1160 Status: Unknown FinalT:  00:00 perc 76
-1161 perc offer T:  10:45:52.557 Order: SELL LMT 1.0 at 12665.0 msg: Perc offer Tradetype PERC_DECC 1161 Status: Unknown FinalT:  00:00 perc 72
-2018-05-11T13:40:04.757 105 MA ORDER || bidding @  BUY LMT 2.0 at 12650.0 type maSignals = 0 -> BUY BID
-1163 perc bid, COVER T:  14:08:58.469 Order: BUY LMT 1.0 at 12630.0 msg: Perc bid COVER Tradetype PERC_ACC 1163 Status: Unknown FinalT:  00:00
-1164 perc bid, COVER T:  14:18:58.792 Order: BUY LMT 1.0 at 12627.5 msg: Perc bid COVER Tradetype PERC_ACC 1164 Status: Unknown FinalT:  00:00
-1165 perc bid T:  14:29:24.878 Order: BUY LMT 1.0 at 12592.5 msg: Perc bid Tradetype PERC_ACC 1165 Status: Unknown FinalT:  00:00  perc  28
-1166 perc bid T:  14:40:14.827 Order: BUY LMT 1.0 at 12592.5 msg: Perc bid Tradetype PERC_ACC 1166 Status: Unknown FinalT:  00:00  perc  28
-1167 perc bid T:  14:53:24.963 Order: BUY LMT 1.0 at 12592.5 msg: Perc bid Tradetype PERC_ACC 1167 Status: Unknown FinalT:  00:00  perc  28
-2018-05-11T17:55:53.336 101 MA ORDER || bidding @  BUY LMT 1.0 at 12612.5 type pd > 0.003 BUY @ MA
-|| OrderState || 101 T:  17:55:53.336 Order: BUY LMT 1.0 at 12612.5 msg: MA Trade bid Tradetype MA 1170 Status: Filled FinalT:  18:41:43.805 Filled
-|| OrderState || 101 T:  17:55:53.336 Order: BUY LMT 1.0 at 12612.5 msg: MA Trade bid Tradetype MA 1170 Status: Filled FinalT:  18:41:43.849 Filled
-2018-05-11T20:12:07.049 102 MA ORDER || offering @  SELL LMT 1.0 at 12610.0 SELL: maSignals > 0 -> SELL @ last Bar OPEN
-|| OrderState || 102 T:  20:12:07.049 Order: SELL LMT 1.0 at 12610.0 msg: MA Trade offer Tradetype MA 1171 Status: Filled FinalT:  20:14:01.276 Filled
-|| OrderState || 102 T:  20:12:07.049 Order: SELL LMT 1.0 at 12610.0 msg: MA Trade offer Tradetype MA 1171 Status: Filled FinalT:  20:14:01.329 Filled
-2018-05-11T20:17:15.623 103 MA ORDER || bidding @  BUY LMT 1.0 at 12607.5 type pd > 0.003 BUY @ MA
-2018-05-11T21:16:00.683 104 MA ORDER || offering @  SELL LMT 1.0 at 12612.5 currDir is short(same) SELL @ MA
-|| OrderState || 104 T:  21:16:00.683 Order: SELL LMT 1.0 at 12612.5 msg: MA Trade offer Tradetype MA 1173 Status: Filled FinalT:  21:20:54.200 Filled
-|| OrderState || 104 T:  21:16:00.683 Order: SELL LMT 1.0 at 12612.5 msg: MA Trade offer Tradetype MA 1173 Status: Filled FinalT:  21:20:54.247 Filled
-2018-05-11T21:31:06.460 105 MA ORDER || offering @  SELL LMT 2.0 at 12612.5 currDir is short(same) SELL @ MA
-|| OrderState || 105 T:  21:31:06.460 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1174 Status: Filled FinalT:  21:31:06.665 Filled
-|| OrderState || 105 T:  21:31:06.460 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1174 Status: Filled FinalT:  21:31:06.673 Filled
-|| OrderState || 105 T:  21:31:06.460 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1174 Status: Filled FinalT:  21:31:06.682 Filled
-|| OrderState || 103 T:  20:17:15.623 Order: BUY LMT 1.0 at 12607.5 msg: MA Trade bid Tradetype MA 1172 Status: Filled FinalT:  21:33:26.296 Filled
-|| OrderState || 103 T:  20:17:15.623 Order: BUY LMT 1.0 at 12607.5 msg: MA Trade bid Tradetype MA 1172 Status: Filled FinalT:  21:33:26.406 Filled
-2018-05-11T23:35:00.345 106 MA ORDER || offering @  SELL LMT 2.0 at 12612.5 pd > 0.003 -> SELL @ BID
-|| OrderState || 106 T:  23:35:00.345 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1175 Status: Filled FinalT:  23:35:00.522 Filled
-|| OrderState || 106 T:  23:35:00.345 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1175 Status: Filled FinalT:  23:35:00.532 Filled
-|| OrderState || 106 T:  23:35:00.345 Order: SELL LMT 2.0 at 12612.5 msg: MA Trade offer Tradetype MA 1175 Status: Filled FinalT:  23:35:00.541 Filled
-2018-05-12T00:05:45.841 107 MA ORDER || bidding @  BUY LMT 1.0 at 12617.5 type pd > 0.003 BUY @ MA
-|| OrderState || 107 T:  00:05:45.841 Order: BUY LMT 1.0 at 12617.5 msg: MA Trade bid Tradetype MA 1176 Status: Filled FinalT:  00:13:18.870 Filled
-|| OrderState || 107 T:  00:05:45.841 Order: BUY LMT 1.0 at 12617.5 msg: MA Trade bid Tradetype MA 1176 Status: Filled FinalT:  00:13:18.923 Filled
-2018-05-12T01:37:26.308 108 MA ORDER || bidding @  BUY LMT 1.0 at 12617.5 type pd > 0.003 BUY @ MA
-|| OrderState || 108 T:  01:37:26.308 Order: BUY LMT 1.0 at 12617.5 msg: MA Trade bid Tradetype MA 1177 Status: Filled FinalT:  02:07:11.505 Filled
-|| OrderState || 108 T:  01:37:26.308 Order: BUY LMT 1.0 at 12617.5 msg: MA Trade bid Tradetype MA 1177 Status: Filled FinalT:  02:07:11.553 Filled
-2018-05-12T03:08:15.999 109 MA ORDER || bidding @  BUY LMT 1.0 at 12620.0 type pd > 0.003 BUY @ MA
-2018-05-14T09:00:19.825 101 1181 Bullish: DRIFT BUY 1
-2018-05-14T09:00:19.856 102 1182 Bullish: DRIFT BUY 1
-2018-05-14T09:00:20.831 103 1183 Bullish: DRIFT BUY 1
-2018-05-14T09:00:20.862 104 1184 Bullish: DRIFT BUY 1
-2018-05-14T09:00:21.030 105 1185 Bullish: DRIFT BUY 1
-2018-05-14T09:00:21.065 106 1186 Bullish: DRIFT BUY 1
-2018-05-14T09:00:21.107 107 1187 Bullish: DRIFT BUY 1
-2018-05-14T09:00:21.143 108 1188 Bullish: DRIFT BUY 1
-2018-05-14T09:00:21.531 109 1189 Bullish: DRIFT BUY 1
-2018-05-14T09:00:21.562 110 1190 Bullish: DRIFT BUY 1
-2018-05-14T09:00:22.548 111 1191 Bullish: DRIFT BUY 1
-2018-05-14T09:00:22.601 112 1192 Bullish: DRIFT BUY 1
-2018-05-14T09:00:25.134 113 1193 Bullish: DRIFT BUY 1
-2018-05-14T09:00:25.166 114 1194 Bullish: DRIFT BUY 1
-2018-05-14T09:00:28.742 115 1195 Bullish: DRIFT BUY 1
-2018-05-14T09:00:28.771 116 1196 Bullish: DRIFT BUY 1
-2018-05-14T09:00:28.897 117 1197 Bullish: DRIFT BUY 1
-2018-05-14T09:00:28.923 118 1198 Bullish: DRIFT BUY 1
-2018-05-14T09:00:29.246 119 1199 Bullish: DRIFT BUY 1
-2018-05-14T09:00:29.280 120 1200 Bullish: DRIFT BUY 1
-2018-05-14T09:00:32.046 121 1201 Bullish: DRIFT BUY 1
-2018-05-14T09:00:32.076 122 1202 Bullish: DRIFT BUY 1
-2018-05-14T09:00:33.949 123 1203 Bullish: DRIFT BUY 1
-2018-05-14T09:00:33.979 124 1204 Bullish: DRIFT BUY 1
-2018-05-14T09:00:35.451 125 1205 Bullish: DRIFT BUY 1
-2018-05-14T09:00:35.481 126 1206 Bullish: DRIFT BUY 1
-2018-05-14T09:00:35.534 127 1207 Bullish: DRIFT BUY 1
-2018-05-14T09:00:35.568 128 1208 Bullish: DRIFT BUY 1
-2018-05-14T09:00:35.956 129 1209 Bullish: DRIFT BUY 1
-2018-05-14T09:00:35.987 130 1210 Bullish: DRIFT BUY 1
-2018-05-14T09:00:36.034 131 1211 Bullish: DRIFT BUY 1
-2018-05-14T09:00:36.063 132 1212 Bullish: DRIFT BUY 1
-2018-05-14T09:00:36.459 133 1213 Bullish: DRIFT BUY 1
-2018-05-14T09:00:36.487 134 1214 Bullish: DRIFT BUY 1
-2018-05-14T09:00:40.740 135 1215 Bullish: DRIFT BUY 1
-2018-05-14T09:00:40.768 136 1216 Bullish: DRIFT BUY 1
-2018-05-14T09:00:42 137 1217 Bullish: DRIFT BUY 1
-2018-05-14T09:00:42.029 138 1218 Bullish: DRIFT BUY 1
-2018-05-14T09:00:43.366 139 1219 Bullish: DRIFT BUY 1
-2018-05-14T09:00:43.396 140 1220 Bullish: DRIFT BUY 1
-2018-05-14T09:00:45.571 141 1221 Bullish: DRIFT BUY 1
-2018-05-14T09:00:45.598 142 1222 Bullish: DRIFT BUY 1
-2018-05-14T09:00:45.970 143 1223 Bullish: DRIFT BUY 1
-2018-05-14T09:00:46.003 144 1224 Bullish: DRIFT BUY 1
-2018-05-14T09:00:46.973 145 1225 Bullish: DRIFT BUY 1
-2018-05-14T09:00:47.002 146 1226 Bullish: DRIFT BUY 1
-2018-05-14T09:00:47.207 147 1227 Bullish: DRIFT BUY 1
-2018-05-14T09:00:47.235 148 1228 Bullish: DRIFT BUY 1
-2018-05-14T09:00:49.088 149 1229 Bullish: DRIFT BUY 1
-2018-05-14T09:00:49.114 150 1230 Bullish: DRIFT BUY 1
-2018-05-14T09:00:49.168 151 1231 Bullish: DRIFT BUY 1
-2018-05-14T09:00:49.196 152 1232 Bullish: DRIFT BUY 1
-2018-05-14T09:00:51.882 153 1233 Bullish: DRIFT BUY 1
-2018-05-14T09:00:51.908 154 1234 Bullish: DRIFT BUY 1
-2018-05-14T09:00:52.583 155 1235 Bullish: DRIFT BUY 1
-2018-05-14T09:00:52.609 156 1236 Bullish: DRIFT BUY 1
-2018-05-14T09:00:53.360 157 1237 Bullish: DRIFT BUY 1
-2018-05-14T09:00:53.393 158 1238 Bullish: DRIFT BUY 1
-2018-05-14T09:00:59.493 159 1239 Bullish: DRIFT BUY 1
-2018-05-14T09:00:59.521 160 1240 Bullish: DRIFT BUY 1
-2018-05-14T09:01:02.401 161 1241 Bullish: DRIFT BUY 1
-2018-05-14T09:01:02.476 162 1242 Bullish: DRIFT BUY 1
-2018-05-14T09:01:04.399 163 1243 Bullish: DRIFT BUY 1
-2018-05-14T09:01:04.428 164 1244 Bullish: DRIFT BUY 1
-2018-05-14T09:01:07.048 165 1245 Bullish: DRIFT BUY 1
-2018-05-14T09:01:07.086 166 1246 Bullish: DRIFT BUY 1
-2018-05-14T09:01:09.166 167 1247 Bullish: DRIFT BUY 1
-2018-05-14T09:01:09.193 168 1248 Bullish: DRIFT BUY 1
-2018-05-14T09:01:09.809 169 1249 Bullish: DRIFT BUY 1
-2018-05-14T09:01:09.836 170 1250 Bullish: DRIFT BUY 1
-2018-05-14T09:01:10.704 171 1251 Bullish: DRIFT BUY 1
-2018-05-14T09:01:10.732 172 1252 Bullish: DRIFT BUY 1
-2018-05-14T09:01:15.676 173 1253 Bullish: DRIFT BUY 1
-2018-05-14T09:01:15.706 174 1254 Bullish: DRIFT BUY 1
-2018-05-14T09:01:16.822 175 1255 Bullish: DRIFT BUY 1
-2018-05-14T09:01:16.849 176 1256 Bullish: DRIFT BUY 1
 1259 perc offer T:  09:08:00.430 Order: SELL LMT 1.0 at 12675.0 msg: Perc offer Tradetype PERC_DECC 1259 Status: Unknown FinalT:  00:00 perc 72
 || OrderState || 101 T:  09:08:00.430 Order: SELL LMT 1.0 at 12675.0 msg: Perc offer Tradetype PERC_DECC 1259 Status: Filled FinalT:  09:10:37.420 Filled
 || OrderState || 101 T:  09:08:00.430 Order: SELL LMT 1.0 at 12675.0 msg: Perc offer Tradetype PERC_DECC 1259 Status: Filled FinalT:  09:10:37.454 Filled
@@ -144,3 +26,276 @@
 1272 perc offer T:  10:56:51.769 Order: SELL LMT 1.0 at 12772.5 msg: Perc offer Tradetype PERC_DECC 1272 Status: Unknown FinalT:  00:00 perc 93
 || OrderState || 107 T:  10:56:51.769 Order: SELL LMT 1.0 at 12772.5 msg: Perc offer Tradetype PERC_DECC 1272 Status: Filled FinalT:  10:56:51.941 Filled
 || OrderState || 107 T:  10:56:51.769 Order: SELL LMT 1.0 at 12772.5 msg: Perc offer Tradetype PERC_DECC 1272 Status: Filled FinalT:  10:56:51.951 Filled
+1275 perc bid T:  10:48:59.460 Order: BUY LMT 3.0 at 12700.0 msg: Perc bid Tradetype PERC_ACC 1275 Status: Unknown FinalT:  00:00  perc  29
+|| OrderState || 101 T:  10:48:59.460 Order: BUY LMT 3.0 at 12700.0 msg: Perc bid Tradetype PERC_ACC 1275 Status: Filled FinalT:  10:49:03.844 Filled
+|| OrderState || 101 T:  10:48:59.460 Order: BUY LMT 3.0 at 12700.0 msg: Perc bid Tradetype PERC_ACC 1275 Status: Filled FinalT:  10:49:03.863 Filled
+1276 perc bid T:  10:59:04.177 Order: BUY LMT 3.0 at 12680.0 msg: Perc bid Tradetype PERC_ACC 1276 Status: Unknown FinalT:  00:00  perc  19
+|| OrderState || 102 T:  10:59:04.177 Order: BUY LMT 3.0 at 12680.0 msg: Perc bid Tradetype PERC_ACC 1276 Status: Filled FinalT:  11:00:17.671 Filled
+|| OrderState || 102 T:  10:59:04.177 Order: BUY LMT 3.0 at 12680.0 msg: Perc bid Tradetype PERC_ACC 1276 Status: Filled FinalT:  11:00:17.724 Filled
+2018-05-15T11:00:17.792 103 1277 Inventory Buy Open  T:  11:00:17.786 Order: BUY LMT 1.0 at 12677.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1277 Status: Unknown FinalT:  00:00
+|| OrderState || 103 T:  11:00:17.786 Order: BUY LMT 1.0 at 12677.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1277 Status: Filled FinalT:  11:03:11.701 Filled
+2018-05-15T11:03:11.710 104 1278 Inventory Sell Close  T:  11:03:11.709 Order: SELL LMT 1.0 at 12682.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1278 Status: Unknown FinalT:  00:00
+|| OrderState || 103 T:  11:00:17.786 Order: BUY LMT 1.0 at 12677.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1277 Status: Filled FinalT:  11:03:11.729 Filled
+|| OrderState || 104 T:  11:03:11.709 Order: SELL LMT 1.0 at 12682.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1278 Status: Filled FinalT:  11:05:39.515 Filled
+|| OrderState || 104 T:  11:03:11.709 Order: SELL LMT 1.0 at 12682.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1278 Status: Filled FinalT:  11:05:39.567 Filled
+2018-05-15T11:07:05.798 105 1279 Inventory Buy Open  T:  11:07:05.798 Order: BUY LMT 1.0 at 12677.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1279 Status: Unknown FinalT:  00:00
+1280 perc bid T:  11:09:22.273 Order: BUY LMT 1.0 at 12682.5 msg: Perc bid Tradetype PERC_ACC 1280 Status: Unknown FinalT:  00:00  perc  21
+|| OrderState || 106 T:  11:09:22.273 Order: BUY LMT 1.0 at 12682.5 msg: Perc bid Tradetype PERC_ACC 1280 Status: Filled FinalT:  11:15:23.083 Filled
+|| OrderState || 106 T:  11:09:22.273 Order: BUY LMT 1.0 at 12682.5 msg: Perc bid Tradetype PERC_ACC 1280 Status: Filled FinalT:  11:15:23.134 Filled
+|| OrderState || 105 T:  11:07:05.798 Order: BUY LMT 1.0 at 12677.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1279 Status: Filled FinalT:  11:15:30.367 Filled
+2018-05-15T11:15:30.377 107 1281 Inventory Sell Close  T:  11:15:30.377 Order: SELL LMT 1.0 at 12682.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1281 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  11:07:05.798 Order: BUY LMT 1.0 at 12677.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1279 Status: Filled FinalT:  11:15:30.397 Filled
+|| OrderState || 107 T:  11:15:30.377 Order: SELL LMT 1.0 at 12682.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1281 Status: Filled FinalT:  11:16:09.762 Filled
+|| OrderState || 107 T:  11:15:30.377 Order: SELL LMT 1.0 at 12682.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1281 Status: Filled FinalT:  11:16:09.793 Filled
+2018-05-15T11:17:22.080 108 1282 Inventory Buy Open  T:  11:17:22.079 Order: BUY LMT 1.0 at 12677.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1282 Status: Unknown FinalT:  00:00
+|| OrderState || 108 T:  11:17:22.079 Order: BUY LMT 1.0 at 12677.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1282 Status: Filled FinalT:  11:18:01.117 Filled
+2018-05-15T11:18:01.128 109 1283 Inventory Sell Close  T:  11:18:01.128 Order: SELL LMT 1.0 at 12682.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1283 Status: Unknown FinalT:  00:00
+|| OrderState || 108 T:  11:17:22.079 Order: BUY LMT 1.0 at 12677.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1282 Status: Filled FinalT:  11:18:01.147 Filled
+1284 perc bid T:  11:19:26.083 Order: BUY LMT 1.0 at 12677.5 msg: Perc bid Tradetype PERC_ACC 1284 Status: Unknown FinalT:  00:00  perc  18
+|| OrderState || 110 T:  11:19:26.083 Order: BUY LMT 1.0 at 12677.5 msg: Perc bid Tradetype PERC_ACC 1284 Status: Filled FinalT:  11:19:26.247 Filled
+|| OrderState || 110 T:  11:19:26.083 Order: BUY LMT 1.0 at 12677.5 msg: Perc bid Tradetype PERC_ACC 1284 Status: Filled FinalT:  11:19:26.257 Filled
+2018-05-15T11:29:01.690 111 1285 Inventory Buy Open  T:  11:29:01.690 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1285 Status: Unknown FinalT:  00:00
+1286 perc bid T:  11:29:37.646 Order: BUY LMT 1.0 at 12680.0 msg: Perc bid Tradetype PERC_ACC 1286 Status: Unknown FinalT:  00:00  perc  19
+|| OrderState || 112 T:  11:29:37.646 Order: BUY LMT 1.0 at 12680.0 msg: Perc bid Tradetype PERC_ACC 1286 Status: Filled FinalT:  11:32:00.541 Filled
+|| OrderState || 112 T:  11:29:37.646 Order: BUY LMT 1.0 at 12680.0 msg: Perc bid Tradetype PERC_ACC 1286 Status: Filled FinalT:  11:32:00.592 Filled
+1287 perc bid T:  11:39:46.193 Order: BUY LMT 1.0 at 12685.0 msg: Perc bid Tradetype PERC_ACC 1287 Status: Unknown FinalT:  00:00  perc  22
+1290 perc bid T:  13:19:14.116 Order: BUY LMT 1.0 at 12685.0 msg: Perc bid Tradetype PERC_ACC 1290 Status: Unknown FinalT:  00:00  perc  22
+|| OrderState || 101 T:  13:19:14.116 Order: BUY LMT 1.0 at 12685.0 msg: Perc bid Tradetype PERC_ACC 1290 Status: Filled FinalT:  13:19:15.820 Filled
+|| OrderState || 101 T:  13:19:14.116 Order: BUY LMT 1.0 at 12685.0 msg: Perc bid Tradetype PERC_ACC 1290 Status: Filled FinalT:  13:19:15.883 Filled
+1291 perc offer,COVER T:  14:18:50.035 Order: SELL LMT 1.0 at 12702.5 msg: Perc offer COVER Tradetype PERC_DECC 1291 Status: Unknown FinalT:  00:00
+|| OrderState || 102 T:  14:18:50.035 Order: SELL LMT 1.0 at 12702.5 msg: Perc offer COVER Tradetype PERC_DECC 1291 Status: Filled FinalT:  14:19:03.444 Filled
+|| OrderState || 102 T:  14:18:50.035 Order: SELL LMT 1.0 at 12702.5 msg: Perc offer COVER Tradetype PERC_DECC 1291 Status: Filled FinalT:  14:19:03.493 Filled
+1292 perc bid T:  14:29:11.065 Order: BUY LMT 1.0 at 12700.0 msg: Perc bid Tradetype PERC_ACC 1292 Status: Unknown FinalT:  00:00  perc  29
+|| OrderState || 103 T:  14:29:11.065 Order: BUY LMT 1.0 at 12700.0 msg: Perc bid Tradetype PERC_ACC 1292 Status: Filled FinalT:  14:29:23.878 Filled
+|| OrderState || 103 T:  14:29:11.065 Order: BUY LMT 1.0 at 12700.0 msg: Perc bid Tradetype PERC_ACC 1292 Status: Filled FinalT:  14:29:23.929 Filled
+1295 perc offer,COVER T:  14:42:22.666 Order: SELL LMT 1.0 at 12735.0 msg: Perc offer COVER Tradetype PERC_DECC 1295 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  14:42:22.666 Order: SELL LMT 1.0 at 12735.0 msg: Perc offer COVER Tradetype PERC_DECC 1295 Status: Filled FinalT:  14:44:10.512 Filled
+|| OrderState || 101 T:  14:42:22.666 Order: SELL LMT 1.0 at 12735.0 msg: Perc offer COVER Tradetype PERC_DECC 1295 Status: Filled FinalT:  14:44:10.566 Filled
+2018-05-15T16:59:59.997 102 1296 Inventory Buy Open  T:  16:59:59.990 Order: BUY LMT 1.0 at 12695.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1296 Status: Unknown FinalT:  00:00
+|| OrderState || 102 T:  16:59:59.990 Order: BUY LMT 1.0 at 12695.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1296 Status: Filled FinalT:  17:00:00.469 Filled
+2018-05-15T17:00:00.479 103 1297 Inventory Sell Close  T:  17:00:00.478 Order: SELL LMT 1.0 at 12700.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1297 Status: Unknown FinalT:  00:00
+|| OrderState || 102 T:  16:59:59.990 Order: BUY LMT 1.0 at 12695.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1296 Status: Filled FinalT:  17:00:00.497 Filled
+|| OrderState || 103 T:  17:00:00.478 Order: SELL LMT 1.0 at 12700.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1297 Status: Filled FinalT:  17:00:32.774 Filled
+|| OrderState || 103 T:  17:00:00.478 Order: SELL LMT 1.0 at 12700.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1297 Status: Filled FinalT:  17:00:32.829 Filled
+2018-05-15T17:00:44.949 104 1298 Inventory Buy Open  T:  17:00:44.948 Order: BUY LMT 1.0 at 12695.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1298 Status: Unknown FinalT:  00:00
+2018-05-15T20:02:03.703 101 1301 Inventory Buy Open  T:  20:02:03.701 Order: BUY LMT 1.0 at 12697.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1301 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  20:02:03.701 Order: BUY LMT 1.0 at 12697.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1301 Status: Filled FinalT:  20:02:28.360 Filled
+|| OrderState || 101 T:  20:02:03.701 Order: BUY LMT 1.0 at 12697.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1301 Status: Filled FinalT:  20:02:28.371 Filled
+2018-05-15T20:02:28.371 102 1302 Inventory Sell Close  T:  20:02:28.370 Order: SELL LMT 1.0 at 12702.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1302 Status: Unknown FinalT:  00:00
+|| OrderState || 102 T:  20:02:28.370 Order: SELL LMT 1.0 at 12702.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1302 Status: Filled FinalT:  20:21:29.623 Filled
+|| OrderState || 102 T:  20:02:28.370 Order: SELL LMT 1.0 at 12702.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1302 Status: Filled FinalT:  20:21:29.672 Filled
+2018-05-15T20:21:59.268 103 1303 Inventory Buy Open  T:  20:21:59.268 Order: BUY LMT 1.0 at 12697.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1303 Status: Unknown FinalT:  00:00
+|| OrderState || 103 T:  20:21:59.268 Order: BUY LMT 1.0 at 12697.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1303 Status: Filled FinalT:  20:27:46.029 Filled
+2018-05-15T20:27:46.038 104 1304 Inventory Sell Close  T:  20:27:46.038 Order: SELL LMT 1.0 at 12702.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1304 Status: Unknown FinalT:  00:00
+|| OrderState || 103 T:  20:21:59.268 Order: BUY LMT 1.0 at 12697.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1303 Status: Filled FinalT:  20:27:46.056 Filled
+2018-05-15T21:28:43.414 105 1305 Inventory Buy Open  T:  21:28:43.414 Order: BUY LMT 1.0 at 12657.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1305 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  21:28:43.414 Order: BUY LMT 1.0 at 12657.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1305 Status: Filled FinalT:  21:32:05.711 Filled
+2018-05-15T21:32:05.720 106 1306 Inventory Sell Close  T:  21:32:05.720 Order: SELL LMT 1.0 at 12662.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1306 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  21:28:43.414 Order: BUY LMT 1.0 at 12657.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1305 Status: Filled FinalT:  21:32:05.739 Filled
+|| OrderState || 106 T:  21:32:05.720 Order: SELL LMT 1.0 at 12662.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1306 Status: Filled FinalT:  22:25:16.470 Filled
+|| OrderState || 106 T:  21:32:05.720 Order: SELL LMT 1.0 at 12662.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1306 Status: Filled FinalT:  22:25:16.517 Filled
+1275 perc offer,COVER T:  09:04:34.145 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1275 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  09:04:34.145 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1275 Status: Filled FinalT:  09:05:45.033 Filled
+|| OrderState || 101 T:  09:04:34.145 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1275 Status: Filled FinalT:  09:05:45.075 Filled
+1278 perc offer,COVER T:  09:25:07.864 Order: SELL LMT 1.0 at 12690.0 msg: Perc offer COVER Tradetype PERC_DECC 1278 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  09:25:07.864 Order: SELL LMT 1.0 at 12690.0 msg: Perc offer COVER Tradetype PERC_DECC 1278 Status: Filled FinalT:  09:25:08.034 Filled
+|| OrderState || 101 T:  09:25:07.864 Order: SELL LMT 1.0 at 12690.0 msg: Perc offer COVER Tradetype PERC_DECC 1278 Status: Filled FinalT:  09:25:08.043 Filled
+2018-05-16T09:39 102 1279 Inventory Buy Open  T:  09:39:39.079 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1279 Status: Unknown FinalT:  00:00
+|| OrderState || 102 T:  09:39:39.079 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1279 Status: Filled FinalT:  09:39:52.509 Filled
+2018-05-16T09:39 103 1280 Inventory Sell Close  T:  09:39 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1280 Status: Unknown FinalT:  00:00
+|| OrderState || 102 T:  09:39:39.079 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1279 Status: Filled FinalT:  09:39:52.539 Filled
+1281 perc offer,COVER T:  09:40:00.002 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1281 Status: Unknown FinalT:  00:00
+|| OrderState || 103 T:  09:39 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1280 Status: Filled FinalT:  09:40:00.444 Filled
+|| OrderState || 104 T:  09:40:00.002 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1281 Status: Filled FinalT:  09:40:00.505 Filled
+|| OrderState || 103 T:  09:39 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1280 Status: Filled FinalT:  09:40:00.515 Filled
+|| OrderState || 104 T:  09:40:00.002 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1281 Status: Filled FinalT:  09:40:00.525 Filled
+2018-05-16T09:40 105 1282 Inventory Buy Open  T:  09:40:02.517 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1282 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  09:40:02.517 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1282 Status: Filled FinalT:  09:43:04.908 Filled
+2018-05-16T09:43 106 1283 Inventory Sell Close  T:  09:43 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1283 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  09:40:02.517 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1282 Status: Filled FinalT:  09:43:04.938 Filled
+|| OrderState || 106 T:  09:43 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1283 Status: Filled FinalT:  09:45:15.906 Filled
+|| OrderState || 106 T:  09:43 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1283 Status: Filled FinalT:  09:45:15.958 Filled
+2018-05-16T09:48 101 1286 Inventory Buy Open  T:  09:48:54.007 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1286 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  09:48:54.007 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1286 Status: Filled FinalT:  09:49:11.793 Filled
+2018-05-16T09:49 102 1287 Inventory Sell Close  T:  09:49 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1287 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  09:48:54.007 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1286 Status: Filled FinalT:  09:49:11.826 Filled
+2018-05-16T09:59 103 1288 Inventory Buy Open  T:  09:59:23.088 Order: BUY LMT 1.0 at 12640.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1288 Status: Unknown FinalT:  00:00
+|| OrderState || 103 T:  09:59:23.088 Order: BUY LMT 1.0 at 12640.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1288 Status: Filled FinalT:  09:59:37.644 Filled
+2018-05-16T09:59 104 1289 Inventory Sell Close  T:  09:59 Order: SELL LMT 1.0 at 12645.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1289 Status: Unknown FinalT:  00:00
+|| OrderState || 103 T:  09:59:23.088 Order: BUY LMT 1.0 at 12640.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1288 Status: Filled FinalT:  09:59:37.683 Filled
+|| OrderState || 104 T:  09:59 Order: SELL LMT 1.0 at 12645.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1289 Status: Filled FinalT:  10:00:24.992 Filled
+|| OrderState || 104 T:  09:59 Order: SELL LMT 1.0 at 12645.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1289 Status: Filled FinalT:  10:00:25.046 Filled
+2018-05-16T10:00 105 1290 Inventory Buy Open  T:  10:00:25.104 Order: BUY LMT 1.0 at 12642.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1290 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  10:00:25.104 Order: BUY LMT 1.0 at 12642.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1290 Status: Filled FinalT:  10:06:52.298 Filled
+2018-05-16T10:06 106 1291 Inventory Sell Close  T:  10:06 Order: SELL LMT 1.0 at 12647.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1291 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  10:00:25.104 Order: BUY LMT 1.0 at 12642.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1290 Status: Filled FinalT:  10:06:52.345 Filled
+|| OrderState || 106 T:  10:06 Order: SELL LMT 1.0 at 12647.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1291 Status: Filled FinalT:  10:07:42.541 Filled
+|| OrderState || 106 T:  10:06 Order: SELL LMT 1.0 at 12647.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1291 Status: Filled FinalT:  10:07:42.592 Filled
+2018-05-16T10:07 107 1292 Inventory Buy Open  T:  10:07:42.615 Order: BUY LMT 1.0 at 12645.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1292 Status: Unknown FinalT:  00:00
+|| OrderState || 107 T:  10:07:42.615 Order: BUY LMT 1.0 at 12645.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1292 Status: Filled FinalT:  10:07:48.226 Filled
+2018-05-16T10:07 108 1293 Inventory Sell Close  T:  10:07 Order: SELL LMT 1.0 at 12650.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1293 Status: Unknown FinalT:  00:00
+|| OrderState || 107 T:  10:07:42.615 Order: BUY LMT 1.0 at 12645.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1292 Status: Filled FinalT:  10:07:48.254 Filled
+|| OrderState || 108 T:  10:07 Order: SELL LMT 1.0 at 12650.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1293 Status: Filled FinalT:  10:07:58.120 Filled
+|| OrderState || 108 T:  10:07 Order: SELL LMT 1.0 at 12650.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1293 Status: Filled FinalT:  10:07:58.168 Filled
+2018-05-16T10:07 109 1294 Inventory Buy Open  T:  10:07:58.243 Order: BUY LMT 1.0 at 12647.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1294 Status: Unknown FinalT:  00:00
+|| OrderState || 109 T:  10:07:58.243 Order: BUY LMT 1.0 at 12647.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1294 Status: Filled FinalT:  10:08:05.689 Filled
+2018-05-16T10:08 110 1295 Inventory Sell Close  T:  10:08 Order: SELL LMT 1.0 at 12652.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1295 Status: Unknown FinalT:  00:00
+|| OrderState || 109 T:  10:07:58.243 Order: BUY LMT 1.0 at 12647.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1294 Status: Filled FinalT:  10:08:05.724 Filled
+1296 perc offer,COVER T:  11:02:22.368 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1296 Status: Unknown FinalT:  00:00
+|| OrderState || 111 T:  11:02:22.368 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1296 Status: Filled FinalT:  11:02:33.318 Filled
+|| OrderState || 111 T:  11:02:22.368 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1296 Status: Filled FinalT:  11:02:33.373 Filled
+2018-05-16T11:02 112 1297 Inventory Buy Open  T:  11:02:34.797 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1297 Status: Unknown FinalT:  00:00
+|| OrderState || 112 T:  11:02:34.797 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1297 Status: Filled FinalT:  11:04:09.957 Filled
+2018-05-16T11:04 113 1298 Inventory Sell Close  T:  11:04 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1298 Status: Unknown FinalT:  00:00
+|| OrderState || 112 T:  11:02:34.797 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1297 Status: Filled FinalT:  11:04:09.990 Filled
+|| OrderState || 113 T:  11:04 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1298 Status: Filled FinalT:  11:04:15.657 Filled
+|| OrderState || 113 T:  11:04 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1298 Status: Filled FinalT:  11:04:15.710 Filled
+2018-05-16T11:04 114 1299 Inventory Buy Open  T:  11:04:25.459 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1299 Status: Unknown FinalT:  00:00
+|| OrderState || 114 T:  11:04:25.459 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1299 Status: Filled FinalT:  11:10:29.629 Filled
+2018-05-16T11:10 115 1300 Inventory Sell Close  T:  11:10 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1300 Status: Unknown FinalT:  00:00
+|| OrderState || 114 T:  11:04:25.459 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1299 Status: Filled FinalT:  11:10:29.750 Filled
+|| OrderState || 115 T:  11:10 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1300 Status: Filled FinalT:  11:12:42.115 Filled
+|| OrderState || 115 T:  11:10 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1300 Status: Filled FinalT:  11:12:42.173 Filled
+2018-05-16T11:12 116 1301 Inventory Buy Open  T:  11:12:52.733 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1301 Status: Unknown FinalT:  00:00
+|| OrderState || 116 T:  11:12:52.733 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1301 Status: Filled FinalT:  11:13:04.614 Filled
+2018-05-16T11:13 117 1302 Inventory Sell Close  T:  11:13 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1302 Status: Unknown FinalT:  00:00
+|| OrderState || 116 T:  11:12:52.733 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1301 Status: Filled FinalT:  11:13:04.644 Filled
+1303 perc offer,COVER T:  11:13:19.876 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1303 Status: Unknown FinalT:  00:00
+|| OrderState || 117 T:  11:13 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1302 Status: Filled FinalT:  11:13:31.127 Filled
+|| OrderState || 117 T:  11:13 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1302 Status: Filled FinalT:  11:13:31.177 Filled
+2018-05-16T11:13 119 1304 Inventory Buy Open  T:  11:13:34.952 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1304 Status: Unknown FinalT:  00:00
+|| OrderState || 118 T:  11:13:19.876 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1303 Status: Filled FinalT:  11:13:37.678 Filled
+|| OrderState || 118 T:  11:13:19.876 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1303 Status: Filled FinalT:  11:13:37.732 Filled
+|| OrderState || 119 T:  11:13:34.952 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1304 Status: Filled FinalT:  11:14:19.679 Filled
+2018-05-16T11:14 120 1305 Inventory Sell Close  T:  11:14 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1305 Status: Unknown FinalT:  00:00
+|| OrderState || 119 T:  11:13:34.952 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1304 Status: Filled FinalT:  11:14:19.709 Filled
+2018-05-16T11:25 121 1306 Inventory Buy Open  T:  11:25:05.546 Order: BUY LMT 1.0 at 12660.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1306 Status: Unknown FinalT:  00:00
+2018-05-16T11:30 101 1309 Inventory Buy Open  T:  11:30:31.518 Order: BUY LMT 1.0 at 12657.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1309 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  11:30:31.518 Order: BUY LMT 1.0 at 12657.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1309 Status: Filled FinalT:  11:30:50.838 Filled
+2018-05-16T11:30 102 1310 Inventory Sell Close  T:  11:30 Order: SELL LMT 1.0 at 12662.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1310 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  11:30:31.518 Order: BUY LMT 1.0 at 12657.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1309 Status: Filled FinalT:  11:30:50.879 Filled
+|| OrderState || 102 T:  11:30 Order: SELL LMT 1.0 at 12662.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1310 Status: Filled FinalT:  11:36:13.588 Filled
+|| OrderState || 102 T:  11:30 Order: SELL LMT 1.0 at 12662.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1310 Status: Filled FinalT:  11:36:13.644 Filled
+2018-05-16T11:36 103 1311 Inventory Buy Open  T:  11:36:13.694 Order: BUY LMT 1.0 at 12660.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1311 Status: Unknown FinalT:  00:00
+2018-05-16T11:46 104 1312 Inventory Buy Open  T:  11:46:44.201 Order: BUY LMT 1.0 at 12670.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1312 Status: Unknown FinalT:  00:00
+2018-05-16T11:58 105 1313 Inventory Buy Open  T:  11:58:10.660 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1313 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  11:58:10.660 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1313 Status: Filled FinalT:  12:07:51.416 Filled
+2018-05-16T12:07 106 1314 Inventory Sell Close  T:  12:07 Order: SELL LMT 1.0 at 12677.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1314 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  11:58:10.660 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1313 Status: Filled FinalT:  12:07:51.449 Filled
+1315 perc offer,COVER T:  13:32:56.134 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1315 Status: Unknown FinalT:  00:00
+|| OrderState || 107 T:  13:32:56.134 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1315 Status: Filled FinalT:  13:32:56.436 Filled
+|| OrderState || 107 T:  13:32:56.134 Order: SELL LMT 1.0 at 12677.5 msg: Perc offer COVER Tradetype PERC_DECC 1315 Status: Filled FinalT:  13:32:56.504 Filled
+2018-05-16T13:32 108 1316 Inventory Buy Open  T:  13:32:56.639 Order: BUY LMT 1.0 at 12672.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1316 Status: Unknown FinalT:  00:00
+2018-05-16T13:35 109 MA ORDER || bidding @  BUY LMT 2.0 at 12675.0 type maSignals = 0 -> BUY BID
+|| OrderState || 109 T:  13:35:43.282 Order: BUY LMT 2.0 at 12675.0 msg: MA Trade bid Tradetype MA 1317 Status: Filled FinalT:  13:35:43.443 Filled
+|| OrderState || 109 T:  13:35:43.282 Order: BUY LMT 2.0 at 12675.0 msg: MA Trade bid Tradetype MA 1317 Status: Filled FinalT:  13:35:44.145 Filled
+1318 perc offer,COVER T:  13:42:57.470 Order: SELL LMT 1.0 at 12697.5 msg: Perc offer COVER Tradetype PERC_DECC 1318 Status: Unknown FinalT:  00:00
+****************ORDER************************
+1275 perc offer,COVER T:  08:59:59.553 Order: SELL LMT 1.0 at 12627.5 msg: Perc offer COVER Tradetype PERC_DECC 1275 Status: Unknown FinalT:  00:00
+****************ORDER************************
+****************ORDER************************
+1278 perc offer,COVER T:  09:11:47.433 Order: SELL LMT 1.0 at 12637.5 msg: Perc offer COVER Tradetype PERC_DECC 1278 Status: Unknown FinalT:  00:00
+****************ORDER************************
+****************ORDER************************
+1281 perc offer,COVER T:  09:14:04.898 Order: SELL LMT 1.0 at 12635.0 msg: Perc offer COVER Tradetype PERC_DECC 1281 Status: Unknown FinalT:  00:00
+****************ORDER************************
+|| OrderState || 101 T:  09:14:04.898 Order: SELL LMT 1.0 at 12635.0 msg: Perc offer COVER Tradetype PERC_DECC 1281 Status: Filled FinalT:  09:14:05.081 Filled
+|| OrderState || 101 T:  09:14:04.898 Order: SELL LMT 1.0 at 12635.0 msg: Perc offer COVER Tradetype PERC_DECC 1281 Status: Filled FinalT:  09:14:05.091 Filled
+1284 perc offer,COVER T:  09:17:28.739 Order: SELL LMT 1.0 at 12647.5 msg: Perc offer COVER Tradetype PERC_DECC 1284 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  09:17:28.739 Order: SELL LMT 1.0 at 12647.5 msg: Perc offer COVER Tradetype PERC_DECC 1284 Status: Filled FinalT:  09:17:28.909 Filled
+|| OrderState || 101 T:  09:17:28.739 Order: SELL LMT 1.0 at 12647.5 msg: Perc offer COVER Tradetype PERC_DECC 1284 Status: Filled FinalT:  09:17:28.924 Filled
+2018-05-17T09:31 102 1285 Inventory Buy Open  T:  09:31:03.650 Order: BUY LMT 2.0 at 12600.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1285 Status: Unknown FinalT:  00:00
+|| OrderState || 102 T:  09:31:03.650 Order: BUY LMT 2.0 at 12600.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1285 Status: Filled FinalT:  09:31:05.790 Filled
+2018-05-17T09:31 103 1286 Inventory Sell Close  T:  09:31 Order: SELL LMT 2.0 at 12605.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1286 Status: Unknown FinalT:  00:00
+|| OrderState || 102 T:  09:31:03.650 Order: BUY LMT 2.0 at 12600.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1285 Status: Filled FinalT:  09:31:05.828 Filled
+1287 perc offer,COVER T:  09:31:19.841 Order: SELL LMT 1.0 at 12605.0 msg: Perc offer COVER Tradetype PERC_DECC 1287 Status: Unknown FinalT:  00:00
+1276 perc offer,COVER T:  09:07:28.453 Order: SELL LMT 1.0 at 12515.0 msg: Perc offer COVER Tradetype PERC_DECC 1276 Status: Unknown FinalT:  00:00 perc:  30
+1275 perc offer,COVER T:  09:07:28.453 Order: SELL LMT 1.0 at 12515.0 msg: Perc offer COVER Tradetype PERC_DECC 1275 Status: Unknown FinalT:  00:00 perc:  30
+|| OrderState || 101 T:  09:07:28.453 Order: SELL LMT 1.0 at 12515.0 msg: Perc offer COVER Tradetype PERC_DECC 1275 Status: Filled FinalT:  09:07:34.286 Filled
+|| OrderState || 102 T:  09:07:28.453 Order: SELL LMT 1.0 at 12515.0 msg: Perc offer COVER Tradetype PERC_DECC 1276 Status: Filled FinalT:  09:07:34.332 Filled
+|| OrderState || 101 T:  09:07:28.453 Order: SELL LMT 1.0 at 12515.0 msg: Perc offer COVER Tradetype PERC_DECC 1275 Status: Filled FinalT:  09:07:34.343 Filled
+|| OrderState || 102 T:  09:07:28.453 Order: SELL LMT 1.0 at 12515.0 msg: Perc offer COVER Tradetype PERC_DECC 1276 Status: Filled FinalT:  09:07:34.354 Filled
+2018-05-18T09:07 103 1277 Inventory Buy Open  T:  09:07:36.027 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1277 Status: Unknown FinalT:  00:00
+|| OrderState || 103 T:  09:07:36.027 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1277 Status: Filled FinalT:  09:08:17.910 Filled
+2018-05-18T09:08 104 1278 Inventory Sell Close  T:  09:08 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1278 Status: Unknown FinalT:  00:00
+|| OrderState || 103 T:  09:07:36.027 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1277 Status: Filled FinalT:  09:08:17.941 Filled
+|| OrderState || 104 T:  09:08 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1278 Status: Filled FinalT:  09:12:10.003 Filled
+|| OrderState || 104 T:  09:08 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1278 Status: Filled FinalT:  09:12:10.055 Filled
+2018-05-18T09:12 105 1279 Inventory Buy Open  T:  09:12:10.347 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1279 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  09:12:10.347 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1279 Status: Filled FinalT:  09:13:21.086 Filled
+2018-05-18T09:13 106 1280 Inventory Sell Close  T:  09:13 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1280 Status: Unknown FinalT:  00:00
+|| OrderState || 105 T:  09:12:10.347 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1279 Status: Filled FinalT:  09:13:21.124 Filled
+|| OrderState || 106 T:  09:13 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1280 Status: Filled FinalT:  09:13:21.323 Filled
+|| OrderState || 106 T:  09:13 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1280 Status: Filled FinalT:  09:13:21.335 Filled
+2018-05-18T09:13 107 1281 Inventory Buy Open  T:  09:13:21.335 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1281 Status: Unknown FinalT:  00:00
+|| OrderState || 107 T:  09:13:21.335 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1281 Status: Filled FinalT:  09:17:53.374 Filled
+2018-05-18T09:17 108 1282 Inventory Sell Close  T:  09:17 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1282 Status: Unknown FinalT:  00:00
+|| OrderState || 107 T:  09:13:21.335 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1281 Status: Filled FinalT:  09:17:53.404 Filled
+|| OrderState || 108 T:  09:17 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1282 Status: Filled FinalT:  09:18:03.121 Filled
+|| OrderState || 108 T:  09:17 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1282 Status: Filled FinalT:  09:18:03.168 Filled
+2018-05-18T09:18 109 1283 Inventory Buy Open  T:  09:18:21.555 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1283 Status: Unknown FinalT:  00:00
+|| OrderState || 109 T:  09:18:21.555 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1283 Status: Filled FinalT:  09:20:25.571 Filled
+2018-05-18T09:20 110 1284 Inventory Sell Close  T:  09:20 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1284 Status: Unknown FinalT:  00:00
+|| OrderState || 109 T:  09:18:21.555 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1283 Status: Filled FinalT:  09:20:25.603 Filled
+1286 perc offer,COVER T:  09:36:23.027 Order: SELL LMT 1.0 at 12517.5 msg: Perc offer COVER Tradetype PERC_DECC 1286 Status: Unknown FinalT:  00:00 perc:  32
+1285 perc offer,COVER T:  09:36:23.026 Order: SELL LMT 1.0 at 12517.5 msg: Perc offer COVER Tradetype PERC_DECC 1285 Status: Unknown FinalT:  00:00 perc:  32
+|| OrderState || 112 T:  09:36:23.026 Order: SELL LMT 1.0 at 12517.5 msg: Perc offer COVER Tradetype PERC_DECC 1285 Status: Filled FinalT:  09:36:28.954 Filled
+|| OrderState || 111 T:  09:36:23.027 Order: SELL LMT 1.0 at 12517.5 msg: Perc offer COVER Tradetype PERC_DECC 1286 Status: Filled FinalT:  09:36:29.001 Filled
+|| OrderState || 112 T:  09:36:23.026 Order: SELL LMT 1.0 at 12517.5 msg: Perc offer COVER Tradetype PERC_DECC 1285 Status: Filled FinalT:  09:36:29.010 Filled
+|| OrderState || 111 T:  09:36:23.027 Order: SELL LMT 1.0 at 12517.5 msg: Perc offer COVER Tradetype PERC_DECC 1286 Status: Filled FinalT:  09:36:29.020 Filled
+2018-05-18T09:37 113 1287 Inventory Buy Open  T:  09:37:23.910 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1287 Status: Unknown FinalT:  00:00
+|| OrderState || 113 T:  09:37:23.910 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1287 Status: Filled FinalT:  09:37:24.083 Filled
+|| OrderState || 113 T:  09:37:23.910 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1287 Status: Filled FinalT:  09:37:24.096 Filled
+2018-05-18T09:37 114 1288 Inventory Sell Close  T:  09:37 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1288 Status: Unknown FinalT:  00:00
+|| OrderState || 114 T:  09:37 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1288 Status: Filled FinalT:  09:37:45.385 Filled
+|| OrderState || 114 T:  09:37 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1288 Status: Filled FinalT:  09:37:45.433 Filled
+2018-05-18T09:37 115 1289 Inventory Buy Open  T:  09:37:47.090 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1289 Status: Unknown FinalT:  00:00
+|| OrderState || 115 T:  09:37:47.090 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1289 Status: Filled FinalT:  09:37:48.561 Filled
+2018-05-18T09:37 116 1290 Inventory Sell Close  T:  09:37 Order: SELL LMT 1.0 at 12515.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1290 Status: Unknown FinalT:  00:00
+|| OrderState || 115 T:  09:37:47.090 Order: BUY LMT 1.0 at 12510.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1289 Status: Filled FinalT:  09:37:48.603 Filled
+2018-05-18T09:52 101 1293 Inventory Buy Open  T:  09:52:44.461 Order: BUY LMT 1.0 at 12457.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1293 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  09:52:44.461 Order: BUY LMT 1.0 at 12457.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1293 Status: Filled FinalT:  09:52:46.944 Filled
+2018-05-18T09:52 102 1294 Inventory Sell Close  T:  09:52 Order: SELL LMT 1.0 at 12462.5 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1294 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  09:52:44.461 Order: BUY LMT 1.0 at 12457.5 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1293 Status: Filled FinalT:  09:52:46.983 Filled
+2018-05-18T10:14 101 1297 Inventory Buy Open  T:  10:14:52.764 Order: BUY LMT 1.0 at 12460.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1297 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  10:14:52.764 Order: BUY LMT 1.0 at 12460.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1297 Status: Filled FinalT:  10:15:03.588 Filled
+2018-05-18T10:15 102 1298 Inventory Sell Close  T:  10:15 Order: SELL LMT 1.0 at 12465.0 msg: Inventory Sell Close Tradetype INVENTORY_CLOSE 1298 Status: Unknown FinalT:  00:00
+|| OrderState || 101 T:  10:14:52.764 Order: BUY LMT 1.0 at 12460.0 msg: Inventory Buy Open Tradetype INVENTORY_OPEN 1297 Status: Filled FinalT:  10:15:03.617 Filled
+2018-05-18T10:20 103 MA ORDER || bidding @  BUY LMT 1.0 at 12477.5 type maSignals = 0 -> BUY BID
+2018-05-18T10:20 104 MA ORDER || bidding @  BUY LMT 1.0 at 12480.0 type  maSignals > 0 -> BUY @ LAST BAR OPEN
+|| OrderState || 104 T:  10:20:00.145 Order: BUY LMT 1.0 at 12480.0 msg: MA Trade bid Tradetype MA 1300 Status: Filled FinalT:  10:20:00.381 Filled
+|| OrderState || 104 T:  10:20:00.145 Order: BUY LMT 1.0 at 12480.0 msg: MA Trade bid Tradetype MA 1300 Status: Filled FinalT:  10:20:00.392 Filled
+|| OrderState || 103 T:  10:20:00.105 Order: BUY LMT 1.0 at 12477.5 msg: MA Trade bid Tradetype MA 1299 Status: Filled FinalT:  10:21:13.047 Filled
+|| OrderState || 103 T:  10:20:00.105 Order: BUY LMT 1.0 at 12477.5 msg: MA Trade bid Tradetype MA 1299 Status: Filled FinalT:  10:21:13.107 Filled
+1303 perc offer,COVER T:  10:30:09.239 Order: SELL LMT 1.0 at 12495.0 msg: Perc offer COVER Tradetype PERC_DECC 1303 Status: Unknown FinalT:  00:00 perc:  30
+||Order|| 101 T:  10:30:09.239 Order: SELL LMT 1.0 at 12495.0 msg: Perc offer COVER Tradetype PERC_DECC 1303 Status: Filled FinalT:  10:30:11.914 Filled
+||Order|| 101 T:  10:30:09.239 Order: SELL LMT 1.0 at 12495.0 msg: Perc offer COVER Tradetype PERC_DECC 1303 Status: Filled FinalT:  10:30:11.966 Filled
+1306  Sell Flatten  T:  13:19:28.065 Order: SELL LMT 2.0 at 12505.0 msg: Sell Tradetype FLATTEN 1306 Status: Unknown FinalT:  00:00
+||Order|| 101 T:  13:19:28.065 Order: SELL LMT 2.0 at 12505.0 msg: Sell Tradetype FLATTEN 1306 Status: Filled FinalT:  13:19:28.248 Filled
+||Order|| 101 T:  13:19:28.065 Order: SELL LMT 2.0 at 12505.0 msg: Sell Tradetype FLATTEN 1306 Status: Filled FinalT:  13:19:28.258 Filled
+1307  Sell Flatten  T:  13:21:04.641 Order: SELL LMT 1.0 at 12505.0 msg: Sell Tradetype FLATTEN 1307 Status: Unknown FinalT:  00:00
+||Order|| 102 T:  13:21:04.641 Order: SELL LMT 1.0 at 12505.0 msg: Sell Tradetype FLATTEN 1307 Status: Filled FinalT:  13:21:04.808 Filled
+||Order|| 102 T:  13:21:04.641 Order: SELL LMT 1.0 at 12505.0 msg: Sell Tradetype FLATTEN 1307 Status: Filled FinalT:  13:21:04.817 Filled
+1308 perc offer T:  14:01:22.183 Order: SELL LMT 1.0 at 12587.5 msg: Perc offer Tradetype PERC_DECC 1308 Status: Unknown FinalT:  00:00 perc 71
+2018-05-18T14:01 104 1309 Inventory Sell Open T:  14:01:22.210 Order: SELL LMT 1.0 at 12590.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1309 Status: Unknown FinalT:  00:00
+||Order|| 103 T:  14:01:22.183 Order: SELL LMT 1.0 at 12587.5 msg: Perc offer Tradetype PERC_DECC 1308 Status: Filled FinalT:  14:01:23.097 Filled
+||Order|| 103 T:  14:01:22.183 Order: SELL LMT 1.0 at 12587.5 msg: Perc offer Tradetype PERC_DECC 1308 Status: Filled FinalT:  14:01:23.150 Filled
+||Order|| 104 T:  14:01:22.210 Order: SELL LMT 1.0 at 12590.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1309 Status: Filled FinalT:  14:01:47.678 Filled
+2018-05-18T14:01 105 1310 Inv Buy Close T:  14:01:47.690 Order: BUY LMT 1.0 at 12585.0 msg: Inventory Buy Close Tradetype INVENTORY_CLOSE 1310 Status: Unknown FinalT:  00:00
+||Order|| 104 T:  14:01:22.210 Order: SELL LMT 1.0 at 12590.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1309 Status: Filled FinalT:  14:01:47.710 Filled
+||Order|| 105 T:  14:01:47.690 Order: BUY LMT 1.0 at 12585.0 msg: Inventory Buy Close Tradetype INVENTORY_CLOSE 1310 Status: Filled FinalT:  14:02:31.640 Filled
+||Order|| 105 T:  14:01:47.690 Order: BUY LMT 1.0 at 12585.0 msg: Inventory Buy Close Tradetype INVENTORY_CLOSE 1310 Status: Filled FinalT:  14:02:31.696 Filled
+2018-05-18T14:02 106 1311 Inventory Sell Open T:  14:02:57.126 Order: SELL LMT 1.0 at 12590.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1311 Status: Unknown FinalT:  00:00
+||Order|| 106 T:  14:02:57.126 Order: SELL LMT 1.0 at 12590.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1311 Status: Filled FinalT:  14:04:06.996 Filled
+2018-05-18T14:04 107 1312 Inv Buy Close T:  14:04:07.011 Order: BUY LMT 1.0 at 12585.0 msg: Inventory Buy Close Tradetype INVENTORY_CLOSE 1312 Status: Unknown FinalT:  00:00
+||Order|| 106 T:  14:02:57.126 Order: SELL LMT 1.0 at 12590.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1311 Status: Filled FinalT:  14:04:07.030 Filled
+||Order|| 107 T:  14:04:07.011 Order: BUY LMT 1.0 at 12585.0 msg: Inventory Buy Close Tradetype INVENTORY_CLOSE 1312 Status: Filled FinalT:  14:08:30.900 Filled
+2018-05-18T14:08 108 1313 Inventory Sell Open T:  14:08:30.929 Order: SELL LMT 1.0 at 12590.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1313 Status: Unknown FinalT:  00:00
+||Order|| 107 T:  14:04:07.011 Order: BUY LMT 1.0 at 12585.0 msg: Inventory Buy Close Tradetype INVENTORY_CLOSE 1312 Status: Filled FinalT:  14:08:30.948 Filled
+||Order|| 108 T:  14:08:30.929 Order: SELL LMT 1.0 at 12590.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1313 Status: Filled FinalT:  14:09:00.017 Filled
+2018-05-18T14:09 109 1314 Inv Buy Close T:  14:09:00.028 Order: BUY LMT 1.0 at 12585.0 msg: Inventory Buy Close Tradetype INVENTORY_CLOSE 1314 Status: Unknown FinalT:  00:00
+||Order|| 108 T:  14:08:30.929 Order: SELL LMT 1.0 at 12590.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1313 Status: Filled FinalT:  14:09:00.049 Filled
+2018-05-18T14:19 110 1315 Inventory Sell Open T:  14:19:49.612 Order: SELL LMT 1.0 at 12625.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1315 Status: Unknown FinalT:  00:00
+||Order|| 110 T:  14:19:49.612 Order: SELL LMT 1.0 at 12625.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1315 Status: Filled FinalT:  14:19:54.090 Filled
+2018-05-18T14:19 111 1316 Inv Buy Close T:  14:19:54.102 Order: BUY LMT 1.0 at 12620.0 msg: Inventory Buy Close Tradetype INVENTORY_CLOSE 1316 Status: Unknown FinalT:  00:00
+||Order|| 110 T:  14:19:49.612 Order: SELL LMT 1.0 at 12625.0 msg: Inventory Sell Open Tradetype INVENTORY_OPEN 1315 Status: Filled FinalT:  14:19:54.124 Filled
