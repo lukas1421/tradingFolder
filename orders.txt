@@ -305,3 +305,19 @@
 1278 perc bid T:  13:00:00.192 Order: BUY LMT 1.0 at 12580.0 msg: Perc bid Tradetype PERC_ACC 1278 Status: Unknown FinalT:  00:00  perc  9
 ||Order|| 1278 2271 T:  13:00:00.192 Order: BUY LMT 1.0 at 12580.0 msg: Perc bid Tradetype PERC_ACC 1278 Status: Filled FinalT:  13:00:08.575 Filled
 ||Order|| 1278 2271 T:  13:00:00.192 Order: BUY LMT 1.0 at 12580.0 msg: Perc bid Tradetype PERC_ACC 1278 Status: Filled FinalT:  13:00:08.694 Filled
+1275 perc bid T:  09:32:07.512 Order: BUY LMT 1.0 at 12510.0 msg: Perc bid Tradetype PERC_ACC 1275 Status: Unknown FinalT:  00:00  perc  9
+||Order|| 1275 101 T:  09:32:07.512 Order: BUY LMT 1.0 at 12510.0 msg: Perc bid Tradetype PERC_ACC 1275 Status: Filled FinalT:  09:32:13.721 Filled
+||Order|| 1275 101 T:  09:32:07.512 Order: BUY LMT 1.0 at 12510.0 msg: Perc bid Tradetype PERC_ACC 1275 Status: Filled FinalT:  09:32:13.758 Filled
+1275 perc bid T:  13:52:45.894 Order: BUY LMT 1.0 at 12430.0 msg: Perc bid Tradetype PERC_ACC 1275 Status: Unknown FinalT:  00:00  perc  0
+||Order|| 1275 101 T:  13:52:45.894 Order: BUY LMT 1.0 at 12430.0 msg: Perc bid Tradetype PERC_ACC 1275 Status: Filled FinalT:  13:52:48.543 Filled
+||Order|| 1275 101 T:  13:52:45.894 Order: BUY LMT 1.0 at 12430.0 msg: Perc bid Tradetype PERC_ACC 1275 Status: Filled FinalT:  13:52:48.753 Filled
+1278 perc offer T:  14:04:26.042 Order: SELL LMT 1.0 at 12420.0 msg: Perc offer Tradetype PERC_DECC 1278 Status: Unknown FinalT:  00:00 perc 100
+||Order|| 1278 101 T:  14:04:26.042 Order: SELL LMT 1.0 at 12420.0 msg: Perc offer Tradetype PERC_DECC 1278 Status: Filled FinalT:  14:04:28.738 Filled
+||Order|| 1278 101 T:  14:04:26.042 Order: SELL LMT 1.0 at 12420.0 msg: Perc offer Tradetype PERC_DECC 1278 Status: Filled FinalT:  14:04:28.840 Filled
+1281 perc bid T:  22:30:57.878 Order: BUY LMT 1.0 at 12327.5 msg: Perc bid Tradetype PERC_ACC 1281 Status: Unknown FinalT:  00:00  perc  9
+||Order|| 1281 101 T:  22:30:57.878 Order: BUY LMT 1.0 at 12327.5 msg: Perc bid Tradetype PERC_ACC 1281 Status: Filled FinalT:  22:31:03.531 Filled
+||Order|| 1281 101 T:  22:30:57.878 Order: BUY LMT 1.0 at 12327.5 msg: Perc bid Tradetype PERC_ACC 1281 Status: Filled FinalT:  22:31:03.613 Filled
+1282 perc bid T:  22:41:11.361 Order: BUY LMT 1.0 at 12315.0 msg: Perc bid Tradetype PERC_ACC 1282 Status: Unknown FinalT:  00:00  perc  6
+||Order|| 1282 102 T:  22:41:11.361 Order: BUY LMT 1.0 at 12315.0 msg: Perc bid Tradetype PERC_ACC 1282 Status: Filled FinalT:  22:41:11.598 Filled
+||Order|| 1282 102 T:  22:41:11.361 Order: BUY LMT 1.0 at 12315.0 msg: Perc bid Tradetype PERC_ACC 1282 Status: Filled FinalT:  22:41:11.610 Filled
+1283 MA ORDER || bidding @  BUY LMT 2.0 at 12307.5 already Long BUY @ MA T:  22:55:05.045 Order: BUY LMT 2.0 at 12307.5 msg: MA Trade bid Tradetype MA 1283 Status: Unknown FinalT:  00:00
