@@ -321,3 +321,18 @@
 ||Order|| 1282 102 T:  22:41:11.361 Order: BUY LMT 1.0 at 12315.0 msg: Perc bid Tradetype PERC_ACC 1282 Status: Filled FinalT:  22:41:11.598 Filled
 ||Order|| 1282 102 T:  22:41:11.361 Order: BUY LMT 1.0 at 12315.0 msg: Perc bid Tradetype PERC_ACC 1282 Status: Filled FinalT:  22:41:11.610 Filled
 1283 MA ORDER || bidding @  BUY LMT 2.0 at 12307.5 already Long BUY @ MA T:  22:55:05.045 Order: BUY LMT 2.0 at 12307.5 msg: MA Trade bid Tradetype MA 1283 Status: Unknown FinalT:  00:00
+1286 perc offer T:  11:23:34.854 Order: SELL LMT 1.0 at 12405.0 msg: Perc offer Tradetype PERC_DECC 1286 Status: Unknown FinalT:  00:00 perc 94
+||Order|| 1286 101 T:  11:23:34.854 Order: SELL LMT 1.0 at 12405.0 msg: Perc offer Tradetype PERC_DECC 1286 Status: Filled FinalT:  11:23:35.477 Filled
+||Order|| 1286 101 T:  11:23:34.854 Order: SELL LMT 1.0 at 12405.0 msg: Perc offer Tradetype PERC_DECC 1286 Status: Filled FinalT:  11:23:35.488 Filled
+*** 2018-05-29 ***
+1289 perc bid T:  13:10:12.579 Order: BUY LMT 1.0 at 12255.0 msg: Perc bid Tradetype PERC_ACC 1289 Status: Unknown FinalT:  00:00  perc  9
+||Order|| 1289 101 T:  13:10:12.579 Order: BUY LMT 1.0 at 12255.0 msg: Perc bid Tradetype PERC_ACC 1289 Status: Filled FinalT:  13:10:14.861 Filled
+||Order|| 1289 101 T:  13:10:12.579 Order: BUY LMT 1.0 at 12255.0 msg: Perc bid Tradetype PERC_ACC 1289 Status: Filled FinalT:  13:10:14.872 Filled
+*** 2018-05-29 ***
+1216  Short Roll  T:  17:03:13.412 Order: SELL LMT 1.0 at 0.0 msg:  Tradetype SHORT_ROLL 1216 Status: Unknown FinalT:  00:00
+*** 2018-05-29 ***
+1219  Short Roll  T:  17:05:26.943 Order: SELL LMT 1.0 at 0.0 msg:  Tradetype SHORT_ROLL 1219 Status: Unknown FinalT:  00:00
+*** 2018-05-29 ***
+1222  Short Roll  T:  17:09:59.993 Order: SELL LMT 1.0 at 0.0 msg:  Tradetype SHORT_ROLL 1222 Status: Unknown FinalT:  00:00
+*** 2018-05-29 ***
+1225  Short Roll  T:  17:15:52.217 Order: SELL LMT 1.0 at 0.0 msg:  Tradetype SHORT_ROLL 1225 Status: Unknown FinalT:  00:00
