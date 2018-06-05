@@ -336,3 +336,51 @@
 1222  Short Roll  T:  17:09:59.993 Order: SELL LMT 1.0 at 0.0 msg:  Tradetype SHORT_ROLL 1222 Status: Unknown FinalT:  00:00
 *** 2018-05-29 ***
 1225  Short Roll  T:  17:15:52.217 Order: SELL LMT 1.0 at 0.0 msg:  Tradetype SHORT_ROLL 1225 Status: Unknown FinalT:  00:00
+1228  MANUAL OFFER||offer price  12047.5  Checking order  true
+*** 2018-05-30 ***
+1239  Hitting bid  T:  20:43:02.579 Order: SELL LMT 1.0 at 12035.0 msg: hit bid Tradetype HIT_BID 1239 Status: Unknown FinalT:  00:00
+||Order|| 1239 101 T:  20:43:02.579 Order: SELL LMT 1.0 at 12035.0 msg: hit bid Tradetype HIT_BID 1239 Status: Filled FinalT:  20:43:02.834 Filled
+||Order|| 1239 101 T:  20:43:02.579 Order: SELL LMT 1.0 at 12035.0 msg: hit bid Tradetype HIT_BID 1239 Status: Filled FinalT:  20:43:02.848 Filled
+1240  Hitting bid  T:  20:43:17.128 Order: SELL LMT 1.0 at 12037.5 msg: hit bid Tradetype HIT_BID 1240 Status: Unknown FinalT:  00:00
+||Order|| 1240 102 T:  20:43:17.128 Order: SELL LMT 1.0 at 12037.5 msg: hit bid Tradetype HIT_BID 1240 Status: Filled FinalT:  20:43:17.368 Filled
+||Order|| 1240 102 T:  20:43:17.128 Order: SELL LMT 1.0 at 12037.5 msg: hit bid Tradetype HIT_BID 1240 Status: Filled FinalT:  20:43:17.385 Filled
+1241  Hitting bid  T:  20:43:41.987 Order: SELL LMT 1.0 at 12040.0 msg: hit bid Tradetype HIT_BID 1241 Status: Unknown FinalT:  00:00
+||Order|| 1241 103 T:  20:43:41.987 Order: SELL LMT 1.0 at 12040.0 msg: hit bid Tradetype HIT_BID 1241 Status: Filled FinalT:  20:43:42.227 Filled
+*** 2018-05-30 ***
+1245  Hitting bid  T:  20:46:27.843 Order: SELL LMT 1.0 at 12037.5 msg: hit bid Tradetype HIT_BID 1245 Status: Unknown FinalT:  00:00
+||Order|| 1245 101 T:  20:46:27.843 Order: SELL LMT 1.0 at 12037.5 msg: hit bid Tradetype HIT_BID 1245 Status: Filled FinalT:  20:46:28.081 Filled
+||Order|| 1245 101 T:  20:46:27.843 Order: SELL LMT 1.0 at 12037.5 msg: hit bid Tradetype HIT_BID 1245 Status: Filled FinalT:  20:46:28.094 Filled
+1246  Offer Limit  T:  20:46:34.287 Order: SELL LMT 1.0 at 12042.5 msg:  Tradetype ON_OFFER 1246 Status: Unknown FinalT:  00:00
+||Order|| 1246 102 T:  20:46:34.287 Order: SELL LMT 1.0 at 12042.5 msg:  Tradetype ON_OFFER 1246 Status: Filled FinalT:  20:48:16.182 Filled
+||Order|| 1246 102 T:  20:46:34.287 Order: SELL LMT 1.0 at 12042.5 msg:  Tradetype ON_OFFER 1246 Status: Filled FinalT:  20:48:16.270 Filled
+1247  Offer Limit  T:  20:48:26.235 Order: SELL LMT 1.0 at 12042.5 msg:  Tradetype ON_OFFER 1247 Status: Unknown FinalT:  00:00
+1248  Hitting bid  T:  20:48:39.552 Order: SELL LMT 1.0 at 12040.0 msg: hit bid Tradetype HIT_BID 1248 Status: Unknown FinalT:  00:00
+||Order|| 1248 104 T:  20:48:39.552 Order: SELL LMT 1.0 at 12040.0 msg: hit bid Tradetype HIT_BID 1248 Status: Filled FinalT:  20:48:50.660 Filled
+||Order|| 1248 104 T:  20:48:39.552 Order: SELL LMT 1.0 at 12040.0 msg: hit bid Tradetype HIT_BID 1248 Status: Filled FinalT:  20:48:50.672 Filled
+||Order|| 1247 103 T:  20:48:26.235 Order: SELL LMT 1.0 at 12042.5 msg:  Tradetype ON_OFFER 1247 Status: Filled FinalT:  20:49:16.467 Filled
+||Order|| 1247 103 T:  20:48:26.235 Order: SELL LMT 1.0 at 12042.5 msg:  Tradetype ON_OFFER 1247 Status: Filled FinalT:  20:49:16.545 Filled
+1249  Offer Limit  T:  20:49:28.687 Order: SELL LMT 1.0 at 12045.0 msg:  Tradetype ON_OFFER 1249 Status: Unknown FinalT:  00:00
+1250  Offer Limit  T:  20:56:03.661 Order: SELL LMT 1.0 at 12040.0 msg:  Tradetype ON_OFFER 1250 Status: Unknown FinalT:  00:00
+1251  Hitting bid  T:  20:56:09.622 Order: SELL LMT 1.0 at 12037.5 msg: hit bid Tradetype HIT_BID 1251 Status: Unknown FinalT:  00:00
+||Order|| 1251 107 T:  20:56:09.622 Order: SELL LMT 1.0 at 12037.5 msg: hit bid Tradetype HIT_BID 1251 Status: Filled FinalT:  20:56:10.002 Filled
+||Order|| 1251 107 T:  20:56:09.622 Order: SELL LMT 1.0 at 12037.5 msg: hit bid Tradetype HIT_BID 1251 Status: Filled FinalT:  20:56:10.013 Filled
+||Order|| 1250 106 T:  20:56:03.661 Order: SELL LMT 1.0 at 12040.0 msg:  Tradetype ON_OFFER 1250 Status: Filled FinalT:  20:56:15.209 Filled
+||Order|| 1250 106 T:  20:56:03.661 Order: SELL LMT 1.0 at 12040.0 msg:  Tradetype ON_OFFER 1250 Status: Filled FinalT:  20:56:15.294 Filled
+1252  Offer Limit  T:  20:56:31.225 Order: SELL LMT 1.0 at 12040.0 msg:  Tradetype ON_OFFER 1252 Status: Unknown FinalT:  00:00
+||Order|| 1252 108 T:  20:56:31.225 Order: SELL LMT 1.0 at 12040.0 msg:  Tradetype ON_OFFER 1252 Status: Filled FinalT:  20:56:31.683 Filled
+||Order|| 1252 108 T:  20:56:31.225 Order: SELL LMT 1.0 at 12040.0 msg:  Tradetype ON_OFFER 1252 Status: Filled FinalT:  20:56:31.772 Filled
+||Order|| 1249 105 T:  20:49:28.687 Order: SELL LMT 1.0 at 12045.0 msg:  Tradetype ON_OFFER 1249 Status: Filled FinalT:  20:58:11.443 Filled
+||Order|| 1249 105 T:  20:49:28.687 Order: SELL LMT 1.0 at 12045.0 msg:  Tradetype ON_OFFER 1249 Status: Filled FinalT:  20:58:11.527 Filled
+1255  MANUAL OFFER||offer price  12042.5  Checking order  true
+*** 2018-05-30 ***
+1258  Offer Limit  T:  21:07:41.276 Order: SELL LMT 1.0 at 12040.0 msg: offer limit Tradetype ON_OFFER 1258 Status: Unknown FinalT:  00:00
+*** 2018-05-30 ***
+1261  MANUAL OFFER||offer price  12040.0  Checking order  true
+1262  MANUAL OFFER||offer price  12042.5  Checking order  true
+*** 2018-06-01 ***
+1289 perc offer T:  00:00:27.661 Order: SELL LMT 1.0 at 12327.5 msg: Perc offer Tradetype PERC_DECC 1289 Status: Unknown FinalT:  00:00 perc 94
+||Order|| 1289 105 T:  00:00:27.661 Order: SELL LMT 1.0 at 12327.5 msg: Perc offer Tradetype PERC_DECC 1289 Status: Filled FinalT:  00:00:28.122 Filled
+||Order|| 1289 105 T:  00:00:27.661 Order: SELL LMT 1.0 at 12327.5 msg: Perc offer Tradetype PERC_DECC 1289 Status: Filled FinalT:  00:00:28.136 Filled
+1290 MA ORDER || offering @  SELL LMT 1.0 at 12315.0 pd < -0.003 SELL @ MA T:  00:10:04.006 Order: SELL LMT 1.0 at 12315.0 msg: MA Trade offer Tradetype MA 1290 Status: Unknown FinalT:  00:00
+||Order|| 1290 106 T:  00:10:04.006 Order: SELL LMT 1.0 at 12315.0 msg: MA Trade offer Tradetype MA 1290 Status: Filled FinalT:  00:10:04.273 Filled
+||Order|| 1290 106 T:  00:10:04.006 Order: SELL LMT 1.0 at 12315.0 msg: MA Trade offer Tradetype MA 1290 Status: Filled FinalT:  00:10:04.290 Filled
