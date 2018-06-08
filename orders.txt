@@ -384,3 +384,11 @@
 1290 MA ORDER || offering @  SELL LMT 1.0 at 12315.0 pd < -0.003 SELL @ MA T:  00:10:04.006 Order: SELL LMT 1.0 at 12315.0 msg: MA Trade offer Tradetype MA 1290 Status: Unknown FinalT:  00:00
 ||Order|| 1290 106 T:  00:10:04.006 Order: SELL LMT 1.0 at 12315.0 msg: MA Trade offer Tradetype MA 1290 Status: Filled FinalT:  00:10:04.273 Filled
 ||Order|| 1290 106 T:  00:10:04.006 Order: SELL LMT 1.0 at 12315.0 msg: MA Trade offer Tradetype MA 1290 Status: Filled FinalT:  00:10:04.290 Filled
+*** 2018-06-08 ***
+1289  MANUAL BID || bid price  12480.0  Checking order  true
+*** 2018-06-08 ***
+1292  MANUAL BID || bid price  12465.0  Checking order  true
+1293  MANUAL BID || bid price  12447.5  Checking order  true
+1294  MANUAL BID || bid price  12437.5  Checking order  true
+*** 2018-06-08 ***
+1289  MANUAL BID || bid price  12362.5  Checking order  true
