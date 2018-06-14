@@ -425,3 +425,61 @@
 1299  MANUAL BID || bid price  12410.0  Checking order  true
 *** 2018-06-14 ***
 1302  MANUAL BID || bid price  12405.0  Checking order  true
+1303  MANUAL BID || bid price  12405.0  Checking order  true
+1304  MANUAL BID || bid price  12392.5  Checking order  true
+1305  MANUAL BID || bid price  12407.5  Checking order  true
+1306  MANUAL BID || bid price  12402.5  Checking order  true
+*** 2018-06-14 ***
+1309  MANUAL OFFER||offer price  12445.0  Checking order  true
+1310  MANUAL OFFER||offer price  12447.5  Checking order  true
+1311  MANUAL OFFER||offer price  12450.0  Checking order  true
+1312  MANUAL OFFER||offer price  12452.5  Checking order  true
+1313  MANUAL OFFER||offer price  12455.0  Checking order  true
+1314  Offer Limit  T:  17:28:06.451 Order: SELL LMT 1.0 at 12445.0 msg: offer limit Tradetype ON_OFFER 1314 Status: Unknown FinalT:  00:00
+||Order|| 1314 106 T:  17:28:06.451 Order: SELL LMT 1.0 at 12445.0 msg: offer limit Tradetype ON_OFFER 1314 Status: Filled FinalT:  17:29:35.386 Filled
+||Order|| 1314 106 T:  17:28:06.451 Order: SELL LMT 1.0 at 12445.0 msg: offer limit Tradetype ON_OFFER 1314 Status: Filled FinalT:  17:29:35.402 Filled
+1315  Offer Limit  T:  17:32:28.952 Order: SELL LMT 1.0 at 12445.0 msg: offer limit Tradetype ON_OFFER 1315 Status: Unknown FinalT:  00:00
+1316  Offer Limit  T:  17:32:32.933 Order: SELL LMT 1.0 at 12445.0 msg: offer limit Tradetype ON_OFFER 1316 Status: Unknown FinalT:  00:00
+||Order|| 1315 107 T:  17:32:28.952 Order: SELL LMT 1.0 at 12445.0 msg: offer limit Tradetype ON_OFFER 1315 Status: Filled FinalT:  17:33:27.115 Filled
+||Order|| 1316 108 T:  17:32:32.933 Order: SELL LMT 1.0 at 12445.0 msg: offer limit Tradetype ON_OFFER 1316 Status: Filled FinalT:  17:33:27.173 Filled
+||Order|| 1315 107 T:  17:32:28.952 Order: SELL LMT 1.0 at 12445.0 msg: offer limit Tradetype ON_OFFER 1315 Status: Filled FinalT:  17:33:27.184 Filled
+||Order|| 1316 108 T:  17:32:32.933 Order: SELL LMT 1.0 at 12445.0 msg: offer limit Tradetype ON_OFFER 1316 Status: Filled FinalT:  17:33:27.195 Filled
+1317  Offer Limit  T:  17:34:06.979 Order: SELL LMT 1.0 at 12447.5 msg: offer limit Tradetype ON_OFFER 1317 Status: Unknown FinalT:  00:00
+*** 2018-06-14 ***
+1320 trim sell T:  17:55:57.396 Order: SELL LMT 1.0 at 12437.5 msg:  Tradetype TRIM 1320 Status: Unknown FinalT:  00:00 target range 500000.0 0.0
+||Order|| 1320 101 T:  17:55:57.396 Order: SELL LMT 1.0 at 12437.5 msg:  Tradetype TRIM 1320 Status: Filled FinalT:  17:56:08.146 Filled
+||Order|| 1320 101 T:  17:55:57.396 Order: SELL LMT 1.0 at 12437.5 msg:  Tradetype TRIM 1320 Status: Filled FinalT:  17:56:08.158 Filled
+*** 2018-06-14 ***
+1323 trim sell T:  18:01:46.571 Order: SELL LMT 1.0 at 12437.5 msg:  Tradetype TRIM 1323 Status: Unknown FinalT:  00:00 target range 500000.0 0.0
+||Order|| 1323 101 T:  18:01:46.571 Order: SELL LMT 1.0 at 12437.5 msg:  Tradetype TRIM 1323 Status: Filled FinalT:  18:04:36.548 Filled
+||Order|| 1323 101 T:  18:01:46.571 Order: SELL LMT 1.0 at 12437.5 msg:  Tradetype TRIM 1323 Status: Filled FinalT:  18:04:36.602 Filled
+1324 trim sell T:  18:15:11.788 Order: SELL LMT 1.0 at 12447.5 msg:  Tradetype TRIM 1324 Status: Unknown FinalT:  00:00 target range 500000.0 0.0
+||Order|| 1324 102 T:  18:15:11.788 Order: SELL LMT 1.0 at 12447.5 msg:  Tradetype TRIM 1324 Status: Filled FinalT:  18:17:10.965 Filled
+||Order|| 1324 102 T:  18:15:11.788 Order: SELL LMT 1.0 at 12447.5 msg:  Tradetype TRIM 1324 Status: Filled FinalT:  18:17:11.018 Filled
+1325 trim sell T:  18:25:15.427 Order: SELL LMT 1.0 at 12442.5 msg:  Tradetype TRIM 1325 Status: Unknown FinalT:  00:00 target range 500000.0 0.0
+||Order|| 1325 103 T:  18:25:15.427 Order: SELL LMT 1.0 at 12442.5 msg:  Tradetype TRIM 1325 Status: Filled FinalT:  18:25:15.593 Filled
+||Order|| 1325 103 T:  18:25:15.427 Order: SELL LMT 1.0 at 12442.5 msg:  Tradetype TRIM 1325 Status: Filled FinalT:  18:25:15.601 Filled
+1326 trim sell T:  18:39:55.886 Order: SELL LMT 1.0 at 12445.0 msg:  Tradetype TRIM 1326 Status: Unknown FinalT:  00:00 target range 500000.0 0.0
+||Order|| 1326 104 T:  18:39:55.886 Order: SELL LMT 1.0 at 12445.0 msg:  Tradetype TRIM 1326 Status: Filled FinalT:  18:46:25.951 Filled
+||Order|| 1326 104 T:  18:39:55.886 Order: SELL LMT 1.0 at 12445.0 msg:  Tradetype TRIM 1326 Status: Filled FinalT:  18:46:26.002 Filled
+1327 trim sell T:  19:13:52.287 Order: SELL LMT 1.0 at 12442.5 msg:  Tradetype TRIM 1327 Status: Unknown FinalT:  00:00 target range 500000.0 0.0
+||Order|| 1327 105 T:  19:13:52.287 Order: SELL LMT 1.0 at 12442.5 msg:  Tradetype TRIM 1327 Status: Filled FinalT:  19:13:52.470 Filled
+||Order|| 1327 105 T:  19:13:52.287 Order: SELL LMT 1.0 at 12442.5 msg:  Tradetype TRIM 1327 Status: Filled FinalT:  19:13:52.482 Filled
+1328 trim sell T:  19:26:28.590 Order: SELL LMT 1.0 at 12445.0 msg:  Tradetype TRIM 1328 Status: Unknown FinalT:  00:00 target range 500000.0 0.0
+||Order|| 1328 106 T:  19:26:28.590 Order: SELL LMT 1.0 at 12445.0 msg:  Tradetype TRIM 1328 Status: Filled FinalT:  19:26:28.856 Filled
+||Order|| 1328 106 T:  19:26:28.590 Order: SELL LMT 1.0 at 12445.0 msg:  Tradetype TRIM 1328 Status: Filled FinalT:  19:26:28.867 Filled
+1329 trim sell T:  22:57:00.473 Order: SELL LMT 1.0 at 12460.0 msg:  Tradetype TRIM 1329 Status: Unknown FinalT:  00:00 target range 250000.0 -100000.0
+||Order|| 1329 107 T:  22:57:00.473 Order: SELL LMT 1.0 at 12460.0 msg:  Tradetype TRIM 1329 Status: Filled FinalT:  22:57:25.647 Filled
+||Order|| 1329 107 T:  22:57:00.473 Order: SELL LMT 1.0 at 12460.0 msg:  Tradetype TRIM 1329 Status: Filled FinalT:  22:57:25.690 Filled
+1330 trim sell T:  00:02:46.925 Order: SELL LMT 1.0 at 12477.5 msg:  Tradetype TRIM 1330 Status: Unknown FinalT:  00:00 target range 250000.0 0.0
+||Order|| 1330 108 T:  00:02:46.925 Order: SELL LMT 1.0 at 12477.5 msg:  Tradetype TRIM 1330 Status: Filled FinalT:  00:02:47.149 Filled
+||Order|| 1330 108 T:  00:02:46.925 Order: SELL LMT 1.0 at 12477.5 msg:  Tradetype TRIM 1330 Status: Filled FinalT:  00:02:47.165 Filled
+1331 trim sell T:  00:13:20.122 Order: SELL LMT 1.0 at 12477.5 msg:  Tradetype TRIM 1331 Status: Unknown FinalT:  00:00 target range 250000.0 0.0
+1332 trim sell T:  00:23:28.711 Order: SELL LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1332 Status: Unknown FinalT:  00:00 target range 125000.0 -50000.0
+||Order|| 1332 110 T:  00:23:28.711 Order: SELL LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1332 Status: Filled FinalT:  00:23:28.907 Filled
+||Order|| 1332 110 T:  00:23:28.711 Order: SELL LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1332 Status: Filled FinalT:  00:23:28.919 Filled
+1333 trim sell T:  00:33:43.770 Order: SELL LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1333 Status: Unknown FinalT:  00:00 target range 125000.0 -50000.0
+||Order|| 1333 111 T:  00:33:43.770 Order: SELL LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1333 Status: Filled FinalT:  00:33:43.995 Filled
+||Order|| 1333 111 T:  00:33:43.770 Order: SELL LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1333 Status: Filled FinalT:  00:33:44.007 Filled
+||Order|| 1331 109 T:  00:13:20.122 Order: SELL LMT 1.0 at 12477.5 msg:  Tradetype TRIM 1331 Status: Filled FinalT:  00:59:46.424 Filled
+||Order|| 1331 109 T:  00:13:20.122 Order: SELL LMT 1.0 at 12477.5 msg:  Tradetype TRIM 1331 Status: Filled FinalT:  00:59:46.472 Filled
