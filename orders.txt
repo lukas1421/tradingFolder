@@ -392,3 +392,36 @@
 1294  MANUAL BID || bid price  12437.5  Checking order  true
 *** 2018-06-08 ***
 1289  MANUAL BID || bid price  12362.5  Checking order  true
+*** 2018-06-12 ***
+1292 MA ORDER || offering @  SELL LMT 1.0 at 12427.5 SELL: maSignals =  -> SELL @ OFFER T:  09:46:43.625 Order: SELL LMT 1.0 at 12427.5 msg: MA Trade offer Tradetype MA 1292 Status: Unknown FinalT:  00:00
+||Order|| 1292 101 T:  09:46:43.625 Order: SELL LMT 1.0 at 12427.5 msg: MA Trade offer Tradetype MA 1292 Status: Filled FinalT:  09:46:47.329 Filled
+||Order|| 1292 101 T:  09:46:43.625 Order: SELL LMT 1.0 at 12427.5 msg: MA Trade offer Tradetype MA 1292 Status: Filled FinalT:  09:46:47.492 Filled
+*** 2018-06-13 ***
+1265 day cover T:  13:24:00.420 Order: BUY LMT 1.0 at 12457.5 msg:  Tradetype DAY_COVER 1265 Status: Unknown FinalT:  00:00  todayPerc  0 open p% 100
+*** 2018-06-13 ***
+1268 perc offer T:  21:04:33.698 Order: SELL LMT 1.0 at 12490.0 msg: Perc offer Tradetype PERC_DECC 1268 Status: Unknown FinalT:  00:00 perc 100
+*** 2018-06-13 ***
+1271 perc offer T:  21:16:09.780 Order: SELL LMT 1.0 at 12487.5 msg: Perc offer Tradetype PERC_DECC 1271 Status: Unknown FinalT:  00:00 perc 100
+*** 2018-06-13 ***
+1274 perc offer T:  21:49:00.959 Order: SELL LMT 1.0 at 12477.5 msg: Perc offer Tradetype PERC_DECC 1274 Status: Unknown FinalT:  00:00 perc 100
+||Order|| 1274 101 T:  21:49:00.959 Order: SELL LMT 1.0 at 12477.5 msg: Perc offer Tradetype PERC_DECC 1274 Status: Filled FinalT:  21:49:01.147 Filled
+||Order|| 1274 101 T:  21:49:00.959 Order: SELL LMT 1.0 at 12477.5 msg: Perc offer Tradetype PERC_DECC 1274 Status: Filled FinalT:  21:49:01.167 Filled
+*** 2018-06-14 ***
+1292  MANUAL BID || bid price  12412.5  Checking order  true
+1293  Bidding Limit  T:  11:04:15.864 Order: BUY LMT 1.0 at 12417.5 msg:  Tradetype ON_BID 1293 Status: Unknown FinalT:  00:00
+||Order|| 1293 102 T:  11:04:15.864 Order: BUY LMT 1.0 at 12417.5 msg:  Tradetype ON_BID 1293 Status: Filled FinalT:  11:04:16.120 Filled
+||Order|| 1293 102 T:  11:04:15.864 Order: BUY LMT 1.0 at 12417.5 msg:  Tradetype ON_BID 1293 Status: Filled FinalT:  11:04:16.130 Filled
+1294  Bidding Limit  T:  11:04:36.284 Order: BUY LMT 1.0 at 12420.0 msg:  Tradetype ON_BID 1294 Status: Unknown FinalT:  00:00
+||Order|| 1294 103 T:  11:04:36.284 Order: BUY LMT 1.0 at 12420.0 msg:  Tradetype ON_BID 1294 Status: Filled FinalT:  11:04:56.417 Filled
+||Order|| 1294 103 T:  11:04:36.284 Order: BUY LMT 1.0 at 12420.0 msg:  Tradetype ON_BID 1294 Status: Filled FinalT:  11:04:56.475 Filled
+1295  Bidding Limit  T:  11:05:10.341 Order: BUY LMT 1.0 at 12417.5 msg:  Tradetype ON_BID 1295 Status: Unknown FinalT:  00:00
+1296  Bidding Limit  T:  11:07:42.149 Order: BUY LMT 1.0 at 12425.0 msg:  Tradetype ON_BID 1296 Status: Unknown FinalT:  00:00
+||Order|| 1296 105 T:  11:07:42.149 Order: BUY LMT 1.0 at 12425.0 msg:  Tradetype ON_BID 1296 Status: Filled FinalT:  11:08:15.424 Filled
+||Order|| 1296 105 T:  11:07:42.149 Order: BUY LMT 1.0 at 12425.0 msg:  Tradetype ON_BID 1296 Status: Filled FinalT:  11:08:15.486 Filled
+||Order|| 1295 104 T:  11:05:10.341 Order: BUY LMT 1.0 at 12417.5 msg:  Tradetype ON_BID 1295 Status: Filled FinalT:  11:09:59.998 Filled
+||Order|| 1295 104 T:  11:05:10.341 Order: BUY LMT 1.0 at 12417.5 msg:  Tradetype ON_BID 1295 Status: Filled FinalT:  11:10:00.095 Filled
+1297  MANUAL BID || bid price  12420.0  Checking order  true
+1298  MANUAL BID || bid price  12415.0  Checking order  true
+1299  MANUAL BID || bid price  12410.0  Checking order  true
+*** 2018-06-14 ***
+1302  MANUAL BID || bid price  12405.0  Checking order  true
