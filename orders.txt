@@ -483,3 +483,25 @@
 ||Order|| 1333 111 T:  00:33:43.770 Order: SELL LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1333 Status: Filled FinalT:  00:33:44.007 Filled
 ||Order|| 1331 109 T:  00:13:20.122 Order: SELL LMT 1.0 at 12477.5 msg:  Tradetype TRIM 1331 Status: Filled FinalT:  00:59:46.424 Filled
 ||Order|| 1331 109 T:  00:13:20.122 Order: SELL LMT 1.0 at 12477.5 msg:  Tradetype TRIM 1331 Status: Filled FinalT:  00:59:46.472 Filled
+*** 2018-06-15 ***
+1292 day sell T:  09:34:30.390 Order: SELL LMT 1.0 at 12475.0 msg:  Tradetype DAY_SELL 1292 Status: Unknown FinalT:  00:00  todayPerc  96 open p% 89
+1293 day sell T:  09:34:30.435 Order: SELL LMT 1.0 at 12475.0 msg:  Tradetype DAY_SELL 1293 Status: Unknown FinalT:  00:00  todayPerc  96 open p% 89
+||Order|| 1292 101 T:  09:34:30.390 Order: SELL LMT 1.0 at 12475.0 msg:  Tradetype DAY_SELL 1292 Status: Filled FinalT:  09:34:31.109 Filled
+||Order|| 1293 102 T:  09:34:30.435 Order: SELL LMT 1.0 at 12475.0 msg:  Tradetype DAY_SELL 1293 Status: Filled FinalT:  09:34:31.162 Filled
+||Order|| 1292 101 T:  09:34:30.390 Order: SELL LMT 1.0 at 12475.0 msg:  Tradetype DAY_SELL 1292 Status: Filled FinalT:  09:34:31.172 Filled
+||Order|| 1293 102 T:  09:34:30.435 Order: SELL LMT 1.0 at 12475.0 msg:  Tradetype DAY_SELL 1293 Status: Filled FinalT:  09:34:31.181 Filled
+*** 2018-06-15 ***
+1296 trim buy T:  14:20:51.286 Order: BUY LMT 1.0 at 12462.5 msg:  Tradetype TRIM 1296 Status: Unknown FinalT:  00:00 target range  125000.0 62500.0 currDel -135093.5959999999
+||Order|| 1296 101 T:  14:20:51.286 Order: BUY LMT 1.0 at 12462.5 msg:  Tradetype TRIM 1296 Status: Filled FinalT:  14:21:08.752 Filled
+||Order|| 1296 101 T:  14:20:51.286 Order: BUY LMT 1.0 at 12462.5 msg:  Tradetype TRIM 1296 Status: Filled FinalT:  14:21:08.774 Filled
+1297 trim buy T:  14:30:53.806 Order: BUY LMT 1.0 at 12455.0 msg:  Tradetype TRIM 1297 Status: Unknown FinalT:  00:00 target range  125000.0 62500.0 currDel -53608.2714999998
+||Order|| 1297 102 T:  14:30:53.806 Order: BUY LMT 1.0 at 12455.0 msg:  Tradetype TRIM 1297 Status: Filled FinalT:  14:30:53.976 Filled
+||Order|| 1297 102 T:  14:30:53.806 Order: BUY LMT 1.0 at 12455.0 msg:  Tradetype TRIM 1297 Status: Filled FinalT:  14:30:53.989 Filled
+1298 trim buy T:  14:40:57.118 Order: BUY LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1298 Status: Unknown FinalT:  00:00 target range  125000.0 62500.0 currDel 26349.49359999993
+||Order|| 1298 103 T:  14:40:57.118 Order: BUY LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1298 Status: Filled FinalT:  14:40:57.287 Filled
+||Order|| 1298 103 T:  14:40:57.118 Order: BUY LMT 1.0 at 12465.0 msg:  Tradetype TRIM 1298 Status: Filled FinalT:  14:40:57.298 Filled
+*** 2018-06-16 ***
+1277 MA ORDER || bidding @  BUY LMT 1.0 at 12375.0 already Long BUY @ MA T:  01:09:03.743 Order: BUY LMT 1.0 at 12375.0 msg: MA Trade bid Tradetype MA 1277 Status: Unknown FinalT:  00:00
+||Order|| 1277 101 T:  01:09:03.743 Order: BUY LMT 1.0 at 12375.0 msg: MA Trade bid Tradetype MA 1277 Status: Filled FinalT:  01:09:04.042 Filled
+||Order|| 1277 101 T:  01:09:03.743 Order: BUY LMT 1.0 at 12375.0 msg: MA Trade bid Tradetype MA 1277 Status: Filled FinalT:  01:09:04.059 Filled
+1278 MA ORDER || bidding @  BUY LMT 1.0 at 12372.5 already Long BUY @ MA T:  02:12:45.480 Order: BUY LMT 1.0 at 12372.5 msg: MA Trade bid Tradetype MA 1278 Status: Unknown FinalT:  00:00
