@@ -764,3 +764,59 @@
 ||Order|| 1346 155 T:  22:20:17.421 Order: SELL LMT 1.0 at 12010.0 msg:  Tradetype INDEX_MA 1346 Status: Filled FinalT:  22:20:18.546 Filled
 1348 index MA sell T:  22:38:18.515 Order: SELL LMT 1.0 at 12012.5 msg:  Tradetype INDEX_MA 1348 Status: Unknown FinalT:  00:00 Last shortlong  12012.75 12014.38 SecLast Shortlong 12015.25 12014.63
 ||Order|| 1348 157 T:  22:38:18.515 Order: SELL LMT 1.0 at 12012.5 msg:  Tradetype INDEX_MA 1348 Status: Filled FinalT:  22:38:22.049 Filled
+*** 2018-06-22 ***
+1292 index MA buy T:  09:41:00.421 Order: BUY LMT 1.0 at 12007.5 msg:  Tradetype INDEX_MA 1292 Status: Unknown FinalT:  00:00 Last shortlong  12023.199671999999 12018.7820478 SecLast Shortlong 12013.759269600001 12017.2691628
+||Order|| 1292 101 T:  09:41:00.421 Order: BUY LMT 1.0 at 12007.5 msg:  Tradetype INDEX_MA 1292 Status: Filled FinalT:  09:44:21.852 Filled
+1293 index MA sell T:  09:49:00.914 Order: SELL LMT 1.0 at 12020.0 msg:  Tradetype INDEX_MA 1293 Status: Unknown FinalT:  00:00 Last shortlong  12044.38 12046.2 SecLast Shortlong 12047.89 12044.38
+||Order|| 1293 102 T:  09:49:00.914 Order: SELL LMT 1.0 at 12020.0 msg:  Tradetype INDEX_MA 1293 Status: Filled FinalT:  09:49:26.153 Filled
+1294 index MA buy T:  10:02:00.222 Order: BUY LMT 1.0 at 11992.5 msg:  Tradetype INDEX_MA 1294 Status: Unknown FinalT:  00:00 Last shortlong  12003.4716516 12002.805982200001 SecLast Shortlong 11997.6621732 12003.0480438
+||Order|| 1294 103 T:  10:02:00.222 Order: BUY LMT 1.0 at 11992.5 msg:  Tradetype INDEX_MA 1294 Status: Filled FinalT:  10:02:07.462 Filled
+*** 2018-06-22 ***
+1297 day cover T:  10:35:02.220 Order: BUY LMT 1.0 at 11975.0 msg:  Tradetype SLOW_COVER 1297 Status: Unknown FinalT:  00:00  todayPerc  4
+||Order|| 1297 101 T:  10:35:02.220 Order: BUY LMT 1.0 at 11975.0 msg:  Tradetype SLOW_COVER 1297 Status: Filled FinalT:  10:35:02.780 Filled
+1298 index MA buy T:  10:41:04.895 Order: BUY LMT 1.0 at 12000.0 msg:  Tradetype INDEX_MA 1298 Status: Unknown FinalT:  00:00 Last shortlong  12008.9180376 12006.3158754 SecLast Shortlong 12005.166082799999 12006.4369062
+||Order|| 1298 102 T:  10:41:04.895 Order: BUY LMT 1.0 at 12000.0 msg:  Tradetype INDEX_MA 1298 Status: Filled FinalT:  10:41:45.232 Filled
+1299 index MA sell T:  10:57:04.502 Order: SELL LMT 1.0 at 12025.0 msg:  Tradetype INDEX_MA 1299 Status: Unknown FinalT:  00:00 Last shortlong  12040.02 12040.2 SecLast Shortlong 12039.78 12038.27
+||Order|| 1299 103 T:  10:57:04.502 Order: SELL LMT 1.0 at 12025.0 msg:  Tradetype INDEX_MA 1299 Status: Filled FinalT:  10:57:13.412 Filled
+1300 index MA buy T:  10:59:01.103 Order: BUY LMT 1.0 at 12037.5 msg:  Tradetype INDEX_MA 1300 Status: Unknown FinalT:  00:00 Last shortlong  12044.6221236 12042.746146200001 SecLast Shortlong 12040.749138 12041.2332612
+1301 index MA sell T:  11:19:03.004 Order: SELL LMT 1.0 at 12062.5 msg:  Tradetype INDEX_MA 1301 Status: Unknown FinalT:  00:00 Last shortlong  12097.51 12100.78 SecLast Shortlong 12100.66 12099.69
+||Order|| 1301 105 T:  11:19:03.004 Order: SELL LMT 1.0 at 12062.5 msg:  Tradetype INDEX_MA 1301 Status: Filled FinalT:  11:21:43.409 Filled
+1302 index MA buy T:  11:27:02.168 Order: BUY LMT 1.0 at 12045.0 msg:  Tradetype INDEX_MA 1302 Status: Unknown FinalT:  00:00 Last shortlong  12088.4352732 12087.8906346 SecLast Shortlong 12088.556304000002 12089.2824888
+1303 index MA sell T:  11:29:11.328 Order: SELL LMT 1.0 at 12062.5 msg:  Tradetype INDEX_MA 1303 Status: Unknown FinalT:  00:00 Last shortlong  12086.86 12087.1 SecLast Shortlong 12087.47 12087.1
+||Order|| 1303 107 T:  11:29:11.328 Order: SELL LMT 1.0 at 12062.5 msg:  Tradetype INDEX_MA 1303 Status: Filled FinalT:  11:29:29.537 Filled
+1304 index MA buy T:  11:34:21.541 Order: BUY LMT 1.0 at 12060.0 msg:  Tradetype INDEX_MA 1304 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+||Order|| 1304 108 T:  11:34:21.541 Order: BUY LMT 1.0 at 12060.0 msg:  Tradetype INDEX_MA 1304 Status: Filled FinalT:  11:34:32.254 Filled
+1305 index MA buy T:  11:35:36.062 Order: BUY LMT 1.0 at 12050.0 msg:  Tradetype INDEX_MA 1305 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+||Order|| 1305 109 T:  11:35:36.062 Order: BUY LMT 1.0 at 12050.0 msg:  Tradetype INDEX_MA 1305 Status: Filled FinalT:  11:35:37.916 Filled
+1306 index MA buy T:  11:36:43.678 Order: BUY LMT 1.0 at 12045.0 msg:  Tradetype INDEX_MA 1306 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+||Order|| 1302 106 T:  11:27:02.168 Order: BUY LMT 1.0 at 12045.0 msg:  Tradetype INDEX_MA 1302 Status: Filled FinalT:  11:36:45.435 Filled
+||Order|| 1306 110 T:  11:36:43.678 Order: BUY LMT 1.0 at 12045.0 msg:  Tradetype INDEX_MA 1306 Status: Filled FinalT:  11:36:50.643 Filled
+||Order|| 1300 104 T:  10:59:01.103 Order: BUY LMT 1.0 at 12037.5 msg:  Tradetype INDEX_MA 1300 Status: Filled FinalT:  11:37:35.362 Filled
+1307 index MA buy T:  11:37:51 Order: BUY LMT 1.0 at 12040.0 msg:  Tradetype INDEX_MA 1307 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+||Order|| 1307 111 T:  11:37:51 Order: BUY LMT 1.0 at 12040.0 msg:  Tradetype INDEX_MA 1307 Status: Filled FinalT:  11:37:54.979 Filled
+1308 index MA buy T:  11:38:51.600 Order: BUY LMT 1.0 at 12035.0 msg:  Tradetype INDEX_MA 1308 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+1309 index MA buy T:  11:39:59.208 Order: BUY LMT 1.0 at 12037.5 msg:  Tradetype INDEX_MA 1309 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+||Order|| 1309 113 T:  11:39:59.208 Order: BUY LMT 1.0 at 12037.5 msg:  Tradetype INDEX_MA 1309 Status: Filled FinalT:  11:40:12.596 Filled
+1310 index MA buy T:  11:40:59.716 Order: BUY LMT 1.0 at 12035.0 msg:  Tradetype INDEX_MA 1310 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+1311 index MA buy T:  11:42:27.659 Order: BUY LMT 1.0 at 12040.0 msg:  Tradetype INDEX_MA 1311 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+||Order|| 1311 115 T:  11:42:27.659 Order: BUY LMT 1.0 at 12040.0 msg:  Tradetype INDEX_MA 1311 Status: Filled FinalT:  11:42:39.090 Filled
+1312 index MA buy T:  11:44:02.403 Order: BUY LMT 1.0 at 12032.5 msg:  Tradetype INDEX_MA 1312 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+1313 index MA buy T:  11:45:15.413 Order: BUY LMT 1.0 at 12042.5 msg:  Tradetype INDEX_MA 1313 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+||Order|| 1313 117 T:  11:45:15.413 Order: BUY LMT 1.0 at 12042.5 msg:  Tradetype INDEX_MA 1313 Status: Filled FinalT:  11:46:03.258 Filled
+1314 index MA buy T:  11:47:04.172 Order: BUY LMT 1.0 at 12037.5 msg:  Tradetype INDEX_MA 1314 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+||Order|| 1314 118 T:  11:47:04.172 Order: BUY LMT 1.0 at 12037.5 msg:  Tradetype INDEX_MA 1314 Status: Filled FinalT:  11:47:26.953 Filled
+1315 index MA buy T:  11:48:22.497 Order: BUY LMT 1.0 at 12037.5 msg:  Tradetype INDEX_MA 1315 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+1316 index MA buy T:  11:50:02.812 Order: BUY LMT 1.0 at 12037.5 msg:  Tradetype INDEX_MA 1316 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+1317 index MA buy T:  11:51:20.968 Order: BUY LMT 1.0 at 12040.0 msg:  Tradetype INDEX_MA 1317 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+1318 index MA buy T:  11:52:27.479 Order: BUY LMT 1.0 at 12042.5 msg:  Tradetype INDEX_MA 1318 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+1319 index MA buy T:  11:54:44.579 Order: BUY LMT 1.0 at 12042.5 msg:  Tradetype INDEX_MA 1319 Status: Unknown FinalT:  00:00 Last shortlong  12087.2249652 12087.043419 SecLast Shortlong 12086.9829036 12087.2249652
+||Order|| 1318 122 T:  11:52:27.479 Order: BUY LMT 1.0 at 12042.5 msg:  Tradetype INDEX_MA 1318 Status: Filled FinalT:  11:54:50.405 Filled
+||Order|| 1319 123 T:  11:54:44.579 Order: BUY LMT 1.0 at 12042.5 msg:  Tradetype INDEX_MA 1319 Status: Filled FinalT:  11:55:12.240 Filled
+||Order|| 1317 121 T:  11:51:20.968 Order: BUY LMT 1.0 at 12040.0 msg:  Tradetype INDEX_MA 1317 Status: Filled FinalT:  12:07:56.925 Filled
+*** 2018-06-22 ***
+1322 trim sell T:  14:59:59.581 Order: SELL LMT 1.0 at 12065.0 msg:  Tradetype TRIM 1322 Status: Unknown FinalT:  00:00
+||Order|| 1322 101 T:  14:59:59.581 Order: SELL LMT 1.0 at 12065.0 msg:  Tradetype TRIM 1322 Status: Filled FinalT:  14:59:59.771 Filled
+1323 trim sell T:  15:30:01.125 Order: SELL LMT 1.0 at 12052.5 msg:  Tradetype TRIM 1323 Status: Unknown FinalT:  00:00
+||Order|| 1323 102 T:  15:30:01.125 Order: SELL LMT 1.0 at 12052.5 msg:  Tradetype TRIM 1323 Status: Filled FinalT:  15:30:02.291 Filled
+1324 trim sell T:  16:00:01.569 Order: SELL LMT 1.0 at 12055.0 msg:  Tradetype TRIM 1324 Status: Unknown FinalT:  00:00
+||Order|| 1324 103 T:  16:00:01.569 Order: SELL LMT 1.0 at 12055.0 msg:  Tradetype TRIM 1324 Status: Filled FinalT:  16:00:01.729 Filled
