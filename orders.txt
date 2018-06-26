@@ -820,3 +820,149 @@
 ||Order|| 1323 102 T:  15:30:01.125 Order: SELL LMT 1.0 at 12052.5 msg:  Tradetype TRIM 1323 Status: Filled FinalT:  15:30:02.291 Filled
 1324 trim sell T:  16:00:01.569 Order: SELL LMT 1.0 at 12055.0 msg:  Tradetype TRIM 1324 Status: Unknown FinalT:  00:00
 ||Order|| 1324 103 T:  16:00:01.569 Order: SELL LMT 1.0 at 12055.0 msg:  Tradetype TRIM 1324 Status: Filled FinalT:  16:00:01.729 Filled
+1325 trim sell T:  16:34:59.649 Order: SELL LMT 1.0 at 12040.0 msg:  Tradetype TRIM 1325 Status: Unknown FinalT:  00:00
+2018-06-22T17:06:35.118 cancelling orders from trim trader 
+2018-06-22T17:06:35.162 cancelling orders from trim trader 
+2018-06-22T17:07:12.432 cancelling orders from trim trader 
+2018-06-22T17:07:12.476 cancelling orders from trim trader 
+2018-06-22T17:08:34.208 cancelling orders from trim trader 
+2018-06-22T17:08:34.259 cancelling orders from trim trader 
+2018-06-22T17:11:06.622 cancelling orders from trim trader 
+2018-06-22T17:11:06.665 cancelling orders from trim trader 
+2018-06-22T17:12:05.612 cancelling orders from trim trader 
+2018-06-22T17:12:05.662 cancelling orders from trim trader 
+2018-06-22T17:12:18.227 cancelling orders from trim trader 
+2018-06-22T17:12:18.273 cancelling orders from trim trader 
+2018-06-22T17:12:39.762 cancelling orders from trim trader 
+2018-06-22T17:12:39.807 cancelling orders from trim trader 
+2018-06-22T17:13:03.592 cancelling orders from trim trader 
+2018-06-22T17:13:03.635 cancelling orders from trim trader 
+2018-06-22T17:13:51.230 cancelling orders from trim trader 
+2018-06-22T17:13:51.269 cancelling orders from trim trader 
+2018-06-22T17:14:05.951 cancelling orders from trim trader 
+2018-06-22T17:14:05.993 cancelling orders from trim trader 
+2018-06-22T17:15:05.139 cancelling orders from trim trader 
+2018-06-22T17:15:05.186 cancelling orders from trim trader 
+2018-06-22T17:16:12.245 cancelling orders from trim trader 
+2018-06-22T17:16:12.287 cancelling orders from trim trader 
+2018-06-22T17:16:37.487 cancelling orders from trim trader 
+2018-06-22T17:16:37.535 cancelling orders from trim trader 
+2018-06-22T17:17:42.928 cancelling orders from trim trader 
+2018-06-22T17:17:42.969 cancelling orders from trim trader 
+2018-06-22T17:20:28.528 cancelling orders from trim trader 
+2018-06-22T17:20:28.569 cancelling orders from trim trader 
+2018-06-22T17:20:52.408 cancelling orders from trim trader 
+2018-06-22T17:20:52.450 cancelling orders from trim trader 
+2018-06-22T17:22:45.030 cancelling orders from trim trader 
+2018-06-22T17:22:45.081 cancelling orders from trim trader 
+2018-06-22T17:24:01.543 cancelling orders from trim trader 
+2018-06-22T17:24:01.585 cancelling orders from trim trader 
+2018-06-22T17:24:09.757 cancelling orders from trim trader 
+2018-06-22T17:24:09.798 cancelling orders from trim trader 
+2018-06-22T17:26:30.691 cancelling orders from trim trader 
+2018-06-22T17:26:30.735 cancelling orders from trim trader 
+2018-06-22T17:27:15.050 cancelling orders from trim trader 
+2018-06-22T17:27:15.099 cancelling orders from trim trader 
+2018-06-22T17:29:25.242 cancelling orders from trim trader 
+2018-06-22T17:29:25.286 cancelling orders from trim trader 
+2018-06-22T17:37:02.357 cancelling orders from trim trader 
+2018-06-22T17:37:02.398 cancelling orders from trim trader 
+2018-06-22T17:42:01.796 cancelling orders from trim trader 
+2018-06-22T17:42:01.851 cancelling orders from trim trader 
+2018-06-22T17:42:03.053 cancelling orders from trim trader 
+2018-06-22T17:42:03.096 cancelling orders from trim trader 
+2018-06-22T17:44:10.087 cancelling orders from trim trader 
+2018-06-22T17:44:10.129 cancelling orders from trim trader 
+2018-06-22T17:44:56.951 cancelling orders from trim trader 
+2018-06-22T17:44:56.996 cancelling orders from trim trader 
+2018-06-22T17:45:10.784 cancelling orders from trim trader 
+2018-06-22T17:45:10.826 cancelling orders from trim trader 
+2018-06-22T17:46:16.168 cancelling orders from trim trader 
+2018-06-22T17:46:16.211 cancelling orders from trim trader 
+2018-06-22T17:49:02.612 cancelling orders from trim trader 
+2018-06-22T17:49:02.654 cancelling orders from trim trader 
+2018-06-22T17:49:10.116 cancelling orders from trim trader 
+2018-06-22T17:49:10.160 cancelling orders from trim trader 
+2018-06-22T17:50:04.078 cancelling orders from trim trader 
+2018-06-22T17:50:04.131 cancelling orders from trim trader 
+2018-06-22T17:51:03.663 cancelling orders from trim trader 
+2018-06-22T17:51:03.706 cancelling orders from trim trader 
+2018-06-22T17:52:10.811 cancelling orders from trim trader 
+2018-06-22T17:52:10.857 cancelling orders from trim trader 
+*** 2018-06-22 ***
+1328 trim sell T:  17:59:44.584 Order: SELL LMT 1.0 at 12052.5 msg:  Tradetype TRIM 1328 Status: Unknown FinalT:  00:00
+||Order|| 1328 101 T:  17:59:44.584 Order: SELL LMT 1.0 at 12052.5 msg:  Tradetype TRIM 1328 Status: Filled FinalT:  17:59:48.697 Filled
+1329 index MA buy T:  18:16:20.099 Order: BUY LMT 1.0 at 12050.0 msg:  Tradetype INDEX_MA 1329 Status: Unknown FinalT:  00:00 Last shortlong  12049.25 12049.08 SecLast Shortlong 12049.1 12049.3
+1330 trim sell T:  18:29:54.656 Order: SELL LMT 1.0 at 12057.5 msg:  Tradetype TRIM 1330 Status: Unknown FinalT:  00:00
+||Order|| 1330 103 T:  18:29:54.656 Order: SELL LMT 1.0 at 12057.5 msg:  Tradetype TRIM 1330 Status: Filled FinalT:  18:29:54.808 Filled
+1331 trim sell T:  19:00:58.169 Order: SELL LMT 1.0 at 12065.0 msg:  Tradetype TRIM 1331 Status: Unknown FinalT:  00:00
+||Order|| 1331 104 T:  19:00:58.169 Order: SELL LMT 1.0 at 12065.0 msg:  Tradetype TRIM 1331 Status: Filled FinalT:  19:00:58.325 Filled
+1332 trim sell T:  19:31:55.952 Order: SELL LMT 1.0 at 12065.0 msg:  Tradetype TRIM 1332 Status: Unknown FinalT:  00:00
+||Order|| 1332 105 T:  19:31:55.952 Order: SELL LMT 1.0 at 12065.0 msg:  Tradetype TRIM 1332 Status: Filled FinalT:  19:31:56.149 Filled
+1333 trim sell T:  20:02:14.370 Order: SELL LMT 1.0 at 12077.5 msg:  Tradetype TRIM 1333 Status: Unknown FinalT:  00:00
+||Order|| 1333 106 T:  20:02:14.370 Order: SELL LMT 1.0 at 12077.5 msg:  Tradetype TRIM 1333 Status: Filled FinalT:  20:02:14.541 Filled
+1334 trim sell T:  20:32:29.631 Order: SELL LMT 1.0 at 12070.0 msg:  Tradetype TRIM 1334 Status: Unknown FinalT:  00:00
+||Order|| 1334 107 T:  20:32:29.631 Order: SELL LMT 1.0 at 12070.0 msg:  Tradetype TRIM 1334 Status: Filled FinalT:  20:32:29.783 Filled
+1335 trim sell T:  21:02:51.586 Order: SELL LMT 1.0 at 12077.5 msg:  Tradetype TRIM 1335 Status: Unknown FinalT:  00:00
+||Order|| 1335 108 T:  21:02:51.586 Order: SELL LMT 1.0 at 12077.5 msg:  Tradetype TRIM 1335 Status: Filled FinalT:  21:02:51.940 Filled
+1336 trim sell T:  21:32:58.634 Order: SELL LMT 1.0 at 12067.5 msg:  Tradetype TRIM 1336 Status: Unknown FinalT:  00:00
+||Order|| 1336 109 T:  21:32:58.634 Order: SELL LMT 1.0 at 12067.5 msg:  Tradetype TRIM 1336 Status: Filled FinalT:  21:33:15.293 Filled
+1337 trim sell T:  22:03:39.942 Order: SELL LMT 1.0 at 12075.0 msg:  Tradetype TRIM 1337 Status: Unknown FinalT:  00:00
+||Order|| 1337 110 T:  22:03:39.942 Order: SELL LMT 1.0 at 12075.0 msg:  Tradetype TRIM 1337 Status: Filled FinalT:  22:08:01.576 Filled
+1338 trim sell T:  22:34:10.891 Order: SELL LMT 1.0 at 12042.5 msg:  Tradetype TRIM 1338 Status: Unknown FinalT:  00:00
+||Order|| 1338 111 T:  22:34:10.891 Order: SELL LMT 1.0 at 12042.5 msg:  Tradetype TRIM 1338 Status: Filled FinalT:  22:34:12.782 Filled
+1339 trim sell T:  23:04:13.003 Order: SELL LMT 1.0 at 12052.5 msg:  Tradetype TRIM 1339 Status: Unknown FinalT:  00:00
+||Order|| 1339 112 T:  23:04:13.003 Order: SELL LMT 1.0 at 12052.5 msg:  Tradetype TRIM 1339 Status: Filled FinalT:  23:04:32.742 Filled
+1340 trim sell T:  23:34:23.730 Order: SELL LMT 1.0 at 12055.0 msg:  Tradetype TRIM 1340 Status: Unknown FinalT:  00:00
+||Order|| 1340 113 T:  23:34:23.730 Order: SELL LMT 1.0 at 12055.0 msg:  Tradetype TRIM 1340 Status: Filled FinalT:  23:34:31.035 Filled
+1341 index MA sell T:  01:30:35.919 Order: SELL LMT 1.0 at 12067.5 msg:  Tradetype INDEX_MA 1341 Status: Unknown FinalT:  00:00 Last shortlong  12064.42 12064.47 SecLast Shortlong 12064.58 12064.31
+||Order|| 1341 114 T:  01:30:35.919 Order: SELL LMT 1.0 at 12067.5 msg:  Tradetype INDEX_MA 1341 Status: Filled FinalT:  01:33:02.472 Filled
+1342 trim buy T:  01:56:19.487 Order: BUY LMT 1.0 at 12070.0 msg:  Tradetype TRIM 1342 Status: Unknown FinalT:  00:00
+||Order|| 1342 115 T:  01:56:19.487 Order: BUY LMT 1.0 at 12070.0 msg:  Tradetype TRIM 1342 Status: Filled FinalT:  01:56:19.648 Filled
+*** 2018-06-25 ***
+1345 index MA sell T:  09:32:00.634 Order: SELL LMT 1.0 at 12105.0 msg:  Tradetype INDEX_MA 1345 Status: Unknown FinalT:  00:00 Last shortlong  12144.23 12150.41 SecLast Shortlong 12155.13 12151.74
+||Order|| 1345 101 T:  09:32:00.634 Order: SELL LMT 1.0 at 12105.0 msg:  Tradetype INDEX_MA 1345 Status: Filled FinalT:  09:32:01.742 Filled
+1346 index MA buy T:  09:39:04.643 Order: BUY LMT 1.0 at 12100.0 msg:  Tradetype INDEX_MA 1346 Status: Unknown FinalT:  00:00 Last shortlong  12130.32 12126.44 SecLast Shortlong 12127.29 12129.23
+2018-06-25T09:42:05.315 cancelling orders trader for type INDEX_MA
+1347 index MA sell T:  09:46:00.795 Order: SELL LMT 1.0 at 12112.5 msg:  Tradetype INDEX_MA 1347 Status: Unknown FinalT:  00:00 Last shortlong  12146.65 12152.58 SecLast Shortlong 12153.92 12153.43
+||Order|| 1347 103 T:  09:46:00.795 Order: SELL LMT 1.0 at 12112.5 msg:  Tradetype INDEX_MA 1347 Status: Filled FinalT:  09:46:02.888 Filled
+1348 index MA buy T:  09:51:00.693 Order: BUY LMT 1.0 at 12122.5 msg:  Tradetype INDEX_MA 1348 Status: Unknown FinalT:  00:00 Last shortlong  12134.55 12129.71 SecLast Shortlong 12125.47 12132.13
+||Order|| 1348 104 T:  09:51:00.693 Order: BUY LMT 1.0 at 12122.5 msg:  Tradetype INDEX_MA 1348 Status: Filled FinalT:  09:51:04.884 Filled
+1349 index MA sell T:  09:54:01.734 Order: SELL LMT 1.0 at 12102.5 msg:  Tradetype INDEX_MA 1349 Status: Unknown FinalT:  00:00 Last shortlong  12120.03 12131.4 SecLast Shortlong 12134.55 12132.98
+2018-06-25T09:57:04.313 cancelling orders trader for type INDEX_MA
+1350 index MA buy T:  09:59:01.608 Order: BUY LMT 1.0 at 12092.5 msg:  Tradetype INDEX_MA 1350 Status: Unknown FinalT:  00:00 Last shortlong  12120.63 12116.52 SecLast Shortlong 12115.79 12116.4
+||Order|| 1350 106 T:  09:59:01.608 Order: BUY LMT 1.0 at 12092.5 msg:  Tradetype INDEX_MA 1350 Status: Filled FinalT:  09:59:15.996 Filled
+*** 2018-06-25 ***
+1353 index MA buy T:  10:17:04.468 Order: BUY LMT 1.0 at 12050.0 msg:  Tradetype INDEX_MA 1353 Status: Unknown FinalT:  00:00 Last shortlong  12076.34 12074.4 SecLast Shortlong 12073.31 12074.95
+||Order|| 1353 101 T:  10:17:04.468 Order: BUY LMT 1.0 at 12050.0 msg:  Tradetype INDEX_MA 1353 Status: Filled FinalT:  10:17:08.577 Filled
+1354 index MA sell T:  10:22:01.023 Order: SELL LMT 1.0 at 12060.0 msg:  Tradetype INDEX_MA 1354 Status: Unknown FinalT:  00:00 Last shortlong  12070.77 12073.56 SecLast Shortlong 12073.8 12073.56
+||Order|| 1354 102 T:  10:22:01.023 Order: SELL LMT 1.0 at 12060.0 msg:  Tradetype INDEX_MA 1354 Status: Filled FinalT:  10:22:58.684 Filled
+1355 index MA buy T:  10:26:01.857 Order: BUY LMT 1.0 at 12065.0 msg:  Tradetype INDEX_MA 1355 Status: Unknown FinalT:  00:00 Last shortlong  12082.39 12078.09 SecLast Shortlong 12076.94 12077.31
+||Order|| 1355 103 T:  10:26:01.857 Order: BUY LMT 1.0 at 12065.0 msg:  Tradetype INDEX_MA 1355 Status: Filled FinalT:  10:26:37.794 Filled
+*** 2018-06-25 ***
+1358 index MA buy T:  13:32:01.385 Order: BUY LMT 1.0 at 12005.0 msg:  Tradetype INDEX_MA 1358 Status: Unknown FinalT:  00:00 Last shortlong  12040.52 12039.61 SecLast Shortlong 12039.31 12039.85
+||Order|| 1358 101 T:  13:32:01.385 Order: BUY LMT 1.0 at 12005.0 msg:  Tradetype INDEX_MA 1358 Status: Filled FinalT:  13:32:01.893 Filled
+1359 index MA buy T:  13:54:01.831 Order: BUY LMT 1.0 at 11952.5 msg:  Tradetype INDEX_MA 1359 Status: Unknown FinalT:  00:00 Last shortlong  11987.99 11983.94 SecLast Shortlong 11984.48 11985.21
+||Order|| 1359 102 T:  13:54:01.831 Order: BUY LMT 1.0 at 11952.5 msg:  Tradetype INDEX_MA 1359 Status: Filled FinalT:  13:54:05.019 Filled
+1360 trim sell T:  16:34:59.645 Order: SELL LMT 1.0 at 11847.5 msg:  Tradetype TRIM 1360 Status: Unknown FinalT:  00:00
+1361 trim sell T:  17:05:17.867 Order: SELL LMT 1.0 at 11832.5 msg:  Tradetype TRIM 1361 Status: Unknown FinalT:  00:00
+||Order|| 1361 104 T:  17:05:17.867 Order: SELL LMT 1.0 at 11832.5 msg:  Tradetype TRIM 1361 Status: Filled FinalT:  17:05:18.755 Filled
+*** 2018-06-26 ***
+1345 index MA buy T:  09:33:04.603 Order: BUY LMT 1.0 at 11782.5 msg:  Tradetype INDEX_MA 1345 Status: Unknown FinalT:  00:00 Last shortlong  11786.71 11782.43 SecLast Shortlong 11778.39 11782.55
+||Order|| 1345 101 T:  09:33:04.603 Order: BUY LMT 1.0 at 11782.5 msg:  Tradetype INDEX_MA 1345 Status: Filled FinalT:  09:33:04.946 Filled
+1346 day cover T:  09:34:14.384 Order: BUY LMT 3.0 at 11752.5 msg:  Tradetype SLOW_COVER 1346 Status: Unknown FinalT:  00:00  todayP%  4
+||Order|| 1346 102 T:  09:34:14.384 Order: BUY LMT 3.0 at 11752.5 msg:  Tradetype SLOW_COVER 1346 Status: Filled FinalT:  09:34:15.102 Filled
+1347 day cover T:  09:49:17.217 Order: BUY LMT 3.0 at 11752.5 msg:  Tradetype SLOW_COVER 1347 Status: Unknown FinalT:  00:00  todayP%  4
+||Order|| 1347 103 T:  09:49:17.217 Order: BUY LMT 3.0 at 11752.5 msg:  Tradetype SLOW_COVER 1347 Status: Filled FinalT:  09:49:18.144 Filled
+1348 day cover T:  10:04:18.165 Order: BUY LMT 2.0 at 11650.0 msg:  Tradetype SLOW_COVER 1348 Status: Unknown FinalT:  00:00  todayP%  2
+||Order|| 1348 104 T:  10:04:18.165 Order: BUY LMT 2.0 at 11650.0 msg:  Tradetype SLOW_COVER 1348 Status: Filled FinalT:  10:04:21.291 Filled
+1349 index MA buy T:  10:18:02.007 Order: BUY LMT 1.0 at 11612.5 msg:  Tradetype INDEX_MA 1349 Status: Unknown FinalT:  00:00 Last shortlong  11605.59 11600.48 SecLast Shortlong 11602.02 11603.45
+||Order|| 1349 105 T:  10:18:02.007 Order: BUY LMT 1.0 at 11612.5 msg:  Tradetype INDEX_MA 1349 Status: Filled FinalT:  10:18:03.168 Filled
+*** 2018-06-26 ***
+1352 last hr MA buy T:  14:27:01.032 Order: BUY LMT 1.0 at 11692.5 msg:  Tradetype LAST_HOUR_MA 1352 Status: Unknown FinalT:  00:00 Last shortlong  11703.04 11701.79 SecLast Shortlong 11699.71 11702.39
+||Order|| 1352 101 T:  14:27:01.032 Order: BUY LMT 1.0 at 11692.5 msg:  Tradetype LAST_HOUR_MA 1352 Status: Filled FinalT:  14:27:01.227 Filled
+1353 last hr MA buy T:  14:43:05.394 Order: BUY LMT 1.0 at 11650.0 msg:  Tradetype LAST_HOUR_MA 1353 Status: Unknown FinalT:  00:00 Last shortlong  11677.01 11676.95 SecLast Shortlong 11678.08 11678.14
+||Order|| 1353 102 T:  14:43:05.394 Order: BUY LMT 1.0 at 11650.0 msg:  Tradetype LAST_HOUR_MA 1353 Status: Filled FinalT:  14:43:05.579 Filled
+*** 2018-06-26 ***
+1356 trim sell T:  15:16:09.184 Order: SELL LMT 1.0 at 11685.0 msg:  Tradetype TRIM 1356 Status: Unknown FinalT:  00:00
+||Order|| 1356 101 T:  15:16:09.184 Order: SELL LMT 1.0 at 11685.0 msg:  Tradetype TRIM 1356 Status: Filled FinalT:  15:16:11.490 Filled

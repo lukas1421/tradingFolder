@@ -1005,8 +1005,8 @@ SGXA50	A50期货	期货	期	USD
 SGXA50BM	A50期货后	废	废	USD
 SGXA50PR	A50期货前	废	废	USD
 sh204001	GC001	回购	购	CNY
-hk763	中兴	香港	港	HKD
-hk700	腾讯	香港	港	HKD
+hk763	中兴	废	废	HKD
+hk700	腾讯	废	废	HKD
 银行	银行	板块	板	CNY
 石油	石油	板块	板	CNY
 保险	保险	板块	板	CNY
