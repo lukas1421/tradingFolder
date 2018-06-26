@@ -15019,3 +15019,585 @@
 ||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
  outside tradable time slot
 ||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+**Observing MA** ||T: 15:22 ||MA Short: 11705.31 ||MA Long: 11716.02 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 21 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:22 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+**Observing MA** ||T: 15:23 ||MA Short: 11705.31 ||MA Long: 11716.02 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 21 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:23 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+**Observing MA** ||T: 15:24 ||MA Short: 11705.31 ||MA Long: 11716.02 ||Index: 11738.58 ||PD: 0.0 ||Curr Dir Short ||P% 22 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:24 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11687.5 ||index:  11738.58 ||BID ASK  11685.0 11687.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11687.5 ||index:  11738.58 ||BID ASK  11685.0 11687.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11685.0 11687.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11685.0 11687.5 pmchy -14
+**Observing MA** ||T: 15:25 ||MA Short: 11705.73 ||MA Long: 11714.88 ||Index: 11738.58 ||PD: 0.0 ||Curr Dir Short ||P% 22 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11687.5 ||index:  11738.58 ||BID ASK  11685.0 11687.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:25 ||curr P%:  22 ||curr P:  11687.5 ||index:  11738.58 ||BID ASK  11685.0 11687.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11685.0 11687.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  22 ||curr P:  11685.0 ||index:  11738.58 ||BID ASK  11685.0 11687.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11682.5 11685.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+**Observing MA** ||T: 15:26 ||MA Short: 11705.73 ||MA Long: 11714.88 ||Index: 11738.58 ||PD: 0.0 ||Curr Dir Short ||P% 21 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:26 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+**Observing MA** ||T: 15:27 ||MA Short: 11705.73 ||MA Long: 11714.88 ||Index: 11738.58 ||PD: 0.0 ||Curr Dir Short ||P% 21 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:27 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+**Observing MA** ||T: 15:28 ||MA Short: 11705.73 ||MA Long: 11714.88 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 21 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:28 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:29 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:29 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:29 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:29 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+**Observing MA** ||T: 15:29 ||MA Short: 11705.73 ||MA Long: 11714.88 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 21 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:29 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:29 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:29 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:29 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11677.5 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11682.5 ||index:  11738.58 ||BID ASK  11677.5 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11680.0 ||index:  11738.58 ||BID ASK  11680.0 11682.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11677.5 11680.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  21 ||curr P:  11677.5 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11675.0 11677.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+**Observing MA** ||T: 15:30 ||MA Short: 11706.38 ||MA Long: 11713.73 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 19 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:30 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  18 ||curr P:  11665.0 ||index:  11738.58 ||BID ASK  11665.0 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  18 ||curr P:  11665.0 ||index:  11738.58 ||BID ASK  11665.0 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11665.0 11667.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11665.0 11667.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+**Observing MA** ||T: 15:31 ||MA Short: 11706.38 ||MA Long: 11713.73 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 19 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:31 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11672.5 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11675.0 ||index:  11738.58 ||BID ASK  11670.0 11675.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+**Observing MA** ||T: 15:32 ||MA Short: 11706.38 ||MA Long: 11713.73 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 20 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:32 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11667.5 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11667.5 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+**Observing MA** ||T: 15:33 ||MA Short: 11706.38 ||MA Long: 11713.73 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 19 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:33 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+**Observing MA** ||T: 15:34 ||MA Short: 11706.38 ||MA Long: 11713.73 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 19 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:34 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+**Observing MA** ||T: 15:35 ||MA Short: 11707.0 ||MA Long: 11712.52 ||Index: 11738.58 ||PD: -0.01 ||Curr Dir Short ||P% 19 ||WaitT Orders:  15
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:35 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  20 ||curr P:  11672.5 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11670.0 11672.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  18 ||curr P:  11665.0 ||index:  11738.58 ||BID ASK  11665.0 11667.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  18 ||curr P:  11665.0 ||index:  11738.58 ||BID ASK  11665.0 11667.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11665.0 11667.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  19 ||curr P:  11667.5 ||index:  11738.58 ||BID ASK  11665.0 11667.5 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
+ outside tradable time slot
+||O/N|| 6-26 15:36 ||curr P%:  19 ||curr P:  11670.0 ||index:  11738.58 ||BID ASK  11667.5 11670.0 pmchy -14
