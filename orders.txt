@@ -1144,3 +1144,80 @@
 ||Order|| 1284 101 T:  16:27:05.285 Order: SELL LMT 1.0 at 11545.0 msg:  Tradetype PERC_MA 1284 Status: Filled FinalT:  16:27:06 Filled
 1285 perc MA sell T:  17:32:01.221 Order: SELL LMT 1.0 at 11522.5 msg:  Tradetype PERC_MA 1285 Status: Unknown FinalT:  00:00 Last shortlong  11535.75 11536.31 2ndLast Shortlong 11536.88 11536.5  anchor  Future perc 85 2d Perc  88 delta chg  -76450.1167375
 ||Order|| 1285 102 T:  17:32:01.221 Order: SELL LMT 1.0 at 11522.5 msg:  Tradetype PERC_MA 1285 Status: Filled FinalT:  17:32:01 Filled
+*** 2018-07-02 ***
+1381  MANUAL BID || bid price  10915.0  Checking order  true
+*** 2018-07-02 ***
+1384 perc MA buy T:  19:05:06.964 Order: BUY LMT 1.0 at 10915.0 msg:  Tradetype PERC_MA 1384 Status: Unknown FinalT:  00:00 Last shortlong  10905.0 10903.5 2ndLast Shortlong 10902.25 10903.75  anchor  Future perc 16 2d Perc  15 delta chg  72428.28
+||Order|| 1384 101 T:  19:05:06.964 Order: BUY LMT 1.0 at 10915.0 msg:  Tradetype PERC_MA 1384 Status: Filled FinalT:  19:05:11 Filled
+1385 perc MA buy T:  20:32:00.207 Order: BUY LMT 1.0 at 10905.0 msg:  Tradetype PERC_MA 1385 Status: Unknown FinalT:  00:00 Last shortlong  10902.63 10901.56 2ndLast Shortlong 10901.13 10901.44  anchor  Future perc 15 2d Perc  13 delta chg  72361.93
+||Order|| 1385 102 T:  20:32:00.207 Order: BUY LMT 1.0 at 10905.0 msg:  Tradetype PERC_MA 1385 Status: Filled FinalT:  20:32:45 Filled
+1386 perc MA buy T:  21:38:18.799 Order: BUY LMT 1.0 at 10927.5 msg:  Tradetype PERC_MA 1386 Status: Unknown FinalT:  00:00 Last shortlong  10906.0 10905.44 2ndLast Shortlong 10903.88 10904.75  anchor  Future perc 18 2d Perc  16 delta chg  72511.23
+||Order|| 1386 103 T:  21:38:18.799 Order: BUY LMT 1.0 at 10927.5 msg:  Tradetype PERC_MA 1386 Status: Filled FinalT:  21:38:19 Filled
+1387 perc MA buy T:  00:45:23.543 Order: BUY LMT 1.0 at 10942.5 msg:  Tradetype PERC_MA 1387 Status: Unknown FinalT:  00:00 Last shortlong  10937.13 10936.56 2ndLast Shortlong 10936.25 10936.5  anchor  Future perc 21 2d Perc  18 delta chg  72610.76
+||Order|| 1387 104 T:  00:45:23.543 Order: BUY LMT 1.0 at 10942.5 msg:  Tradetype PERC_MA 1387 Status: Filled FinalT:  00:45:24 Filled
+*** 2018-07-03 ***
+1381 trim sell T:  15:00:00.325 Order: SELL LMT 1.0 at 11007.5 msg:  Tradetype TRIM 1381 Status: Unknown FinalT:  00:00
+||Order|| 1381 101 T:  15:00:00.325 Order: SELL LMT 1.0 at 11007.5 msg:  Tradetype TRIM 1381 Status: Filled FinalT:  15:00:10 Filled
+1382 trim sell T:  15:15:02.975 Order: SELL LMT 1.0 at 11052.5 msg:  Tradetype TRIM 1382 Status: Unknown FinalT:  00:00
+||Order|| 1382 102 T:  15:15:02.975 Order: SELL LMT 1.0 at 11052.5 msg:  Tradetype TRIM 1382 Status: Filled FinalT:  15:15:03 Filled
+1383 trim sell T:  15:30:05.592 Order: SELL LMT 1.0 at 10995.0 msg:  Tradetype TRIM 1383 Status: Unknown FinalT:  00:00
+||Order|| 1383 103 T:  15:30:05.592 Order: SELL LMT 1.0 at 10995.0 msg:  Tradetype TRIM 1383 Status: Filled FinalT:  15:31:27 Filled
+*** 2018-07-03 ***
+1386 trim sell T:  16:34:25.492 Order: SELL LMT 1.0 at 10987.5 msg:  Tradetype TRIM 1386 Status: Unknown FinalT:  00:00
+*** 2018-07-03 ***
+1389 trim sell T:  17:23:02.521 Order: SELL LMT 1.0 at 11010.0 msg:  Tradetype TRIM 1389 Status: Unknown FinalT:  00:00
+||Order|| 1389 101 T:  17:23:02.521 Order: SELL LMT 1.0 at 11010.0 msg:  Tradetype TRIM 1389 Status: Filled FinalT:  17:24:05 Filled
+1390 trim sell T:  17:39:21.400 Order: SELL LMT 1.0 at 11012.5 msg:  Tradetype TRIM 1390 Status: Unknown FinalT:  00:00
+||Order|| 1390 102 T:  17:39:21.400 Order: SELL LMT 1.0 at 11012.5 msg:  Tradetype TRIM 1390 Status: Filled FinalT:  17:40:28 Filled
+1391 trim sell T:  17:54:52.146 Order: SELL LMT 1.0 at 11020.0 msg:  Tradetype TRIM 1391 Status: Unknown FinalT:  00:00
+||Order|| 1391 103 T:  17:54:52.146 Order: SELL LMT 1.0 at 11020.0 msg:  Tradetype TRIM 1391 Status: Filled FinalT:  17:54:57 Filled
+1392 trim sell T:  18:10:13.049 Order: SELL LMT 1.0 at 11050.0 msg:  Tradetype TRIM 1392 Status: Unknown FinalT:  00:00
+||Order|| 1392 104 T:  18:10:13.049 Order: SELL LMT 1.0 at 11050.0 msg:  Tradetype TRIM 1392 Status: Filled FinalT:  18:10:42 Filled
+1393 trim sell T:  18:25:19.916 Order: SELL LMT 1.0 at 11037.5 msg:  Tradetype TRIM 1393 Status: Unknown FinalT:  00:00
+||Order|| 1393 105 T:  18:25:19.916 Order: SELL LMT 1.0 at 11037.5 msg:  Tradetype TRIM 1393 Status: Filled FinalT:  18:34:38 Filled
+1396 trim sell T:  18:40:30.676 Order: SELL LMT 1.0 at 11040.0 msg:  Tradetype TRIM 1396 Status: Unknown FinalT:  00:00
+||Order|| 1396 106 T:  18:40:30.676 Order: SELL LMT 1.0 at 11040.0 msg:  Tradetype TRIM 1396 Status: Filled FinalT:  18:40:37 Filled
+*** 2018-07-03 ***
+1399 trim sell T:  19:18:16.828 Order: SELL LMT 1.0 at 11045.0 msg:  Tradetype TRIM 1399 Status: Unknown FinalT:  00:00
+||Order|| 1399 101 T:  19:18:16.828 Order: SELL LMT 1.0 at 11045.0 msg:  Tradetype TRIM 1399 Status: Filled FinalT:  19:18:17 Filled
+1400 trim sell T:  19:33:52.793 Order: SELL LMT 1.0 at 11072.5 msg:  Tradetype TRIM 1400 Status: Unknown FinalT:  00:00
+||Order|| 1400 102 T:  19:33:52.793 Order: SELL LMT 1.0 at 11072.5 msg:  Tradetype TRIM 1400 Status: Filled FinalT:  19:33:53 Filled
+1401 trim sell T:  19:49:04.243 Order: SELL LMT 1.0 at 11072.5 msg:  Tradetype TRIM 1401 Status: Unknown FinalT:  00:00
+||Order|| 1401 103 T:  19:49:04.243 Order: SELL LMT 1.0 at 11072.5 msg:  Tradetype TRIM 1401 Status: Filled FinalT:  19:49:04 Filled
+1402 trim sell T:  20:05:38.404 Order: SELL LMT 1.0 at 11082.5 msg:  Tradetype TRIM 1402 Status: Unknown FinalT:  00:00
+2018-07-03T20:22:37.420 cancelling orders trader for type TRIM
+1403 trim sell T:  20:22:37.420 Order: SELL LMT 1.0 at 11072.5 msg:  Tradetype TRIM 1403 Status: Unknown FinalT:  00:00
+||Order|| 1403 105 T:  20:22:37.420 Order: SELL LMT 1.0 at 11072.5 msg:  Tradetype TRIM 1403 Status: Filled FinalT:  20:22:38 Filled
+1404 trim sell T:  20:39:04.121 Order: SELL LMT 1.0 at 11052.5 msg:  Tradetype TRIM 1404 Status: Unknown FinalT:  00:00
+||Order|| 1404 106 T:  20:39:04.121 Order: SELL LMT 1.0 at 11052.5 msg:  Tradetype TRIM 1404 Status: Filled FinalT:  20:39:04 Filled
+*** 2018-07-06 ***
+1381 perc MA sell T:  09:48:51.064 Order: SELL LMT 1.0 at 10982.5 msg:  Tradetype PERC_MA 1381 Status: Unknown FinalT:  00:00 Last shortlong  11065.56 11074.59 2ndLast Shortlong 11080.42 11073.6  anchor  FTSEA50 perc 82 2d Perc  82 delta chg  -73080.03
+||Order|| 1381 101 T:  09:48:51.064 Order: SELL LMT 1.0 at 10982.5 msg:  Tradetype PERC_MA 1381 Status: Filled FinalT:  09:48:51 Filled
+1382 perc MA sell T:  13:26:03.910 Order: SELL LMT 3.0 at 11115.0 msg:  Tradetype PERC_MA 1382 Status: Unknown FinalT:  00:00 Last shortlong  11155.36 11155.47 2ndLast Shortlong 11153.87 11151.28  anchor  FTSEA50 perc 100 2d Perc  100 delta chg  -221885.13
+||Order|| 1382 102 T:  13:26:03.910 Order: SELL LMT 3.0 at 11115.0 msg:  Tradetype PERC_MA 1382 Status: Filled FinalT:  13:26:04 Filled
+1383 perc MA sell T:  13:46:03.458 Order: SELL LMT 3.0 at 11125.0 msg:  Tradetype PERC_MA 1383 Status: Unknown FinalT:  00:00 Last shortlong  11215.26 11215.45 2ndLast Shortlong 11213.99 11213.66  anchor  FTSEA50 perc 96 2d Perc  96 delta chg  -222084.76
+||Order|| 1383 103 T:  13:46:03.458 Order: SELL LMT 3.0 at 11125.0 msg:  Tradetype PERC_MA 1383 Status: Filled FinalT:  13:46:18 Filled
+1384 trim sell T:  15:00:00.288 Order: SELL LMT 1.0 at 11075.0 msg:  Tradetype TRIM 1384 Status: Unknown FinalT:  00:00
+||Order|| 1384 104 T:  15:00:00.288 Order: SELL LMT 1.0 at 11075.0 msg:  Tradetype TRIM 1384 Status: Filled FinalT:  15:00:26 Filled
+*** 2018-07-06 ***
+1387 trim sell T:  15:08:17.439 Order: SELL LMT 1.0 at 11042.5 msg:  Tradetype TRIM 1387 Status: Unknown FinalT:  00:00
+||Order|| 1387 101 T:  15:08:17.439 Order: SELL LMT 1.0 at 11042.5 msg:  Tradetype TRIM 1387 Status: Filled FinalT:  15:08:18 Filled
+*** 2018-07-07 ***
+1407 perc MA sell T:  00:24:35.994 Order: SELL LMT 1.0 at 11107.5 msg:  Tradetype PERC_MA 1407 Status: Unknown FinalT:  00:00 Last shortlong  11107.5 11107.81 2ndLast Shortlong 11108.25 11107.75  anchor  Future perc 81 2d Perc  81 delta chg  -73911.8
+||Order|| 1407 101 T:  00:24:35.994 Order: SELL LMT 1.0 at 11107.5 msg:  Tradetype PERC_MA 1407 Status: Filled FinalT:  00:24:38 Filled
+*** 2018-07-09 ***
+1381 intraday MA sell T:  10:20:03.518 Order: SELL LMT 1.0 at 11307.5 msg:  Tradetype INTRADAY_MA 1381 Status: Unknown FinalT:  00:00 Last shortlong  11391.1 11392.19 2ndLast Shortlong 11392.94 11392.3 perc 87
+||Order|| 1381 101 T:  10:20:03.518 Order: SELL LMT 1.0 at 11307.5 msg:  Tradetype INTRADAY_MA 1381 Status: Filled FinalT:  10:20:11 Filled
+1382 intraday MA sell T:  10:38:00.737 Order: SELL LMT 1.0 at 11282.5 msg:  Tradetype INTRADAY_MA 1382 Status: Unknown FinalT:  00:00 Last shortlong  11382.85 11384.19 2ndLast Shortlong 11384.92 11384.44 perc 84
+||Order|| 1382 102 T:  10:38:00.737 Order: SELL LMT 1.0 at 11282.5 msg:  Tradetype INTRADAY_MA 1382 Status: Filled FinalT:  10:38:06 Filled
+1383 intraday MA sell T:  11:13:00.986 Order: SELL LMT 1.0 at 11320.0 msg:  Tradetype INTRADAY_MA 1383 Status: Unknown FinalT:  00:00 Last shortlong  11392.66 11394.39 2ndLast Shortlong 11393.55 11393.53 perc 93
+||Order|| 1383 103 T:  11:13:00.986 Order: SELL LMT 1.0 at 11320.0 msg:  Tradetype INTRADAY_MA 1383 Status: Filled FinalT:  11:13:18 Filled
+1384 intraday MA sell T:  11:29:01.095 Order: SELL LMT 1.0 at 11312.5 msg:  Tradetype INTRADAY_MA 1384 Status: Unknown FinalT:  00:00 Last shortlong  11394.45 11395.39 2ndLast Shortlong 11395.39 11394.92 perc 94
+||Order|| 1384 104 T:  11:29:01.095 Order: SELL LMT 1.0 at 11312.5 msg:  Tradetype INTRADAY_MA 1384 Status: Filled FinalT:  11:29:02 Filled
+1385 intraday MA sell T:  11:44:02.328 Order: SELL LMT 1.0 at 11327.5 msg:  Tradetype INTRADAY_MA 1385 Status: Unknown FinalT:  00:00 Last shortlong  11394.45 11395.39 2ndLast Shortlong 11395.39 11394.92 perc 96
+||Order|| 1385 105 T:  11:44:02.328 Order: SELL LMT 1.0 at 11327.5 msg:  Tradetype INTRADAY_MA 1385 Status: Filled FinalT:  11:44:14 Filled
+1386 intraday MA sell T:  11:59:02.430 Order: SELL LMT 1.0 at 11327.5 msg:  Tradetype INTRADAY_MA 1386 Status: Unknown FinalT:  00:00 Last shortlong  11394.45 11395.39 2ndLast Shortlong 11395.39 11394.92 perc 96
+||Order|| 1386 106 T:  11:59:02.430 Order: SELL LMT 1.0 at 11327.5 msg:  Tradetype INTRADAY_MA 1386 Status: Filled FinalT:  11:59:02 Filled
+*** 2018-07-12 ***
+1381 trim buy T:  15:00:00.653 Order: BUY LMT 1.0 at 11445.0 msg:  Tradetype TRIM 1381 Status: Unknown FinalT:  00:00
+||Order|| 1381 101 T:  15:00:00.653 Order: BUY LMT 1.0 at 11445.0 msg:  Tradetype TRIM 1381 Status: Filled FinalT:  15:00:01 Filled
