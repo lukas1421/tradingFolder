@@ -1221,3 +1221,68 @@
 *** 2018-07-12 ***
 1381 trim buy T:  15:00:00.653 Order: BUY LMT 1.0 at 11445.0 msg:  Tradetype TRIM 1381 Status: Unknown FinalT:  00:00
 ||Order|| 1381 101 T:  15:00:00.653 Order: BUY LMT 1.0 at 11445.0 msg:  Tradetype TRIM 1381 Status: Filled FinalT:  15:00:01 Filled
+*** 2018-07-16 ***
+1381 perc MA buy T:  10:14:05.916 Order: BUY LMT 2.0 at 11392.5 msg:  Tradetype PERC_MA 1381 Status: Unknown FinalT:  00:00 Last shortlong  11439.46 11439.06 2ndLast Shortlong 11440.9 11441.45 |anchor  FTSEA50 |perc 12 |2d Perc  12 pmChg -47 |delta chg  152810.22
+||Order|| 1381 101 T:  10:14:05.916 Order: BUY LMT 2.0 at 11392.5 msg:  Tradetype PERC_MA 1381 Status: Filled FinalT:  10:14:06 Filled
+1382 perc MA buy T:  11:02:07.991 Order: BUY LMT 2.0 at 11350.0 msg:  Tradetype PERC_MA 1382 Status: Unknown FinalT:  00:00 Last shortlong  11381.14 11380.25 2ndLast Shortlong 11379.36 11380.45 |anchor  FTSEA50 |perc 12 |2d Perc  12 pmChg -47 |delta chg  152240.16
+||Order|| 1382 102 T:  11:02:07.991 Order: BUY LMT 2.0 at 11350.0 msg:  Tradetype PERC_MA 1382 Status: Filled FinalT:  11:02:09 Filled
+1383 perc MA buy T:  13:49:05.082 Order: BUY LMT 2.0 at 11337.5 msg:  Tradetype PERC_MA 1383 Status: Unknown FinalT:  00:00 Last shortlong  11362.09 11361.6 2ndLast Shortlong 11361.11 11361.68 |anchor  FTSEA50 |perc 9 |2d Perc  9 pmChg -47 |delta chg  152072.5
+||Order|| 1383 103 T:  13:49:05.082 Order: BUY LMT 2.0 at 11337.5 msg:  Tradetype PERC_MA 1383 Status: Filled FinalT:  13:49:36 Filled
+1384 perc MA buy T:  14:41:10.414 Order: BUY LMT 2.0 at 11325.0 msg:  Tradetype PERC_MA 1384 Status: Unknown FinalT:  00:00 Last shortlong  11369.74 11369.51 2ndLast Shortlong 11368.36 11369.2 |anchor  FTSEA50 |perc 9 |2d Perc  9 pmChg -47 |delta chg  151904.83
+||Order|| 1384 104 T:  14:41:10.414 Order: BUY LMT 2.0 at 11325.0 msg:  Tradetype PERC_MA 1384 Status: Filled FinalT:  14:41:41 Filled
+1385 intraday MA buy T:  14:41:41.949 Order: BUY LMT 1.0 at 11325.0 msg:  Tradetype INTRADAY_MA 1385 Status: Unknown FinalT:  00:00 Last shortlong  11369.74 11369.51 2ndLast Shortlong 11368.36 11369.2 |perc 9
+||Order|| 1385 105 T:  14:41:41.949 Order: BUY LMT 1.0 at 11325.0 msg:  Tradetype INTRADAY_MA 1385 Status: Filled FinalT:  14:41:43 Filled
+*** 2018-07-17 ***
+1381 intraday MA buy T:  10:15:00.886 Order: BUY LMT 1.0 at 11242.5 msg:  Tradetype INTRADAY_MA 1381 Status: Unknown FinalT:  00:00 Last shortlong  11274.06 11273.87 2ndLast Shortlong 11271.9 11274.66 |perc 17
+||Order|| 1381 101 T:  10:15:00.886 Order: BUY LMT 1.0 at 11242.5 msg:  Tradetype INTRADAY_MA 1381 Status: Filled FinalT:  10:15:01 Filled
+1382 intraday MA buy T:  11:22:54.703 Order: BUY LMT 1.0 at 11230.0 msg:  Tradetype INTRADAY_MA 1382 Status: Unknown FinalT:  00:00 Last shortlong  11260.92 11259.95 2ndLast Shortlong 11258.98 11259.64 |perc 19
+||Order|| 1382 102 T:  11:22:54.703 Order: BUY LMT 1.0 at 11230.0 msg:  Tradetype INTRADAY_MA 1382 Status: Filled FinalT:  11:22:54 Filled
+1383 intraday MA buy T:  13:32:04.328 Order: BUY LMT 1.0 at 11215.0 msg:  Tradetype INTRADAY_MA 1383 Status: Unknown FinalT:  00:00 Last shortlong  11247.03 11246.72 2ndLast Shortlong 11246.29 11246.66 |perc 9
+||Order|| 1383 103 T:  13:32:04.328 Order: BUY LMT 1.0 at 11215.0 msg:  Tradetype INTRADAY_MA 1383 Status: Filled FinalT:  13:32:12 Filled
+*** 2018-07-18 ***
+1381 intraday MA buy T:  14:29:01.812 Order: BUY LMT 1.0 at 11192.5 msg:  Tradetype INTRADAY_MA 1381 Status: Unknown Last shortlong  11215.67 11214.69 2ndLast Shortlong 11215.62 11216.04 |perc 3
+||Order|| 1381 101 T:  14:29:01.812 Order: BUY LMT 1.0 at 11192.5 msg:  Tradetype INTRADAY_MA 1381 Status: Filled Filled
+*** 2018-07-19 ***
+1381 perc MA sell T:  09:32:01.818 Order: SELL LMT 1.0 at 11287.5 msg:  Tradetype PERC_MA 1381 Status: Unknown Last shortlong  11278.03 11281.73 2ndLast Shortlong 11284.75 11282.51  anchor  FTSEA50 perc 85 2d Perc  85 pmChg -44 delta chg  -76147.0
+||Order|| 1381 101 T:  09:32:01.818 Order: SELL LMT 1.0 at 11287.5 msg:  Tradetype PERC_MA 1381 Status: Filled Filled
+*** 2018-07-19 ***
+1384 perc MA sell T:  09:50:07.885 Order: SELL LMT 1.0 at 11357.5 msg:  Tradetype PERC_MA 1384 Status: Unknown Last shortlong  11345.23 11347.47 2ndLast Shortlong 11349.15 11342.88  anchor  FTSEA50 perc 86 2d Perc  81 pmChg -44 delta chg  -76619.23
+||Order|| 1384 101 T:  09:50:07.885 Order: SELL LMT 1.0 at 11357.5 msg:  Tradetype PERC_MA 1384 Status: Filled Filled
+*** 2018-07-19 ***
+1387 intraday MA sell T:  10:00:01.610 Order: SELL LMT 1.0 at 11352.5 msg:  Tradetype INTRADAY_MA 1387 Status: Unknown Last shortlong  11332.52 11332.74 2ndLast Shortlong 11333.98 11330.53 |perc 85
+||Order|| 1387 101 T:  10:00:01.610 Order: SELL LMT 1.0 at 11352.5 msg:  Tradetype INTRADAY_MA 1387 Status: Filled Filled
+*** 2018-07-20 ***
+1381 intraday MA buy T:  10:10:11.378 Order: BUY LMT 1.0 at 11162.5 msg:  Tradetype INTRADAY_MA 1381 Status: Unknown Last shortlong  11173.74 11173.72 2ndLast Shortlong 11173.24 11173.89 |perc 18
+||Order|| 1381 101 T:  10:10:11.378 Order: BUY LMT 1.0 at 11162.5 msg:  Tradetype INTRADAY_MA 1381 Status: Filled Filled
+1410 perc MA sell T:  15:55:05.534 Order: SELL LMT 2.0 at 11592.5 msg:  Tradetype PERC_MA 1410 Status: Unknown Last shortlong  11598.75 11598.94 2ndLast Shortlong 11599.38 11598.75  anchor  Future perc 94 2d Perc  94 pmChg 76 delta chg  -157360.3
+||Order|| 1410 102 T:  15:55:05.534 Order: SELL LMT 2.0 at 11592.5 msg:  Tradetype PERC_MA 1410 Status: Filled Filled
+*** 2018-07-27 ***
+1381 perc MA buy T:  09:33:01.299 Order: BUY LMT 2.0 at 11717.5 msg:  Tradetype PERC_MA 1381 Status: Unknown Last shortlong  11703.69 11701.0 2ndLast shortlong 11692.58 11701.0 |anchor  FTSEA50 |perc 35 |2d Perc  13 pmChg -29 |delta Base pmchg weekday target  500000.0 290000.0 0.0 790000.0
+||Order|| 1381 101 T:  09:33:01.299 Order: BUY LMT 2.0 at 11717.5 msg:  Tradetype PERC_MA 1381 Status: Filled Filled
+1382 perc MA buy T:  10:09:15.784 Order: BUY LMT 2.0 at 11677.5 msg:  Tradetype PERC_MA 1382 Status: Unknown Last shortlong  11658.88 11658.39 2ndLast shortlong 11656.31 11658.18 |anchor  FTSEA50 |perc 31 |2d Perc  11 pmChg -29 |delta Base pmchg weekday target  500000.0 290000.0 0.0 790000.0
+||Order|| 1382 102 T:  10:09:15.784 Order: BUY LMT 2.0 at 11677.5 msg:  Tradetype PERC_MA 1382 Status: Filled Filled
+1383 perc MA buy T:  14:28:17.988 Order: BUY LMT 2.0 at 11697.5 msg:  Tradetype PERC_MA 1383 Status: Unknown Last shortlong  11683.63 11683.22 2ndLast shortlong 11681.58 11682.81 |anchor  FTSEA50 |perc 41 |2d Perc  18 pmChg -29 |delta Base pmchg weekday target  500000.0 290000.0 0.0 790000.0
+||Order|| 1383 103 T:  14:28:17.988 Order: BUY LMT 2.0 at 11697.5 msg:  Tradetype PERC_MA 1383 Status: Filled Filled
+1384 perc MA buy T:  15:59:00.357 Order: BUY LMT 2.0 at 11700.0 msg:  Tradetype PERC_MA 1384 Status: Unknown Last shortlong  11698.88 11698.75 2ndLast shortlong 11698.38 11698.94 |anchor  Future |perc 43 |2d Perc  19 pmChg -25 |delta Base pmchg weekday target  500000.0 250000.0 0.0 750000.0
+||Order|| 1384 104 T:  15:59:00.357 Order: BUY LMT 2.0 at 11700.0 msg:  Tradetype PERC_MA 1384 Status: Filled Filled
+*** 2018-07-28 ***
+1413 perc MA buy T:  01:48:22.742 Order: BUY LMT 2.0 at 11687.5 msg:  Tradetype PERC_MA 1413 Status: Unknown Last shortlong  11676.25 11675.38 2ndLast shortlong 11675.0 11675.38 |anchor  Future |perc 33 |2d Perc  15 pmChg -27 |delta Base pmchg weekday target  500000.0 270000.0 0.0 770000.0
+||Order|| 1413 101 T:  01:48:22.742 Order: BUY LMT 2.0 at 11687.5 msg:  Tradetype PERC_MA 1413 Status: Filled Filled
+1414 perc MA buy T:  03:12:39.312 Order: BUY LMT 2.0 at 11682.5 msg:  Tradetype PERC_MA 1414 Status: Unknown Last shortlong  11671.5 11670.5 2ndLast shortlong 11670.13 11670.19 |anchor  Future |perc 29 |2d Perc  13 pmChg -27 |delta Base pmchg weekday target  500000.0 270000.0 0.0 770000.0
+||Order|| 1414 102 T:  03:12:39.312 Order: BUY LMT 2.0 at 11682.5 msg:  Tradetype PERC_MA 1414 Status: Filled Filled
+*** 2018-07-30 ***
+1387 open sell T:  09:30:02.010 Order: SELL LMT 1.0 at 11697.5 msg:  Tradetype FIRST_TICK 1387 Status: Unknown open curr  11677.197603 11676.03
+||Order|| 1387 101 T:  09:30:02.010 Order: SELL LMT 1.0 at 11697.5 msg:  Tradetype FIRST_TICK 1387 Status: Filled Filled
+1388 intraday MA buy T:  11:15:08.740 Order: BUY LMT 1.0 at 11687.5 msg:  Tradetype INTRADAY_MA 1388 Status: Unknown Last shortlong  11674.57 11673.61 2ndLast Shortlong 11673.64 11674.22 |perc 13
+||Order|| 1388 102 T:  11:15:08.740 Order: BUY LMT 1.0 at 11687.5 msg:  Tradetype INTRADAY_MA 1388 Status: Filled Filled
+1389 intraday MA buy T:  13:02:00.965 Order: BUY LMT 1.0 at 11690.0 msg:  Tradetype INTRADAY_MA 1389 Status: Unknown Last shortlong  11674.1 11673.72 2ndLast Shortlong 11674.4 11674.51 |perc 7
+||Order|| 1389 103 T:  13:02:00.965 Order: BUY LMT 1.0 at 11690.0 msg:  Tradetype INTRADAY_MA 1389 Status: Filled Filled
+1390 perc MA buy T:  13:02:55.920 Order: BUY LMT 2.0 at 11680.0 msg:  Tradetype PERC_MA 1390 Status: Unknown Last shortlong  11674.1 11673.72 2ndLast shortlong 11674.4 11674.51 |anchor  FTSEA50 |perc 13 |2d Perc  19 pmChg -22 |delta Base pmchg weekday target  500000.0 220000.0 100000.0 820000.0
+||Order|| 1390 104 T:  13:02:55.920 Order: BUY LMT 2.0 at 11680.0 msg:  Tradetype PERC_MA 1390 Status: Filled Filled
+1391 perc MA buy T:  13:33:08.195 Order: BUY LMT 2.0 at 11662.5 msg:  Tradetype PERC_MA 1391 Status: Unknown Last shortlong  11660.62 11660.44 2ndLast shortlong 11660.91 11661.58 |anchor  FTSEA50 |perc 6 |2d Perc  10 pmChg -22 |delta Base pmchg weekday target  500000.0 220000.0 100000.0 820000.0
+||Order|| 1391 105 T:  13:33:08.195 Order: BUY LMT 2.0 at 11662.5 msg:  Tradetype PERC_MA 1391 Status: Filled Filled
+*** 2018-07-30 ***
+1394 perc MA sell T:  17:38:14.921 Order: SELL LMT 2.0 at 11770.0 msg:  Tradetype PERC_MA 1394 Status: Unknown Last shortlong  11769.63 11769.88 2ndLast Shortlong 11770.5 11770.13  anchor  Future perc 81 2d Perc  81 pmChg 37 |delta Base pmchg weekday target  500000.0 -370000.0 100000.0 230000.0
+||Order|| 1394 101 T:  17:38:14.921 Order: SELL LMT 2.0 at 11770.0 msg:  Tradetype PERC_MA 1394 Status: Filled Filled
+1395 perc MA sell T:  20:52:41.613 Order: SELL LMT 2.0 at 11770.0 msg:  Tradetype PERC_MA 1395 Status: Unknown Last shortlong  11769.88 11770.13 2ndLast Shortlong 11770.13 11770.06  anchor  Future perc 81 2d Perc  81 pmChg 37 |delta Base pmchg weekday target  500000.0 -370000.0 100000.0 230000.0
+||Order|| 1395 102 T:  20:52:41.613 Order: SELL LMT 2.0 at 11770.0 msg:  Tradetype PERC_MA 1395 Status: Filled Filled
