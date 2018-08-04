@@ -1286,3 +1286,88 @@
 ||Order|| 1394 101 T:  17:38:14.921 Order: SELL LMT 2.0 at 11770.0 msg:  Tradetype PERC_MA 1394 Status: Filled Filled
 1395 perc MA sell T:  20:52:41.613 Order: SELL LMT 2.0 at 11770.0 msg:  Tradetype PERC_MA 1395 Status: Unknown Last shortlong  11769.88 11770.13 2ndLast Shortlong 11770.13 11770.06  anchor  Future perc 81 2d Perc  81 pmChg 37 |delta Base pmchg weekday target  500000.0 -370000.0 100000.0 230000.0
 ||Order|| 1395 102 T:  20:52:41.613 Order: SELL LMT 2.0 at 11770.0 msg:  Tradetype PERC_MA 1395 Status: Filled Filled
+*** 2018-07-31 ***
+1387 open sell T:  09:30:04.243 Order: SELL LMT 1.0 at 11722.5 msg:  Tradetype FIRST_TICK 1387 Status: Unknown open curr  11709.664596 11703.799206000002
+||Order|| 1387 101 T:  09:30:04.243 Order: SELL LMT 1.0 at 11722.5 msg:  Tradetype FIRST_TICK 1387 Status: Filled Filled
+*** 2018-07-31 ***
+1390 perc MA sell T:  21:46:06.764 Order: SELL LMT 2.0 at 11797.5 msg:  Tradetype PERC_MA 1390 Status: Unknown Last shortlong  11794.75 11795.13 2ndLast Shortlong 11795.25 11794.38  anchor  Future perc 95 2d Perc  87 pmChg 12 |delta Base pmchg weekday target  500000.0 -120000.0 0.0 380000.0
+||Order|| 1390 101 T:  21:46:06.764 Order: SELL LMT 2.0 at 11797.5 msg:  Tradetype PERC_MA 1390 Status: Filled Filled
+1391 perc MA sell T:  23:21:22.017 Order: SELL LMT 2.0 at 11807.5 msg:  Tradetype PERC_MA 1391 Status: Unknown Last shortlong  11806.25 11806.75 2ndLast Shortlong 11806.5 11806.13  anchor  Future perc 97 2d Perc  92 pmChg 12 |delta Base pmchg weekday target  500000.0 -120000.0 0.0 380000.0
+||Order|| 1391 102 T:  23:21:22.017 Order: SELL LMT 2.0 at 11807.5 msg:  Tradetype PERC_MA 1391 Status: Filled Filled
+1392 perc MA sell T:  00:31:38.674 Order: SELL LMT 2.0 at 11860.0 msg:  Tradetype PERC_MA 1392 Status: Unknown Last shortlong  11863.25 11863.88 2ndLast Shortlong 11864.0 11863.13  anchor  Future perc 110 2d Perc  97 pmChg 12 |delta Base pmchg weekday target  500000.0 -120000.0 0.0 380000.0
+||Order|| 1392 103 T:  00:31:38.674 Order: SELL LMT 2.0 at 11860.0 msg:  Tradetype PERC_MA 1392 Status: Filled Filled
+1393 perc MA sell T:  01:37:57.243 Order: SELL LMT 2.0 at 11872.5 msg:  Tradetype PERC_MA 1393 Status: Unknown Last shortlong  11872.75 11873.0 2ndLast Shortlong 11873.25 11873.13  anchor  Future perc 117 2d Perc  94 pmChg 12 |delta Base pmchg weekday target  500000.0 -120000.0 0.0 380000.0
+||Order|| 1393 104 T:  01:37:57.243 Order: SELL LMT 2.0 at 11872.5 msg:  Tradetype PERC_MA 1393 Status: Filled Filled
+1394 perc MA sell T:  02:42:26.397 Order: SELL LMT 2.0 at 11890.0 msg:  Tradetype PERC_MA 1394 Status: Unknown Last shortlong  11887.75 11887.88 2ndLast Shortlong 11888.25 11888.0  anchor  Future perc 126 2d Perc  100 pmChg 12 |delta Base pmchg weekday target  500000.0 -120000.0 0.0 380000.0
+||Order|| 1394 105 T:  02:42:26.397 Order: SELL LMT 2.0 at 11890.0 msg:  Tradetype PERC_MA 1394 Status: Filled Filled
+1395 perc MA sell T:  03:48:00.061 Order: SELL LMT 2.0 at 11865.0 msg:  Tradetype PERC_MA 1395 Status: Unknown Last shortlong  11882.5 11884.25 2ndLast Shortlong 11886.25 11885.38  anchor  Future perc 113 2d Perc  90 pmChg 12 |delta Base pmchg weekday target  500000.0 -120000.0 0.0 380000.0
+||Order|| 1395 106 T:  03:48:00.061 Order: SELL LMT 2.0 at 11865.0 msg:  Tradetype PERC_MA 1395 Status: Filled Filled
+*** 2018-08-01 ***
+1387 open sell T:  09:30:04.105 Order: SELL LMT 1.0 at 11825.0 msg:  Tradetype FIRST_TICK 1387 Status: Unknown open curr  11804.319124 11803.144448
+||Order|| 1387 101 T:  09:30:04.105 Order: SELL LMT 1.0 at 11825.0 msg:  Tradetype FIRST_TICK 1387 Status: Filled Filled
+1388 intraday first tick sell T:  09:56:41.655 Order: SELL LMT 1.0 at 11832.5 msg:  Tradetype INTRADAY_FIRSTTICK 1388 Status: Unknown open first1 first2 ftsePerc 11804.319124 11804.319124 11803.144448 95
+||Order|| 1388 102 T:  09:56:41.655 Order: SELL LMT 1.0 at 11832.5 msg:  Tradetype INTRADAY_FIRSTTICK 1388 Status: Filled Filled
+1389 intraday MA buy T:  13:56:04.555 Order: BUY LMT 1.0 at 11627.5 msg:  Tradetype INTRADAY_MA 1389 Status: Unknown Last shortlong  11623.77 11622.54 2ndLast Shortlong 11621.95 11623.42 |perc 9
+||Order|| 1389 103 T:  13:56:04.555 Order: BUY LMT 1.0 at 11627.5 msg:  Tradetype INTRADAY_MA 1389 Status: Filled Filled
+*** 2018-08-02 ***
+1387 fut open sell T:  09:07:03.335 Order: SELL LMT 1.0 at 11460.0 msg:  Tradetype FUT_OPEN 1387 Status: Unknown max min last  11462.5 11460.0 11460.0
+||Order|| 1387 101 T:  09:07:03.335 Order: SELL LMT 1.0 at 11460.0 msg:  Tradetype FUT_OPEN 1387 Status: Filled Filled
+1388 fut open sell T:  09:07:46.610 Order: SELL LMT 1.0 at 11460.0 msg:  Tradetype FUT_OPEN 1388 Status: Unknown max min last  11462.5 11460.0 11460.0
+||Order|| 1388 102 T:  09:07:46.610 Order: SELL LMT 1.0 at 11460.0 msg:  Tradetype FUT_OPEN 1388 Status: Filled Filled
+1389 fut open sell T:  09:08:18.753 Order: SELL LMT 1.0 at 11460.0 msg:  Tradetype FUT_OPEN 1389 Status: Unknown max min last  11462.5 11460.0 11460.0
+||Order|| 1389 103 T:  09:08:18.753 Order: SELL LMT 1.0 at 11460.0 msg:  Tradetype FUT_OPEN 1389 Status: Filled Filled
+1390 fut open sell T:  09:08:50.001 Order: SELL LMT 1.0 at 11460.0 msg:  Tradetype FUT_OPEN 1390 Status: Unknown max min last  11462.5 11460.0 11460.0
+||Order|| 1390 104 T:  09:08:50.001 Order: SELL LMT 1.0 at 11460.0 msg:  Tradetype FUT_OPEN 1390 Status: Filled Filled
+1391 fut open buy T:  09:09:28.259 Order: BUY LMT 1.0 at 11465.0 msg:  Tradetype FUT_OPEN 1391 Status: Unknown  max min last  11465.0 11462.5 11465.0
+||Order|| 1391 105 T:  09:09:28.259 Order: BUY LMT 1.0 at 11465.0 msg:  Tradetype FUT_OPEN 1391 Status: Filled Filled
+1392 fut open buy T:  09:10:03.518 Order: BUY LMT 1.0 at 11465.0 msg:  Tradetype FUT_OPEN 1392 Status: Unknown  max min last  11465.0 11462.5 11465.0
+*** 2018-08-02 ***
+1395 fut open sell T:  09:15:24.452 Order: SELL LMT 1.0 at 11445.0 msg:  Tradetype FUT_OPEN 1395 Status: Unknown max min last  11472.5 11445.0 11445.0
+||Order|| 1395 101 T:  09:15:24.452 Order: SELL LMT 1.0 at 11445.0 msg:  Tradetype FUT_OPEN 1395 Status: Filled Filled
+1396 fut open sell T:  09:16:44.788 Order: SELL LMT 1.0 at 11437.5 msg:  Tradetype FUT_OPEN 1396 Status: Unknown max min last  11472.5 11437.5 11437.5
+||Order|| 1396 102 T:  09:16:44.788 Order: SELL LMT 1.0 at 11437.5 msg:  Tradetype FUT_OPEN 1396 Status: Filled Filled
+1397 fut open sell T:  09:18:31.228 Order: SELL LMT 1.0 at 11432.5 msg:  Tradetype FUT_OPEN 1397 Status: Unknown max min last  11472.5 11432.5 11432.5
+||Order|| 1397 103 T:  09:18:31.228 Order: SELL LMT 1.0 at 11432.5 msg:  Tradetype FUT_OPEN 1397 Status: Filled Filled
+1398 fut open sell T:  09:19:35.991 Order: SELL LMT 1.0 at 11432.5 msg:  Tradetype FUT_OPEN 1398 Status: Unknown max min last  11472.5 11432.5 11432.5
+||Order|| 1398 104 T:  09:19:35.991 Order: SELL LMT 1.0 at 11432.5 msg:  Tradetype FUT_OPEN 1398 Status: Filled Filled
+1399 fut open sell T:  09:25:07.536 Order: SELL LMT 1.0 at 11430.0 msg:  Tradetype FUT_OPEN 1399 Status: Unknown max min last  11472.5 11430.0 11430.0
+||Order|| 1399 105 T:  09:25:07.536 Order: SELL LMT 1.0 at 11430.0 msg:  Tradetype FUT_OPEN 1399 Status: Filled Filled
+*** 2018-08-02 ***
+1402 fut open sell T:  09:28:48.869 Order: SELL LMT 1.0 at 11425.0 msg:  Tradetype FUT_OPEN 1402 Status: Unknown max min last  11472.5 11425.0 11425.0
+||Order|| 1402 101 T:  09:28:48.869 Order: SELL LMT 1.0 at 11425.0 msg:  Tradetype FUT_OPEN 1402 Status: Filled Filled
+1403 open sell T:  09:29:59.453 Order: SELL LMT 3.0 at 11430.0 msg:  Tradetype FIRST_TICK 1403 Status: Unknown open curr  11431.618805000002 11430.471628
+||Order|| 1403 102 T:  09:29:59.453 Order: SELL LMT 3.0 at 11430.0 msg:  Tradetype FIRST_TICK 1403 Status: Filled Filled
+1404 fut open sell T:  09:29:59.996 Order: SELL LMT 1.0 at 11420.0 msg:  Tradetype FUT_OPEN 1404 Status: Unknown max min last  11472.5 11420.0 11420.0
+||Order|| 1404 103 T:  09:29:59.996 Order: SELL LMT 1.0 at 11420.0 msg:  Tradetype FUT_OPEN 1404 Status: Filled Filled
+1405 perc MA buy T:  09:34:02.296 Order: BUY LMT 3.0 at 11440.0 msg:  Tradetype PERC_MA 1405 Status: Unknown Last shortlong  11413.84 11408.68 2ndLast shortlong 11393.76 11412.23 |anchor  FTSEA50 |perc 53 |2d Perc  10 pmChg -52 |delta Base pmchg weekday target  -500000.0 520000.0 0.0 20000.0
+||Order|| 1405 104 T:  09:34:02.296 Order: BUY LMT 3.0 at 11440.0 msg:  Tradetype PERC_MA 1405 Status: Filled Filled
+1406 intraday MA buy T:  10:41:04.180 Order: BUY LMT 1.0 at 11262.5 msg:  Tradetype INTRADAY_MA 1406 Status: Unknown Last shortlong  11275.6 11273.54 2ndLast Shortlong 11275.72 11276.06 |perc 3
+||Order|| 1406 105 T:  10:41:04.180 Order: BUY LMT 1.0 at 11262.5 msg:  Tradetype INTRADAY_MA 1406 Status: Filled Filled
+*** 2018-08-02 ***
+1409 intraday MA buy T:  13:15:02.189 Order: BUY LMT 1.0 at 11107.5 msg:  Tradetype INTRADAY_MA 1409 Status: Unknown Last shortlong  11126.7 11126.13 2ndLast Shortlong 11128.08 11128.42 |perc 0
+||Order|| 1409 101 T:  13:15:02.189 Order: BUY LMT 1.0 at 11107.5 msg:  Tradetype INTRADAY_MA 1409 Status: Filled Filled
+*** 2018-08-03 ***
+1387 fut open buy T:  09:02:13.525 Order: BUY LMT 1.0 at 11212.5 msg:  Tradetype FUT_OPEN 1387 Status: Unknown  max min last  11212.5 11210.0 11212.5
+*** 2018-08-03 ***
+1390 fut open sell T:  09:03:49.162 Order: SELL LMT 1.0 at 11207.5 msg:  Tradetype FUT_OPEN 1390 Status: Unknown max min last  11220.0 11207.5 11207.5
+||Order|| 1390 101 T:  09:03:49.162 Order: SELL LMT 1.0 at 11207.5 msg:  Tradetype FUT_OPEN 1390 Status: Filled Filled
+1391 fut open sell T:  09:04:56.667 Order: SELL LMT 1.0 at 11202.5 msg:  Tradetype FUT_OPEN 1391 Status: Unknown max min last  11220.0 11202.5 11202.5
+||Order|| 1391 102 T:  09:04:56.667 Order: SELL LMT 1.0 at 11202.5 msg:  Tradetype FUT_OPEN 1391 Status: Filled Filled
+1392 fut open sell T:  09:05:57.257 Order: SELL LMT 1.0 at 11202.5 msg:  Tradetype FUT_OPEN 1392 Status: Unknown max min last  11220.0 11202.5 11202.5
+||Order|| 1392 103 T:  09:05:57.257 Order: SELL LMT 1.0 at 11202.5 msg:  Tradetype FUT_OPEN 1392 Status: Filled Filled
+1393 fut open sell T:  09:07:08.369 Order: SELL LMT 1.0 at 11200.0 msg:  Tradetype FUT_OPEN 1393 Status: Unknown max min last  11220.0 11200.0 11200.0
+||Order|| 1393 104 T:  09:07:08.369 Order: SELL LMT 1.0 at 11200.0 msg:  Tradetype FUT_OPEN 1393 Status: Filled Filled
+1394 fut open sell T:  09:16:02.673 Order: SELL LMT 1.0 at 11200.0 msg:  Tradetype FUT_OPEN 1394 Status: Unknown max min last  11220.0 11200.0 11200.0
+||Order|| 1394 105 T:  09:16:02.673 Order: SELL LMT 1.0 at 11200.0 msg:  Tradetype FUT_OPEN 1394 Status: Filled Filled
+1395 fut open sell T:  09:17:34.329 Order: SELL LMT 1.0 at 11187.5 msg:  Tradetype FUT_OPEN 1395 Status: Unknown max min last  11220.0 11187.5 11187.5
+||Order|| 1395 106 T:  09:17:34.329 Order: SELL LMT 1.0 at 11187.5 msg:  Tradetype FUT_OPEN 1395 Status: Filled Filled
+1396 fut open sell T:  09:18:59.572 Order: SELL LMT 1.0 at 11182.5 msg:  Tradetype FUT_OPEN 1396 Status: Unknown max min last  11220.0 11182.5 11182.5
+||Order|| 1396 107 T:  09:18:59.572 Order: SELL LMT 1.0 at 11182.5 msg:  Tradetype FUT_OPEN 1396 Status: Filled Filled
+1397 fut open sell T:  09:28:58.540 Order: SELL LMT 1.0 at 11182.5 msg:  Tradetype FUT_OPEN 1397 Status: Unknown max min last  11220.0 11182.5 11182.5
+||Order|| 1397 108 T:  09:28:58.540 Order: SELL LMT 1.0 at 11182.5 msg:  Tradetype FUT_OPEN 1397 Status: Filled Filled
+1398 open sell T:  09:30:00.276 Order: SELL LMT 3.0 at 11187.5 msg:  Tradetype FIRST_TICK 1398 Status: Unknown open curr  11198.84 11196.600232
+||Order|| 1398 109 T:  09:30:00.276 Order: SELL LMT 3.0 at 11187.5 msg:  Tradetype FIRST_TICK 1398 Status: Filled Filled
+1399 intraday MA buy T:  09:31:02.490 Order: BUY LMT 1.0 at 11187.5 msg:  Tradetype INTRADAY_MA 1399 Status: Unknown Last shortlong  11198.62 11198.5 2ndLast Shortlong 11198.17 11198.5 |perc 0
+||Order|| 1399 110 T:  09:31:02.490 Order: BUY LMT 1.0 at 11187.5 msg:  Tradetype INTRADAY_MA 1399 Status: Filled Filled
+*** 2018-08-04 ***
+1387 O/N buy @  11020.0 perc:  0 pmPercChg -52
