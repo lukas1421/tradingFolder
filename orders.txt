@@ -1598,3 +1598,48 @@
 ||Order|| 1390 101 T:  22:43:37.126 Order: SELL LMT 4.0 at 11395.0 msg:  Tradetype PERC_MA 1390 Status: Filled Filled
 1391 perc MA sell T:  23:51:29.491 Order: SELL LMT 4.0 at 11370.0 msg:  Tradetype PERC_MA 1391 Status: Unknown Last shortlong  11371.25 11372.38 2ndLast Shortlong 11372.75 11372.38  anchor  Future perc 83 2d Perc  83 pmChg 71 |delta Base pmchg weekday target  -500000.0 -2130000.0 100000.0 -2530000.0
 2018-08-14T00:23:13.070 cancelling orders trader for type PERC_MA printing all orders  101 T:  22:43:37.126 Order: SELL LMT 4.0 at 11395.0 msg:  Tradetype PERC_MA 1390 Status: Filled,102 T:  23:51:29.491 Order: SELL LMT 4.0 at 11370.0 msg:  Tradetype PERC_MA 1391 Status: Cancelled
+*** 2018-08-14 ***
+1390 ftick MA cover T:  09:38:30.707 Order: BUY LMT 1.0 at 11307.5 msg:  Tradetype FTICK_TAKE_PROFIT 1390 Status: Created Last shortlong  11328.93 11327.0 2ndLast Shortlong 11321.27 11329.04 |perc 19
+||Order|| 1390 101 T:  09:38:30.707 Order: BUY LMT 1.0 at 11307.5 msg:  Tradetype FTICK_TAKE_PROFIT 1390 Status: Filled Filled
+1391 ftick MA cover T:  10:08:33.606 Order: BUY LMT 1.0 at 11252.5 msg:  Tradetype FTICK_TAKE_PROFIT 1391 Status: Created Last shortlong  11258.89 11257.81 2ndLast Shortlong 11256.05 11256.68 |perc 12
+||Order|| 1391 102 T:  10:08:33.606 Order: BUY LMT 1.0 at 11252.5 msg:  Tradetype FTICK_TAKE_PROFIT 1391 Status: Filled Filled
+1392 ftick MA cover T:  10:58:07.406 Order: BUY LMT 1.0 at 11252.5 msg:  Tradetype FTICK_TAKE_PROFIT 1392 Status: Created Last shortlong  11277.32 11276.98 2ndLast Shortlong 11277.32 11278.34 |perc 16
+||Order|| 1392 103 T:  10:58:07.406 Order: BUY LMT 1.0 at 11252.5 msg:  Tradetype FTICK_TAKE_PROFIT 1392 Status: Filled Filled
+1393 ftick MA cover T:  13:17:05.662 Order: BUY LMT 1.0 at 11255.0 msg:  Tradetype FTICK_TAKE_PROFIT 1393 Status: Created Last shortlong  11246.13 11245.33 2ndLast Shortlong 11244.43 11245.79 |perc 18
+||Order|| 1393 104 T:  13:17:05.662 Order: BUY LMT 1.0 at 11255.0 msg:  Tradetype FTICK_TAKE_PROFIT 1393 Status: Filled Filled
+*** 2018-08-15 ***
+1390 fut open sell T:  09:00:02.328 Order: SELL LMT 1.0 at 11310.0 msg:  Tradetype FUT_OPEN 1390 Status: Created max min last 2dp% 11317.5 11312.5 11310.0 64
+1391 fut open sell T:  09:01:57.657 Order: SELL LMT 1.0 at 11292.5 msg:  Tradetype FUT_OPEN 1391 Status: Created max min last 2dp% 11317.5 11295.0 11292.5 53
+||Order|| 1391 102 T:  09:01:57.657 Order: SELL LMT 1.0 at 11292.5 msg:  Tradetype FUT_OPEN 1391 Status: Filled Filled
+1392 fut open sell T:  09:03:34.655 Order: SELL LMT 1.0 at 11280.0 msg:  Tradetype FUT_OPEN 1392 Status: Created max min last 2dp% 11317.5 11282.5 11280.0 45
+||Order|| 1392 103 T:  09:03:34.655 Order: SELL LMT 1.0 at 11280.0 msg:  Tradetype FUT_OPEN 1392 Status: Filled Filled
+1393 fut open sell T:  09:05:02.446 Order: SELL LMT 1.0 at 11277.5 msg:  Tradetype FUT_OPEN 1393 Status: Created max min last 2dp% 11317.5 11280.0 11277.5 44
+||Order|| 1393 104 T:  09:05:02.446 Order: SELL LMT 1.0 at 11277.5 msg:  Tradetype FUT_OPEN 1393 Status: Filled Filled
+1394 fut open sell T:  09:09:17.988 Order: SELL LMT 1.0 at 11275.0 msg:  Tradetype FUT_OPEN 1394 Status: Created max min last 2dp% 11317.5 11277.5 11275.0 42
+||Order|| 1394 105 T:  09:09:17.988 Order: SELL LMT 1.0 at 11275.0 msg:  Tradetype FUT_OPEN 1394 Status: Filled Filled
+1395 fut open sell T:  09:11:06.529 Order: SELL LMT 1.0 at 11272.5 msg:  Tradetype FUT_OPEN 1395 Status: Created max min last 2dp% 11317.5 11275.0 11272.5 41
+||Order|| 1395 106 T:  09:11:06.529 Order: SELL LMT 1.0 at 11272.5 msg:  Tradetype FUT_OPEN 1395 Status: Filled Filled
+1396 fut open sell T:  09:15:43.792 Order: SELL LMT 1.0 at 11270.0 msg:  Tradetype FUT_OPEN 1396 Status: Created max min last 2dp% 11317.5 11272.5 11270.0 39
+||Order|| 1396 107 T:  09:15:43.792 Order: SELL LMT 1.0 at 11270.0 msg:  Tradetype FUT_OPEN 1396 Status: Filled Filled
+1397 fut open sell T:  09:16:59.235 Order: SELL LMT 1.0 at 11265.0 msg:  Tradetype FUT_OPEN 1397 Status: Created max min last 2dp% 11317.5 11267.5 11265.0 36
+||Order|| 1397 108 T:  09:16:59.235 Order: SELL LMT 1.0 at 11265.0 msg:  Tradetype FUT_OPEN 1397 Status: Filled Filled
+1398 open sell T:  09:29:58.517 Order: SELL LMT 2.0 at 11282.5 msg:  Tradetype FIRST_TICK 1398 Status: Created open ftick1 ftick 2 1ttime 11275.591557 11274.463208 11274.463208 09:29:58.433
+1399 close profit taking COVER T:  14:55:00.202 Order: BUY LMT 1.0 at 11010.0 msg:  Tradetype CLOSE_TAKE_PROFIT 1399 Status: Created
+||Order|| 1399 110 T:  14:55:00.202 Order: BUY LMT 1.0 at 11010.0 msg:  Tradetype CLOSE_TAKE_PROFIT 1399 Status: Filled Filled
+1400 perc MA buy T:  15:18:14.238 Order: BUY LMT 4.0 at 10992.5 msg:  Tradetype PERC_MA 1400 Status: Created Last shortlong  10978.75 10978.25 2ndLast shortlong 10976.0 10976.88 |anchor  Future |perc 7 |2d Perc  7 pmChg -28 |delta Base pmchg weekday target  -500000.0 840000.0 -100000.0 240000.0
+||Order|| 1400 111 T:  15:18:14.238 Order: BUY LMT 4.0 at 10992.5 msg:  Tradetype PERC_MA 1400 Status: Filled Filled
+1401 perc MA buy T:  16:23:02.864 Order: BUY LMT 4.0 at 10970.0 msg:  Tradetype PERC_MA 1401 Status: Created Last shortlong  10976.0 10975.25 2ndLast shortlong 10975.25 10975.38 |anchor  Future |perc 4 |2d Perc  4 pmChg -28 |delta Base pmchg weekday target  -500000.0 840000.0 -100000.0 240000.0
+||Order|| 1401 112 T:  16:23:02.864 Order: BUY LMT 4.0 at 10970.0 msg:  Tradetype PERC_MA 1401 Status: Filled Filled
+*** 2018-08-16 ***
+1390 fut open buy T:  08:59:55.019 Order: BUY LMT 1.0 at 10892.5 msg:  Tradetype FUT_OPEN 1390 Status: Created  max min last 2dp% 10887.5 10887.5 10890.0 13
+1391 china hilo buy T:  09:31:27.658 Order: BUY LMT 2.0 at 10877.5 msg:  Tradetype CHINA_HILO 1391 Status: Created open ft/time/direction  10865.46 10862.16 09:29:56.555 Short lastV, max, min 10867.66 10865.46 10835.75
+||Order|| 1391 102 T:  09:31:27.658 Order: BUY LMT 2.0 at 10877.5 msg:  Tradetype CHINA_HILO 1391 Status: Filled Filled
+2018-08-16T10:13:00.163 cancelling orders trader for type FUT_OPEN printing all orders  101 T:  08:59:55.019 Order: BUY LMT 1.0 at 10892.5 msg:  Tradetype FUT_OPEN 1390 Status: PendingCancel
+2018-08-16T10:13:01 cancelling orders trader for type FUT_OPEN printing all orders  101 T:  08:59:55.019 Order: BUY LMT 1.0 at 10892.5 msg:  Tradetype FUT_OPEN 1390 Status: PendingCancel
+2018-08-16T10:13:01.026 cancelling orders trader for type FUT_OPEN printing all orders  101 T:  08:59:55.019 Order: BUY LMT 1.0 at 10892.5 msg:  Tradetype FUT_OPEN 1390 Status: PendingCa
+*** 2018-08-16 ***
+1394 china hilo buy T:  10:15:17.357 Order: BUY LMT 2.0 at 11117.5 msg:  Tradetype CHINA_HILO 1394 Status: Created open ft/time/direction  10865.46 10862.16 09:29:56.555 Short lastV, max, min 11104.28 11103.18 10804.93
+||Order|| 1394 101 T:  10:15:17.357 Order: BUY LMT 2.0 at 11117.5 msg:  Tradetype CHINA_HILO 1394 Status: Filled Filled
+*** 2018-08-17 ***
+1397 perc MA sell T:  00:23:14.961 Order: SELL LMT 1.0 at 11077.5 msg:  Tradetype PERC_MA 1397 Status: Created Last shortlong  11081.75 11082.25 2ndLast Shortlong 11083.25 11082.5  anchor  Future perc 85 2d Perc  85 pmChg -2 |delta Base pmchg weekday target  -500000.0 60000.0 0.0 -440000.0
+||Order|| 1397 101 T:  00:23:14.961 Order: SELL LMT 1.0 at 11077.5 msg:  Tradetype PERC_MA 1397 Status: Filled Filled
