@@ -822,73 +822,6 @@
 ||Order|| 1324 103 T:  16:00:01.569 Order: SELL LMT 1.0 at 12055.0 msg:  Tradetype TRIM 1324 Status: Filled FinalT:  16:00:01.729 Filled
 1325 trim sell T:  16:34:59.649 Order: SELL LMT 1.0 at 12040.0 msg:  Tradetype TRIM 1325 Status: Unknown FinalT:  00:00
 2018-06-22T17:06:35.118 cancelling orders from trim trader 
-2018-06-22T17:06:35.162 cancelling orders from trim trader 
-2018-06-22T17:07:12.432 cancelling orders from trim trader 
-2018-06-22T17:07:12.476 cancelling orders from trim trader 
-2018-06-22T17:08:34.208 cancelling orders from trim trader 
-2018-06-22T17:08:34.259 cancelling orders from trim trader 
-2018-06-22T17:11:06.622 cancelling orders from trim trader 
-2018-06-22T17:11:06.665 cancelling orders from trim trader 
-2018-06-22T17:12:05.612 cancelling orders from trim trader 
-2018-06-22T17:12:05.662 cancelling orders from trim trader 
-2018-06-22T17:12:18.227 cancelling orders from trim trader 
-2018-06-22T17:12:18.273 cancelling orders from trim trader 
-2018-06-22T17:12:39.762 cancelling orders from trim trader 
-2018-06-22T17:12:39.807 cancelling orders from trim trader 
-2018-06-22T17:13:03.592 cancelling orders from trim trader 
-2018-06-22T17:13:03.635 cancelling orders from trim trader 
-2018-06-22T17:13:51.230 cancelling orders from trim trader 
-2018-06-22T17:13:51.269 cancelling orders from trim trader 
-2018-06-22T17:14:05.951 cancelling orders from trim trader 
-2018-06-22T17:14:05.993 cancelling orders from trim trader 
-2018-06-22T17:15:05.139 cancelling orders from trim trader 
-2018-06-22T17:15:05.186 cancelling orders from trim trader 
-2018-06-22T17:16:12.245 cancelling orders from trim trader 
-2018-06-22T17:16:12.287 cancelling orders from trim trader 
-2018-06-22T17:16:37.487 cancelling orders from trim trader 
-2018-06-22T17:16:37.535 cancelling orders from trim trader 
-2018-06-22T17:17:42.928 cancelling orders from trim trader 
-2018-06-22T17:17:42.969 cancelling orders from trim trader 
-2018-06-22T17:20:28.528 cancelling orders from trim trader 
-2018-06-22T17:20:28.569 cancelling orders from trim trader 
-2018-06-22T17:20:52.408 cancelling orders from trim trader 
-2018-06-22T17:20:52.450 cancelling orders from trim trader 
-2018-06-22T17:22:45.030 cancelling orders from trim trader 
-2018-06-22T17:22:45.081 cancelling orders from trim trader 
-2018-06-22T17:24:01.543 cancelling orders from trim trader 
-2018-06-22T17:24:01.585 cancelling orders from trim trader 
-2018-06-22T17:24:09.757 cancelling orders from trim trader 
-2018-06-22T17:24:09.798 cancelling orders from trim trader 
-2018-06-22T17:26:30.691 cancelling orders from trim trader 
-2018-06-22T17:26:30.735 cancelling orders from trim trader 
-2018-06-22T17:27:15.050 cancelling orders from trim trader 
-2018-06-22T17:27:15.099 cancelling orders from trim trader 
-2018-06-22T17:29:25.242 cancelling orders from trim trader 
-2018-06-22T17:29:25.286 cancelling orders from trim trader 
-2018-06-22T17:37:02.357 cancelling orders from trim trader 
-2018-06-22T17:37:02.398 cancelling orders from trim trader 
-2018-06-22T17:42:01.796 cancelling orders from trim trader 
-2018-06-22T17:42:01.851 cancelling orders from trim trader 
-2018-06-22T17:42:03.053 cancelling orders from trim trader 
-2018-06-22T17:42:03.096 cancelling orders from trim trader 
-2018-06-22T17:44:10.087 cancelling orders from trim trader 
-2018-06-22T17:44:10.129 cancelling orders from trim trader 
-2018-06-22T17:44:56.951 cancelling orders from trim trader 
-2018-06-22T17:44:56.996 cancelling orders from trim trader 
-2018-06-22T17:45:10.784 cancelling orders from trim trader 
-2018-06-22T17:45:10.826 cancelling orders from trim trader 
-2018-06-22T17:46:16.168 cancelling orders from trim trader 
-2018-06-22T17:46:16.211 cancelling orders from trim trader 
-2018-06-22T17:49:02.612 cancelling orders from trim trader 
-2018-06-22T17:49:02.654 cancelling orders from trim trader 
-2018-06-22T17:49:10.116 cancelling orders from trim trader 
-2018-06-22T17:49:10.160 cancelling orders from trim trader 
-2018-06-22T17:50:04.078 cancelling orders from trim trader 
-2018-06-22T17:50:04.131 cancelling orders from trim trader 
-2018-06-22T17:51:03.663 cancelling orders from trim trader 
-2018-06-22T17:51:03.706 cancelling orders from trim trader 
-2018-06-22T17:52:10.811 cancelling orders from trim trader 
-2018-06-22T17:52:10.857 cancelling orders from trim trader 
 *** 2018-06-22 ***
 1328 trim sell T:  17:59:44.584 Order: SELL LMT 1.0 at 12052.5 msg:  Tradetype TRIM 1328 Status: Unknown FinalT:  00:00
 ||Order|| 1328 101 T:  17:59:44.584 Order: SELL LMT 1.0 at 12052.5 msg:  Tradetype TRIM 1328 Status: Filled FinalT:  17:59:48.697 Filled
@@ -1643,3 +1576,44 @@
 *** 2018-08-17 ***
 1397 perc MA sell T:  00:23:14.961 Order: SELL LMT 1.0 at 11077.5 msg:  Tradetype PERC_MA 1397 Status: Created Last shortlong  11081.75 11082.25 2ndLast Shortlong 11083.25 11082.5  anchor  Future perc 85 2d Perc  85 pmChg -2 |delta Base pmchg weekday target  -500000.0 60000.0 0.0 -440000.0
 ||Order|| 1397 101 T:  00:23:14.961 Order: SELL LMT 1.0 at 11077.5 msg:  Tradetype PERC_MA 1397 Status: Filled Filled
+*** 2018-08-20 ***
+1390 china hilo buy T:  09:30:09.505 Order: 1390 BUY DAY LMT 3.0 at 10952.5 msg:  Tradetype CHINA_HILO Status: Created open/1tk/time/direction  10924.86 10922.69 09:30:01.130 Short lastV, max, min, 2dp  10929.2 10924.86 10921.61 47
+||Order|| 1390 101 T:  09:30:09.505 Order: 1390 BUY DAY LMT 3.0 at 10952.5 msg:  Tradetype CHINA_HILO Status: Filled Filled
+*** 2018-08-20 ***
+1393 intraday MA buy T:  13:49:05.411 Order: 1393 BUY DAY LMT 1.0 at 10872.5 msg:  Tradetype INTRADAY_MA Status: Created Last shortlong  10870.7 10868.37 2ndLast Shortlong 10868.42 10869.61 |perc 12
+||Order|| 1393 101 T:  13:49:05.411 Order: 1393 BUY DAY LMT 1.0 at 10872.5 msg:  Tradetype INTRADAY_MA Status: Filled Filled
+1394 perc MA sell T:  15:10:00.330 Order: 1394 SELL DAY LMT 4.0 at 11065.0 msg:  Tradetype PERC_MA Status: Created Last shortlong  11064.0 11065.25 2ndLast Shortlong 11065.0 11063.25  anchor  Future perc 91 2d Perc  91 pmChg 43 |delta Base pmchg weekday target  -500000.0 -1290000.0 100000.0 -1690000.0
+||Order|| 1394 102 T:  15:10:00.330 Order: 1394 SELL DAY LMT 4.0 at 11065.0 msg:  Tradetype PERC_MA Status: Filled Filled
+1395 perc MA sell T:  16:17:11.012 Order: 1395 SELL DAY LMT 4.0 at 11052.5 msg:  Tradetype PERC_MA Status: Created Last shortlong  11062.25 11064.5 2ndLast Shortlong 11065.0 11064.63  anchor  Future perc 86 2d Perc  86 pmChg 43 |delta Base pmchg weekday target  -500000.0 -1290000.0 100000.0 -1690000.0
+||Order|| 1395 103 T:  16:17:11.012 Order: 1395 SELL DAY LMT 4.0 at 11052.5 msg:  Tradetype PERC_MA Status: Filled Filled
+1396 perc MA sell T:  17:26:13.016 Order: 1396 SELL DAY LMT 4.0 at 11075.0 msg:  Tradetype PERC_MA Status: Created Last shortlong  11073.25 11073.38 2ndLast Shortlong 11073.0 11073.0  anchor  Future perc 95 2d Perc  95 pmChg 43 |delta Base pmchg weekday target  -500000.0 -1290000.0 100000.0 -1690000.0
+||Order|| 1396 104 T:  17:26:13.016 Order: 1396 SELL DAY LMT 4.0 at 11075.0 msg:  Tradetype PERC_MA Status: Filled Filled
+*** 2018-08-21 ***
+1393 fut open sell T:  09:01:38.722 Order: 1393 SELL IOC LMT 1.0 at 11027.5 msg:  Tradetype FUT_OPEN Status: Created max min last 2dp% pmchy  11082.5 11032.5 11030.0 61 45 bid ask  11032.5 11035.0
+||Order|| 1393 101 T:  09:01:38.722 Order: 1393 SELL IOC LMT 1.0 at 11027.5 msg:  Tradetype FUT_OPEN Status: Filled Filled
+1394 fut open sell T:  09:02:30.177 Order: 1394 SELL DAY LMT 1.0 at 11022.5 msg:  Tradetype FUT_OPEN Status: Created max min last 2dp% pmchy  11082.5 11025.0 11022.5 58 45 bid ask  11025.0 11027.5
+||Order|| 1394 102 T:  09:02:30.177 Order: 1394 SELL DAY LMT 1.0 at 11022.5 msg:  Tradetype FUT_OPEN Status: Filled Filled
+1395 fut open sell T:  09:07:34.538 Order: 1395 SELL DAY LMT 1.0 at 11015.0 msg:  Tradetype FUT_OPEN Status: Created max min last 2dp% pmchy  11082.5 11017.5 11015.0 56 45 bid ask  11015.0 11020.0
+||Order|| 1395 103 T:  09:07:34.538 Order: 1395 SELL DAY LMT 1.0 at 11015.0 msg:  Tradetype FUT_OPEN Status: Filled Filled
+*** 2018-08-21 ***
+1398  Offer Limit  T:  09:38:33.064 Order: 1398 SELL DAY LMT 1.0 at 11117.5 msg: offer limit Tradetype ON_OFFER Status: Created
+||Order|| 1398 101 T:  09:38:33.064 Order: 1398 SELL DAY LMT 1.0 at 11117.5 msg: offer limit Tradetype ON_OFFER Status: Filled Filled
+1399  Offer Limit  T:  09:38:43.450 Order: 1399 SELL DAY LMT 1.0 at 11117.5 msg: offer limit Tradetype ON_OFFER Status: Created
+||Order|| 1399 102 T:  09:38:43.450 Order: 1399 SELL DAY LMT 1.0 at 11117.5 msg: offer limit Tradetype ON_OFFER Status: Filled Filled
+1400  Offer Limit  T:  09:38:46.833 Order: 1400 SELL DAY LMT 1.0 at 11120.0 msg: offer limit Tradetype ON_OFFER Status: Created
+||Order|| 1400 103 T:  09:38:46.833 Order: 1400 SELL DAY LMT 1.0 at 11120.0 msg: offer limit Tradetype ON_OFFER Status: Filled Filled
+1401  Offer Limit  T:  10:12:07.274 Order: 1401 SELL DAY LMT 1.0 at 11140.0 msg: offer limit Tradetype ON_OFFER Status: Created
+||Order|| 1401 104 T:  10:12:07.274 Order: 1401 SELL DAY LMT 1.0 at 11140.0 msg: offer limit Tradetype ON_OFFER Status: Filled Filled
+*** 2018-08-21 ***
+1404 perc MA sell T:  10:26:09.793 Order: 1404 SELL DAY LMT 4.0 at 11150.0 msg:  Tradetype PERC_MA Status: Created Last shortlong  11164.23 11165.34 2ndLast Shortlong 11167.1 11165.17  anchor  FTSEA50 perc 76 2d Perc  87 pmChg 45 |delta Base pmchg weekday target  -500000.0 -1350000.0 0.0 -1850000.0 avg buy sell  0.0 0.0
+||Order|| 1404 101 T:  10:26:09.793 Order: 1404 SELL DAY LMT 4.0 at 11150.0 msg:  Tradetype PERC_MA Status: Filled Filled
+*** 2018-08-21 ***
+1407 intraday MA sell T:  11:11:02.037 Order: 1407 SELL DAY LMT 1.0 at 11250.0 msg:  Tradetype INTRADAY_MA Status: Created Last shortlong  11253.27 11256.3 2ndLast Shortlong 11256.69 11256.69 |perc 89
+1408 perc MA sell T:  11:11:02.037 Order: 1408 SELL DAY LMT 4.0 at 11250.0 msg:  Tradetype PERC_MA Status: Created Last shortlong  11253.27 11256.3 2ndLast Shortlong 11256.69 11256.69  anchor  FTSEA50 perc 92 2d Perc  95 pmChg 45 |delta Base pmchg weekday target  -500000.0 -675000.0 0.0 -1175000.0 avg buy sell  0.0 0.0
+||Order|| 1407 101 T:  11:11:02.037 Order: 1407 SELL DAY LMT 1.0 at 11250.0 msg:  Tradetype INTRADAY_MA Status: Filled Filled
+||Order|| 1408 102 T:  11:11:02.037 Order: 1408 SELL DAY LMT 4.0 at 11250.0 msg:  Tradetype PERC_MA Status: Filled Filled
+*** 2018-08-22 ***
+1393 fut open sell T:  08:59:59.855 Order: 1393 SELL IOC LMT 1.0 at 11285.0 msg:  Tradetype FUT_OPEN Status: Created max min last 2dp% pmchy  11290.0 11290.0 11287.5 83 -9 bid ask  11287.5 11292.5
+||Order|| 1393 101 T:  08:59:59.855 Order: 1393 SELL IOC LMT 1.0 at 11285.0 msg:  Tradetype FUT_OPEN Status: Filled Filled
+1394 intraday MA buy T:  09:43:53.551 Order: 1394 BUY DAY LMT 1.0 at 11210.0 msg:  Tradetype INTRADAY_MA Status: Created Last shortlong  11233.02 11232.85 2ndLast Shortlong 11233.92 11234.43 |perc 4
+||Order|| 1394 102 T:  09:43:53.551 Order: 1394 BUY DAY LMT 1.0 at 11210.0 msg:  Tradetype INTRADAY_MA Status: Filled Filled
