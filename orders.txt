@@ -1617,3 +1617,66 @@
 ||Order|| 1393 101 T:  08:59:59.855 Order: 1393 SELL IOC LMT 1.0 at 11285.0 msg:  Tradetype FUT_OPEN Status: Filled Filled
 1394 intraday MA buy T:  09:43:53.551 Order: 1394 BUY DAY LMT 1.0 at 11210.0 msg:  Tradetype INTRADAY_MA Status: Created Last shortlong  11233.02 11232.85 2ndLast Shortlong 11233.92 11234.43 |perc 4
 ||Order|| 1394 102 T:  09:43:53.551 Order: 1394 BUY DAY LMT 1.0 at 11210.0 msg:  Tradetype INTRADAY_MA Status: Filled Filled
+*** 2018-08-23 ***
+1393 open deviation sell T:  09:30:02.318 Order: 1393 SELL DAY LMT 1.0 at 11230.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11234.35 Flat 0.06475
+||Order|| 1393 101 T:  09:30:02.318 Order: 1393 SELL DAY LMT 1.0 at 11230.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1394 china hilo buy T:  09:30:12.830 Order: 1394 BUY DAY LMT 1.0 at 11245.0 msg:  Tradetype CHINA_HILO Status: Created open/1tk/time/direction  11235.47 11234.35 09:30:01.974 Short lastV, max, min, 2dp pmchy msg  11237.71 11235.47 11229.86 47 -2 cover short
+||Order|| 1394 102 T:  09:30:12.830 Order: 1394 BUY DAY LMT 1.0 at 11245.0 msg:  Tradetype CHINA_HILO Status: Filled Filled
+1395 open deviation buy T:  09:31:03.056 Order: 1395 BUY DAY LMT 1.0 at 11240.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11243.32 Short 0.0255
+||Order|| 1395 103 T:  09:31:03.056 Order: 1395 BUY DAY LMT 1.0 at 11240.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1396 1st tick sell T:  09:33:09.721 Order: 1396 SELL IOC LMT 1.0 at 11305.0 msg:  Tradetype FIRST_TICK Status: Created open ftick 1ttime 11235.467664000002 11234.345688000001 09:30:01.974  bid ask  11305.0 11307.5
+||Order|| 1396 104 T:  09:33:09.721 Order: 1396 SELL IOC LMT 1.0 at 11305.0 msg:  Tradetype FIRST_TICK Status: Filled Filled
+1397 open deviation sell T:  09:50:34.131 Order: 1397 SELL DAY LMT 1.0 at 11217.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11234.35 Long 0.0306
+||Order|| 1397 105 T:  09:50:34.131 Order: 1397 SELL DAY LMT 1.0 at 11217.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1398 open deviation buy T:  09:51:34.250 Order: 1398 BUY DAY LMT 1.0 at 11235.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11245.57 Short 0.0306
+||Order|| 1398 106 T:  09:51:34.250 Order: 1398 BUY DAY LMT 1.0 at 11235.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1399 ftick MA cover T:  09:53:01.042 Order: 1399 BUY DAY LMT 1.0 at 11222.5 msg:  Tradetype FTICK_TAKE_PROFIT Status: Created Last shortlong  11247.81 11247.7 2ndLast Shortlong 11242.48 11249.04 |perc 19
+||Order|| 1399 107 T:  09:53:01.042 Order: 1399 BUY DAY LMT 1.0 at 11222.5 msg:  Tradetype FTICK_TAKE_PROFIT Status: Filled Filled
+1400 open deviation sell T:  09:54:05.213 Order: 1400 SELL DAY LMT 1.0 at 11212.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11234.35 Long 0.0331
+||Order|| 1400 108 T:  09:54:05.213 Order: 1400 SELL DAY LMT 1.0 at 11212.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+*** 2018-08-23 ***
+1403 open deviation sell T:  10:05:46.877 Order: 1403 SELL DAY LMT 1.0 at 11217.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11234.35 Long 0.2278
+||Order|| 1403 101 T:  10:05:46.877 Order: 1403 SELL DAY LMT 1.0 at 11217.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1404 open deviation buy T:  10:06:48.252 Order: 1404 BUY DAY LMT 1.0 at 11235.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11245.57 Short 0.2281
+||Order|| 1404 102 T:  10:06:48.252 Order: 1404 BUY DAY LMT 1.0 at 11235.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+*** 2018-08-23 ***
+1407 open deviation sell T:  10:11:59.592 Order: 1407 SELL DAY LMT 1.0 at 11215.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11234.35 Long 0.229
+||Order|| 1407 101 T:  10:11:59.592 Order: 1407 SELL DAY LMT 1.0 at 11215.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1408 open deviation buy T:  10:15:16.676 Order: 1408 BUY DAY LMT 1.0 at 11230.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11238.83 Short 0.229
+||Order|| 1408 102 T:  10:15:16.676 Order: 1408 BUY DAY LMT 1.0 at 11230.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1409 open deviation sell T:  10:31:34.695 Order: 1409 SELL DAY LMT 1.0 at 11207.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11234.35 Long 0.2281
+||Order|| 1409 103 T:  10:31:34.695 Order: 1409 SELL DAY LMT 1.0 at 11207.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1410 perc MA buy T:  10:53:00.414 Order: 1410 BUY DAY LMT 1.0 at 11175.0 msg:  Tradetype PERC_MA Status: Created Last shortlong  11198.78 11198.22 2ndLast shortlong 11197.54 11197.6 |anchor  FTSEA50 |perc 6 |2d Perc  10 pmChg -2 |delta Base pmchg weekday target  -500000.0 0.0 0.0 -500000.0 avg buy sell  0.0 0.0
+||Order|| 1410 104 T:  10:53:00.414 Order: 1410 BUY DAY LMT 1.0 at 11175.0 msg:  Tradetype PERC_MA Status: Filled Filled
+1411 intraday MA buy T:  10:53:15.440 Order: 1411 BUY DAY LMT 1.0 at 11167.5 msg:  Tradetype INTRADAY_MA Status: Created Last shortlong  11198.78 11198.22 2ndLast Shortlong 11197.54 11197.6 |perc 4
+||Order|| 1411 105 T:  10:53:15.440 Order: 1411 BUY DAY LMT 1.0 at 11167.5 msg:  Tradetype INTRADAY_MA Status: Filled Filled
+1412 intraday MA buy T:  13:11:02.984 Order: 1412 BUY DAY LMT 2.0 at 11125.0 msg:  Tradetype INTRADAY_MA Status: Created Last shortlong  11144.48 11144.31 2ndLast Shortlong 11143.13 11145.6 |perc 4
+1413 perc MA buy T:  13:11:02.984 Order: 1413 BUY DAY LMT 1.0 at 11125.0 msg:  Tradetype PERC_MA Status: Created Last shortlong  11144.48 11144.31 2ndLast shortlong 11143.13 11145.6 |anchor  FTSEA50 |perc 8 |2d Perc  8 pmChg -2 |delta Base pmchg weekday target  -500000.0 0.0 0.0 -500000.0 avg buy sell  11175.0 0.0
+
+1414 open deviation buy T:  13:30:09.550 Order: 1414 BUY DAY LMT 1.0 at 11222.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11236.59 Short 0.2221
+||Order|| 1414 108 T:  13:30:09.550 Order: 1414 BUY DAY LMT 1.0 at 11222.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+
+1415 open deviation sell T:  13:31:10.998 Order: 1415 SELL DAY LMT 1.0 at 11225.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11224.25 Long 0.2255
+||Order|| 1415 109 T:  13:31:10.998 Order: 1415 SELL DAY LMT 1.0 at 11225.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+
+1416 open deviation buy T:  13:36:15.327 Order: 1416 BUY DAY LMT 1.0 at 11237.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11235.47 11234.35 11236.59 Short 0.2255
+||Order|| 1416 110 T:  13:36:15.327 Order: 1416 BUY DAY LMT 1.0 at 11237.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+
+2018-08-23T14:12:03.690 cancelling orders trader for type PERC_MA printing all orders  104 T:  10:53:00.414 Order: 1410 BUY DAY LMT 1.0 at 11175.0 msg:  Tradetype PERC_MA Status: Filled,107 T:  13:11:02.984 Order: 1413 BUY DAY LMT 1.0 at 11125.0 msg:  Tradetype PERC_MA Status: Cancelled
+*** 2018-08-24 ***
+1393 open deviation sell T:  09:29:59.701 Order: 1393 SELL DAY LMT 1.0 at 11190.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11196.49 11195.37 11195.37 IDX chg:  -1.0E-4 fut pd 11190.0 -5.0E-4 Flat 0.2141
+||Order|| 1393 101 T:  09:29:59.701 Order: 1393 SELL DAY LMT 1.0 at 11190.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1394 open deviation buy T:  09:57:11.701 Order: 1394 BUY DAY LMT 1.0 at 11197.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11196.49 11195.37 11197.62 IDX chg:  1.0E-4 fut pd 11197.5 0.0 Short 0.2059
+||Order|| 1394 102 T:  09:57:11.701 Order: 1394 BUY DAY LMT 1.0 at 11197.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1395 open deviation sell T:  10:02:11.701 Order: 1395 SELL DAY LMT 1.0 at 11175.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11196.49 11195.37 11183.0 IDX chg:  -0.0012 fut pd 11175.0 -7.0E-4 Long 0.2032
+||Order|| 1395 103 T:  10:02:11.701 Order: 1395 SELL DAY LMT 1.0 at 11175.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1396 open deviation buy T:  10:13:25.701 Order: 1396 BUY DAY LMT 1.0 at 11192.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11196.49 11195.37 11197.62 IDX chg:  1.0E-4 fut pd 11192.5 -5.0E-4 Short 0.21375
+||Order|| 1396 104 T:  10:13:25.701 Order: 1396 BUY DAY LMT 1.0 at 11192.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1397 open deviation sell T:  10:25:26.701 Order: 1397 SELL DAY LMT 1.0 at 11180.0 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11196.49 11195.37 11195.37 IDX chg:  -1.0E-4 fut pd 11180.0 -0.0014 Long 0.2134
+||Order|| 1397 105 T:  10:25:26.701 Order: 1397 SELL DAY LMT 1.0 at 11180.0 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1398 open deviation buy T:  10:51:53.701 Order: 1398 BUY DAY LMT 1.0 at 11207.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11196.49 11195.37 11198.74 IDX chg:  2.0E-4 fut pd 11207.5 8.0E-4 Short 0.21375
+||Order|| 1398 106 T:  10:51:53.701 Order: 1398 BUY DAY LMT 1.0 at 11207.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
+1399 intraday MA sell T:  11:02:00.701 Order: 1399 SELL DAY LMT 1.0 at 11237.5 msg:  Tradetype INTRADAY_MA Status: Created Last shortlong  11234.49 11237.97 2ndLast Shortlong 11236.96 11234.04 |perc 84 pmchg  48
+||Order|| 1399 107 T:  11:02:00.701 Order: 1399 SELL DAY LMT 1.0 at 11237.5 msg:  Tradetype INTRADAY_MA Status: Filled Filled
+1400 open deviation sell T:  11:20:35.701 Order: 1400 SELL DAY LMT 1.0 at 11187.5 msg:  Tradetype OPEN_DEVIATION Status: Created open/ft/last/openDevDir/vol 11196.49 11195.37 11195.37 IDX chg:  -1.0E-4 fut pd 11187.5 -7.0E-4 Long 0.225
+||Order|| 1400 108 T:  11:20:35.701 Order: 1400 SELL DAY LMT 1.0 at 11187.5 msg:  Tradetype OPEN_DEVIATION Status: Filled Filled
