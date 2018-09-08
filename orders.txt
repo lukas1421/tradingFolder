@@ -1883,3 +1883,171 @@
 ||Order|| 1435 119 T:  14:00:03.427 Order: 1435 SELL DAY LMT 2.0 at 11225.0 msg:  Tradetype PM_HILO Status: Filled Filled
 1436 intraday MA buy T:  14:06:00.426 Order: 1436 BUY DAY LMT 1.0 at 11210.0 msg:  Tradetype INTRADAY_MA Status: Created Last shortlong  11232.15 11230.6 2ndLast Shortlong 11231.0 11232.77 |perc 2 pmchg  72 total Other Traded  -1.0 total MA 0.0
 ||Order|| 1436 120 T:  14:06:00.426 Order: 1436 BUY DAY LMT 1.0 at 11210.0 msg:  Tradetype INTRADAY_MA Status: Filled Filled
+*** 2018-09-06 ***
+1393 fut PC dev buy T:  08:59:58.116 Order: 1393 BUY DAY LMT 1.0 at 11137.5 msg:  Tradetype FUT_PC_DEVI Status: Created pc, last  11087.5 11137.5
+1394 fut hilo sell T:  08:59:58.548 Order: 1394 SELL DAY LMT 1.0 at 11135.0 msg:  Tradetype FUT_HILO Status: Created max min last dir 11137.5 11137.5 11135.0 Flat |bid ask spread 11135.0 11142.5 7 bp last freshprice 11135.0 11135.0 pre10:maxT minT  08:59:58.116 08:59:58.548
+||Order|| 1393 101 T:  08:59:58.116 Order: 1393 BUY DAY LMT 1.0 at 11137.5 msg:  Tradetype FUT_PC_DEVI Status: Filled Filled 08:59:59
+||Order|| 1394 102 T:  08:59:58.548 Order: 1394 SELL DAY LMT 1.0 at 11135.0 msg:  Tradetype FUT_HILO Status: Filled Filled 09:00
+1395 open dev sell T:  09:29:59.284 Order: 1395 SELL DAY LMT 1.0 at 11130.0 msg:  Tradetype OPEN_DEVI Status: Created #: 0 sell limit:  11130.0 indexLast/fut/pd/Base Size 11123.89 11130.0 1 5 bp open/ft/last/openDevDir/vol 11125.0 11123.89 11123.89 Flat 24.81v IDX chg:  -1.0E-4 waitT/last2Diff/tSinceLast: 600 9223372036854775807 9223372036854775807 msg:  conservative on opening, even trades 
+1396 china hilo sell T:  09:29:59.284 Order: 1396 SELL DAY LMT 1.0 at 11130.0 msg:  Tradetype CHINA_HILO Status: Created # 0 sell limit:  11130.0 indexLast/fut/pd/Base size:  11123.89 11130.0 1 5  bp open/ft/time/direction  11125.0 11123.89 09:29:59.284 Flat waitT, lastTwoTDiff, tSinceLast  300 9223372036854775807 9223372036854775807 max/min/2dp%/pmchy/openP% 11125.0 11125.0 15 -52 4
+||Order|| 1395 103 T:  09:29:59.284 Order: 1395 SELL DAY LMT 1.0 at 11130.0 msg:  Tradetype OPEN_DEVI Status: Filled Filled 09:29:59
+||Order|| 1396 104 T:  09:29:59.284 Order: 1396 SELL DAY LMT 1.0 at 11130.0 msg:  Tradetype CHINA_HILO Status: Filled Filled 09:29:59
+1397 china hilo buy T:  09:34:59.284 Order: 1397 BUY DAY LMT 2.0 at 11140.0 msg:  Tradetype CHINA_HILO Status: Created # 1 buy limit:  11140.0 indexLast/fut/pd/Base Size:  11147.3 11140.0 1 -7  bp open/ft/time/direction  11125.0 11123.89 09:29:59.284 Short waitT, lastTwoTDiff, tSinceLast  300 9223372036854775807 300000 max/min/2dp%/pmchy/openp%  11147.3 11109.39 18 -52 38
+||Order|| 1397 105 T:  09:34:59.284 Order: 1397 BUY DAY LMT 2.0 at 11140.0 msg:  Tradetype CHINA_HILO Status: Filled Filled 09:34:59
+1398 fut hilo buy T:  09:35:12.535 Order: 1398 BUY DAY LMT 2.0 at 11147.5 msg:  Tradetype FUT_HILO Status: Created  max min last dir 11145.0 11100.0 11147.5 Short |bid ask spread 11145.0 11147.5 2 bp last freshprice  11147.5 11147.5 pre10:maxT minT  09:35:12.535 09:32:41.462
+||Order|| 1398 106 T:  09:35:12.535 Order: 1398 BUY DAY LMT 2.0 at 11147.5 msg:  Tradetype FUT_HILO Status: Filled Filled 09:35:12
+1399 open dev buy T:  09:40:00.284 Order: 1399 BUY DAY LMT 2.0 at 11157.5 msg:  Tradetype OPEN_DEVI Status: Created # 1 buy limit: 11157.5 indexLast/fut/pd/Base Size 11166.26 11157.5 1 -8 bp open/ft/last/openDevDir/vol 11125.0 11123.89 11166.26 Short 24.31v IDX chg:  0.0037 wait/last2Diff/tSinceLast: 600 9223372036854775807 601000 msg:  aggressive on closing trades 
+||Order|| 1399 107 T:  09:40:00.284 Order: 1399 BUY DAY LMT 2.0 at 11157.5 msg:  Tradetype OPEN_DEVI Status: Filled Filled 09:40
+1400 open dev sell T:  09:50:01.284 Order: 1400 SELL DAY LMT 1.0 at 11115.0 msg:  Tradetype OPEN_DEVI Status: Created #: 2 sell limit:  11115.0 indexLast/fut/pd/Base Size 11116.08 11100.0 1 -14 bp open/ft/last/openDevDir/vol 11125.0 11123.89 11116.08 Long 24.94v IDX chg:  -8.0E-4 waitT/last2Diff/tSinceLast: 600 601000 601000 msg:  conservative on opening, even trades 
+||Order|| 1400 108 T:  09:50:01.284 Order: 1400 SELL DAY LMT 1.0 at 11115.0 msg:  Tradetype OPEN_DEVI Status: Filled Filled 09:50:41
+1401 fut hilo sell T:  09:53:52.944 Order: 1401 SELL DAY LMT 2.0 at 11100.0 msg:  Tradetype FUT_HILO Status: Created max min last dir 11185.0 11100.0 11097.5 Long |bid ask spread 11100.0 11102.5 2 bp last freshprice 11097.5 11097.5 pre10:maxT minT  09:41:58.057 09:53:52.944
+1402 china hilo sell T:  09:53:53.284 Order: 1402 SELL DAY LMT 2.0 at 11107.5 msg:  Tradetype CHINA_HILO Status: Created # 2 sell limit:  11107.5 indexLast/fut/pd/Base size:  11108.28 11097.5 1 -10  bp open/ft/time/direction  11125.0 11123.89 09:29:59.284 Long waitT, lastTwoTDiff, tSinceLast  300 300000 1134000 max/min/2dp%/pmchy/openP% 11194.14 11109.39 4 -52 19
+||Order|| 1401 109 T:  09:53:52.944 Order: 1401 SELL DAY LMT 2.0 at 11100.0 msg:  Tradetype FUT_HILO Status: Filled Filled 09:53:53
+||Order|| 1402 110 T:  09:53:53.284 Order: 1402 SELL DAY LMT 2.0 at 11107.5 msg:  Tradetype CHINA_HILO Status: Filled Filled 09:54:12
+1403 open dev buy T:  10:00:02.284 Order: 1403 BUY DAY LMT 2.0 at 11150.0 msg:  Tradetype OPEN_DEVI Status: Created # 3 buy limit: 11150.0 indexLast/fut/pd/Base Size 11149.53 11150.0 1 0 bp open/ft/last/openDevDir/vol 11125.0 11123.89 11149.53 Short 24.11v IDX chg:  0.0022 wait/last2Diff/tSinceLast: 600 601000 601000 msg:  aggressive on closing trades 
+||Order|| 1403 111 T:  10:00:02.284 Order: 1403 BUY DAY LMT 2.0 at 11150.0 msg:  Tradetype OPEN_DEVI Status: Filled Filled 10:00:03
+1404 fut hilo buy T:  10:03:53.062 Order: 1404 BUY DAY LMT 2.0 at 11190.0 msg:  Tradetype FUT_HILO Status: Created  max min last dir 11190.0 11097.5 11190.0 Short |bid ask spread 11187.5 11190.0 2 bp last freshprice  11190.0 11190.0 pre10:maxT minT  09:41:58.057 09:53:52.944
+||Order|| 1404 112 T:  10:03:53.062 Order: 1404 BUY DAY LMT 2.0 at 11190.0 msg:  Tradetype FUT_HILO Status: Filled Filled 10:03:53
+1405 china hilo buy T:  10:04:24.284 Order: 1405 BUY DAY LMT 2.0 at 11185.0 msg:  Tradetype CHINA_HILO Status: Created # 3 buy limit:  11185.0 indexLast/fut/pd/Base Size:  11195.25 11185.0 1 -9  bp open/ft/time/direction  11125.0 11123.89 09:29:59.284 Short waitT, lastTwoTDiff, tSinceLast  300 1134000 631000 max/min/2dp%/pmchy/openp%  11194.14 11104.93 32 -52 22
+||Order|| 1405 113 T:  10:04:24.284 Order: 1405 BUY DAY LMT 2.0 at 11185.0 msg:  Tradetype CHINA_HILO Status: Filled Filled 10:04:24
+1406 open dev sell T:  10:33:29.284 Order: 1406 SELL DAY LMT 1.0 at 11122.5 msg:  Tradetype OPEN_DEVI Status: Created #: 4 sell limit:  11122.5 indexLast/fut/pd/Base Size 11123.89 11117.5 1 -6 bp open/ft/last/openDevDir/vol 11125.0 11123.89 11123.89 Long 24.24v IDX chg:  -1.0E-4 waitT/last2Diff/tSinceLast: 600 601000 2007000 msg:  conservative on opening, even trades 
+||Order|| 1406 114 T:  10:33:29.284 Order: 1406 SELL DAY LMT 1.0 at 11122.5 msg:  Tradetype OPEN_DEVI Status: Filled Filled 10:36:09
+1407 open dev buy T:  10:43:30.284 Order: 1407 BUY DAY LMT 1.0 at 11132.5 msg:  Tradetype OPEN_DEVI Status: Created # 5 buy limit: 11132.5 indexLast/fut/pd/Base Size 11139.5 11132.5 1 -6 bp open/ft/last/openDevDir/vol 11125.0 11123.89 11139.5 Short 24.61v IDX chg:  0.0013 wait/last2Diff/tSinceLast: 600 2007000 601000 msg:  aggressive on closing trades 
+||Order|| 1407 115 T:  10:43:30.284 Order: 1407 BUY DAY LMT 1.0 at 11132.5 msg:  Tradetype OPEN_DEVI Status: Filled Filled 10:43:34
+1408 china hilo sell T:  11:01:15.284 Order: 1408 SELL DAY LMT 2.0 at 11107.5 msg:  Tradetype CHINA_HILO Status: Created # 4 sell limit:  11107.5 indexLast/fut/pd/Base size:  11103.82 11107.5 1 3  bp open/ft/time/direction  11125.0 11123.89 09:29:59.284 Long waitT, lastTwoTDiff, tSinceLast  300 631000 3411000 max/min/2dp%/pmchy/openP% 11197.48 11104.93 7 -52 23
+||Order|| 1408 116 T:  11:01:15.284 Order: 1408 SELL DAY LMT 2.0 at 11107.5 msg:  Tradetype CHINA_HILO Status: Filled Filled 11:01:15
+1409 pm hilo buy T:  13:00:03.284 Order: 1409 BUY DAY LMT 2.0 at 11125.0 msg:  Tradetype PM_HILO Status: Created # 0 buy limit:  11125.0 indexLast/fut/pd:  11130.58 11125.0 -5  bp pmOpen/ft/time/direction  11128.35 11130.58 13:00:03.284 Flat waitT, lastTwoTDiff, tSinceLast  300 9223372036854775807 9223372036854775807 pm:max/min 11128.35 11128.35
+1410 pm dev BUY T:  13:00:03.284 Order: 1410 BUY DAY LMT 1.0 at 11125.0 msg:  Tradetype PM_DEVI Status: Created
+||Order|| 1409 117 T:  13:00:03.284 Order: 1409 BUY DAY LMT 2.0 at 11125.0 msg:  Tradetype PM_HILO Status: Filled Filled 13:00:03
+||Order|| 1410 118 T:  13:00:03.284 Order: 1410 BUY DAY LMT 1.0 at 11125.0 msg:  Tradetype PM_DEVI Status: Filled Filled 13:00:03
+1411 fut hilo sell T:  13:04:59.036 Order: 1411 SELL DAY LMT 2.0 at 11100.0 msg:  Tradetype FUT_HILO Status: Created max min last dir 11200.0 11097.5 11087.5 Long |bid ask spread 11100.0 11102.5 2 bp last freshprice 11087.5 11087.5 pre10:maxT minT  09:41:58.057 09:53:52.944
+1412 pm hilo sell T:  13:05:03.285 Order: 1412 SELL DAY LMT 4.0 at 11087.5 msg:  Tradetype PM_HILO Status: Created # 1 sell limit:  11087.5 indexLast/fut/pd:  11104.93 11087.5 -16  bp pmOpen/ft/time/direction  11128.35 11130.58 13:00:03.284 Long waitT, lastTwoTDiff, tSinceLast  300 9223372036854775807 300001 pm:max/min 11131.69 11104.93
+||Order|| 1412 120 T:  13:05:03.285 Order: 1412 SELL DAY LMT 4.0 at 11087.5 msg:  Tradetype PM_HILO Status: Filled Filled 13:05:03
+1413 pm dev SELL T:  13:05:04.284 Order: 1413 SELL DAY LMT 2.0 at 11087.5 msg:  Tradetype PM_DEVI Status: Created
+||Order|| 1413 121 T:  13:05:04.284 Order: 1413 SELL DAY LMT 2.0 at 11087.5 msg:  Tradetype PM_DEVI Status: Filled Filled 13:05:04
+1414 fut PC dev SELL T:  13:05:58.851 Order: 1414 SELL DAY LMT 2.0 at 11085.0 msg:  Tradetype FUT_PC_DEVI Status: Created pc, last  11087.5 11085.0
+||Order|| 1414 122 T:  13:05:58.851 Order: 1414 SELL DAY LMT 2.0 at 11085.0 msg:  Tradetype FUT_PC_DEVI Status: Filled Filled 13:05:59
+1415 fut PC dev buy T:  13:26:58.978 Order: 1415 BUY DAY LMT 2.0 at 11092.5 msg:  Tradetype FUT_PC_DEVI Status: Created pc, last  11087.5 11092.5
+||Order|| 1415 123 T:  13:26:58.978 Order: 1415 BUY DAY LMT 2.0 at 11092.5 msg:  Tradetype FUT_PC_DEVI Status: Filled Filled 13:26:59
+||Order|| 1411 119 T:  13:04:59.036 Order: 1411 SELL DAY LMT 2.0 at 11100.0 msg:  Tradetype FUT_HILO Status: Filled Filled 13:27:04
+1416 fut PC dev SELL T:  13:42:00.007 Order: 1416 SELL DAY LMT 2.0 at 11067.5 msg:  Tradetype FUT_PC_DEVI Status: Created pc, last  11087.5 11067.5
+||Order|| 1416 124 T:  13:42:00.007 Order: 1416 SELL DAY LMT 2.0 at 11067.5 msg:  Tradetype FUT_PC_DEVI Status: Filled Filled 13:42
+1417  close liq sell T:  14:55:01.148 Order: 1417 SELL DAY LMT 4.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T00:00 currPos 13 size 4
+||Order|| 1417 125 T:  14:55:01.148 Order: 1417 SELL DAY LMT 4.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 14:55:35
+1418  close liq sell T:  14:56:02.271 Order: 1418 SELL DAY LMT 4.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T14:55:01.148 currPos 9 size 4
+||Order|| 1418 126 T:  14:56:02.271 Order: 1418 SELL DAY LMT 4.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 14:56:05
+1419  close liq sell T:  14:57:04.147 Order: 1419 SELL DAY LMT 2.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T14:56:02.271 currPos 5 size 2
+||Order|| 1419 127 T:  14:57:04.147 Order: 1419 SELL DAY LMT 2.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 14:57:07
+1420  close liq sell T:  14:58:05.252 Order: 1420 SELL DAY LMT 1.0 at 11007.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T14:57:04.147 currPos 3 size 1
+||Order|| 1420 128 T:  14:58:05.252 Order: 1420 SELL DAY LMT 1.0 at 11007.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 14:58:05
+1421  close liq sell T:  14:59:08.188 Order: 1421 SELL DAY LMT 2.0 at 11007.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T14:58:05.252 currPos 2 size 2
+||Order|| 1421 129 T:  14:59:08.188 Order: 1421 SELL DAY LMT 2.0 at 11007.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 14:59:12
+1422  close liq sell T:  15:00:10.141 Order: 1422 SELL DAY LMT 2.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T14:59:08.188 currPos 2 size 2
+||Order|| 1422 130 T:  15:00:10.141 Order: 1422 SELL DAY LMT 2.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:00:55
+1423  close liq buy T:  15:01:16.850 Order: 1423 BUY DAY LMT 2.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:00:10.141 currPos -2 size 2
+||Order|| 1423 131 T:  15:01:16.850 Order: 1423 BUY DAY LMT 2.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:01:17
+1424  close liq buy T:  15:02:18.853 Order: 1424 BUY DAY LMT 2.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:01:16.850 currPos -2 size 2
+||Order|| 1424 132 T:  15:02:18.853 Order: 1424 BUY DAY LMT 2.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:03:15
+1425  close liq sell T:  15:03:22.256 Order: 1425 SELL DAY LMT 2.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:02:18.853 currPos 2 size 2
+||Order|| 1425 133 T:  15:03:22.256 Order: 1425 SELL DAY LMT 2.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:03:22
+1426 perc MA buy T:  15:04:10.851 Order: 1426 BUY DAY LMT 1.0 at 11017.5 msg:  Tradetype PERC_MA Status: Created Last shortlong  11010.75 11010.5 2ndLast shortlong 11009.0 11009.88 |anchor  Future |perc 19 |2d Perc  19 pmChg -49 |delta Base pmchg weekday target  -500000.0 1470000.0 0.0 970000.0 avg buy sell  0.0 0.0
+||Order|| 1426 134 T:  15:04:10.851 Order: 1426 BUY DAY LMT 1.0 at 11017.5 msg:  Tradetype PERC_MA Status: Filled Filled 15:04:14
+1427  close liq sell T:  15:04:25.778 Order: 1427 SELL DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:03:22.256 currPos 1 size 1
+||Order|| 1427 135 T:  15:04:25.778 Order: 1427 SELL DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:04:26
+1428  close liq sell T:  15:05:28.196 Order: 1428 SELL DAY LMT 1.0 at 11020.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:04:25.778 currPos 1 size 1
+||Order|| 1428 136 T:  15:05:28.196 Order: 1428 SELL DAY LMT 1.0 at 11020.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:05:28
+1429  close liq buy T:  15:06:29.583 Order: 1429 BUY DAY LMT 1.0 at 11022.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:05:28.196 currPos -1 size 1
+||Order|| 1429 137 T:  15:06:29.583 Order: 1429 BUY DAY LMT 1.0 at 11022.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:06:30
+1430  close liq buy T:  15:07:37.706 Order: 1430 BUY DAY LMT 1.0 at 11022.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:06:29.583 currPos -1 size 1
+||Order|| 1430 138 T:  15:07:37.706 Order: 1430 BUY DAY LMT 1.0 at 11022.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:07:50
+1431  close liq sell T:  15:08:40.426 Order: 1431 SELL DAY LMT 1.0 at 11022.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:07:37.706 currPos 1 size 1
+||Order|| 1431 139 T:  15:08:40.426 Order: 1431 SELL DAY LMT 1.0 at 11022.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:08:42
+1432  close liq sell T:  15:09:49.796 Order: 1432 SELL DAY LMT 1.0 at 11025.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:08:40.426 currPos 1 size 1
+||Order|| 1432 140 T:  15:09:49.796 Order: 1432 SELL DAY LMT 1.0 at 11025.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:09:50
+1433  close liq buy T:  15:10:52.276 Order: 1433 BUY DAY LMT 1.0 at 11025.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:09:49.796 currPos -1 size 1
+||Order|| 1433 141 T:  15:10:52.276 Order: 1433 BUY DAY LMT 1.0 at 11025.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:11:14
+1434  close liq buy T:  15:12:17.002 Order: 1434 BUY DAY LMT 1.0 at 11027.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:10:52.276 currPos -1 size 1
+||Order|| 1434 142 T:  15:12:17.002 Order: 1434 BUY DAY LMT 1.0 at 11027.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:12:17
+1435  close liq sell T:  15:13:48.311 Order: 1435 SELL DAY LMT 1.0 at 11025.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:12:17.002 currPos 1 size 1
+1436  close liq sell T:  15:14:50.096 Order: 1436 SELL DAY LMT 1.0 at 11020.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:13:48.311 currPos 1 size 1
+||Order|| 1436 144 T:  15:14:50.096 Order: 1436 SELL DAY LMT 1.0 at 11020.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:14:50
+1437  close liq sell T:  15:16:18.333 Order: 1437 SELL DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:14:50.096 currPos 1 size 1
+||Order|| 1437 145 T:  15:16:18.333 Order: 1437 SELL DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:16:19
+1438  close liq buy T:  15:17:38.477 Order: 1438 BUY DAY LMT 1.0 at 11017.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:16:18.333 currPos -1 size 1
+||Order|| 1438 146 T:  15:17:38.477 Order: 1438 BUY DAY LMT 1.0 at 11017.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:17:39
+1439  close liq buy T:  15:18:41.482 Order: 1439 BUY DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:17:38.477 currPos -1 size 1
+||Order|| 1439 147 T:  15:18:41.482 Order: 1439 BUY DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:19:42
+1440  close liq sell T:  15:19:57.018 Order: 1440 SELL DAY LMT 1.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:18:41.482 currPos 1 size 1
+||Order|| 1440 148 T:  15:19:57.018 Order: 1440 SELL DAY LMT 1.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:19:58
+1441  close liq sell T:  15:21:00.805 Order: 1441 SELL DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:19:57.018 currPos 1 size 1
+||Order|| 1441 149 T:  15:21:00.805 Order: 1441 SELL DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:21:01
+1442  close liq buy T:  15:22:13.942 Order: 1442 BUY DAY LMT 1.0 at 11017.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:21:00.805 currPos -1 size 1
+||Order|| 1442 150 T:  15:22:13.942 Order: 1442 BUY DAY LMT 1.0 at 11017.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:22:14
+1443  close liq buy T:  15:23:22.150 Order: 1443 BUY DAY LMT 1.0 at 11017.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:22:13.942 currPos -1 size 1
+||Order|| 1443 151 T:  15:23:22.150 Order: 1443 BUY DAY LMT 1.0 at 11017.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:23:24
+1444  close liq sell T:  15:24:34.162 Order: 1444 SELL DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:23:22.150 currPos 1 size 1
+||Order|| 1444 152 T:  15:24:34.162 Order: 1444 SELL DAY LMT 1.0 at 11012.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:24:34
+1445  close liq sell T:  15:25:40.473 Order: 1445 SELL DAY LMT 1.0 at 11007.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:24:34.162 currPos 1 size 1
+||Order|| 1445 153 T:  15:25:40.473 Order: 1445 SELL DAY LMT 1.0 at 11007.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:25:41
+1446  close liq buy T:  15:26:50.290 Order: 1446 BUY DAY LMT 1.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:25:40.473 currPos -1 size 1
+||Order|| 1446 154 T:  15:26:50.290 Order: 1446 BUY DAY LMT 1.0 at 11010.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:26:50
+1447  close liq buy T:  15:28:12.448 Order: 1447 BUY DAY LMT 1.0 at 11002.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:26:50.290 currPos -1 size 1
+1448  close liq buy T:  15:29:15.939 Order: 1448 BUY DAY LMT 1.0 at 11002.5 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-06T15:28:12.448 currPos -1 size 1
+||Order|| 1447 155 T:  15:28:12.448 Order: 1447 BUY DAY LMT 1.0 at 11002.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:30:38
+||Order|| 1448 156 T:  15:29:15.939 Order: 1448 BUY DAY LMT 1.0 at 11002.5 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:30:38
+||Order|| 1435 143 T:  15:13:48.311 Order: 1435 SELL DAY LMT 1.0 at 11025.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 15:44:58
+1449 fut PC dev buy T:  17:00:20.019 Order: 1449 BUY DAY LMT 2.0 at 11090.0 msg:  Tradetype FUT_PC_DEVI Status: Created pc, last  11087.5 11090.0
+||Order|| 1449 157 T:  17:00:20.019 Order: 1449 BUY DAY LMT 2.0 at 11090.0 msg:  Tradetype FUT_PC_DEVI Status: Filled Filled 17:00:37
+1450 fut PC dev SELL T:  17:15:25.735 Order: 1450 SELL DAY LMT 1.0 at 11075.0 msg:  Tradetype FUT_PC_DEVI Status: Created pc, last  11087.5 11075.0
+*** 2018-09-07 ***
+1417 fut PC dev buy T:  08:59:57.822 Order: 1417 BUY DAY LMT 1.0 at 11022.5 msg:  Tradetype FUT_OPEN_DEVI Status: Created pc, last  11047.5 11027.5
+1418 fut open buy # 0 T:  08:59:57.822 Order: 1418 BUY DAY LMT 1.0 at 11027.5 msg:  Tradetype FUT_OPEN Status: Created  max min last 2dp% pmchy  11020.0 11020.0 11027.5 23 -48 bid ask  11020.0 11022.5 currDelta/tgt: 293458.44807000004 940000.0
+1419 fut hilo buy T:  08:59:57.822 Order: 1419 BUY DAY LMT 1.0 at 11022.5 msg:  Tradetype FUT_HILO Status: Created  max min last dir 11020.0 11020.0 11027.5 Flat |bid ask spread 11020.0 11022.5 2 bp last freshprice  11027.5 11027.5 pre10:maxT minT  08:59:57.822 08:59:57.526
+||Order|| 1418 102 T:  08:59:57.822 Order: 1418 BUY DAY LMT 1.0 at 11027.5 msg:  Tradetype FUT_OPEN Status: Filled Filled 09:00:12
+||Order|| 1417 101 T:  08:59:57.822 Order: 1417 BUY DAY LMT 1.0 at 11022.5 msg:  Tradetype FUT_OPEN_DEVI Status: Filled Filled 09:17:12
+||Order|| 1419 103 T:  08:59:57.822 Order: 1419 BUY DAY LMT 1.0 at 11022.5 msg:  Tradetype FUT_HILO Status: Filled Filled 09:17:12
+1420 fut PC dev SELL T:  09:17:29.782 Order: 1420 SELL DAY LMT 2.0 at 11020.0 msg:  Tradetype FUT_OPEN_DEVI Status: Created pc, last  11047.5 11017.5
+1421 fut hilo sell T:  09:17:29.782 Order: 1421 SELL DAY LMT 2.0 at 11017.5 msg:  Tradetype FUT_HILO Status: Created max min last dir 11050.0 11020.0 11017.5 Long |bid ask spread 11017.5 11020.0 2 bp last freshprice 11017.5 11017.5 pre10:maxT minT  09:00:06.444 09:17:29.782
+||Order|| 1421 105 T:  09:17:29.782 Order: 1421 SELL DAY LMT 2.0 at 11017.5 msg:  Tradetype FUT_HILO Status: Filled Filled 09:17:30
+||Order|| 1420 104 T:  09:17:29.782 Order: 1420 SELL DAY LMT 2.0 at 11020.0 msg:  Tradetype FUT_OPEN_DEVI Status: Filled Filled 09:17:32
+1422 fut PC dev buy T:  09:18:32.863 Order: 1422 BUY DAY LMT 2.0 at 11022.5 msg:  Tradetype FUT_OPEN_DEVI Status: Created pc, last  11047.5 11022.5
+||Order|| 1422 106 T:  09:18:32.863 Order: 1422 BUY DAY LMT 2.0 at 11022.5 msg:  Tradetype FUT_OPEN_DEVI Status: Filled Filled 09:18:35
+1423 fut open buy # 1 T:  09:22:15.981 Order: 1423 BUY DAY LMT 1.0 at 11052.5 msg:  Tradetype FUT_OPEN Status: Created  max min last 2dp% pmchy  11050.0 11015.0 11052.5 34 -48 bid ask  11047.5 11052.5 currDelta/tgt: 369525.3126 940000.0
+||Order|| 1423 107 T:  09:22:15.981 Order: 1423 BUY DAY LMT 1.0 at 11052.5 msg:  Tradetype FUT_OPEN Status: Filled Filled 09:22:16
+1424 fut open buy # 2 T:  09:24:58.102 Order: 1424 BUY DAY LMT 1.0 at 11055.0 msg:  Tradetype FUT_OPEN Status: Created  max min last 2dp% pmchy  11052.5 11015.0 11055.0 36 -48 bid ask  11052.5 11055.0 currDelta/tgt: 445268.99970000004 940000.0
+||Order|| 1424 108 T:  09:24:58.102 Order: 1424 BUY DAY LMT 1.0 at 11055.0 msg:  Tradetype FUT_OPEN Status: Filled Filled 09:24:58
+1425 fut open buy # 3 T:  09:26:46.582 Order: 1425 BUY DAY LMT 1.0 at 11060.0 msg:  Tradetype FUT_OPEN Status: Created  max min last 2dp% pmchy  11057.5 11015.0 11060.0 38 -48 bid ask  11057.5 11060.0 currDelta/tgt: 521149.5936 940000.0
+||Order|| 1425 109 T:  09:26:46.582 Order: 1425 BUY DAY LMT 1.0 at 11060.0 msg:  Tradetype FUT_OPEN Status: Filled Filled 09:26:46
+1426 fut hilo buy T:  09:27:30.869 Order: 1426 BUY DAY LMT 2.0 at 11070.0 msg:  Tradetype FUT_HILO Status: Created  max min last dir 11072.5 11015.0 11070.0 Short |bid ask spread 11067.5 11070.0 2 bp last freshprice  11070.0 11070.0 pre10:maxT minT  09:27:16.942 09:17:31.187
+||Order|| 1426 110 T:  09:27:30.869 Order: 1426 BUY DAY LMT 2.0 at 11070.0 msg:  Tradetype FUT_HILO Status: Filled Filled 09:27:31
+1427 1st tick buy T:  09:30:01.043 Order: 1427 BUY DAY LMT 3.0 at 11077.5 msg:  Tradetype FIRST_TICK Status: Created open/FT/T 11050.06 11054.46 09:30:01.043  bid ask  11077.5 11080.0
+1428 index hilo buy T:  09:30:01.043 Order: 1428 BUY DAY LMT 1.0 at 11055.0 msg:  Tradetype INDEX_HILO Status: Created # 0 buy limit:  11055.0 indexLast/fut/pd/Base Size:  11054.46 11077.5 1 21  bp open/ft/time/direction  11050.06 11054.46 09:30:01.043 Flat waitT, lastTwoTDiff, tSinceLast  300 9223372036854775807 9223372036854775807 max/min/2dp%/pmchy/openp%  11050.06 11050.06 46 -48 90
+1429 open dev buy T:  09:30:01.043 Order: 1429 BUY DAY LMT 1.0 at 11052.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Created # 0 buy limit: 11052.5 indexLast/fut/pd/Base Size 11054.46 11080.0 1 23 bp open/ft/last/openDevDir/vol 11050.06 11054.46 11054.46 Flat 25.52v IDX chg:  4.0E-4 wait/last2Diff/tSinceLast: 10 9223372036854775807 9223372036854775807 msg:  conservative on all trades 
+||Order|| 1427 111 T:  09:30:01.043 Order: 1427 BUY DAY LMT 3.0 at 11077.5 msg:  Tradetype FIRST_TICK Status: Filled Filled 09:30:01
+||Order|| 1428 112 T:  09:30:01.043 Order: 1428 BUY DAY LMT 1.0 at 11055.0 msg:  Tradetype INDEX_HILO Status: Filled Filled 11:23:59
+||Order|| 1429 113 T:  09:30:01.043 Order: 1429 BUY DAY LMT 1.0 at 11052.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Filled Filled 11:24:02
+1430 index hilo sell T:  11:24:23.044 Order: 1430 SELL DAY LMT 2.0 at 11047.5 msg:  Tradetype INDEX_HILO Status: Created # 1 sell limit:  11047.5 indexLast/fut/pd/Base size:  11047.86 11042.5 1 -5  bp open/ft/time/direction  11050.06 11054.46 09:30:01.043 Long waitT, lastTwoTDiff, tSinceLast  300 9223372036854775807 6862001 max/min/2dp%/pmchy/openP% 11200.87 11050.06 29 -48 22
+1431 open dev sell T:  11:24:23.044 Order: 1431 SELL DAY LMT 2.0 at 11050.0 msg:  Tradetype INDEX_OPEN_DEVI Status: Created #: 1 sell limit:  11050.0 indexLast/fut/pd/Base Size 11047.86 11042.5 1 -5 bp open/ft/last/openDevDir/vol 11050.06 11054.46 11047.86 Long 25.53v IDX chg:  -2.0E-4 waitT/last2Diff/tSinceLast: 10 9223372036854775807 6862001 msg:  conservative on all trades 
+1432 fut PC dev SELL T:  11:27:33.456 Order: 1432 SELL DAY LMT 2.0 at 11020.0 msg:  Tradetype FUT_OPEN_DEVI Status: Created pc, last  11047.5 11017.5
+||Order|| 1432 116 T:  11:27:33.456 Order: 1432 SELL DAY LMT 2.0 at 11020.0 msg:  Tradetype FUT_OPEN_DEVI Status: Filled Filled 11:27:34
+1433 fut hilo sell T:  11:27:44.232 Order: 1433 SELL DAY LMT 2.0 at 11012.5 msg:  Tradetype FUT_HILO Status: Created max min last dir 11207.5 11015.0 11012.5 Long |bid ask spread 11012.5 11017.5 5 bp last freshprice 11012.5 11012.5 pre10:maxT minT  09:50:47.199 09:17:31.187
+||Order|| 1433 117 T:  11:27:44.232 Order: 1433 SELL DAY LMT 2.0 at 11012.5 msg:  Tradetype FUT_HILO Status: Filled Filled 11:27:44
+1434 fut PC dev buy T:  11:28:20.692 Order: 1434 BUY DAY LMT 2.0 at 11022.5 msg:  Tradetype FUT_OPEN_DEVI Status: Created pc, last  11047.5 11022.5
+||Order|| 1434 118 T:  11:28:20.692 Order: 1434 BUY DAY LMT 2.0 at 11022.5 msg:  Tradetype FUT_OPEN_DEVI Status: Filled Filled 11:28:20
+1435 fut PC dev SELL T:  13:00:00.453 Order: 1435 SELL DAY LMT 1.0 at 11020.0 msg:  Tradetype FUT_OPEN_DEVI Status: Created pc, last  11047.5 10997.5
+1436 index pm hilo sell T:  13:00:02.044 Order: 1436 SELL DAY LMT 3.0 at 11000.0 msg:  Tradetype INDEX_PM_HILO Status: Created # 0 sell limit:  11000.0 indexLast/fut/pd:  11007.13 11000.0 -6  bp pmOpen/ft/time/direction  11009.33 11007.13 13:00:02.044 Flat waitT, lastTwoTDiff, tSinceLast  10 9223372036854775807 9223372036854775807 pm:max/min 11009.33 11009.33
+1437 pm open dev SELL T:  13:00:02.044 Order: 1437 SELL DAY LMT 1.0 at 11007.5 msg:  Tradetype INDEX_PM_OPEN_DEVI Status: Created
+||Order|| 1436 120 T:  13:00:02.044 Order: 1436 SELL DAY LMT 3.0 at 11000.0 msg:  Tradetype INDEX_PM_HILO Status: Filled Filled 13:00:02
+||Order|| 1437 121 T:  13:00:02.044 Order: 1437 SELL DAY LMT 1.0 at 11007.5 msg:  Tradetype INDEX_PM_OPEN_DEVI Status: Filled Filled 13:00:22
+1438 index pm hilo buy T:  13:01:15.043 Order: 1438 BUY DAY LMT 6.0 at 11012.5 msg:  Tradetype INDEX_PM_HILO Status: Created # 1 buy limit:  11012.5 indexLast/fut/pd:  11009.33 11012.5 3  bp pmOpen/ft/time/direction  11009.33 11007.13 13:00:02.044 Short waitT, lastTwoTDiff, tSinceLast  10 9223372036854775807 72999 pm:max/min 11009.33 10998.32
+1439 pm open dev BUY T:  13:01:16.043 Order: 1439 BUY DAY LMT 2.0 at 11010.0 msg:  Tradetype INDEX_PM_OPEN_DEVI Status: Created
+||Order|| 1435 119 T:  13:00:00.453 Order: 1435 SELL DAY LMT 1.0 at 11020.0 msg:  Tradetype FUT_OPEN_DEVI Status: Filled Filled 13:01:32
+||Order|| 1430 114 T:  11:24:23.044 Order: 1430 SELL DAY LMT 2.0 at 11047.5 msg:  Tradetype INDEX_HILO Status: Filled Filled 13:04:17
+||Order|| 1431 115 T:  11:24:23.044 Order: 1431 SELL DAY LMT 2.0 at 11050.0 msg:  Tradetype INDEX_OPEN_DEVI Status: Filled Filled 13:04:22
+1440 open dev buy T:  13:04:41.044 Order: 1440 BUY DAY LMT 2.0 at 11052.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Created # 2 buy limit: 11052.5 indexLast/fut/pd/Base Size 11054.46 11065.0 1 10 bp open/ft/last/openDevDir/vol 11050.06 11054.46 11054.46 Short 25.6v IDX chg:  4.0E-4 wait/last2Diff/tSinceLast: 10 6862001 6018000 msg:  conservative on all trades 
+||Order|| 1440 124 T:  13:04:41.044 Order: 1440 BUY DAY LMT 2.0 at 11052.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Filled Filled 13:49:32
+1441 open dev sell T:  13:49:52.043 Order: 1441 SELL DAY LMT 2.0 at 11052.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Created #: 3 sell limit:  11052.5 indexLast/fut/pd/Base Size 11048.96 11052.5 1 3 bp open/ft/last/openDevDir/vol 11050.06 11054.46 11048.96 Long 25.56v IDX chg:  -1.0E-4 waitT/last2Diff/tSinceLast: 10 6018000 2710999 msg:  conservative on all trades 
+||Order|| 1441 125 T:  13:49:52.043 Order: 1441 SELL DAY LMT 2.0 at 11052.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Filled Filled 13:49:52
+1442 open dev buy T:  14:08:45.044 Order: 1442 BUY DAY LMT 2.0 at 11052.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Created # 4 buy limit: 11052.5 indexLast/fut/pd/Base Size 11051.16 11072.5 1 19 bp open/ft/last/openDevDir/vol 11050.06 11054.46 11051.16 Short 25.81v IDX chg:  1.0E-4 wait/last2Diff/tSinceLast: 10 2710999 1133001 msg:  conservative on all trades 
+1443  close liq sell T:  14:55:04.069 Order: 1443 SELL DAY LMT 1.0 at 11105.0 msg:  Tradetype CLOSE_LIQ Status: Created last order time 2018-09-07T00:00 currPos 3 size 1
+||Order|| 1443 127 T:  14:55:04.069 Order: 1443 SELL DAY LMT 1.0 at 11105.0 msg:  Tradetype CLOSE_LIQ Status: Filled Filled 14:55:04
