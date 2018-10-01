@@ -1,0 +1,96 @@
+Setting manual US Dev 935 09:29:59.185
+
+
+**********
+NEW 1471 US open dev SELL#: 0 NIO T:  09:29:59.435 Order: 1471 SELL DAY LMT 100.0 at 6.95 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 0.0 6.98 sell size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-09-28T00:00 9223372036854775807 10 2018-09-28T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 1472 US hilo sell#: 0 NIO T:  09:29:59.435 Order: 1472 SELL IOC LMT 100.0 at 6.95 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  6.98 6.97 09:29:57.130 09:29:59.435 last order T, milliLast2, waitSec, nextT 2018-09-28T00:00 9223372036854775807 10 2018-09-28T00:00:10 dir Flat manual? true short value 3.0
+1472 1486 *GUARANTEE US FILL* PreSubmitted -> Filled 21:30:06.730 ID: 120 NIO T:  21:30:05.716 Order: 1486 SELL IOC LMT 100.0 at 6.95 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+
+**********
+NEW 1509  US postAMCutoff liq sell BUY #: 0 T now 10:47:39.553  cutoff 10:00 price, manualOpen 6.99 6.98 NIO T:  10:47:39.553 Order: 1509 BUY IOC LMT 200.0 at 6.99 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-09-28T00:00 currPos -200.0
+1509 1509 *GUARANTEE US FILL* PreSubmitted -> Filled 22:47:39.902 ID: 101 NIO T:  10:47:39.553 Order: 1509 BUY IOC LMT 200.0 at 6.99 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
+
+
+
+
+**********
+NEW 1468 US hilo sell#: 0 QTT T:  09:29:59.185 Order: 1468 SELL IOC LMT 100.0 at 7.1 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  7.18 7.17 09:29:58.734 09:29:59.185 last order T, milliLast2, waitSec, nextT 2018-09-28T00:00 9223372036854775807 10 2018-09-28T00:00:10 dir Flat manual? true short value 2.0
+1468 1468 *GUARANTEE US FILL* Submitted -> Filled 21:38:08.385 ID: 102 QTT T:  09:29:59.185 Order: 1468 SELL IOC LMT 100.0 at 7.1 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1494 US hilo buy#: 1 QTT T:  09:42:12.741 Order: 1494 BUY IOC LMT 100.0 at 7.21 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 -100.0 max min maxT minT  7.18 7.07 09:42:12.741 09:30:53.812 last order T, milliLast2, waitSec,nexT 2018-09-28T09:29:59.185 9223372036854775807 10 2018-09-28T09:30:09.185 dir Short manual? true short value 3.0
+1494 1505 *GUARANTEE US FILL* PreSubmitted -> Filled 21:42:16.096 ID: 139 QTT T:  21:42:15.802 Order: 1505 BUY IOC LMT 100.0 at 7.23 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+
+**********
+NEW 1467 US open dev SELL#: 0 QTT T:  09:29:59.185 Order: 1467 SELL DAY LMT 100.0 at 7.1 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.17 7.17 sell size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-09-28T00:00 9223372036854775807 10 2018-09-28T00:00:10 dir Flat manual? true short value 2.0
+**********
+NEW 1489 US open dev BUY# 1 QTT T:  09:32:53.546 Order: 1489 BUY DAY LMT 100.0 at 7.18 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.17 7.17 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-09-28T09:29:59.185 9223372036854775807 10 2018-09-28T09:30:09.185 dir Short manual? true short value 2.0
+**********
+NEW 1490 US open dev SELL#: 2 QTT T:  09:33:22.050 Order: 1490 SELL DAY LMT 100.0 at 7.17 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.17 7.17 sell size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-09-28T09:32:53.546 174361 10 2018-09-28T09:33:03.546 dir Long manual? true short value 2.0
+**********
+NEW 1493 US open dev BUY# 3 QTT T:  09:42:07.481 Order: 1493 BUY DAY LMT 100.0 at 7.17 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.17 7.17 buy size/ currpos 100.0 -200.0 last order T, milliLast2, waitSec, nextT 2018-09-28T09:33:22.050 28504 300 2018-09-28T09:38:22.050 dir Short manual? true short value 3.0
+
+
+
+**********
+NEW 1469 US open dev SELL#: 0 IQ T:  09:29:59.237 Order: 1469 SELL DAY LMT 100.0 at 27.73 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 27.75 27.77 sell size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-09-28T00:00 9223372036854775807 10 2018-09-28T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 1487 US open dev BUY# 1 IQ T:  09:30:10.983 Order: 1487 BUY DAY LMT 100.0 at 27.84 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 27.75 27.77 buy size/ currpos 100.0 -200.0 last order T, milliLast2, waitSec, nextT 2018-09-28T09:29:59.237 9223372036854775807 10 2018-09-28T09:30:09.237 dir Short manual? true short value 3.0
+**********
+NEW 1491 US open dev SELL#: 2 IQ T:  09:35:25.939 Order: 1491 SELL DAY LMT 100.0 at 27.77 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 27.75 27.77 sell size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-09-28T09:30:10.983 11746 300 2018-09-28T09:35:10.983 dir Long manual? true short value 3.0
+**********
+NEW 1492 US open dev BUY# 3 IQ T:  09:35:43.262 Order: 1492 BUY DAY LMT 100.0 at 27.77 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 27.75 27.77 buy size/ currpos 100.0 -100.0 last order T, milliLast2, waitSec, nextT 2018-09-28T09:35:25.939 314956 10 2018-09-28T09:35:35.939 dir Short manual? true short value 3.0
+
+
+**********
+NEW 1470 US hilo sell#: 0 IQ T:  09:29:59.237 Order: 1470 SELL IOC LMT 100.0 at 27.73 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  27.79 27.75 09:29:58.115 09:29:59.237 last order T, milliLast2, waitSec, nextT 2018-09-28T00:00 9223372036854775807 10 2018-09-28T00:00:10 dir Flat manual? true short value 3.0
+1470 1470 *GUARANTEE US FILL* Submitted -> Filled 21:29:59.934 ID: 104 IQ T:  09:29:59.237 Order: 1470 SELL IOC LMT 100.0 at 27.73 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1488 US hilo buy#: 1 IQ T:  09:30:10.983 Order: 1488 BUY IOC LMT 100.0 at 27.84 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 -200.0 max min maxT minT  27.83 27.73 09:30:10.983 09:29:59.237 last order T, milliLast2, waitSec,nexT 2018-09-28T09:29:59.237 9223372036854775807 10 2018-09-28T09:30:09.237 dir Short manual? true short value 3.0
+1488 1488 *GUARANTEE US FILL* PreSubmitted -> Filled 21:30:11.356 ID: 122 IQ T:  09:30:10.983 Order: 1488 BUY IOC LMT 100.0 at 27.84 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+
+
+
+**********
+NEW 1506  US postAMCutoff liq sell BUY #: 0 T now 10:00:00.107  cutoff 10:00 price, manualOpen 27.98 27.77 IQ T:  10:00:00.107 Order: 1506 BUY IOC LMT 100.0 at 27.98 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-09-28T00:00 currPos -100.0
+1506 1506 *GUARANTEE US FILL* PreSubmitted -> Filled 22:00:00.409 ID: 140 IQ T:  10:00:00.107 Order: 1506 BUY IOC LMT 100.0 at 27.98 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
+
+US handle generic SHORTABLE IQ 3.0 2018-09-28T23:47
+US handle generic SHORTABLE NIO 3.0 2018-09-28T23:47
+US handle generic SHORTABLE QTT 2.0 2018-09-28T23:47
+US handle generic SHORTABLE IQ 3.0 2018-09-28T23:55
+US handle generic SHORTABLE NIO 3.0 2018-09-28T23:55
+US handle generic SHORTABLE QTT 2.0 2018-09-28T23:55
+US handle generic SHORTABLE IQ 3.0 2018-09-28T23:58
+US handle generic SHORTABLE NIO 3.0 2018-09-28T23:58
+US handle generic SHORTABLE QTT 2.0 2018-09-28T23:58
+US handle generic SHORTABLE IQ 3.0 2018-09-28T23:59
+US handle generic SHORTABLE QTT 2.0 2018-09-28T23:59
+US handle generic SHORTABLE NIO 3.0 2018-09-28T23:59
+US handle generic SHORTABLE IQ 3.0 2018-09-29T00:06
+US handle generic SHORTABLE QTT 2.0 2018-09-29T00:06
+US handle generic SHORTABLE NIO 3.0 2018-09-29T00:06
+US handle generic SHORTABLE IQ 3.0 2018-09-29T00:20
+US handle generic SHORTABLE NIO 3.0 2018-09-29T00:20
+US handle generic SHORTABLE QTT 2.0 2018-09-29T00:20
+US handle generic SHORTABLE QTT 2.0 2018-09-29T05:58
+US handle generic SHORTABLE NIO 3.0 2018-09-29T05:58
+US handle generic SHORTABLE IQ 3.0 2018-09-29T05:58
+US handle generic SHORTABLE NIO 3.0 2018-09-29T06:01
+US handle generic SHORTABLE QTT 2.0 2018-09-29T06:01
+US handle generic SHORTABLE IQ 3.0 2018-09-29T06:01
+US handle generic SHORTABLE QTT 2.0 2018-09-29T06:36
+US handle generic SHORTABLE IQ 3.0 2018-09-29T06:36
+US handle generic SHORTABLE NIO 3.0 2018-09-29T06:36
+US handle generic SHORTABLE QTT 3.0 2018-10-01T08:56
+US handle generic SHORTABLE NIO 3.0 2018-10-01T08:56
+US handle generic SHORTABLE IQ 3.0 2018-10-01T08:56
+US handle generic SHORTABLE IQ 3.0 2018-10-01T08:58
+US handle generic SHORTABLE NIO 3.0 2018-10-01T08:58
+US handle generic SHORTABLE QTT 3.0 2018-10-01T08:58
+US handle generic SHORTABLE IQ 3.0 2018-10-01T09:17
+US handle generic SHORTABLE QTT 3.0 2018-10-01T09:17
+US handle generic SHORTABLE NIO 3.0 2018-10-01T09:17
+US handle generic SHORTABLE IQ 3.0 2018-10-01T09:19
+US handle generic SHORTABLE QTT 3.0 2018-10-01T09:19
+US handle generic SHORTABLE NIO 3.0 2018-10-01T09:19

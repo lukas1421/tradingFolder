@@ -1,0 +1,54 @@
+*** 2018-09-28T09:30 ***
+**********
+*** 2018-09-28T09:30 ***
+NEW 1440 index hilo buy #: 0 SGXA50 T:  09:30:01.393 Order: 1440 BUY IOC LMT 2.0 at 11772.5 msg:  Tradetype INDEX_HILO Status: Created buy limit:  11772.5 index/fut/pd/Base#: 11770.13 11802.5 27 bp 2 open/ft/time/dir  11765.44 11770.13 09:30:01.393 Flat waitT, lastTwoTDiff, tSinceLast, nextT  10 9223372036854775807 9223372036854775807 2018-09-28T00:00:10 max/min/2dp%/pmchy/openp%  11765.44 11765.44 37 -12 87 max min t 09:30:01.393 09:28:00.393
+**********
+NEW 1441 index open dev BUY #: 0 SGXA50 T:  09:30:01.393 Order: 1441 BUY DAY LMT 1.0 at 11802.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Created buy limit: 11802.5 indexLast/fut/pd/Base Size 11770.13 11802.5 1 27 bp open/ft/last/openDevDir/vol 11765.44 11770.13 11770.13 Flat 18.64v IDX chg:  4.0E-4 wait/last2Diff/tSinceLast: 10 9223372036854775807 9223372036854775807 msg:  conservative on all trades 
+1441 1441 *GUARANTEE XU FILL Submitted -> Filled 09:55:36.849 ID: 102 SGXA50 T:  09:30:01.393 Order: 1441 BUY DAY LMT 1.0 at 11802.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Filled TIF: DAY
+
+1440 1440 -> 1442 XU RESUBMIT: INDEX_HILO IOC BUY 11807.5 2.0 false ||current SGXA50 T:  09:30:01.808 Order: 1442 BUY IOC LMT 2.0 at 11807.5 msg:  Tradetype INDEX_HILO Status: Created bid ask sp last 11802.5 11807.5 4 bp 11807.5
+1440 1442 *GUARANTEE XU FILL PreSubmitted -> Filled 09:30:02.427 ID: 103 SGXA50 T:  09:30:01.808 Order: 1442 BUY IOC LMT 2.0 at 11807.5 msg:  Tradetype INDEX_HILO Status: Filled TIF: IOC
+
+NEW 1443 HK open dev SELL#: 0 hk1293 T:  09:30:44.014 Order: 1443 SELL DAY LMT 500.0 at 2.49 msg:  Tradetype HK_STOCK_DEV Status: Created open, manualOpen, ft, ftT 2.5 2.49 0.0 00:00 last Order T, milliLastTwo 2018-09-28T00:00 9223372036854775807 pos 0.0 dir Flat manual? true shortability  3.0
+1443 **STATUS CHG** ConstructedInHandler -> Filled 09:31:11 ID: 104 hk1293 T:  09:30:44.014 Order: 1443 SELL DAY LMT 500.0 at 2.49 msg:  Tradetype HK_STOCK_DEV Status: Submitted TIF: DAY
+1443 || Filled || 09:31:11 104 hk1293 T:  09:30:44.014 Order: 1443 SELL DAY LMT 500.0 at 2.49 msg:  Tradetype HK_STOCK_DEV Status: Filled
+
+**********
+NEW 1444 HK hilo buy#: 0 hk1293 T:  09:30:50.775 Order: 1444 BUY DAY LMT 500.0 at 2.5 msg:  Tradetype HK_STOCK_HILO Status: Created max min maxT minT  2.49 2.49 09:30:50.775 09:30:44.014 pos 0.0 last order T, milliLast2, waitSec 2018-09-28T00:00 9223372036854775807 10 dir, manual  Flat true shortability  3.0
+1444 *GUARANTEE HK* **STATUS CHG** ConstructedInHandler -> Submitted 09:30:50.892 ID: 105 hk1293 T:  09:30:50.775 Order: 1444 BUY DAY LMT 500.0 at 2.5 msg:  Tradetype HK_STOCK_HILO Status: Submitted TIF: DAY
+1444 *GUARANTEE HK* **STATUS CHG** Submitted -> Filled 09:31:10.990 ID: 105 hk1293 T:  09:30:50.775 Order: 1444 BUY DAY LMT 500.0 at 2.5 msg:  Tradetype HK_STOCK_HILO Status: Filled TIF: DAY
+
+**********
+NEW 1445 index hilo sell #: 1 SGXA50 T:  09:30:55.392 Order: 1445 SELL IOC LMT 4.0 at 11810.0 msg:  Tradetype INDEX_HILO Status: Created sell limit:  11810.0 index/fut/pd/Base#: 11764.27 11810.0 39 bp 2 open/ft/time/dir  11765.44 11770.13 09:30:01.393 Long waitT, lastTwoTDiff, tSinceLast, nextT  10 9223372036854775807 53999 2018-09-28T09:30:11.393 max/min/2dp%/pmchy/openP% 11779.52 11765.44 40 -12 68 max min t 09:30:22.392 09:30:55.392
+1445 1445 *GUARANTEE XU FILL PreSubmitted -> Filled 09:30:55.756 ID: 106 SGXA50 T:  09:30:55.392 Order: 1445 SELL IOC LMT 4.0 at 11810.0 msg:  Tradetype INDEX_HILO Status: Filled TIF: IOC
+
+**********
+NEW 1446 HK hilo sell#: 1 hk1293 T:  09:31:34.360 Order: 1446 SELL DAY LMT 500.0 at 2.48 msg:  Tradetype HK_STOCK_HILO Status: Created max min maxT minT  2.5 2.49 09:30:50.775 09:31:34.360 pos 0.0 last order T, milliLast2, wait Sec 2018-09-28T09:30:50.775 9223372036854775807 10 dir, manual  Long true shortability  3.0
+1446 *GUARANTEE HK* **STATUS CHG** ConstructedInHandler -> PendingSubmit 09:31:34.478 ID: 107 hk1293 T:  09:31:34.360 Order: 1446 SELL DAY LMT 500.0 at 2.48 msg:  Tradetype HK_STOCK_HILO Status: PendingSubmit TIF: DAY
+1446 *GUARANTEE HK* **STATUS CHG** PendingSubmit -> Submitted 09:31:34.496 ID: 107 hk1293 T:  09:31:34.360 Order: 1446 SELL DAY LMT 500.0 at 2.48 msg:  Tradetype HK_STOCK_HILO Status: Submitted TIF: DAY
+**********
+NEW 1449 index open dev SELL #: 1 SGXA50 T:  09:56:14.393 Order: 1449 SELL DAY LMT 1.0 at 11805.0 msg:  Tradetype INDEX_OPEN_DEVI Status: Created sell limit:  11805.0 indexLast/fut/pd/Base Size 11764.27 11805.0 1 35 bp open/ft/last/openDevDir/vol 11765.44 11770.13 11764.27 Long 18.85v IDX chg:  -1.0E-4 waitT/last2Diff/tSinceLast: 10 9223372036854775807 1573000 msg:  conservative on all trades 
+
+**********
+NEW 1450 index hilo sell #: 3 SGXA50 T:  09:56:16.393 Order: 1450 SELL IOC LMT 2.0 at 11805.0 msg:  Tradetype INDEX_HILO Status: Created sell limit:  11805.0 index/fut/pd/Base#: 11763.09 11805.0 36 bp 2 open/ft/time/dir  11765.44 11770.13 09:30:01.393 Long waitT, lastTwoTDiff, tSinceLast, nextT  10 300001 1221000 2018-09-28T09:36:05.393 max/min/2dp%/pmchy/openP% 11825.29 11764.27 38 -12 34 max min t 09:37:58.392 09:56:16.393
+1450 1450 -> 1451 XU RESUBMIT: INDEX_HILO IOC SELL 11802.5 2.0 false ||current SGXA50 T:  09:56:16.633 Order: 1451 SELL IOC LMT 2.0 at 11802.5 msg:  Tradetype INDEX_HILO Status: Created bid ask sp last 11800.0 11802.5 2 bp 11802.5
+1450 1451 -> 1452 XU RESUBMIT: INDEX_HILO IOC SELL 11802.5 2.0 false ||current SGXA50 T:  09:56:16.932 Order: 1452 SELL IOC LMT 2.0 at 11802.5 msg:  Tradetype INDEX_HILO Status: Created bid ask sp last 11800.0 11802.5 2 bp 11802.5
+1450 1452 *GUARANTEE XU FILL PreSubmitted -> Filled 09:56:17.368 ID: 113 SGXA50 T:  09:56:16.932 Order: 1452 SELL IOC LMT 2.0 at 11802.5 msg:  Tradetype INDEX_HILO Status: Filled TIF: IOC
+1449 1449 *GUARANTEE XU FILL Submitted -> Filled 09:56:34.845 ID: 110 SGXA50 T:  09:56:14.393 Order: 1449 SELL DAY LMT 1.0 at 11805.0 msg:  Tradetype INDEX_OPEN_DEVI Status: Filled TIF: DAY
+
+**********
+NEW 1453 index open dev BUY #: 2 SGXA50 T:  09:56:58.393 Order: 1453 BUY DAY LMT 1.0 at 11767.5 msg:  Tradetype INDEX_OPEN_DEVI Status: Created buy limit: 11767.5 indexLast/fut/pd/Base Size 11766.61 11807.5 1 35 bp open/ft/last/openDevDir/vol 11765.44 11770.13 11766.61 Short 18.98v IDX chg:  1.0E-4 wait/last2Diff/tSinceLast: 10 1573000 44000 msg:  conservative on all trades 
+US handle generic SHORTABLE NIO 0.0 2018-09-28T12:00
+US handle generic SHORTABLE QTT 0.0 2018-09-28T12:00
+US handle generic SHORTABLE IQ 0.0 2018-09-28T12:00
+HK handle generic SHORTABLE hk3690 0.0 2018-09-28T12:00
+US handle generic SHORTABLE IQ 3.0 2018-09-28T12:00
+US handle generic SHORTABLE NIO 3.0 2018-09-28T12:00
+US handle generic SHORTABLE QTT 2.0 2018-09-28T12:00
+HK handle generic SHORTABLE hk3690 1.0 2018-09-28T12:00
+order id is 0  1293 BUY 2.34 500.0
+10:00:00.107  Cancel ALL after deadline  1492 IQ US_STOCK_OPENDEV status CHG: Submitted -> DeadlineCancelled
+ setting manual fut open dev direction 9:05 09:00:01.477
+1440 fut Open dev SELL #: 0 SGXA50 T:  09:00:04.476 Order: 1440 SELL DAY LMT 1.0 at 11892.5 msg:  Tradetype FUT_OPEN_DEVI Status: Created open, last  11892.5 11890.0 milliLast2 9223372036854775807 waitSec 10 next T 2018-10-01T00:00:10
+1441 fut hilo sell #: 0 SGXA50 T:  09:00:04.476 Order: 1441 SELL IOC LMT 1.0 at 11890.0 msg:  Tradetype FUT_HILO Status: Created max min last dir 11892.5 11892.5 11890.0 Flat |bid ask spread 11890.0 11892.5 2 bp last freshprice 11890.0 11890.0 pre10:maxT minT  09:00:01.477 09:00:04.476 milliLastTwo 9223372036854775807 waitSec 10 next Order T 2018-10-01T00:00:10
+1441 1441 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:05.091 ID: 102 SGXA50 T:  09:00:04.476 Order: 1441 SELL IOC LMT 1.0 at 11890.0 msg:  Tradetype FUT_HILO Status: Filled TIF: IOC
