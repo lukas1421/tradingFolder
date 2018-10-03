@@ -1,0 +1,18 @@
+US handle generic SHORTABLE BILI 3.0 2018-10-01T19:06
+US handle generic SHORTABLE BILI 3.0 2018-10-01T20:39
+US handle generic SHORTABLE BILI 3.0 2018-10-01T21:25
+US handle generic SHORTABLE BILI 3.0 2018-10-01T21:28
+Setting manual US Hilo 935 BILI 09:30:02.085
+**********
+NEW 1449 US hilo buy#: 0 BILI T:  09:30:03.710 Order: 1449 BUY IOC LMT 100.0 at 13.71 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  13.7 13.7 09:30:03.710 09:30:02.085 last order T, milliLast2, waitSec,nexT 2018-10-01T00:00 9223372036854775807 10 2018-10-01T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 1472 US hilo sell#: 1 BILI T:  09:31:23.613 Order: 1472 SELL IOC LMT 100.0 at 13.68 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  13.7299 13.7 09:30:41.165 09:31:23.613 last order T, milliLast2, waitSec, nextT 2018-10-01T09:30:03.710 9223372036854775807 10 2018-10-01T09:30:13.710 dir Long manual? true short value 3.0
+1472 1472 *GUARANTEE US FILL* PreSubmitted -> Filled 21:31:37.887 ID: 125 BILI T:  09:31:23.613 Order: 1472 SELL IOC LMT 100.0 at 13.68 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1476 US hilo buy#: 2 BILI T:  09:34:10.233 Order: 1476 BUY IOC LMT 100.0 at 13.82 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 -100.0 max min maxT minT  13.7299 13.58 09:34:10.233 09:32:45.327 last order T, milliLast2, waitSec,nexT 2018-10-01T09:31:23.613 79903 10 2018-10-01T09:31:33.613 dir Short manual? true short value 3.0
+10:00:17.947  Cancel after deadline  1478 status CHG: Created -> DeadlineCancelled
+**********
+NEW 1552  US postAMCutoff liq sell BUY #: 0 T now 10:00:17.947  cutoff 10:00 price, manualOpen 13.8 13.7 BILI T:  10:00:17.947 Order: 1552 BUY IOC LMT 100.0 at 13.8 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-01T00:00 currPos -100.0 safety margin  0.138 safety level  13.562
+US handle generic SHORTABLE BILI 3.0 2018-10-01T22:00
+1552 1556 *GUARANTEE US FILL* PreSubmitted -> Filled 22:00:41.063 ID: 209 BILI T:  22:00:36.078 Order: 1556 BUY IOC LMT 100.0 at 13.83 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
+US handle generic SHORTABLE BILI 3.0 2018-10-01T22:00

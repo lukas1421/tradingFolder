@@ -1,0 +1,13 @@
+2018-10-03T09:00:01.808
+3198 fut hilo buy #: 0 SGXA50 T:  09:00:01.549 Order: 3198 BUY IOC LMT 1.0 at 0.0 msg:  Tradetype SGXA50_HILO Status: Created  max min last dir 0.0 0.0 11692.5 Flat |bid ask spread 11875.0 0.0 -10000 bp last freshprice  11692.5 11692.5 pre10:maxT minT  09:00:01.549 09:00:01.549 milliLastTwo 9223372036854775807 waitsec 10 next Order T 2018-10-03T00:00:10
+3199 fut hilo sell #: 1 SGXA50 T:  09:00:18.541 Order: 3199 SELL IOC LMT 2.0 at 11687.5 msg:  Tradetype SGXA50_HILO Status: Created max min last dir 11695.0 11690.0 11687.5 Long |bid ask spread 11687.5 11692.5 4 bp last freshprice 11687.5 11687.5 pre10:maxT minT  09:00:02.859 09:00:18.541 milliLastTwo 9223372036854775807 waitSec 10 next Order T 2018-10-03T09:00:11.549
+3199 3199 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:18.870 ID: 102 SGXA50 T:  09:00:18.541 Order: 3199 SELL IOC LMT 2.0 at 11687.5 msg:  Tradetype SGXA50_HILO Status: Filled TIF: IOC
+3200 fut hilo buy #: 2 SGXA50 T:  09:05:31.909 Order: 3200 BUY IOC LMT 2.0 at 11697.5 msg:  Tradetype SGXA50_HILO Status: Created  max min last dir 11695.0 11677.5 11697.5 Short |bid ask spread 11692.5 11697.5 4 bp last freshprice  11697.5 11697.5 pre10:maxT minT  09:05:31.909 09:00:44.698 milliLastTwo 16992 waitsec 300 next Order T 2018-10-03T09:05:18.541
+3200 3200 *GUARANTEE XU FILL Submitted -> Filled 09:05:32.223 ID: 103 SGXA50 T:  09:05:31.909 Order: 3200 BUY IOC LMT 2.0 at 11697.5 msg:  Tradetype SGXA50_HILO Status: Filled TIF: IOC
+2018-10-03T09:21:47.898
+3203 fut hilo sell #: 0 SGXA50 T:  09:21:47.886 Order: 3203 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created max min last dir 11700.0 11620.0 11640.0 Long |bid ask spread 11640.0 11642.5 2 bp last freshprice 11640.0 11640.0 pre10:maxT minT  09:06:19.989 09:16:40.609 milliLastTwo 9223372036854775807 waitSec 10 next Order T 2018-10-03T00:00:10
+3203 3243 *GUARANTEE XU FILL PreSubmitted -> Filled 09:22:00.530 ID: 141 SGXA50 T:  09:22:00.127 Order: 3243 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Filled TIF: IOC
+2018-10-03T10:00:04.213
+3250 fut post cutoff liq BUY#: 0 SGXA50 T:  10:00:04.209 Order: 3250 BUY IOC LMT 1.0 at 11725.0 msg:  Tradetype SGXA50_POST_CUTOFF_LIQ Status: Created last 11725.0 open 11670.0 safety ratio  0.003 safetymargin 35.175000000000004 cut level 11634.825
+2018-10-03T10:00:04.514
+3250 3250 *GUARANTEE XU FILL PreSubmitted -> Filled 10:00:04.514 ID: 101 SGXA50 T:  10:00:04.209 Order: 3250 BUY IOC LMT 1.0 at 11725.0 msg:  Tradetype SGXA50_POST_CUTOFF_LIQ Status: Filled TIF: IOC

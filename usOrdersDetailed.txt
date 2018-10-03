@@ -94,3 +94,514 @@ US handle generic SHORTABLE NIO 3.0 2018-10-01T09:17
 US handle generic SHORTABLE IQ 3.0 2018-10-01T09:19
 US handle generic SHORTABLE QTT 3.0 2018-10-01T09:19
 US handle generic SHORTABLE NIO 3.0 2018-10-01T09:19
+US handle generic SHORTABLE NIO 0.0 2018-10-01T11:59
+US handle generic SHORTABLE IQ 0.0 2018-10-01T11:59
+US handle generic SHORTABLE QTT 0.0 2018-10-01T11:59
+US handle generic SHORTABLE IQ 3.0 2018-10-01T12:00
+US handle generic SHORTABLE QTT 3.0 2018-10-01T12:00
+US handle generic SHORTABLE NIO 3.0 2018-10-01T12:00
+US handle generic SHORTABLE QTT 3.0 2018-10-01T12:59
+US handle generic SHORTABLE NIO 3.0 2018-10-01T12:59
+US handle generic SHORTABLE IQ 3.0 2018-10-01T12:59
+US handle generic SHORTABLE IQ 3.0 2018-10-01T17:30
+US handle generic SHORTABLE QTT 3.0 2018-10-01T17:30
+US handle generic SHORTABLE NIO 3.0 2018-10-01T17:30
+US handle generic SHORTABLE IQ 3.0 2018-10-01T17:30
+US handle generic SHORTABLE NIO 3.0 2018-10-01T17:30
+US handle generic SHORTABLE QTT 3.0 2018-10-01T17:30
+US handle generic SHORTABLE QTT 3.0 2018-10-01T17:46
+US handle generic SHORTABLE NIO 3.0 2018-10-01T17:46
+US handle generic SHORTABLE IQ 3.0 2018-10-01T17:46
+US handle generic SHORTABLE IQ 2.0 2018-10-01T19:00
+US handle generic SHORTABLE NIO 2.0 2018-10-01T19:00
+US handle generic SHORTABLE IQ 2.0 2018-10-01T19:06
+US handle generic SHORTABLE BILI 3.0 2018-10-01T19:06
+US handle generic SHORTABLE QTT 3.0 2018-10-01T19:06
+US handle generic SHORTABLE NIO 2.0 2018-10-01T19:06
+US handle generic SHORTABLE NIO 3.0 2018-10-01T19:25
+US handle generic SHORTABLE NIO 2.0 2018-10-01T19:26
+US handle generic SHORTABLE NIO 3.0 2018-10-01T19:30
+US handle generic SHORTABLE NIO 2.0 2018-10-01T19:30
+US handle generic SHORTABLE QTT 2.0 2018-10-01T19:37
+US handle generic SHORTABLE NIO 3.0 2018-10-01T19:38
+US handle generic SHORTABLE IQ 3.0 2018-10-01T19:38
+US handle generic SHORTABLE QTT 3.0 2018-10-01T19:42
+US handle generic SHORTABLE NIO 3.0 2018-10-01T20:39
+US handle generic SHORTABLE BILI 3.0 2018-10-01T20:39
+US handle generic SHORTABLE IQ 3.0 2018-10-01T20:39
+US handle generic SHORTABLE QTT 3.0 2018-10-01T20:39
+US handle generic SHORTABLE NIO 3.0 2018-10-01T21:25
+US handle generic SHORTABLE IQ 3.0 2018-10-01T21:25
+US handle generic SHORTABLE QTT 3.0 2018-10-01T21:25
+US handle generic SHORTABLE BILI 3.0 2018-10-01T21:25
+US handle generic SHORTABLE IQ 3.0 2018-10-01T21:28
+US handle generic SHORTABLE BILI 3.0 2018-10-01T21:28
+US handle generic SHORTABLE QTT 3.0 2018-10-01T21:28
+US handle generic SHORTABLE NIO 3.0 2018-10-01T21:28
+Setting manual US Hilo 935 IQ 09:30:01.607
+**********
+NEW 1448 US hilo sell#: 0 IQ T:  09:30:02.049 Order: 1448 SELL IOC LMT 100.0 at 27.0 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  27.02 27.02 09:30:01.607 09:30:02.049 last order T, milliLast2, waitSec, nextT 2018-10-01T00:00 9223372036854775807 10 2018-10-01T00:00:10 dir Flat manual? true short value 3.0
+Setting manual US Hilo 935 BILI 09:30:02.085
+Setting manual US Hilo 935 QTT 09:30:02.254
+**********
+NEW 1449 US hilo buy#: 0 BILI T:  09:30:03.710 Order: 1449 BUY IOC LMT 100.0 at 13.71 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  13.7 13.7 09:30:03.710 09:30:02.085 last order T, milliLast2, waitSec,nexT 2018-10-01T00:00 9223372036854775807 10 2018-10-01T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 1450 US hilo buy#: 0 QTT T:  09:30:08.005 Order: 1450 BUY IOC LMT 100.0 at 7.25 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  7.24 7.24 09:30:08.005 09:30:02.254 last order T, milliLast2, waitSec,nexT 2018-10-01T00:00 9223372036854775807 10 2018-10-01T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 1451 US hilo sell#: 1 QTT T:  09:30:28.631 Order: 1451 SELL IOC LMT 100.0 at 7.23 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  7.25 7.21 09:30:08.005 09:30:10.276 last order T, milliLast2, waitSec, nextT 2018-10-01T09:30:08.005 9223372036854775807 10 2018-10-01T09:30:18.005 dir Long manual? true short value 3.0
+Setting manual US Hilo 935 NIO 09:30:41.177
+**********
+NEW 1452 US hilo sell#: 0 NIO T:  09:30:56.188 Order: 1452 SELL IOC LMT 100.0 at 7.03 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  7.06 7.06 09:30:41.177 09:30:56.188 last order T, milliLast2, waitSec, nextT 2018-10-01T00:00 9223372036854775807 10 2018-10-01T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 1453 US hilo buy#: 2 QTT T:  09:31:02.863 Order: 1453 BUY IOC LMT 100.0 at 7.26 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  7.25 7.21 09:31:02.863 09:30:10.276 last order T, milliLast2, waitSec,nexT 2018-10-01T09:30:28.631 20626 10 2018-10-01T09:30:38.631 dir Short manual? true short value 3.0
+**********
+NEW 1472 US hilo sell#: 1 BILI T:  09:31:23.613 Order: 1472 SELL IOC LMT 100.0 at 13.68 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  13.7299 13.7 09:30:41.165 09:31:23.613 last order T, milliLast2, waitSec, nextT 2018-10-01T09:30:03.710 9223372036854775807 10 2018-10-01T09:30:13.710 dir Long manual? true short value 3.0
+1472 1472 *GUARANTEE US FILL* PreSubmitted -> Filled 21:31:37.887 ID: 125 BILI T:  09:31:23.613 Order: 1472 SELL IOC LMT 100.0 at 13.68 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+1453 1475 *GUARANTEE US FILL* PreSubmitted -> Filled 21:32:03.408 ID: 128 QTT T:  21:32:03.127 Order: 1475 BUY IOC LMT 100.0 at 7.28 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1476 US hilo buy#: 2 BILI T:  09:34:10.233 Order: 1476 BUY IOC LMT 100.0 at 13.82 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 -100.0 max min maxT minT  13.7299 13.58 09:34:10.233 09:32:45.327 last order T, milliLast2, waitSec,nexT 2018-10-01T09:31:23.613 79903 10 2018-10-01T09:31:33.613 dir Short manual? true short value 3.0
+**********
+NEW 1479 US hilo buy#: 1 IQ T:  09:34:42.474 Order: 1479 BUY IOC LMT 100.0 at 27.05 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  27.04 26.73 09:34:42.474 09:32:48.335 last order T, milliLast2, waitSec,nexT 2018-10-01T09:30:02.049 9223372036854775807 10 2018-10-01T09:30:12.049 dir Short manual? true short value 3.0
+1479 1508 *GUARANTEE US FILL* PreSubmitted -> Filled 21:34:51.025 ID: 161 IQ T:  21:34:50.743 Order: 1508 BUY IOC LMT 100.0 at 27.06 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1509 US hilo sell#: 2 IQ T:  09:37:03.769 Order: 1509 SELL IOC LMT 100.0 at 26.72 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 100.0 max min maxT minT  27.06 26.73 09:34:50.555 09:37:03.769 last order T, milliLast2, waitSec, nextT 2018-10-01T09:34:42.474 280425 10 2018-10-01T09:34:52.474 dir Long manual? true short value 3.0
+1509 1540 *GUARANTEE US FILL* PreSubmitted -> Filled 21:37:12.746 ID: 193 IQ T:  21:37:12.465 Order: 1540 SELL IOC LMT 100.0 at 26.74 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1541 US hilo sell#: 3 QTT T:  09:38:43.122 Order: 1541 SELL IOC LMT 100.0 at 7.2 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 100.0 max min maxT minT  7.28 7.21 09:31:44.192 09:38:43.122 last order T, milliLast2, waitSec, nextT 2018-10-01T09:31:02.863 34232 10 2018-10-01T09:31:12.863 dir Long manual? true short value 3.0
+1541 1547 *GUARANTEE US FILL* PreSubmitted -> Filled 21:38:46.508 ID: 200 QTT T:  21:38:46.206 Order: 1547 SELL IOC LMT 100.0 at 7.16 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1548 US hilo buy#: 3 IQ T:  09:38:51.621 Order: 1548 BUY IOC LMT 100.0 at 27.09 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  27.06 26.72 09:38:51.621 09:37:03.769 last order T, milliLast2, waitSec,nexT 2018-10-01T09:37:03.769 141295 10 2018-10-01T09:37:13.769 dir Short manual? true short value 3.0
+1548 1550 *GUARANTEE US FILL* PreSubmitted -> Filled 21:38:52.980 ID: 203 IQ T:  21:38:52.644 Order: 1550 BUY IOC LMT 100.0 at 27.1 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+US handle generic SHORTABLE QTT 2.0 2018-10-01T21:52
+US handle generic SHORTABLE QTT 3.0 2018-10-01T21:53
+US handle generic SHORTABLE NIO 3.0 2018-10-01T22:00
+10:00:17.809  Cancel ALL after deadline  1448 IQ US_STOCK_HILO status CHG: PendingSubmit -> DeadlineCancelled
+10:00:17.809  Cancel ALL after deadline  1449 BILI US_STOCK_HILO status CHG: PendingSubmit -> DeadlineCancelled
+10:00:17.809  Cancel ALL after deadline  1450 QTT US_STOCK_HILO status CHG: Created -> DeadlineCancelled
+10:00:17.809  Cancel ALL after deadline  1451 QTT US_STOCK_HILO status CHG: Created -> DeadlineCancelled
+10:00:17.809  Cancel ALL after deadline  1452 NIO US_STOCK_HILO status CHG: Created -> DeadlineCancelled
+**********
+NEW 1551  US postAMCutoff liq SELL #: 0 T now 10:00:17.809  cutoff 10:00 price, manualOpen 26.91 27.02 IQ T:  10:00:17.809 Order: 1551 SELL IOC LMT 100.0 at 26.91 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-01T00:00 currPos 100.0 safety margin  0.2691 safety level 27.2891
+10:00:17.947  Cancel after deadline  1478 status CHG: Created -> DeadlineCancelled
+10:00:17.947  Cancel after deadline  1478 status CHG: Created -> DeadlineCancelled
+**********
+NEW 1552  US postAMCutoff liq sell BUY #: 0 T now 10:00:17.947  cutoff 10:00 price, manualOpen 13.8 13.7 BILI T:  10:00:17.947 Order: 1552 BUY IOC LMT 100.0 at 13.8 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-01T00:00 currPos -100.0 safety margin  0.138 safety level  13.562
+US handle generic SHORTABLE BILI 3.0 2018-10-01T22:00
+US handle generic SHORTABLE IQ 3.0 2018-10-01T22:00
+US handle generic SHORTABLE QTT 3.0 2018-10-01T22:00
+1552 1556 *GUARANTEE US FILL* PreSubmitted -> Filled 22:00:41.063 ID: 209 BILI T:  22:00:36.078 Order: 1556 BUY IOC LMT 100.0 at 13.83 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
+1551 1559 *GUARANTEE US FILL* Submitted -> Filled 22:00:49.191 ID: 212 IQ T:  22:00:45.519 Order: 1559 SELL IOC LMT 100.0 at 26.82 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
+US handle generic SHORTABLE NIO 3.0 2018-10-01T22:00
+US handle generic SHORTABLE QTT 3.0 2018-10-01T22:00
+US handle generic SHORTABLE BILI 3.0 2018-10-01T22:00
+US handle generic SHORTABLE IQ 3.0 2018-10-01T22:00
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T07:46
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T07:46
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T07:46
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T07:46
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T07:46
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T07:46
+US handle generic SHORTABLE QTT 2.0 2018-10-02T08:57
+US handle generic SHORTABLE NIO 3.0 2018-10-02T08:57
+US handle generic SHORTABLE PDD 3.0 2018-10-02T08:57
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T08:57
+US handle generic SHORTABLE NIO 3.0 2018-10-02T09:01
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T09:01
+US handle generic SHORTABLE QTT 2.0 2018-10-02T09:01
+US handle generic SHORTABLE PDD 3.0 2018-10-02T09:01
+US handle generic SHORTABLE NIO 3.0 2018-10-02T09:23
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T09:23
+US handle generic SHORTABLE QTT 2.0 2018-10-02T09:23
+US handle generic SHORTABLE PDD 3.0 2018-10-02T09:23
+US handle generic SHORTABLE NIO 3.0 2018-10-02T09:28
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T09:28
+US handle generic SHORTABLE QTT 2.0 2018-10-02T09:28
+US handle generic SHORTABLE PDD 3.0 2018-10-02T09:28
+10:00:00.682  Cancel ALL after deadline  3016 hk1548 HK_STOCK_HILO status CHG: Created -> DeadlineCancelled
+10:00:00.682  Cancel ALL after deadline  3017 hk1293 HK_STOCK_HILO status CHG: PreSubmitted -> DeadlineCancelled
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T11:19
+US handle generic SHORTABLE PDD 3.0 2018-10-02T11:19
+US handle generic SHORTABLE QTT 2.0 2018-10-02T11:19
+US handle generic SHORTABLE NIO 3.0 2018-10-02T11:19
+US handle generic SHORTABLE QTT 3.0 2018-10-02T11:23
+US handle generic SHORTABLE QTT 2.0 2018-10-02T11:23
+US handle generic SHORTABLE QTT 3.0 2018-10-02T11:25
+US handle generic SHORTABLE TLRY 0.0 2018-10-02T12:00
+US handle generic SHORTABLE QTT 0.0 2018-10-02T12:00
+US handle generic SHORTABLE NIO 0.0 2018-10-02T12:00
+US handle generic SHORTABLE PDD 0.0 2018-10-02T12:00
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T12:00
+US handle generic SHORTABLE PDD 3.0 2018-10-02T12:00
+US handle generic SHORTABLE NIO 3.0 2018-10-02T12:00
+US handle generic SHORTABLE QTT 3.0 2018-10-02T12:00
+US handle generic SHORTABLE PDD 3.0 2018-10-02T12:56
+US handle generic SHORTABLE NIO 3.0 2018-10-02T12:56
+US handle generic SHORTABLE QTT 3.0 2018-10-02T12:56
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T12:56
+13:30:02.986  Cancel ALL after deadline  3025 hk3333 HK_STOCK_PMHILO status CHG: Submitted -> DeadlineCancelled
+US handle generic SHORTABLE QTT 3.0 2018-10-02T17:42
+US handle generic SHORTABLE PDD 3.0 2018-10-02T17:42
+US handle generic SHORTABLE NIO 3.0 2018-10-02T17:42
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T17:42
+US handle generic SHORTABLE QTT 3.0 2018-10-02T17:45
+US handle generic SHORTABLE PDD 3.0 2018-10-02T17:45
+US handle generic SHORTABLE NIO 3.0 2018-10-02T17:45
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T17:45
+US handle generic SHORTABLE NIO 2.0 2018-10-02T19:01
+US handle generic SHORTABLE QTT 3.0 2018-10-02T19:10
+US handle generic SHORTABLE PDD 3.0 2018-10-02T19:10
+US handle generic SHORTABLE TLRY 1.0 2018-10-02T19:10
+US handle generic SHORTABLE NIO 2.0 2018-10-02T19:10
+US handle generic SHORTABLE NIO 3.0 2018-10-02T19:21
+US handle generic SHORTABLE QTT 2.0 2018-10-02T19:36
+US handle generic SHORTABLE QTT 2.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NIO 3.0 2018-10-02T19:46
+US handle generic SHORTABLE PDD 3.0 2018-10-02T19:46
+US handle generic SHORTABLE QTT 2.0 2018-10-02T20:43
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T20:43
+US handle generic SHORTABLE PDD 3.0 2018-10-02T20:43
+US handle generic SHORTABLE NIO 3.0 2018-10-02T20:43
+US handle generic SHORTABLE QTT 2.0 2018-10-02T20:53
+US handle generic SHORTABLE NIO 3.0 2018-10-02T20:53
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T20:53
+US handle generic SHORTABLE PDD 3.0 2018-10-02T20:53
+US handle generic SHORTABLE NIO 3.0 2018-10-02T21:13
+US handle generic SHORTABLE QTT 2.0 2018-10-02T21:13
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:13
+US handle generic SHORTABLE QTT 2.0 2018-10-02T21:14
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:14
+US handle generic SHORTABLE PDD 3.0 2018-10-02T21:14
+US handle generic SHORTABLE NIO 3.0 2018-10-02T21:14
+US handle generic SHORTABLE NIO 3.0 2018-10-02T21:14
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:14
+US handle generic SHORTABLE PDD 3.0 2018-10-02T21:14
+US handle generic SHORTABLE QTT 2.0 2018-10-02T21:14
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:26
+Setting manual US Dev 935 NBEV 09:30:01.151
+**********
+NEW 3033 US open dev BUY# 0 NBEV T:  09:30:01.151 Order: 3033 BUY DAY LMT 100.0 at 7.86 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.86 7.84 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 2.0
+Setting manual US Hilo 935 NBEV 09:30:01.151
+**********
+NEW 3034 US hilo buy#: 0 NBEV T:  09:30:01.151 Order: 3034 BUY IOC LMT 100.0 at 7.86 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  7.8864 7.81 09:29:58.161 09:29:56.197 last order T, milliLast2, waitSec,nexT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 2.0
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:30
+Setting manual US Dev 935 PDD 09:30:01.420
+Setting manual US Hilo 935 PDD 09:30:01.420
+3033 **FILLS** ConstructedInHandler -> Filled 21:30:01 ID: 101 NBEV T:  09:30:01.151 Order: 3033 BUY DAY LMT 100.0 at 7.86 msg:  Tradetype US_STOCK_OPENDEV Status: PreSubmitted TIF: DAY
+Setting manual US Dev 935 QTT 09:30:01.936
+Setting manual US Hilo 935 QTT 09:30:01.936
+3034 3034 *GUARANTEE US FILL* Submitted -> Filled 21:30:02.166 ID: 102 NBEV T:  09:30:01.151 Order: 3034 BUY IOC LMT 100.0 at 7.86 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:30
+**********
+NEW 3035 US open dev BUY# 0 PDD T:  09:30:06.757 Order: 3035 BUY DAY LMT 100.0 at 27.34 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 27.3 27.3 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 3036 US hilo buy#: 0 PDD T:  09:30:06.757 Order: 3036 BUY IOC LMT 100.0 at 27.34 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  27.3 27.3 09:30:06.757 09:30:01.420 last order T, milliLast2, waitSec,nexT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 3.0
+3035 **FILLS** ConstructedInHandler -> Filled 21:30:07 ID: 103 PDD T:  09:30:06.757 Order: 3035 BUY DAY LMT 100.0 at 27.34 msg:  Tradetype US_STOCK_OPENDEV Status: PreSubmitted TIF: DAY
+Setting manual US Dev 935 NIO 09:30:08.350
+Setting manual US Hilo 935 NIO 09:30:08.350
+**********
+NEW 3040 US open dev BUY# 0 QTT T:  09:30:08.414 Order: 3040 BUY DAY LMT 100.0 at 6.65 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 6.63 6.63 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 2.0
+**********
+NEW 3041 US hilo buy#: 0 QTT T:  09:30:08.414 Order: 3041 BUY IOC LMT 100.0 at 6.65 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  6.63 6.63 09:30:08.414 09:30:01.936 last order T, milliLast2, waitSec,nexT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 2.0
+3040 **FILLS** ConstructedInHandler -> Filled 21:30:08 ID: 108 QTT T:  09:30:08.414 Order: 3040 BUY DAY LMT 100.0 at 6.65 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+3041 3041 *GUARANTEE US FILL* Submitted -> Filled 21:30:09.122 ID: 109 QTT T:  09:30:08.414 Order: 3041 BUY IOC LMT 100.0 at 6.65 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 3053 US open dev SELL#: 1 NBEV T:  09:30:12.976 Order: 3053 SELL DAY LMT 100.0 at 7.76 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.86 7.84 sell size/ currpos 100.0 200.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:01.151 9223372036854775807 10 2018-10-02T09:30:11.151 dir Long manual? true short value 2.0
+3053 **FILLS** ConstructedInHandler -> Filled 21:30:15 ID: 121 NBEV T:  09:30:12.976 Order: 3053 SELL DAY LMT 100.0 at 7.76 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+**********
+NEW 3079 US hilo sell#: 1 NBEV T:  09:30:22.914 Order: 3079 SELL IOC LMT 100.0 at 7.62 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 100.0 max min maxT minT  7.96 7.6501 09:30:10.358 09:30:22.914 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:01.151 9223372036854775807 10 2018-10-02T09:30:11.151 dir Long manual? true short value 2.0
+3079 3079 *GUARANTEE US FILL* PreSubmitted -> Filled 21:30:23.430 ID: 147 NBEV T:  09:30:22.914 Order: 3079 SELL IOC LMT 100.0 at 7.62 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 3085 US open dev SELL#: 1 PDD T:  09:30:25.274 Order: 3085 SELL DAY LMT 100.0 at 27.26 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 27.3 27.3 sell size/ currpos 100.0 100.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:06.757 9223372036854775807 10 2018-10-02T09:30:16.757 dir Long manual? true short value 3.0
+**********
+NEW 3086 US hilo sell#: 1 PDD T:  09:30:25.274 Order: 3086 SELL IOC LMT 100.0 at 27.26 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 100.0 max min maxT minT  27.34 27.22 09:30:06.757 09:30:07.282 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:06.757 9223372036854775807 10 2018-10-02T09:30:16.757 dir Long manual? true short value 3.0
+3085 **FILLS** ConstructedInHandler -> Filled 21:30:25 ID: 153 PDD T:  09:30:25.274 Order: 3085 SELL DAY LMT 100.0 at 27.26 msg:  Tradetype US_STOCK_OPENDEV Status: PreSubmitted TIF: DAY
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:30
+3086 3124 *GUARANTEE US FILL* Submitted -> Filled 21:30:34.879 ID: 192 PDD T:  21:30:34.438 Order: 3124 SELL IOC LMT 100.0 at 27.22 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 3145 US hilo buy#: 2 NBEV T:  09:30:58.191 Order: 3145 BUY IOC LMT 100.0 at 7.98 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  7.96 7.62 09:30:58.191 09:30:22.914 last order T, milliLast2, waitSec,nexT 2018-10-02T09:30:22.914 21763 10 2018-10-02T09:30:32.914 dir Short manual? true short value 3.0
+3145 3147 *GUARANTEE US FILL* Submitted -> Filled 21:30:59.443 ID: 215 NBEV T:  21:30:58.975 Order: 3147 BUY IOC LMT 100.0 at 8.0 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+3036 3144 *GUARANTEE US FILL* Submitted -> Filled 21:31:07.254 ID: 212 PDD T:  21:30:41.954 Order: 3144 BUY IOC LMT 100.0 at 27.27 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 3148 US open dev SELL#: 0 NIO T:  09:31:22.824 Order: 3148 SELL DAY LMT 100.0 at 6.59 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 6.59 6.6 sell size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 3149 US hilo sell#: 0 NIO T:  09:31:22.824 Order: 3149 SELL IOC LMT 100.0 at 6.59 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  6.6 6.6 09:30:08.350 09:31:22.824 last order T, milliLast2, waitSec, nextT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 3.0
+3149 3159 *GUARANTEE US FILL* Submitted -> Filled 21:31:27.333 ID: 227 NIO T:  21:31:26.851 Order: 3159 SELL IOC LMT 100.0 at 6.58 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:32
+**********
+NEW 3160 US open dev SELL#: 1 QTT T:  09:32:48.367 Order: 3160 SELL DAY LMT 100.0 at 6.62 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 6.63 6.63 sell size/ currpos 100.0 200.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:08.414 9223372036854775807 10 2018-10-02T09:30:18.414 dir Long manual? true short value 2.0
+**********
+NEW 3161 US hilo sell#: 1 QTT T:  09:32:48.367 Order: 3161 SELL IOC LMT 100.0 at 6.62 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 200.0 max min maxT minT  6.69 6.63 09:31:06.554 09:32:48.367 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:08.414 9223372036854775807 10 2018-10-02T09:30:18.414 dir Long manual? true short value 2.0
+3161 3166 *GUARANTEE US FILL* PreSubmitted -> Filled 21:32:51.061 ID: 234 QTT T:  21:32:50.553 Order: 3166 SELL IOC LMT 100.0 at 6.61 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+3160 **FILLS** ConstructedInHandler -> Filled 21:32:55 ID: 228 QTT T:  09:32:48.367 Order: 3160 SELL DAY LMT 100.0 at 6.62 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:32
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:33
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:33
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:33
+**********
+NEW 3167 US open dev BUY# 2 QTT T:  09:33:12.904 Order: 3167 BUY DAY LMT 100.0 at 6.63 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 6.63 6.63 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:32:48.367 159953 10 2018-10-02T09:32:58.367 dir Short manual? true short value 2.0
+**********
+NEW 3168 US hilo buy#: 2 PDD T:  09:33:39.523 Order: 3168 BUY IOC LMT 100.0 at 27.38 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  27.34 26.94 09:33:39.523 09:30:54.050 last order T, milliLast2, waitSec,nexT 2018-10-02T09:30:25.274 18517 10 2018-10-02T09:30:35.274 dir Short manual? true short value 3.0
+3168 3192 *GUARANTEE US FILL* PreSubmitted -> Filled 21:33:49.285 ID: 260 PDD T:  21:33:48.857 Order: 3192 BUY IOC LMT 100.0 at 27.37 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 3193 US hilo buy#: 2 QTT T:  09:33:59.928 Order: 3193 BUY IOC LMT 100.0 at 6.71 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  6.69 6.61 09:33:59.928 09:32:50.471 last order T, milliLast2, waitSec,nexT 2018-10-02T09:32:48.367 159953 10 2018-10-02T09:32:58.367 dir Short manual? true short value 2.0
+3193 3193 *GUARANTEE US FILL* Submitted -> Filled 21:34:00.406 ID: 261 QTT T:  09:33:59.928 Order: 3193 BUY IOC LMT 100.0 at 6.71 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:34
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:34
+**********
+NEW 3194 US open dev BUY# 2 NBEV T:  09:35:14.897 Order: 3194 BUY DAY LMT 100.0 at 7.84 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.86 7.84 buy size/ currpos 100.0 100.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:12.976 11825 300 2018-10-02T09:35:12.976 dir Short manual? true short value 2.0
+3194 **FILLS** ConstructedInHandler -> Filled 21:36 ID: 262 NBEV T:  09:35:14.897 Order: 3194 BUY DAY LMT 100.0 at 7.84 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+**********
+NEW 3195 US open dev SELL#: 3 NBEV T:  09:36:01.507 Order: 3195 SELL DAY LMT 100.0 at 7.84 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.86 7.84 sell size/ currpos 100.0 200.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:35:14.897 301921 10 2018-10-02T09:35:24.897 dir Long manual? true short value 2.0
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:36
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:36
+3195 **FILLS** ConstructedInHandler -> Filled 21:36:31 ID: 263 NBEV T:  09:36:01.507 Order: 3195 SELL DAY LMT 100.0 at 7.84 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:37
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:37
+**********
+NEW 3196 US hilo sell#: 3 PDD T:  09:38:46.685 Order: 3196 SELL IOC LMT 100.0 at 26.88 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 100.0 max min maxT minT  27.39 26.94 09:33:48.922 09:38:46.685 last order T, milliLast2, waitSec, nextT 2018-10-02T09:33:39.523 194249 10 2018-10-02T09:33:49.523 dir Long manual? true short value 3.0
+3196 3196 *GUARANTEE US FILL* Submitted -> Filled 21:38:47.161 ID: 264 PDD T:  09:38:46.685 Order: 3196 SELL IOC LMT 100.0 at 26.88 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:40
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:40
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:45
+10:00:00.273  Cancel ALL after deadline  3148 NIO US_STOCK_OPENDEV status CHG: Submitted -> DeadlineCancelled
+10:00:00.273  Cancel ALL after deadline  3167 QTT US_STOCK_OPENDEV status CHG: Submitted -> DeadlineCancelled
+**********
+NEW 3197  US postAMCutoff liq SELL #: 0 T now 10:00:00.273  cutoff 10:00 price, manualOpen 7.75 7.84 NBEV T:  10:00:00.273 Order: 3197 SELL IOC LMT 100.0 at 7.75 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-02T00:00 currPos 100.0 safety margin  0.03875 safety level 7.87875
+10:00:00.538  Cancel ALL after deadline  3167 QTT US_STOCK_OPENDEV status CHG: Submitted -> DeadlineCancelled
+3197 3197 *GUARANTEE US FILL* Submitted -> Filled 22:00:00.784 ID: 265 NBEV T:  10:00:00.273 Order: 3197 SELL IOC LMT 100.0 at 7.75 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
+US handle generic SHORTABLE NIO 2.0 2018-10-02T22:12
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:14
+US handle generic SHORTABLE NIO 2.0 2018-10-02T22:15
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:16
+US handle generic SHORTABLE NIO 2.0 2018-10-02T22:18
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:19
+US handle generic SHORTABLE NIO 2.0 2018-10-02T22:19
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:19
+US handle generic SHORTABLE NIO 2.0 2018-10-02T22:19
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:21
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:21
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:21
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:22
+US handle generic SHORTABLE PDD 3.0 2018-10-02T22:22
+US handle generic SHORTABLE NIO 2.0 2018-10-02T22:22
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:23
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:23
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:24
+US handle generic SHORTABLE NIO 2.0 2018-10-02T22:25
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:26
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:26
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:28
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:28
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:32
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:32
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:32
+US handle generic SHORTABLE NIO 2.0 2018-10-02T22:32
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:33
+US handle generic SHORTABLE NIO 2.0 2018-10-02T22:33
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:34
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:34
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:34
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:34
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:35
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:35
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:36
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:36
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:37
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:37
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:38
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:38
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:43
+US handle generic SHORTABLE PDD 3.0 2018-10-02T22:44
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:44
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:44
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:44
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:44
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:48
+US handle generic SHORTABLE NIO 3.0 2018-10-02T22:48
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:48
+US handle generic SHORTABLE PDD 3.0 2018-10-02T22:48
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:42
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:44
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:44
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:44
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:44
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:45
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:46
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:58
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:58
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:06
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:06
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:06
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:06
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:14
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:14
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:15
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:15
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:38
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:38
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:39
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:39
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:39
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:39
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:41
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:41
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:42
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:42
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:49
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:49
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:50
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:51
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:52
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:52
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:52
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:53
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:55
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:55
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:58
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:59
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T02:03
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T02:03
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T02:05
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T02:05
+**********
+NEW 1440  US close liq BUY #: 0 NIO T:  15:50:02.432 Order: 1440 BUY IOC LMT 100.0 at 6.02 msg:  Tradetype US_CLOSE_LIQ Status: Created last order T 2018-10-02T00:00 pos -100.0
+1440 1440 *GUARANTEE US FILL* PreSubmitted -> Filled 03:50:03.062 ID: 101 NIO T:  15:50:02.432 Order: 1440 BUY IOC LMT 100.0 at 6.02 msg:  Tradetype US_CLOSE_LIQ Status: Filled TIF: IOC
+**********
+NEW 1441  US close liq SELL #: 0 QTT T:  15:50:03.939 Order: 1441 SELL IOC LMT 100.0 at 6.7 msg:  Tradetype US_CLOSE_LIQ Status: Created last order T 2018-10-02T00:00 pos 100.0
+1441 1455 *GUARANTEE US FILL* PreSubmitted -> Filled 03:50:10.408 ID: 116 QTT T:  03:50:09.914 Order: 1455 SELL IOC LMT 100.0 at 6.63 msg:  Tradetype US_CLOSE_LIQ Status: Filled TIF: IOC
+US handle generic SHORTABLE QTT 2.0 2018-10-03T05:09
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T05:09
+US handle generic SHORTABLE NIO 3.0 2018-10-03T05:09
+US handle generic SHORTABLE PDD 3.0 2018-10-03T05:09
+US handle generic SHORTABLE NIO 3.0 2018-10-03T07:55
+US handle generic SHORTABLE QTT 2.0 2018-10-03T07:55
+US handle generic SHORTABLE PDD 3.0 2018-10-03T07:55
+US handle generic SHORTABLE NIO 3.0 2018-10-03T07:56
+US handle generic SHORTABLE QTT 2.0 2018-10-03T07:56
+US handle generic SHORTABLE PDD 3.0 2018-10-03T07:56
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:06
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:06
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:06
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:06
+US handle generic SHORTABLE QTT 2.0 2018-10-03T08:06
+US handle generic SHORTABLE PDD 3.0 2018-10-03T08:06
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:10
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:10
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:10
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:10
+US handle generic SHORTABLE QTT 2.0 2018-10-03T08:10
+US handle generic SHORTABLE PDD 3.0 2018-10-03T08:10
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:13
+US handle generic SHORTABLE QTT 2.0 2018-10-03T08:13
+US handle generic SHORTABLE PDD 3.0 2018-10-03T08:13
+US handle generic SHORTABLE NIO 3.0 2018-10-03T08:57
+US handle generic SHORTABLE QTT 2.0 2018-10-03T08:57
+US handle generic SHORTABLE PDD 3.0 2018-10-03T08:57
+2018-10-03T08:57:30.424
+US handle generic SHORTABLE NIO 3.0 2018-10-03T09:06
+US handle generic SHORTABLE NIO 3.0 2018-10-03T09:06
+US handle generic SHORTABLE NIO 3.0 2018-10-03T09:06
+US handle generic SHORTABLE NIO 3.0 2018-10-03T09:06
+US handle generic SHORTABLE QTT 2.0 2018-10-03T09:06
+2018-10-03T09:06:01.595
+US handle generic SHORTABLE PDD 3.0 2018-10-03T09:06
+3203 3203 -> 3204 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:48.114 Order: 3204 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3204 -> 3205 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:48.454 Order: 3205 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3205 -> 3206 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:48.830 Order: 3206 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3206 -> 3207 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:49.126 Order: 3207 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3207 -> 3208 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:49.461 Order: 3208 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3208 -> 3209 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:49.754 Order: 3209 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3209 -> 3210 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:50.083 Order: 3210 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3210 -> 3211 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:50.405 Order: 3211 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3211 -> 3212 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:50.756 Order: 3212 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3212 -> 3213 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:51.064 Order: 3213 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3213 -> 3214 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:51.380 Order: 3214 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3214 -> 3215 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:51.676 Order: 3215 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3215 -> 3216 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:51.993 Order: 3216 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3216 -> 3217 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:52.307 Order: 3217 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3217 -> 3218 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:52.595 Order: 3218 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3218 -> 3219 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:52.907 Order: 3219 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3219 -> 3220 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:53.198 Order: 3220 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3220 -> 3221 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:53.479 Order: 3221 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3221 -> 3222 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:53.790 Order: 3222 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3222 -> 3223 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:54.079 Order: 3223 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3223 -> 3224 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:54.386 Order: 3224 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3224 -> 3225 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:54.772 Order: 3225 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3225 -> 3226 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:55.088 Order: 3226 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3226 -> 3227 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:55.376 Order: 3227 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3227 -> 3228 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:55.663 Order: 3228 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3228 -> 3229 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:55.953 Order: 3229 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3229 -> 3230 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:56.233 Order: 3230 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3230 -> 3231 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:56.515 Order: 3231 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3231 -> 3232 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:56.796 Order: 3232 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3232 -> 3233 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:57.084 Order: 3233 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3233 -> 3234 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:57.374 Order: 3234 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3234 -> 3235 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:57.656 Order: 3235 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3235 -> 3236 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:57.939 Order: 3236 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3236 -> 3237 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:58.222 Order: 3237 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3237 -> 3238 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:58.512 Order: 3238 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3238 -> 3239 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:58.821 Order: 3239 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3239 -> 3240 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:59.200 Order: 3240 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3240 -> 3241 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:59.513 Order: 3241 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3241 -> 3242 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:59.836 Order: 3242 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3242 -> 3243 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:22:00.127 Order: 3243 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+US handle generic SHORTABLE NIO 3.0 2018-10-03T09:56
+US handle generic SHORTABLE QTT 2.0 2018-10-03T09:56
+US handle generic SHORTABLE PDD 3.0 2018-10-03T09:56
+2018-10-03T09:56:50.852
+US handle generic SHORTABLE QTT 3.0 2018-10-03T11:11
+US handle generic SHORTABLE QTT 2.0 2018-10-03T11:11
+US handle generic SHORTABLE PDD 0.0 2018-10-03T12:00
+US handle generic SHORTABLE NIO 0.0 2018-10-03T12:00
+US handle generic SHORTABLE QTT 0.0 2018-10-03T12:00
+US handle generic SHORTABLE PDD 3.0 2018-10-03T12:00
+US handle generic SHORTABLE NIO 3.0 2018-10-03T12:00
+US handle generic SHORTABLE QTT 2.0 2018-10-03T12:00
+US handle generic SHORTABLE NIO 3.0 2018-10-03T12:22
+US handle generic SHORTABLE QTT 2.0 2018-10-03T12:22
+US handle generic SHORTABLE PDD 3.0 2018-10-03T12:22
+US handle generic SHORTABLE NIO 3.0 2018-10-03T12:29
+US handle generic SHORTABLE QTT 2.0 2018-10-03T12:29
+US handle generic SHORTABLE PDD 3.0 2018-10-03T12:29
+US handle generic SHORTABLE PDD 3.0 2018-10-03T12:30
+US handle generic SHORTABLE NIO 3.0 2018-10-03T12:30
+US handle generic SHORTABLE QTT 2.0 2018-10-03T12:30
+US handle generic SHORTABLE QTT 3.0 2018-10-03T14:42
+US handle generic SHORTABLE NIO 2.0 2018-10-03T19:01
+US handle generic SHORTABLE QTT 3.0 2018-10-03T19:14
+US handle generic SHORTABLE PDD 3.0 2018-10-03T19:14
+US handle generic SHORTABLE NIO 2.0 2018-10-03T19:14
+2018-10-03T19:14:39.117
+2018-10-03T21:12:48.550
+US handle generic SHORTABLE NIO 3.0 2018-10-03T21:12
+Setting manual US Dev 935 NIO 09:30:39.598
+**********
+NEW 3253 US open dev BUY# 0 NIO T:  09:30:49.135 Order: 3253 BUY IOC LMT 100.0 at 6.15 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55), fresh 0.0 6.14 6.15 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-03T00:00 9223372036854775807 10 2018-10-03T00:00:10 dir Flat manual? true short value 3.0
+3253 3273 *GUARANTEE US FILL* Submitted -> Filled 21:31:50.548 ID: 121 NIO T:  21:31:18.311 Order: 3273 BUY IOC LMT 100.0 at 6.15 msg:  Tradetype US_STOCK_OPENDEV Status: Filled TIF: IOC
+**********
+NEW 3274 US open dev SELL#: 1 NIO T:  09:32:56.505 Order: 3274 SELL IOC LMT 100.0 at 6.13 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55), fresh 6.13 6.14 6.13 sell size/ currpos 100.0 100.0 last order T, milliLast2, waitSec, nextT 2018-10-03T09:30:49.135 9223372036854775807 10 2018-10-03T09:30:59.135 dir Long manual? true short value 3.0
+3274 3274 *GUARANTEE US FILL* Submitted -> Filled 21:32:57.911 ID: 122 NIO T:  09:32:56.505 Order: 3274 SELL IOC LMT 100.0 at 6.13 msg:  Tradetype US_STOCK_OPENDEV Status: Filled TIF: IOC
+**********
+NEW 3284 US open dev BUY# 2 NIO T:  09:33:08.742 Order: 3284 BUY IOC LMT 100.0 at 6.16 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55), fresh 6.13 6.14 6.16 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-03T09:32:56.505 127370 10 2018-10-03T09:33:06.505 dir Short manual? true short value 3.0
+3284 3284 *GUARANTEE US FILL* Submitted -> Filled 21:33:10.695 ID: 132 NIO T:  09:33:08.742 Order: 3284 BUY IOC LMT 100.0 at 6.16 msg:  Tradetype US_STOCK_OPENDEV Status: Filled TIF: IOC
+3285 3285 *GUARANTEE US FILL* Submitted -> Filled 21:33:11.043 ID: 133 NIO T:  09:33:08.742 Order: 3285 BUY IOC LMT 100.0 at 6.16 msg:  Tradetype H930_DEV Status: Filled TIF: IOC
+3275 3292 *GUARANTEE US FILL* Submitted -> Filled 21:33:20.664 ID: 140 NIO T:  21:33:18.603 Order: 3292 SELL IOC LMT 100.0 at 6.14 msg:  Tradetype H930_DEV Status: Filled TIF: IOC
+**********
+NEW 3293 US take profit SELL# max open fresh  6.13 6.14 6.21 max/open-1 0.02442996742671011 up thresh 0.02 p/max-1 -0.012718600953895098 retreathDownThresh -0.01
+**********
+NEW 3295 US take profit SELL# max open fresh  6.13 6.14 6.2 max/open-1 0.02442996742671011 up thresh 0.02 p/max-1 -0.014308426073131986 retreathDownThresh -0.01
+3295 3295 *GUARANTEE US FILL* PreSubmitted -> Filled 21:40:20.870 ID: 143 NIO T:  09:40:18.816 Order: 3295 SELL IOC LMT 100.0 at 6.2 msg:  Tradetype US_RELATIVE_TAKE_PROFIT Status: Filled TIF: IOC

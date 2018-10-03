@@ -1,0 +1,100 @@
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T19:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T20:43
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T20:53
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:13
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:14
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:14
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T21:26
+Setting manual US Dev 935 NBEV 09:30:01.151
+**********
+NEW 3033 US open dev BUY# 0 NBEV T:  09:30:01.151 Order: 3033 BUY DAY LMT 100.0 at 7.86 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.86 7.84 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 2.0
+3033 **FILLS** ConstructedInHandler -> Filled 21:30:01 ID: 101 NBEV T:  09:30:01.151 Order: 3033 BUY DAY LMT 100.0 at 7.86 msg:  Tradetype US_STOCK_OPENDEV Status: PreSubmitted TIF: DAY
+**********
+NEW 3034 US hilo buy#: 0 NBEV T:  09:30:01.151 Order: 3034 BUY IOC LMT 100.0 at 7.86 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  7.8864 7.81 09:29:58.161 09:29:56.197 last order T, milliLast2, waitSec,nexT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 2.0
+3034 3034 *GUARANTEE US FILL* Submitted -> Filled 21:30:02.166 ID: 102 NBEV T:  09:30:01.151 Order: 3034 BUY IOC LMT 100.0 at 7.86 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 3053 US open dev SELL#: 1 NBEV T:  09:30:12.976 Order: 3053 SELL DAY LMT 100.0 at 7.76 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.86 7.84 sell size/ currpos 100.0 200.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:01.151 9223372036854775807 10 2018-10-02T09:30:11.151 dir Long manual? true short value 2.0
+3053 **FILLS** ConstructedInHandler -> Filled 21:30:15 ID: 121 NBEV T:  09:30:12.976 Order: 3053 SELL DAY LMT 100.0 at 7.76 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+**********
+NEW 3079 US hilo sell#: 1 NBEV T:  09:30:22.914 Order: 3079 SELL IOC LMT 100.0 at 7.62 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 100.0 max min maxT minT  7.96 7.6501 09:30:10.358 09:30:22.914 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:01.151 9223372036854775807 10 2018-10-02T09:30:11.151 dir Long manual? true short value 2.0
+3079 3079 *GUARANTEE US FILL* PreSubmitted -> Filled 21:30:23.430 ID: 147 NBEV T:  09:30:22.914 Order: 3079 SELL IOC LMT 100.0 at 7.62 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T21:30
+**********
+NEW 3145 US hilo buy#: 2 NBEV T:  09:30:58.191 Order: 3145 BUY IOC LMT 100.0 at 7.98 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  7.96 7.62 09:30:58.191 09:30:22.914 last order T, milliLast2, waitSec,nexT 2018-10-02T09:30:22.914 21763 10 2018-10-02T09:30:32.914 dir Short manual? true short value 3.0
+3145 3147 *GUARANTEE US FILL* Submitted -> Filled 21:30:59.443 ID: 215 NBEV T:  21:30:58.975 Order: 3147 BUY IOC LMT 100.0 at 8.0 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 3194 US open dev BUY# 2 NBEV T:  09:35:14.897 Order: 3194 BUY DAY LMT 100.0 at 7.84 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.86 7.84 buy size/ currpos 100.0 100.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:12.976 11825 300 2018-10-02T09:35:12.976 dir Short manual? true short value 2.0
+3194 **FILLS** ConstructedInHandler -> Filled 21:36 ID: 262 NBEV T:  09:35:14.897 Order: 3194 BUY DAY LMT 100.0 at 7.84 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+**********
+NEW 3195 US open dev SELL#: 3 NBEV T:  09:36:01.507 Order: 3195 SELL DAY LMT 100.0 at 7.84 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 7.86 7.84 sell size/ currpos 100.0 200.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:35:14.897 301921 10 2018-10-02T09:35:24.897 dir Long manual? true short value 2.0
+3195 **FILLS** ConstructedInHandler -> Filled 21:36:31 ID: 263 NBEV T:  09:36:01.507 Order: 3195 SELL DAY LMT 100.0 at 7.84 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+
+**********
+NEW 3197  US postAMCutoff liq SELL #: 0 T now 10:00:00.273  cutoff 10:00 price, manualOpen 7.75 7.84 NBEV T:  10:00:00.273 Order: 3197 SELL IOC LMT 100.0 at 7.75 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-02T00:00 currPos 100.0 safety margin  0.03875 safety level 7.87875
+3197 3197 *GUARANTEE US FILL* Submitted -> Filled 22:00:00.784 ID: 265 NBEV T:  10:00:00.273 Order: 3197 SELL IOC LMT 100.0 at 7.75 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:34
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:34
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:34
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:34
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:35
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:35
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:36
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:36
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:37
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:37
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:38
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:43
+US handle generic SHORTABLE NBEV 2.0 2018-10-02T22:44
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:44
+US handle generic SHORTABLE NBEV 3.0 2018-10-02T22:48
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:42
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:44
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:44
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:44
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:44
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:45
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:46
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T00:58
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T00:58
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:06
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:06
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:06
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:06
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:14
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:14
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:15
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:15
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:38
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:38
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:39
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:39
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:39
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:39
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:41
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:41
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:42
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:42
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:49
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:49
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:50
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:51
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:52
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:52
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:52
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:53
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:55
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:55
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T01:58
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T01:59
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T02:03
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T02:03
+US handle generic SHORTABLE NBEV 3.0 2018-10-03T02:05
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T02:05
+US handle generic SHORTABLE NBEV 2.0 2018-10-03T05:09

@@ -11,3 +11,111 @@ US handle generic SHORTABLE QTT 3.0 2018-10-01T08:56
 US handle generic SHORTABLE QTT 3.0 2018-10-01T08:58
 US handle generic SHORTABLE QTT 3.0 2018-10-01T09:17
 US handle generic SHORTABLE QTT 3.0 2018-10-01T09:19
+US handle generic SHORTABLE QTT 0.0 2018-10-01T11:59
+US handle generic SHORTABLE QTT 3.0 2018-10-01T12:00
+US handle generic SHORTABLE QTT 3.0 2018-10-01T12:59
+US handle generic SHORTABLE QTT 3.0 2018-10-01T17:30
+US handle generic SHORTABLE QTT 3.0 2018-10-01T17:30
+US handle generic SHORTABLE QTT 3.0 2018-10-01T17:46
+US handle generic SHORTABLE QTT 3.0 2018-10-01T19:06
+US handle generic SHORTABLE QTT 2.0 2018-10-01T19:37
+US handle generic SHORTABLE QTT 3.0 2018-10-01T19:42
+US handle generic SHORTABLE QTT 3.0 2018-10-01T20:39
+US handle generic SHORTABLE QTT 3.0 2018-10-01T21:25
+US handle generic SHORTABLE QTT 3.0 2018-10-01T21:28
+Setting manual US Hilo 935 QTT 09:30:02.254
+**********
+NEW 1450 US hilo buy#: 0 QTT T:  09:30:08.005 Order: 1450 BUY IOC LMT 100.0 at 7.25 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  7.24 7.24 09:30:08.005 09:30:02.254 last order T, milliLast2, waitSec,nexT 2018-10-01T00:00 9223372036854775807 10 2018-10-01T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 1451 US hilo sell#: 1 QTT T:  09:30:28.631 Order: 1451 SELL IOC LMT 100.0 at 7.23 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  7.25 7.21 09:30:08.005 09:30:10.276 last order T, milliLast2, waitSec, nextT 2018-10-01T09:30:08.005 9223372036854775807 10 2018-10-01T09:30:18.005 dir Long manual? true short value 3.0
+**********
+NEW 1453 US hilo buy#: 2 QTT T:  09:31:02.863 Order: 1453 BUY IOC LMT 100.0 at 7.26 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  7.25 7.21 09:31:02.863 09:30:10.276 last order T, milliLast2, waitSec,nexT 2018-10-01T09:30:28.631 20626 10 2018-10-01T09:30:38.631 dir Short manual? true short value 3.0
+1453 1475 *GUARANTEE US FILL* PreSubmitted -> Filled 21:32:03.408 ID: 128 QTT T:  21:32:03.127 Order: 1475 BUY IOC LMT 100.0 at 7.28 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1541 US hilo sell#: 3 QTT T:  09:38:43.122 Order: 1541 SELL IOC LMT 100.0 at 7.2 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 100.0 max min maxT minT  7.28 7.21 09:31:44.192 09:38:43.122 last order T, milliLast2, waitSec, nextT 2018-10-01T09:31:02.863 34232 10 2018-10-01T09:31:12.863 dir Long manual? true short value 3.0
+1541 1547 *GUARANTEE US FILL* PreSubmitted -> Filled 21:38:46.508 ID: 200 QTT T:  21:38:46.206 Order: 1547 SELL IOC LMT 100.0 at 7.16 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+US handle generic SHORTABLE QTT 2.0 2018-10-01T21:52
+US handle generic SHORTABLE QTT 3.0 2018-10-01T21:53
+US handle generic SHORTABLE QTT 3.0 2018-10-01T22:00
+US handle generic SHORTABLE QTT 3.0 2018-10-01T22:00
+US handle generic SHORTABLE QTT 2.0 2018-10-02T08:57
+US handle generic SHORTABLE QTT 2.0 2018-10-02T09:01
+US handle generic SHORTABLE QTT 2.0 2018-10-02T09:23
+US handle generic SHORTABLE QTT 2.0 2018-10-02T09:28
+US handle generic SHORTABLE QTT 2.0 2018-10-02T11:19
+US handle generic SHORTABLE QTT 3.0 2018-10-02T11:23
+US handle generic SHORTABLE QTT 2.0 2018-10-02T11:23
+US handle generic SHORTABLE QTT 3.0 2018-10-02T11:25
+US handle generic SHORTABLE QTT 0.0 2018-10-02T12:00
+US handle generic SHORTABLE QTT 3.0 2018-10-02T12:00
+US handle generic SHORTABLE QTT 3.0 2018-10-02T12:56
+US handle generic SHORTABLE QTT 3.0 2018-10-02T17:42
+US handle generic SHORTABLE QTT 3.0 2018-10-02T17:45
+US handle generic SHORTABLE QTT 3.0 2018-10-02T19:10
+US handle generic SHORTABLE QTT 2.0 2018-10-02T19:36
+US handle generic SHORTABLE QTT 2.0 2018-10-02T19:46
+US handle generic SHORTABLE QTT 2.0 2018-10-02T20:43
+US handle generic SHORTABLE QTT 2.0 2018-10-02T20:53
+US handle generic SHORTABLE QTT 2.0 2018-10-02T21:13
+US handle generic SHORTABLE QTT 2.0 2018-10-02T21:14
+US handle generic SHORTABLE QTT 2.0 2018-10-02T21:14
+Setting manual US Dev 935 QTT 09:30:01.936
+Setting manual US Hilo 935 QTT 09:30:01.936
+**********
+NEW 3040 US open dev BUY# 0 QTT T:  09:30:08.414 Order: 3040 BUY DAY LMT 100.0 at 6.65 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 6.63 6.63 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 2.0
+3040 **FILLS** ConstructedInHandler -> Filled 21:30:08 ID: 108 QTT T:  09:30:08.414 Order: 3040 BUY DAY LMT 100.0 at 6.65 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+**********
+NEW 3041 US hilo buy#: 0 QTT T:  09:30:08.414 Order: 3041 BUY IOC LMT 100.0 at 6.65 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  6.63 6.63 09:30:08.414 09:30:01.936 last order T, milliLast2, waitSec,nexT 2018-10-02T00:00 9223372036854775807 10 2018-10-02T00:00:10 dir Flat manual? true short value 2.0
+3041 3041 *GUARANTEE US FILL* Submitted -> Filled 21:30:09.122 ID: 109 QTT T:  09:30:08.414 Order: 3041 BUY IOC LMT 100.0 at 6.65 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 3160 US open dev SELL#: 1 QTT T:  09:32:48.367 Order: 3160 SELL DAY LMT 100.0 at 6.62 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 6.63 6.63 sell size/ currpos 100.0 200.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:08.414 9223372036854775807 10 2018-10-02T09:30:18.414 dir Long manual? true short value 2.0
+3160 **FILLS** ConstructedInHandler -> Filled 21:32:55 ID: 228 QTT T:  09:32:48.367 Order: 3160 SELL DAY LMT 100.0 at 6.62 msg:  Tradetype US_STOCK_OPENDEV Status: Submitted TIF: DAY
+**********
+NEW 3161 US hilo sell#: 1 QTT T:  09:32:48.367 Order: 3161 SELL IOC LMT 100.0 at 6.62 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 200.0 max min maxT minT  6.69 6.63 09:31:06.554 09:32:48.367 last order T, milliLast2, waitSec, nextT 2018-10-02T09:30:08.414 9223372036854775807 10 2018-10-02T09:30:18.414 dir Long manual? true short value 2.0
+3161 3166 *GUARANTEE US FILL* PreSubmitted -> Filled 21:32:51.061 ID: 234 QTT T:  21:32:50.553 Order: 3166 SELL IOC LMT 100.0 at 6.61 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 3167 US open dev BUY# 2 QTT T:  09:33:12.904 Order: 3167 BUY DAY LMT 100.0 at 6.63 msg:  Tradetype US_STOCK_OPENDEV Status: Created open, manual Open(9 29 55) 6.63 6.63 buy size/ currpos 100.0 0.0 last order T, milliLast2, waitSec, nextT 2018-10-02T09:32:48.367 159953 10 2018-10-02T09:32:58.367 dir Short manual? true short value 2.0
+**********
+NEW 3193 US hilo buy#: 2 QTT T:  09:33:59.928 Order: 3193 BUY IOC LMT 100.0 at 6.71 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  6.69 6.61 09:33:59.928 09:32:50.471 last order T, milliLast2, waitSec,nexT 2018-10-02T09:32:48.367 159953 10 2018-10-02T09:32:58.367 dir Short manual? true short value 2.0
+3193 3193 *GUARANTEE US FILL* Submitted -> Filled 21:34:00.406 ID: 261 QTT T:  09:33:59.928 Order: 3193 BUY IOC LMT 100.0 at 6.71 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:22
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:44
+US handle generic SHORTABLE QTT 2.0 2018-10-02T22:48
+**********
+NEW 1441  US close liq SELL #: 0 QTT T:  15:50:03.939 Order: 1441 SELL IOC LMT 100.0 at 6.7 msg:  Tradetype US_CLOSE_LIQ Status: Created last order T 2018-10-02T00:00 pos 100.0
+1441 1455 *GUARANTEE US FILL* PreSubmitted -> Filled 03:50:10.408 ID: 116 QTT T:  03:50:09.914 Order: 1455 SELL IOC LMT 100.0 at 6.63 msg:  Tradetype US_CLOSE_LIQ Status: Filled TIF: IOC
+US handle generic SHORTABLE QTT 2.0 2018-10-03T05:09
+US handle generic SHORTABLE QTT 2.0 2018-10-03T07:55
+US handle generic SHORTABLE QTT 2.0 2018-10-03T07:56
+US handle generic SHORTABLE QTT 2.0 2018-10-03T08:06
+US handle generic SHORTABLE QTT 2.0 2018-10-03T08:10
+US handle generic SHORTABLE QTT 2.0 2018-10-03T08:13
+2018-10-03T08:57:30.016
+US handle generic SHORTABLE QTT 2.0 2018-10-03T08:57
+2018-10-03T09:06:01.426
+US handle generic SHORTABLE QTT 2.0 2018-10-03T09:06
+2018-10-03T09:56:50.588
+US handle generic SHORTABLE QTT 2.0 2018-10-03T09:56
+2018-10-03T11:11:40.629
+US handle generic SHORTABLE QTT 3.0 2018-10-03T11:11
+2018-10-03T11:11:50.142
+US handle generic SHORTABLE QTT 2.0 2018-10-03T11:11
+2018-10-03T12:00:13.402
+US handle generic SHORTABLE QTT 0.0 2018-10-03T12:00
+2018-10-03T12:00:46.953
+US handle generic SHORTABLE QTT 2.0 2018-10-03T12:00
+2018-10-03T12:22:56.759
+US handle generic SHORTABLE QTT 2.0 2018-10-03T12:22
+2018-10-03T12:29:27.795
+US handle generic SHORTABLE QTT 2.0 2018-10-03T12:29
+2018-10-03T12:30:06.679
+US handle generic SHORTABLE QTT 2.0 2018-10-03T12:30
+2018-10-03T14:42:46.549
+US handle generic SHORTABLE QTT 3.0 2018-10-03T14:42
+2018-10-03T19:14:38.855
+US handle generic SHORTABLE QTT 3.0 2018-10-03T19:14

@@ -1,13 +1,16 @@
-US handle generic SHORTABLE IQ 3.0 2018-09-28T23:47
-US handle generic SHORTABLE IQ 3.0 2018-09-28T23:55
-US handle generic SHORTABLE IQ 3.0 2018-09-28T23:58
-US handle generic SHORTABLE IQ 3.0 2018-09-28T23:59
-US handle generic SHORTABLE IQ 3.0 2018-09-29T00:06
-US handle generic SHORTABLE IQ 3.0 2018-09-29T00:20
-US handle generic SHORTABLE IQ 3.0 2018-09-29T05:58
-US handle generic SHORTABLE IQ 3.0 2018-09-29T06:01
-US handle generic SHORTABLE IQ 3.0 2018-09-29T06:36
-US handle generic SHORTABLE IQ 3.0 2018-10-01T08:56
-US handle generic SHORTABLE IQ 3.0 2018-10-01T08:58
-US handle generic SHORTABLE IQ 3.0 2018-10-01T09:17
-US handle generic SHORTABLE IQ 3.0 2018-10-01T09:19
+**********
+NEW 1448 US hilo sell#: 0 IQ T:  09:30:02.049 Order: 1448 SELL IOC LMT 100.0 at 27.0 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 0.0 max min maxT minT  27.02 27.02 09:30:01.607 09:30:02.049 last order T, milliLast2, waitSec, nextT 2018-10-01T00:00 9223372036854775807 10 2018-10-01T00:00:10 dir Flat manual? true short value 3.0
+**********
+NEW 1479 US hilo buy#: 1 IQ T:  09:34:42.474 Order: 1479 BUY IOC LMT 100.0 at 27.05 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  27.04 26.73 09:34:42.474 09:32:48.335 last order T, milliLast2, waitSec,nexT 2018-10-01T09:30:02.049 9223372036854775807 10 2018-10-01T09:30:12.049 dir Short manual? true short value 3.0
+1479 1508 *GUARANTEE US FILL* PreSubmitted -> Filled 21:34:51.025 ID: 161 IQ T:  21:34:50.743 Order: 1508 BUY IOC LMT 100.0 at 27.06 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1509 US hilo sell#: 2 IQ T:  09:37:03.769 Order: 1509 SELL IOC LMT 100.0 at 26.72 msg:  Tradetype US_STOCK_HILO Status: Created sellQ/curr pos 100.0 100.0 max min maxT minT  27.06 26.73 09:34:50.555 09:37:03.769 last order T, milliLast2, waitSec, nextT 2018-10-01T09:34:42.474 280425 10 2018-10-01T09:34:52.474 dir Long manual? true short value 3.0
+1509 1540 *GUARANTEE US FILL* PreSubmitted -> Filled 21:37:12.746 ID: 193 IQ T:  21:37:12.465 Order: 1540 SELL IOC LMT 100.0 at 26.74 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1548 US hilo buy#: 3 IQ T:  09:38:51.621 Order: 1548 BUY IOC LMT 100.0 at 27.09 msg:  Tradetype US_STOCK_HILO Status: Created buyQ/curr pos 100.0 0.0 max min maxT minT  27.06 26.72 09:38:51.621 09:37:03.769 last order T, milliLast2, waitSec,nexT 2018-10-01T09:37:03.769 141295 10 2018-10-01T09:37:13.769 dir Short manual? true short value 3.0
+1548 1550 *GUARANTEE US FILL* PreSubmitted -> Filled 21:38:52.980 ID: 203 IQ T:  21:38:52.644 Order: 1550 BUY IOC LMT 100.0 at 27.1 msg:  Tradetype US_STOCK_HILO Status: Filled TIF: IOC
+**********
+NEW 1551  US postAMCutoff liq SELL #: 0 T now 10:00:17.809  cutoff 10:00 price, manualOpen 26.91 27.02 IQ T:  10:00:17.809 Order: 1551 SELL IOC LMT 100.0 at 26.91 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-01T00:00 currPos 100.0 safety margin  0.2691 safety level 27.2891
+US handle generic SHORTABLE IQ 3.0 2018-10-01T22:00
+1551 1559 *GUARANTEE US FILL* Submitted -> Filled 22:00:49.191 ID: 212 IQ T:  22:00:45.519 Order: 1559 SELL IOC LMT 100.0 at 26.82 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
+US handle generic SHORTABLE IQ 3.0 2018-10-01T22:00

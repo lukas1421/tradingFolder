@@ -52,3 +52,80 @@ order id is 0  1293 BUY 2.34 500.0
 1440 fut Open dev SELL #: 0 SGXA50 T:  09:00:04.476 Order: 1440 SELL DAY LMT 1.0 at 11892.5 msg:  Tradetype FUT_OPEN_DEVI Status: Created open, last  11892.5 11890.0 milliLast2 9223372036854775807 waitSec 10 next T 2018-10-01T00:00:10
 1441 fut hilo sell #: 0 SGXA50 T:  09:00:04.476 Order: 1441 SELL IOC LMT 1.0 at 11890.0 msg:  Tradetype FUT_HILO Status: Created max min last dir 11892.5 11892.5 11890.0 Flat |bid ask spread 11890.0 11892.5 2 bp last freshprice 11890.0 11890.0 pre10:maxT minT  09:00:01.477 09:00:04.476 milliLastTwo 9223372036854775807 waitSec 10 next Order T 2018-10-01T00:00:10
 1441 1441 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:05.091 ID: 102 SGXA50 T:  09:00:04.476 Order: 1441 SELL IOC LMT 1.0 at 11890.0 msg:  Tradetype FUT_HILO Status: Filled TIF: IOC
+1444 fut post cutoff liq BUY#: 0 SGXA50 T:  10:11:28.227 Order: 1444 BUY IOC LMT 1.0 at 11882.5 msg:  Tradetype FUT_POST_CUTOFF_LIQ Status: Created
+1444 1444 *GUARANTEE XU FILL PreSubmitted -> Filled 10:11:28.550 ID: 101 SGXA50 T:  10:11:28.227 Order: 1444 BUY IOC LMT 1.0 at 11882.5 msg:  Tradetype FUT_POST_CUTOFF_LIQ Status: Filled TIF: IOC
+1445  Manual Bid Limit  bid1 SGXA50 T:  10:22:58.736 Order: 1445 BUY DAY LMT 1.0 at 11885.0 msg:  Tradetype ON_BID Status: Created
+1445 **FILLS** ConstructedInHandler -> Filled 10:28:04 ID: 102 SGXA50 T:  10:22:58.736 Order: 1445 BUY DAY LMT 1.0 at 11885.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+10:00:17.809  Cancel ALL after deadline  1448 IQ US_STOCK_HILO status CHG: PendingSubmit -> DeadlineCancelled
+10:00:17.809  Cancel ALL after deadline  1449 BILI US_STOCK_HILO status CHG: PendingSubmit -> DeadlineCancelled
+10:00:17.809  Cancel ALL after deadline  1450 QTT US_STOCK_HILO status CHG: Created -> DeadlineCancelled
+10:00:17.809  Cancel ALL after deadline  1451 QTT US_STOCK_HILO status CHG: Created -> DeadlineCancelled
+10:00:17.809  Cancel ALL after deadline  1452 NIO US_STOCK_HILO status CHG: Created -> DeadlineCancelled
+10:00:17.947  Cancel after deadline  1478 status CHG: Created -> DeadlineCancelled
+3011 fut hilo buy #: 0 SGXA50 T:  09:00:01.517 Order: 3011 BUY IOC LMT 1.0 at 11902.5 msg:  Tradetype FUT_HILO Status: Created  max min last dir 11895.0 11895.0 11905.0 Flat |bid ask spread 11895.0 11902.5 6 bp last freshprice  11905.0 11905.0 pre10:maxT minT  09:00:01.517 09:00:01.505 milliLastTwo 9223372036854775807 waitsec 10 next Order T 2018-10-02T00:00:10
+3011 3011 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:03.034 ID: 101 SGXA50 T:  09:00:01.517 Order: 3011 BUY IOC LMT 1.0 at 11902.5 msg:  Tradetype FUT_HILO Status: Filled TIF: IOC
+3012 fut hilo sell #: 1 SGXA50 T:  09:00:13.751 Order: 3012 SELL IOC LMT 1.0 at 11892.5 msg:  Tradetype FUT_HILO Status: Created max min last dir 11905.0 11895.0 11892.5 Long |bid ask spread 11892.5 11895.0 2 bp last freshprice 11892.5 11892.5 pre10:maxT minT  09:00:01.517 09:00:13.751 milliLastTwo 9223372036854775807 waitSec 10 next Order T 2018-10-02T09:00:11.517
+3012 3012 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:15.031 ID: 102 SGXA50 T:  09:00:13.751 Order: 3012 SELL IOC LMT 1.0 at 11892.5 msg:  Tradetype FUT_HILO Status: Filled TIF: IOC
+10:00:00.682  Cancel ALL after deadline  3016 hk1548 HK_STOCK_HILO status CHG: Created -> DeadlineCancelled
+10:00:00.682  Cancel ALL after deadline  3017 hk1293 HK_STOCK_HILO status CHG: PreSubmitted -> DeadlineCancelled
+13:30:02.986  Cancel ALL after deadline  3025 hk3333 HK_STOCK_PMHILO status CHG: Submitted -> DeadlineCancelled
+10:00:00.273  Cancel ALL after deadline  3148 NIO US_STOCK_OPENDEV status CHG: Submitted -> DeadlineCancelled
+10:00:00.273  Cancel ALL after deadline  3167 QTT US_STOCK_OPENDEV status CHG: Submitted -> DeadlineCancelled
+10:00:00.538  Cancel ALL after deadline  3167 QTT US_STOCK_OPENDEV status CHG: Submitted -> DeadlineCancelled
+2018-10-03T08:57:30.424
+3198 fut hilo buy #: 0 SGXA50 T:  09:00:01.549 Order: 3198 BUY IOC LMT 1.0 at 0.0 msg:  Tradetype SGXA50_HILO Status: Created  max min last dir 0.0 0.0 11692.5 Flat |bid ask spread 11875.0 0.0 -10000 bp last freshprice  11692.5 11692.5 pre10:maxT minT  09:00:01.549 09:00:01.549 milliLastTwo 9223372036854775807 waitsec 10 next Order T 2018-10-03T00:00:10
+3199 fut hilo sell #: 1 SGXA50 T:  09:00:18.541 Order: 3199 SELL IOC LMT 2.0 at 11687.5 msg:  Tradetype SGXA50_HILO Status: Created max min last dir 11695.0 11690.0 11687.5 Long |bid ask spread 11687.5 11692.5 4 bp last freshprice 11687.5 11687.5 pre10:maxT minT  09:00:02.859 09:00:18.541 milliLastTwo 9223372036854775807 waitSec 10 next Order T 2018-10-03T09:00:11.549
+3199 3199 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:18.870 ID: 102 SGXA50 T:  09:00:18.541 Order: 3199 SELL IOC LMT 2.0 at 11687.5 msg:  Tradetype SGXA50_HILO Status: Filled TIF: IOC
+3200 fut hilo buy #: 2 SGXA50 T:  09:05:31.909 Order: 3200 BUY IOC LMT 2.0 at 11697.5 msg:  Tradetype SGXA50_HILO Status: Created  max min last dir 11695.0 11677.5 11697.5 Short |bid ask spread 11692.5 11697.5 4 bp last freshprice  11697.5 11697.5 pre10:maxT minT  09:05:31.909 09:00:44.698 milliLastTwo 16992 waitsec 300 next Order T 2018-10-03T09:05:18.541
+3200 3200 *GUARANTEE XU FILL Submitted -> Filled 09:05:32.223 ID: 103 SGXA50 T:  09:05:31.909 Order: 3200 BUY IOC LMT 2.0 at 11697.5 msg:  Tradetype SGXA50_HILO Status: Filled TIF: IOC
+2018-10-03T09:06:01.595
+3203 fut hilo sell #: 0 SGXA50 T:  09:21:47.886 Order: 3203 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created max min last dir 11700.0 11620.0 11640.0 Long |bid ask spread 11640.0 11642.5 2 bp last freshprice 11640.0 11640.0 pre10:maxT minT  09:06:19.989 09:16:40.609 milliLastTwo 9223372036854775807 waitSec 10 next Order T 2018-10-03T00:00:10
+3203 3203 -> 3204 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:48.114 Order: 3204 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3204 -> 3205 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:48.454 Order: 3205 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3205 -> 3206 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:48.830 Order: 3206 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3206 -> 3207 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:49.126 Order: 3207 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3207 -> 3208 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:49.461 Order: 3208 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3208 -> 3209 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:49.754 Order: 3209 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3209 -> 3210 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:50.083 Order: 3210 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3210 -> 3211 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:50.405 Order: 3211 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3211 -> 3212 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:50.756 Order: 3212 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3212 -> 3213 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:51.064 Order: 3213 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3213 -> 3214 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:51.380 Order: 3214 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3214 -> 3215 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:51.676 Order: 3215 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3215 -> 3216 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:51.993 Order: 3216 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3216 -> 3217 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:52.307 Order: 3217 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3217 -> 3218 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:52.595 Order: 3218 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3218 -> 3219 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:52.907 Order: 3219 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3219 -> 3220 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:53.198 Order: 3220 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3220 -> 3221 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:53.479 Order: 3221 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3221 -> 3222 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:53.790 Order: 3222 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3222 -> 3223 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:54.079 Order: 3223 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3223 -> 3224 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:54.386 Order: 3224 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3224 -> 3225 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:54.772 Order: 3225 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3225 -> 3226 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:55.088 Order: 3226 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3226 -> 3227 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:55.376 Order: 3227 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3227 -> 3228 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:55.663 Order: 3228 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3228 -> 3229 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:55.953 Order: 3229 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3229 -> 3230 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:56.233 Order: 3230 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3230 -> 3231 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:56.515 Order: 3231 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3231 -> 3232 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:56.796 Order: 3232 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3232 -> 3233 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:57.084 Order: 3233 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3233 -> 3234 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:57.374 Order: 3234 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3234 -> 3235 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:57.656 Order: 3235 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3235 -> 3236 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:57.939 Order: 3236 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3236 -> 3237 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:58.222 Order: 3237 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3237 -> 3238 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:58.512 Order: 3238 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3238 -> 3239 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:58.821 Order: 3239 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3239 -> 3240 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:59.200 Order: 3240 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3240 -> 3241 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:59.513 Order: 3241 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3241 -> 3242 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:21:59.836 Order: 3242 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3242 -> 3243 XU RESUBMIT: SGXA50_HILO IOC SELL 11640.0 1.0 false ||current SGXA50 T:  09:22:00.127 Order: 3243 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Created bid ask sp last 11637.5 11640.0 2 bp 11640.0
+3203 3243 *GUARANTEE XU FILL PreSubmitted -> Filled 09:22:00.530 ID: 141 SGXA50 T:  09:22:00.127 Order: 3243 SELL IOC LMT 1.0 at 11640.0 msg:  Tradetype SGXA50_HILO Status: Filled TIF: IOC
+2018-10-03T09:56:50.852
+3250 fut post cutoff liq BUY#: 0 SGXA50 T:  10:00:04.209 Order: 3250 BUY IOC LMT 1.0 at 11725.0 msg:  Tradetype SGXA50_POST_CUTOFF_LIQ Status: Created last 11725.0 open 11670.0 safety ratio  0.003 safetymargin 35.175000000000004 cut level 11634.825
+3250 3250 *GUARANTEE XU FILL PreSubmitted -> Filled 10:00:04.514 ID: 101 SGXA50 T:  10:00:04.209 Order: 3250 BUY IOC LMT 1.0 at 11725.0 msg:  Tradetype SGXA50_POST_CUTOFF_LIQ Status: Filled TIF: IOC
+2018-10-03T19:14:39.117
+2018-10-03T21:12:48.550
+ setting manual US halfhour dev fresh>start NIO H930 09:30:49.135
+3275 half hr US dev sell #: H930 type H930_DEV dir Long
+3285 half hr US dev buy #: H930 type H930_DEV dir Short
