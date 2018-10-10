@@ -98,3 +98,387 @@ US handle generic SHORTABLE NBEV 2.0 2018-10-03T02:03
 US handle generic SHORTABLE NBEV 3.0 2018-10-03T02:05
 US handle generic SHORTABLE NBEV 2.0 2018-10-03T02:05
 US handle generic SHORTABLE NBEV 2.0 2018-10-03T05:09
+2018-10-04T19:09:57.626
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T19:09
+2018-10-04T19:23:23.485
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T19:23
+2018-10-04T20:48:59.672
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T20:48
+2018-10-04T20:49:47.694
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T20:49
+2018-10-04T21:30:02.812
+ setting manual US qhour dev direction NBEV Q930 09:30:02.803
+2018-10-04T21:30:02.838
+**********
+2018-10-04T21:30:02.854
+NEW 3400 q hr US dev sell #: NBEV T:  09:30:02.833 Order: 3400 SELL IOC LMT 100.0 at 8.66 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV dir Flat
+**********
+NEW 3404 q hr US dev buy #: NBEV T:  09:30:17.522 Order: 3404 BUY IOC LMT 100.0 at 8.75 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV dir Short
+3404 3404 *GUARANTEE US FILL* PreSubmitted -> Filled 21:30:18.910 ID: 105 NBEV T:  09:30:17.522 Order: 3404 BUY IOC LMT 100.0 at 8.75 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+**********
+NEW 3405 US take profit SELL# NBEV T:  09:31:10.317 Order: 3405 SELL IOC LMT 100.0 at 8.8955 msg:  Tradetype US_RELATIVE_TAKE_PROFIT Status: Created max open fresh  8.97 8.67 8.8955 max/open-1 0.03460207612456756 up thresh 0.02 p/max-1 -0.008305462653288798 retreathDownThresh -0.006
+2018-10-04T21:41:45.466
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+2018-10-04T21:41:45.490
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+2018-10-04T21:41:45.510
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+2018-10-04T21:41:45.531
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+2018-10-04T21:41:45.555
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+2018-10-04T21:41:45.577
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+2018-10-04T21:41:45.599
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+2018-10-04T21:41:45.621
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+2018-10-04T21:41:51.730
+ setting manual US qhour dev fresh<start NBEV Q930 09:41:51.727
+2018-10-04T21:41:51.758
+**********
+2018-10-04T21:41:51.775
+NEW 3408 US take profit SELL# NBEV T:  09:41:51.727 Order: 3408 SELL IOC LMT 100.0 at 8.66 msg:  Tradetype US_RELATIVE_TAKE_PROFIT Status: Created max open fresh  9.15 8.67 8.66 sellPrice 8.66 max/open-1 0.05536332179930792 up thresh 0.02 p/max-1 -0.05355191256830605 retreathDownThresh -0.006
+**********
+NEW 3409 q hr US dev buy #: NBEV T:  09:41:52.354 Order: 3409 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV dir Short
+3409 3409 *GUARANTEE US FILL* Submitted -> Filled 21:41:54.491 ID: 102 NBEV T:  09:41:52.354 Order: 3409 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+**********
+NEW 3413 q hr US dev sell #: NBEV T:  09:42:15.614 Order: 3413 SELL IOC LMT 100.0 at 8.63 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV dir Long
+ setting manual US qhour dev direction NBEV Q945 09:45:00.465
+**********
+NEW 3415 q hr US dev buy #: NBEV T:  09:45:01.030 Order: 3415 BUY IOC LMT 100.0 at 8.64 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Flat
+2018-10-04T21:46:27.747
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+2018-10-04T21:46:27.768
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+2018-10-04T21:46:27.789
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+2018-10-04T21:46:27.812
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+2018-10-04T21:46:27.828
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+2018-10-04T21:46:27.845
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+2018-10-04T21:46:27.862
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+2018-10-04T21:46:27.879
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+2018-10-04T21:46:29.858
+ setting manual US qhour dev fresh>start NBEV Q945 09:46:29.856
+2018-10-04T21:47:26.727
+**********
+2018-10-04T21:47:26.743
+NEW 3421 q hr US dev sell #: NBEV T:  09:47:26.716 Order: 3421 SELL IOC LMT 100.0 at 8.63 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Long
+2018-10-04T21:47:28.275
+3421 3421 *GUARANTEE US FILL* PreSubmitted -> Filled 21:47:28.275 ID: 101 NBEV T:  09:47:26.716 Order: 3421 SELL IOC LMT 100.0 at 8.63 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+**********
+NEW 3422 q hr US dev buy #: NBEV T:  09:47:57.695 Order: 3422 BUY IOC LMT 100.0 at 8.6368 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Short
+2018-10-04T21:49:33.596
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+2018-10-04T21:49:33.620
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+2018-10-04T21:49:33.644
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+2018-10-04T21:49:33.667
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+2018-10-04T21:49:33.690
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+2018-10-04T21:49:33.710
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+2018-10-04T21:49:33.729
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+2018-10-04T21:49:33.750
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+2018-10-04T21:49:38.181
+ setting manual US qhour dev fresh>start NBEV Q945 09:49:38.178
+2018-10-04T21:49:38.805
+**********
+2018-10-04T21:49:38.830
+NEW 3425 q hr US dev sell #: NBEV T:  09:49:38.801 Order: 3425 SELL IOC LMT 100.0 at 8.62 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Long
+**********
+NEW 3427 q hr US dev buy #: NBEV T:  09:49:50.157 Order: 3427 BUY IOC LMT 100.0 at 8.64 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Short
+3427 3428 *GUARANTEE US FILL* Submitted -> Filled 21:49:53.135 ID: 104 NBEV T:  21:49:51.370 Order: 3428 BUY IOC LMT 100.0 at 8.65 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+2018-10-04T21:54:38.765
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:54
+2018-10-04T21:54:45.088
+ setting manual US qhour dev fresh>start NBEV Q945 09:54:45.086
+2018-10-04T22:00:00.523
+ setting manual US qhour dev direction NBEV Q1000 10:00:00.523
+2018-10-04T22:00:01.374
+**********
+2018-10-04T22:00:01.393
+NEW 3431 q hr US dev sell #: 0 NBEV T:  10:00:01.366 Order: 3431 SELL IOC LMT 100.0 at 9.03 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV dir Flat open fresh sellPrice 9.05 9.03 9.03
+2018-10-04T22:03:30.855
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T22:03
+2018-10-04T22:03:35.792
+ setting manual US qhour dev fresh<start NBEV Q1000 10:03:35.790 fresh<start 8.961 10:00
+2018-10-04T22:03:59.358
+**********
+2018-10-04T22:03:59.377
+NEW 3435 q hr US dev buy #: 0 NBEV T:  10:03:59.353 Order: 3435 BUY IOC LMT 100.0 at 9.05 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV dir Short open fresh buyPrice 9.05 9.0513 9.05
+3435 3436 *GUARANTEE US FILL* PreSubmitted -> Filled 22:04:02.449 ID: 102 NBEV T:  22:04:00.542 Order: 3436 BUY IOC LMT 100.0 at 9.1 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+**********
+NEW 3437 q hr US dev sell #: 1 NBEV T:  10:06:16.907 Order: 3437 SELL IOC LMT 100.0 at 8.95 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV dir Long open fresh sellPrice 9.05 8.9513 8.95
+3437 3437 *GUARANTEE US FILL* PreSubmitted -> Filled 22:06:18.731 ID: 103 NBEV T:  10:06:16.907 Order: 3437 SELL IOC LMT 100.0 at 8.95 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+2018-10-05T08:55:56.678
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+2018-10-05T08:55:56.698
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+2018-10-05T08:55:56.718
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+2018-10-05T08:55:56.737
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+2018-10-05T08:55:56.755
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+2018-10-05T08:55:56.773
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+2018-10-05T08:56:34.075
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+2018-10-05T08:56:34.094
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+2018-10-05T08:56:34.114
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+2018-10-05T08:56:34.133
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+2018-10-05T08:56:34.151
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+2018-10-05T08:56:34.168
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+2018-10-05T09:22:59.499
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T09:22
+2018-10-05T10:55:27.001
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T10:55
+2018-10-05T11:18:53.469
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T11:18
+2018-10-05T11:26:46.486
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T11:26
+2018-10-05T12:00:13.500
+US handle generic SHORTABLE NBEV 0.0 2018-10-05T12:00
+2018-10-05T12:00:44.788
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T12:00
+2018-10-05T12:23:52.323
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T12:23
+2018-10-05T12:24:41.577
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T12:24
+2018-10-05T18:51:35.830
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T18:51
+2018-10-05T20:37:14.991
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T20:37
+2018-10-05T20:44:45.899
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T20:44
+2018-10-05T20:46:38.277
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T20:46
+2018-10-05T21:09:28.284
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T21:09
+2018-10-05T21:28:03.925
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T21:28
+2018-10-05T21:31:32.462
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T21:31
+2018-10-05T21:31:46.538
+ set US qhr dev fresh>start NBEV Q930 09:31:46.523 fresh>start 9.2 > 09:30
+2018-10-05T21:31:49.261
+**********
+2018-10-05T21:31:49.282
+NEW 3440 q hr US dev sell #: 0 NBEV T:  09:31:49.234 Order: 3440 SELL IOC LMT 100.0 at 9.15 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV qHfilled 0.0 currPos 0.0 dir Long open fresh sellPrice 9.18 9.15 9.15 sellsize 100.0
+2018-10-05T21:31:49.883
+3440 3440 *GUARANTEE US FILL* Submitted -> Filled 21:31:49.883 ID: 101 NBEV T:  09:31:49.234 Order: 3440 SELL IOC LMT 100.0 at 9.15 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+**********
+NEW 3441 q hr US dev buy #: 1 NBEV T:  09:31:51.329 Order: 3441 BUY IOC LMT 100.0 at 9.18 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 9.18 9.1815 9.18 buysize 100.0
+3441 3441 *GUARANTEE US FILL* Submitted -> Filled 21:31:51.803 ID: 102 NBEV T:  09:31:51.329 Order: 3441 BUY IOC LMT 100.0 at 9.18 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+ set US qhr dev direction NBEV Q945 09:45:00.164
+**********
+NEW 3442 q hr US dev buy #: 0 NBEV T:  09:45:00.678 Order: 3442 BUY IOC LMT 100.0 at 8.83 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.82 8.8321 8.83 buysize 100.0
+3442 3446 *GUARANTEE US FILL* Submitted -> Filled 21:45:02.817 ID: 107 NBEV T:  21:45:02.396 Order: 3446 BUY IOC LMT 100.0 at 8.84 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+**********
+NEW 3447 q hr US dev sell #: 1 NBEV T:  09:46:15.009 Order: 3447 SELL IOC LMT 100.0 at 8.8 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV qHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.82 8.8046 8.8 sellsize 100.0
+3447 3447 *GUARANTEE US FILL* PreSubmitted -> Filled 21:46:15.486 ID: 108 NBEV T:  09:46:15.009 Order: 3447 SELL IOC LMT 100.0 at 8.8 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+ set US qhr dev direction NBEV Q1000 10:00:00.131
+**********
+NEW 3448 q hr US dev buy #: 0 NBEV T:  10:00:01.135 Order: 3448 BUY IOC LMT 100.0 at 8.72 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.715 8.72 8.72 buysize 100.0
+3448 3450 *GUARANTEE US FILL* PreSubmitted -> Filled 22:00:02.326 ID: 111 NBEV T:  22:00:01.948 Order: 3450 BUY IOC LMT 100.0 at 8.73 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+**********
+NEW 3451  US postAMCutoff liq SELL #: 0 T now 10:00:02.889  cutoff 10:00 NBEV T:  10:00:02.889 Order: 3451 SELL IOC LMT 100.0 at 8.7001 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-05T00:00 currPos 100.0 fresh: 8.7001 open  9.18 safety ratio  0.02 safety margin  0.17400200000000002 safety level 9.354002
+**********
+NEW 3452 q hr US dev sell #: 1 NBEV T:  10:00:07.168 Order: 3452 SELL IOC LMT 100.0 at 8.71 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV qHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.715 8.706 8.71 sellsize 100.0
+3452 3454 *GUARANTEE US FILL* PreSubmitted -> Filled 22:00:08.412 ID: 115 NBEV T:  22:00:07.941 Order: 3454 SELL IOC LMT 100.0 at 8.7 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+2018-10-05T22:10:53.524
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T22:10
+2018-10-05T22:11:04.675
+ set US mhr dev direction NBEV M1011 10:11:04.668
+2018-10-05T22:11:04.709
+**********
+2018-10-05T22:11:04.735
+NEW 3457 mhr US dev sell #: 0 NBEV T:  10:11:04.668 Order: 3457 SELL IOC LMT 100.0 at 8.61 msg:  Tradetype M1011_DEV Status: Created M1011 type M1011_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.65 8.61 8.61 sellsize 100.0
+2018-10-05T22:11:05.193
+3457 3457 *GUARANTEE US FILL* PreSubmitted -> Filled 22:11:05.192 ID: 101 NBEV T:  10:11:04.668 Order: 3457 SELL IOC LMT 100.0 at 8.61 msg:  Tradetype M1011_DEV Status: Filled TIF: IOC
+**********
+NEW 3458 mhr US dev buy #: 1 NBEV T:  10:11:24.429 Order: 3458 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype M1011_DEV Status: Created M1011 type M1011_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.65 8.6798 8.68 buysize 100.0
+3458 3463 *GUARANTEE US FILL* Submitted -> Filled 22:11:26.800 ID: 107 NBEV T:  22:11:26.378 Order: 3463 BUY IOC LMT 100.0 at 8.69 msg:  Tradetype M1011_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1012 10:12:00.279
+**********
+NEW 3464 mhr US dev buy #: 0 NBEV T:  10:12:03.176 Order: 3464 BUY IOC LMT 100.0 at 8.67 msg:  Tradetype M1012_DEV Status: Created M1012 type M1012_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.66 8.67 8.67 buysize 100.0
+3464 3465 *GUARANTEE US FILL* PreSubmitted -> Filled 22:12:03.969 ID: 109 NBEV T:  22:12:03.533 Order: 3465 BUY IOC LMT 100.0 at 8.67 msg:  Tradetype M1012_DEV Status: Filled TIF: IOC
+**********
+NEW 3466  US postAMCutoff liq SELL #: 0 T now 10:12:04.229  cutoff 10:00 NBEV T:  10:12:04.229 Order: 3466 SELL IOC LMT 100.0 at 8.6685 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-05T00:00 currPos 100.0 fresh: 8.6685 open  9.18 safety ratio  0.02 safety margin  0.17337 safety level 9.35337
+**********
+NEW 3467 mhr US dev sell #: 1 NBEV T:  10:12:05.279 Order: 3467 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1012_DEV Status: Created M1012 type M1012_DEV mHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.66 8.65 8.65 sellsize 100.0
+3467 3467 *GUARANTEE US FILL* Submitted -> Filled 22:12:05.750 ID: 111 NBEV T:  10:12:05.279 Order: 3467 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1012_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1013 10:13:00.605
+**********
+NEW 3468 mhr US dev sell #: 0 NBEV T:  10:13:01.018 Order: 3468 SELL IOC LMT 100.0 at 8.77 msg:  Tradetype M1013_DEV Status: Created M1013 type M1013_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.7786 8.77 8.77 sellsize 100.0
+3468 3468 *GUARANTEE US FILL* Submitted -> Filled 22:13:01.490 ID: 112 NBEV T:  10:13:01.018 Order: 3468 SELL IOC LMT 100.0 at 8.77 msg:  Tradetype M1013_DEV Status: Filled TIF: IOC
+**********
+NEW 3469 mUS take profit BUY# 1 NBEV T:  10:13:30.055 Order: 3469 BUY IOC LMT 100.0 at 8.75 msg:  Tradetype M1013_DEV Status: Created min open last 8.6712 8.7786 8.75 buyPrice 8.75 filled -100.0 currPos -100.0 min/open-1 -0.012234297040530362 loThresh -0.01 p/min-1 0.009087554202417136 retreatUpThresh 0.003
+3469 3469 *GUARANTEE US FILL* PreSubmitted -> Filled 22:13:30.531 ID: 113 NBEV T:  10:13:30.055 Order: 3469 BUY IOC LMT 100.0 at 8.75 msg:  Tradetype M1013_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1014 10:14:00.029
+**********
+NEW 3470 mhr US dev sell #: 0 NBEV T:  10:14:00.439 Order: 3470 SELL IOC LMT 100.0 at 8.7 msg:  Tradetype M1014_DEV Status: Created M1014 type M1014_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.7028 8.7015 8.7 sellsize 100.0
+3470 3482 *GUARANTEE US FILL* PreSubmitted -> Filled 22:14:05.609 ID: 126 NBEV T:  22:14:05.201 Order: 3482 SELL IOC LMT 100.0 at 8.66 msg:  Tradetype M1014_DEV Status: Filled TIF: IOC
+**********
+NEW 3483 mhr US dev buy #: 1 NBEV T:  10:14:08.805 Order: 3483 BUY IOC LMT 100.0 at 8.74 msg:  Tradetype M1014_DEV Status: Created M1014 type M1014_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.7028 8.74 8.74 buysize 100.0
+3483 3483 *GUARANTEE US FILL* PreSubmitted -> Filled 22:14:09.312 ID: 127 NBEV T:  10:14:08.805 Order: 3483 BUY IOC LMT 100.0 at 8.74 msg:  Tradetype M1014_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1015 10:15:00.365
+**********
+NEW 3484 mhr US dev buy #: 0 NBEV T:  10:15:00.770 Order: 3484 BUY IOC LMT 100.0 at 8.74 msg:  Tradetype M1015_DEV Status: Created M1015 type M1015_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.73 8.7354 8.74 buysize 100.0
+3484 3484 *GUARANTEE US FILL* PreSubmitted -> Filled 22:15:01.233 ID: 128 NBEV T:  10:15:00.770 Order: 3484 BUY IOC LMT 100.0 at 8.74 msg:  Tradetype M1015_DEV Status: Filled TIF: IOC
+**********
+NEW 3485 mhr US dev sell #: 1 NBEV T:  10:15:04.529 Order: 3485 SELL IOC LMT 100.0 at 8.71 msg:  Tradetype M1015_DEV Status: Created M1015 type M1015_DEV mHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.73 8.7103 8.71 sellsize 100.0
+3485 3485 *GUARANTEE US FILL* PreSubmitted -> Filled 22:15:05.003 ID: 129 NBEV T:  10:15:04.529 Order: 3485 SELL IOC LMT 100.0 at 8.71 msg:  Tradetype M1015_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1016 10:16:00.170
+**********
+NEW 3486 mhr US dev buy #: 0 NBEV T:  10:16:01.218 Order: 3486 BUY IOC LMT 100.0 at 8.66 msg:  Tradetype M1016_DEV Status: Created M1016 type M1016_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.66 8.665 8.66 buysize 100.0
+3486 3504 *GUARANTEE US FILL* PreSubmitted -> Filled 22:16:08.961 ID: 148 NBEV T:  22:16:08.433 Order: 3504 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype M1016_DEV Status: Filled TIF: IOC
+**********
+NEW 3505 mhr US dev sell #: 1 NBEV T:  10:16:46.800 Order: 3505 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1016_DEV Status: Created M1016 type M1016_DEV mHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.66 8.65 8.65 sellsize 100.0
+3505 3517 *GUARANTEE US FILL* Submitted -> Filled 22:16:51.981 ID: 161 NBEV T:  22:16:51.614 Order: 3517 SELL IOC LMT 100.0 at 8.62 msg:  Tradetype M1016_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1017 10:17:02.480
+**********
+NEW 3518 mhr US dev buy #: 0 NBEV T:  10:17:03.525 Order: 3518 BUY IOC LMT 100.0 at 8.67 msg:  Tradetype M1017_DEV Status: Created M1017 type M1017_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.665 8.6731 8.67 buysize 100.0
+**********
+NEW 3531 mhr US dev sell #: 1 NBEV T:  10:17:08.309 Order: 3531 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1017_DEV Status: Created M1017 type M1017_DEV mHfilled 0.0 currPos 0.0 dir Long open fresh sellPrice 8.665 8.65 8.65 sellsize 100.0
+3531 3531 *GUARANTEE US FILL* PreSubmitted -> Filled 22:17:08.799 ID: 175 NBEV T:  10:17:08.309 Order: 3531 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1017_DEV Status: Filled TIF: IOC
+3518 3533 *GUARANTEE US FILL* PreSubmitted -> Filled 22:17:09.653 ID: 177 NBEV T:  22:17:09.114 Order: 3533 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype M1017_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1018 10:18:00.764
+**********
+NEW 3534 mhr US dev buy #: 0 NBEV T:  10:18:01.403 Order: 3534 BUY IOC LMT 100.0 at 8.54 msg:  Tradetype M1018_DEV Status: Created M1018 type M1018_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.5334 8.54 8.54 buysize 100.0
+3534 3541 *GUARANTEE US FILL* Submitted -> Filled 22:18:04.704 ID: 185 NBEV T:  22:18:04.262 Order: 3541 BUY IOC LMT 100.0 at 8.55 msg:  Tradetype M1018_DEV Status: Filled TIF: IOC
+**********
+NEW 3542 mhr US dev sell #: 1 NBEV T:  10:18:05.149 Order: 3542 SELL IOC LMT 100.0 at 8.53 msg:  Tradetype M1018_DEV Status: Created M1018 type M1018_DEV mHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.5334 8.53 8.53 sellsize 100.0
+3542 3542 *GUARANTEE US FILL* PreSubmitted -> Filled 22:18:05.704 ID: 186 NBEV T:  10:18:05.149 Order: 3542 SELL IOC LMT 100.0 at 8.53 msg:  Tradetype M1018_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1019 10:19:01.840
+**********
+NEW 3543 mhr US dev sell #: 0 NBEV T:  10:19:02.250 Order: 3543 SELL IOC LMT 100.0 at 8.52 msg:  Tradetype M1019_DEV Status: Created M1019 type M1019_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.53 8.518 8.52 sellsize 100.0
+3543 3553 *GUARANTEE US FILL* Submitted -> Filled 22:19:06.772 ID: 197 NBEV T:  22:19:06.300 Order: 3553 SELL IOC LMT 100.0 at 8.51 msg:  Tradetype M1019_DEV Status: Filled TIF: IOC
+**********
+NEW 3554 mhr US dev buy #: 1 NBEV T:  10:19:22.319 Order: 3554 BUY IOC LMT 100.0 at 8.54 msg:  Tradetype M1019_DEV Status: Created M1019 type M1019_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.53 8.54 8.54 buysize 100.0
+3554 3554 *GUARANTEE US FILL* PreSubmitted -> Filled 22:19:22.790 ID: 198 NBEV T:  10:19:22.319 Order: 3554 BUY IOC LMT 100.0 at 8.54 msg:  Tradetype M1019_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1020 10:20:01.612
+**********
+NEW 3555 mhr US dev sell #: 0 NBEV T:  10:20:03.727 Order: 3555 SELL IOC LMT 100.0 at 8.62 msg:  Tradetype M1020_DEV Status: Created M1020 type M1020_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.6268 8.6228 8.62 sellsize 100.0
+3555 3559 *GUARANTEE US FILL* Submitted -> Filled 22:20:05.666 ID: 203 NBEV T:  22:20:05.278 Order: 3559 SELL IOC LMT 100.0 at 8.61 msg:  Tradetype M1020_DEV Status: Filled TIF: IOC
+**********
+NEW 3560 mhr US dev buy #: 1 NBEV T:  10:20:13.925 Order: 3560 BUY IOC LMT 100.0 at 8.63 msg:  Tradetype M1020_DEV Status: Created M1020 type M1020_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.6268 8.63 8.63 buysize 100.0
+3560 3560 *GUARANTEE US FILL* PreSubmitted -> Filled 22:20:14.390 ID: 204 NBEV T:  10:20:13.925 Order: 3560 BUY IOC LMT 100.0 at 8.63 msg:  Tradetype M1020_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1021 10:21:00.670
+**********
+NEW 3561 mhr US dev sell #: 0 NBEV T:  10:21:01.730 Order: 3561 SELL IOC LMT 100.0 at 8.63 msg:  Tradetype M1021_DEV Status: Created M1021 type M1021_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.6385 8.63 8.63 sellsize 100.0
+**********
+NEW 3574 mhr US dev buy #: 1 NBEV T:  10:21:06.485 Order: 3574 BUY IOC LMT 100.0 at 8.64 msg:  Tradetype M1021_DEV Status: Created M1021 type M1021_DEV qHfilled 0.0 currPos 0.0 dir Short open fresh buyPrice 8.6385 8.6397 8.64 buysize 100.0
+3574 3574 *GUARANTEE US FILL* PreSubmitted -> Filled 22:21:06.982 ID: 218 NBEV T:  10:21:06.485 Order: 3574 BUY IOC LMT 100.0 at 8.64 msg:  Tradetype M1021_DEV Status: Filled TIF: IOC
+3561 3577 *GUARANTEE US FILL* Submitted -> Filled 22:21:08.011 ID: 221 NBEV T:  22:21:07.632 Order: 3577 SELL IOC LMT 100.0 at 8.61 msg:  Tradetype M1021_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1022 10:22:02.267
+**********
+NEW 3578 mhr US dev sell #: 0 NBEV T:  10:22:03.316 Order: 3578 SELL IOC LMT 100.0 at 8.6 msg:  Tradetype M1022_DEV Status: Created M1022 type M1022_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.6 8.5997 8.6 sellsize 100.0
+3578 3590 *GUARANTEE US FILL* PreSubmitted -> Filled 22:22:08.387 ID: 234 NBEV T:  22:22:08.007 Order: 3590 SELL IOC LMT 100.0 at 8.57 msg:  Tradetype M1022_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1023 10:23:03.519
+**********
+NEW 3591 mhr US dev buy #: 0 NBEV T:  10:23:05.273 Order: 3591 BUY IOC LMT 200.0 at 8.57 msg:  Tradetype M1023_DEV Status: Created M1023 type M1023_DEV qHfilled 0.0 currPos -100.0 dir Flat open fresh buyPrice 8.5534 8.57 8.57 buysize 200.0
+3591 3591 *GUARANTEE US FILL* PreSubmitted -> Filled 22:23:05.716 ID: 235 NBEV T:  10:23:05.273 Order: 3591 BUY IOC LMT 200.0 at 8.57 msg:  Tradetype M1023_DEV Status: Filled TIF: IOC
+**********
+NEW 3592 mhr US dev sell #: 1 NBEV T:  10:23:29.939 Order: 3592 SELL IOC LMT 100.0 at 8.55 msg:  Tradetype M1023_DEV Status: Created M1023 type M1023_DEV mHfilled 200.0 currPos 100.0 dir Long open fresh sellPrice 8.5534 8.55 8.55 sellsize 100.0
+3592 3632 *GUARANTEE US FILL* PreSubmitted -> Filled 22:23:47.029 ID: 276 NBEV T:  22:23:46.632 Order: 3632 SELL IOC LMT 100.0 at 8.54 msg:  Tradetype M1023_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1024 10:24:00.211
+**********
+NEW 3633 mhr US dev sell #: 0 NBEV T:  10:24:03.149 Order: 3633 SELL IOC LMT 100.0 at 8.55 msg:  Tradetype M1024_DEV Status: Created M1024 type M1024_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.56 8.5535 8.55 sellsize 100.0
+3633 3650 *GUARANTEE US FILL* PreSubmitted -> Filled 22:24:10.678 ID: 294 NBEV T:  22:24:10.107 Order: 3650 SELL IOC LMT 100.0 at 8.55 msg:  Tradetype M1024_DEV Status: Filled TIF: IOC
+**********
+NEW 3651 mhr US dev buy #: 1 NBEV T:  10:24:14.292 Order: 3651 BUY IOC LMT 100.0 at 8.57 msg:  Tradetype M1024_DEV Status: Created M1024 type M1024_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.56 8.57 8.57 buysize 100.0
+3651 3656 *GUARANTEE US FILL* Submitted -> Filled 22:24:16.661 ID: 300 NBEV T:  22:24:16.277 Order: 3656 BUY IOC LMT 100.0 at 8.59 msg:  Tradetype M1024_DEV Status: Filled TIF: IOC
+2018-10-08T08:23:02.225
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T08:23
+2018-10-08T11:11:14.127
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T11:11
+2018-10-08T12:00:10.060
+US handle generic SHORTABLE NBEV 0.0 2018-10-08T12:00
+2018-10-08T12:00:38.845
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T12:00
+2018-10-08T12:25:10.304
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T12:25
+2018-10-08T19:16:29.804
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T19:16
+2018-10-09T07:11:39.719
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T07:11
+2018-10-09T08:50:20.012
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T08:50
+2018-10-09T09:26:17.958
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T09:26
+2018-10-09T09:29:44.108
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T09:29
+2018-10-09T09:30:16.857
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T09:30
+2018-10-09T10:00:02.043
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T10:00
+2018-10-09T12:00:09.017
+US handle generic SHORTABLE NBEV 0.0 2018-10-09T12:00
+2018-10-09T12:00:43.307
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:00
+2018-10-09T12:02:43.898
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:02
+2018-10-09T12:04:30.181
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:04
+2018-10-09T12:06:05.766
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:06
+2018-10-09T12:23:31.709
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:23
+2018-10-09T12:30:27.325
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:30
+2018-10-09T20:46:53.734
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T20:46
+2018-10-10T08:03:11.227
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T08:03
+2018-10-10T09:21:22.175
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:21
+2018-10-10T09:32:16.615
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:32
+2018-10-10T09:34:46.065
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:34
+2018-10-10T09:35:59.004
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:35
+2018-10-10T09:37:15.977
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:37
+2018-10-10T09:39:20.359
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:39
+2018-10-10T10:05:32.946
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:05
+2018-10-10T10:06:44.645
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:06
+2018-10-10T10:09:12.884
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:09
+2018-10-10T10:10:15.020
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:10
+2018-10-10T10:11:26.353
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:11
+2018-10-10T10:12:56.971
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:12
+2018-10-10T10:28:55.243
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:28
+2018-10-10T10:31:03.714
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:31
+2018-10-10T12:00:12.223
+US handle generic SHORTABLE NBEV 0.0 2018-10-10T12:00
+2018-10-10T12:00:38.256
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T12:00
+2018-10-10T12:34:38.558
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T12:34
+2018-10-10T12:35:27.020
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T12:35

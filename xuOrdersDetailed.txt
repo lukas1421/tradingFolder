@@ -129,3 +129,568 @@ order id is 0  1293 BUY 2.34 500.0
  setting manual US halfhour dev fresh>start NIO H930 09:30:49.135
 3275 half hr US dev sell #: H930 type H930_DEV dir Long
 3285 half hr US dev buy #: H930 type H930_DEV dir Short
+2018-10-04T08:41:59.613
+2018-10-04T08:43:45.951
+2018-10-04T09:01:13.093
+ setting manual XU qhour dev dir fresh<start SGXA50 Q900 09:02:06.399
+2018-10-04T09:10:32.362
+ setting manual XU qhour dev dir fresh<start SGXA50 Q900 09:10:45.199
+ setting manual XU qhour dev direction SGXA50 Q915 09:15:00.274
+3348 quarter hr dev sell #: Q915 type Q915_DEV quarterHourOpen  11607.5 fresh 11605.0
+3348 3348 -> 3349 XU RESUBMIT: Q915_DEV IOC SELL 11602.5 1.0 false ||current SGXA50 T:  09:15:05.364 Order: 3349 SELL IOC LMT 1.0 at 11602.5 msg:  Tradetype Q915_DEV Status: Created bid ask sp last 11602.5 11605.0 2 bp 11602.5
+3348 3349 *GUARANTEE XU FILL PreSubmitted -> Filled 09:15:14.783 ID: 102 SGXA50 T:  09:15:05.364 Order: 3349 SELL IOC LMT 1.0 at 11602.5 msg:  Tradetype Q915_DEV Status: Filled TIF: IOC
+2018-10-04T09:21:11.420
+ setting manual XU qhour dev dir fresh<start SGXA50 Q915 09:21:16.969
+2018-10-04T09:24:36.422
+ setting manual XU qhour dev dir fresh<start SGXA50 Q915 09:24:42.339 fresh<start 11562.5 < 11607.5
+2018-10-04T09:28:29.344
+ setting manual XU qhour dev dir fresh<start SGXA50 Q915 09:28:41.104 fresh<start 11555.0 < 11607.5
+ setting manual XU qhour dev direction SGXA50 Q930 09:30:00.787 startTime 09:30
+3352 quarter hr dev buy #: Q930 type Q930_DEV quarterHourOpen  11562.5 fresh 11567.5
+3352 3352 -> 3353 XU RESUBMIT: Q930_DEV IOC BUY 11565.0 1.0 false ||current SGXA50 T:  09:30:04.984 Order: 3353 BUY IOC LMT 1.0 at 11565.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11562.5 11567.5 4 bp 11565.0
+3352 3353 -> 3354 XU RESUBMIT: Q930_DEV IOC BUY 11567.5 1.0 false ||current SGXA50 T:  09:30:06.487 Order: 3354 BUY IOC LMT 1.0 at 11567.5 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11565.0 11570.0 4 bp 11567.5
+3352 3354 -> 3355 XU RESUBMIT: Q930_DEV IOC BUY 11570.0 1.0 false ||current SGXA50 T:  09:30:08.396 Order: 3355 BUY IOC LMT 1.0 at 11570.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11567.5 11570.0 2 bp 11570.0
+3352 3355 -> 3356 XU RESUBMIT: Q930_DEV IOC BUY 11570.0 1.0 false ||current SGXA50 T:  09:30:09.687 Order: 3356 BUY IOC LMT 1.0 at 11570.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11567.5 11570.0 2 bp 11570.0
+3352 3356 -> 3357 XU RESUBMIT: Q930_DEV IOC BUY 11570.0 1.0 false ||current SGXA50 T:  09:30:10.937 Order: 3357 BUY IOC LMT 1.0 at 11570.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11570.0 11572.5 2 bp 11570.0
+3352 3357 -> 3358 XU RESUBMIT: Q930_DEV IOC BUY 11572.5 1.0 false ||current SGXA50 T:  09:30:12.845 Order: 3358 BUY IOC LMT 1.0 at 11572.5 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11572.5 11575.0 2 bp 11572.5
+3352 3358 -> 3359 XU RESUBMIT: Q930_DEV IOC BUY 11575.0 1.0 false ||current SGXA50 T:  09:30:14.735 Order: 3359 BUY IOC LMT 1.0 at 11575.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11575.0 11577.5 2 bp 11575.0
+3352 3359 *GUARANTEE XU FILL PreSubmitted -> Filled 09:30:16.014 ID: 108 SGXA50 T:  09:30:14.735 Order: 3359 BUY IOC LMT 1.0 at 11575.0 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+3360 quarter hr dev sell #: Q930 type Q930_DEV quarterHourOpen  11562.5 fresh 11560.0
+3360 3360 *GUARANTEE XU FILL PreSubmitted -> Filled 09:31:09.240 ID: 109 SGXA50 T:  09:31:07.585 Order: 3360 SELL IOC LMT 1.0 at 11560.0 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+2018-10-04T09:35:40.140
+ setting manual XU qhour dev dir fresh<start SGXA50 Q930 09:35:44.795 fresh<start 11507.5 < 11562.5
+ setting manual XU qhour dev direction SGXA50 Q945 09:45:03.826 startTime 09:45
+3363 quarter hr dev sell #: Q945 type Q945_DEV quarterHourOpen  11500.0 fresh 11497.5
+3363 3363 *GUARANTEE XU FILL PreSubmitted -> Filled 09:45:05.658 ID: 101 SGXA50 T:  09:45:03.850 Order: 3363 SELL IOC LMT 1.0 at 11497.5 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1000 10:00:09.933 startTime 10:00
+3364 quarter hr dev sell #: Q1000 type Q1000_DEV quarterHourOpen  11487.5 fresh 11485.0
+10:00:20.115  Cancel ALL after deadline  3364 SGXA50 Q1000_DEV status CHG: Created -> DeadlineCancelled
+2018-10-04T10:01:39.068
+ setting manual XU qhour dev dir fresh<start SGXA50 Q1000 10:01:44.230 fresh<start 11482.5 < 11487.5
+2018-10-04T10:06:26.823
+ setting manual XU qhour dev dir fresh<start SGXA50 Q1000 10:06:42.917 fresh<start 11477.5 < 11487.5
+ setting manual XU qhour dev direction SGXA50 Q1015 10:15:00.282 startTime 10:15
+3367 quarter hr dev sell #: Q1015 type Q1015_DEV quarterHourOpen  11460.0 fresh 11457.5
+3367 3367 *GUARANTEE XU FILL PreSubmitted -> Filled 10:15:03.595 ID: 101 SGXA50 T:  10:15:02.372 Order: 3367 SELL IOC LMT 1.0 at 11457.5 msg:  Tradetype Q1015_DEV Status: Filled TIF: IOC
+3368 quarter hr dev buy #: Q1015 type Q1015_DEV quarterHourOpen  11460.0 fresh 11462.5
+3368 3368 -> 3369 XU RESUBMIT: Q1015_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  10:18:07.590 Order: 3369 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1015_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+3368 3369 *GUARANTEE XU FILL PreSubmitted -> Filled 10:18:09.510 ID: 103 SGXA50 T:  10:18:07.590 Order: 3369 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1015_DEV Status: Filled TIF: IOC
+**********
+NEW 3370 SGXA50 take profit BUY# min, open, fresh  11452.5 11625.0 11487.5 min/open -0.014838709677419404 downThresh -0.01 p/min 0.0030561012879284366 retreatUpThresh 0.003
+3370 3370 -> 3371 XU RESUBMIT: SGXA50_RELATIVE_TAKE_PROFIT IOC BUY 11487.5 2.0 false ||current SGXA50 T:  10:26:25.121 Order: 3371 BUY IOC LMT 2.0 at 11487.5 msg:  Tradetype SGXA50_RELATIVE_TAKE_PROFIT Status: Created bid ask sp last 11485.0 11487.5 2 bp 11487.5
+3370 3371 -> 3372 XU RESUBMIT: SGXA50_RELATIVE_TAKE_PROFIT IOC BUY 11487.5 2.0 false ||current SGXA50 T:  10:26:26.882 Order: 3372 BUY IOC LMT 2.0 at 11487.5 msg:  Tradetype SGXA50_RELATIVE_TAKE_PROFIT Status: Created bid ask sp last 11485.0 11487.5 2 bp 11487.5
+3370 3372 *GUARANTEE XU FILL Submitted -> Filled 10:26:31.494 ID: 106 SGXA50 T:  10:26:26.882 Order: 3372 BUY IOC LMT 2.0 at 11487.5 msg:  Tradetype SGXA50_RELATIVE_TAKE_PROFIT Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1030 10:30:03.068 startTime 10:30
+3373 quarter hr dev buy #: Q1030 type Q1030_DEV quarterHourOpen  11495.0 fresh 11497.5
+3373 3373 *GUARANTEE XU FILL PreSubmitted -> Filled 10:30:05.611 ID: 107 SGXA50 T:  10:30:03.705 Order: 3373 BUY IOC LMT 1.0 at 11497.5 msg:  Tradetype Q1030_DEV Status: Filled TIF: IOC
+3374 quarter hr dev sell #: Q1030 type Q1030_DEV quarterHourOpen  11495.0 fresh 11492.5
+3374 3374 *GUARANTEE XU FILL PreSubmitted -> Filled 10:30:29.912 ID: 108 SGXA50 T:  10:30:27.777 Order: 3374 SELL IOC LMT 1.0 at 11492.5 msg:  Tradetype Q1030_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1045 10:45:01.362 startTime 10:45
+3375 quarter hr dev sell #: Q1045 type Q1045_DEV quarterHourOpen  11495.0 fresh 11492.5
+3375 3375 *GUARANTEE XU FILL PreSubmitted -> Filled 10:45:04.017 ID: 109 SGXA50 T:  10:45:02.668 Order: 3375 SELL IOC LMT 1.0 at 11492.5 msg:  Tradetype Q1045_DEV Status: Filled TIF: IOC
+3376 quarter hr dev buy #: Q1045 type Q1045_DEV quarterHourOpen  11495.0 fresh 11497.5
+3376 3376 *GUARANTEE XU FILL PreSubmitted -> Filled 10:46:00.313 ID: 110 SGXA50 T:  10:45:59.039 Order: 3376 BUY IOC LMT 1.0 at 11497.5 msg:  Tradetype Q1045_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1100 11:00:02.483 startTime 11:00
+3377 quarter hr dev buy #: Q1100 type Q1100_DEV quarterHourOpen  11502.5 fresh 11505.0
+3377 3377 *GUARANTEE XU FILL PreSubmitted -> Filled 11:00:04.320 ID: 111 SGXA50 T:  11:00:02.844 Order: 3377 BUY IOC LMT 1.0 at 11505.0 msg:  Tradetype Q1100_DEV Status: Filled TIF: IOC
+3378 quarter hr dev sell #: Q1100 type Q1100_DEV quarterHourOpen  11502.5 fresh 11500.0
+3378 3378 -> 3379 XU RESUBMIT: Q1100_DEV IOC SELL 11500.0 1.0 false ||current SGXA50 T:  11:00:43.981 Order: 3379 SELL IOC LMT 1.0 at 11500.0 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11497.5 11500.0 2 bp 11500.0
+3378 3379 -> 3380 XU RESUBMIT: Q1100_DEV IOC SELL 11497.5 1.0 false ||current SGXA50 T:  11:00:45.381 Order: 3380 SELL IOC LMT 1.0 at 11497.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11497.5 11500.0 2 bp 11497.5
+3378 3380 *GUARANTEE XU FILL PreSubmitted -> Filled 11:00:46.992 ID: 114 SGXA50 T:  11:00:45.381 Order: 3380 SELL IOC LMT 1.0 at 11497.5 msg:  Tradetype Q1100_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1115 11:15:04.644 startTime 11:15
+3381 quarter hr dev buy #: Q1115 type Q1115_DEV quarterHourOpen  11482.5 fresh 11485.0
+3381 3381 *GUARANTEE XU FILL PreSubmitted -> Filled 11:15:22.930 ID: 115 SGXA50 T:  11:15:17.358 Order: 3381 BUY IOC LMT 1.0 at 11485.0 msg:  Tradetype Q1115_DEV Status: Filled TIF: IOC
+3382 quarter hr dev sell #: Q1115 type Q1115_DEV quarterHourOpen  11482.5 fresh 11480.0
+3382 3382 *GUARANTEE XU FILL PreSubmitted -> Filled 11:27:57.536 ID: 116 SGXA50 T:  11:27:54.767 Order: 3382 SELL IOC LMT 1.0 at 11480.0 msg:  Tradetype Q1115_DEV Status: Filled TIF: IOC
+2018-10-04T12:24:54.134
+2018-10-04T12:46:17.591
+ setting manual XU qhour dev fresh>start SGXA50 Q1245 12:47:05.094 fresh>start 11500.0 > 11497.5
+NEW 3385 quarter hr dev sell #: 0 SGXA50 T:  12:47:45.297 Order: 3385 SELL IOC LMT 1.0 at 11495.0 msg:  Tradetype Q1245_DEV Status: Created Q1245 type Q1245_DEV quarterHourOpen  11497.5 fresh 11495.0
+2018-10-04T12:47:55.080
+ setting manual XU qhour dev fresh>start SGXA50 Q1245 12:48:33.492 fresh>start 11500.0 > 11497.5
+NEW 3388 quarter hr dev sell #: 0 SGXA50 T:  12:49:07.165 Order: 3388 SELL IOC LMT 1.0 at 11495.0 msg:  Tradetype Q1245_DEV Status: Created Q1245 type Q1245_DEV quarterHourOpen  11497.5 fresh 11495.0
+3388 3388 *GUARANTEE XU FILL PreSubmitted -> Filled 12:49:08.479 ID: 101 SGXA50 T:  12:49:07.165 Order: 3388 SELL IOC LMT 1.0 at 11495.0 msg:  Tradetype Q1245_DEV Status: Filled TIF: IOC
+NEW 3389 quarter hr dev buy #: 1 SGXA50 T:  12:49:45.590 Order: 3389 BUY IOC LMT 1.0 at 11500.0 msg:  Tradetype Q1245_DEV Status: Created Q1245 type Q1245_DEV quarterHourOpen  11497.5 fresh 11500.0
+3389 3389 *GUARANTEE XU FILL PreSubmitted -> Filled 12:49:47.501 ID: 102 SGXA50 T:  12:49:45.590 Order: 3389 BUY IOC LMT 1.0 at 11500.0 msg:  Tradetype Q1245_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1300 13:00:02.366 startTime 13:00
+NEW 3390 quarter hr dev buy #: 0 SGXA50 T:  13:00:05.188 Order: 3390 BUY IOC LMT 1.0 at 11492.5 msg:  Tradetype Q1300_DEV Status: Created Q1300 type Q1300_DEV quarterHourOpen  11490.0 fresh 11492.5
+3390 3390 *GUARANTEE XU FILL PreSubmitted -> Filled 13:00:07.103 ID: 103 SGXA50 T:  13:00:05.188 Order: 3390 BUY IOC LMT 1.0 at 11492.5 msg:  Tradetype Q1300_DEV Status: Filled TIF: IOC
+NEW 3391 quarter hr dev sell #: 1 SGXA50 T:  13:00:26.418 Order: 3391 SELL IOC LMT 1.0 at 11487.5 msg:  Tradetype Q1300_DEV Status: Created Q1300 type Q1300_DEV quarterHourOpen  11490.0 fresh 11487.5
+3391 3391 *GUARANTEE XU FILL PreSubmitted -> Filled 13:00:28.166 ID: 104 SGXA50 T:  13:00:26.418 Order: 3391 SELL IOC LMT 1.0 at 11487.5 msg:  Tradetype Q1300_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1315 13:15:09.066 startTime 13:15
+NEW 3392 quarter hr dev sell #: 0 SGXA50 T:  13:15:10.952 Order: 3392 SELL IOC LMT 1.0 at 11470.0 msg:  Tradetype Q1315_DEV Status: Created Q1315 type Q1315_DEV quarterHourOpen  11472.5 fresh 11470.0
+3392 3392 -> 3393 XU RESUBMIT: Q1315_DEV IOC SELL 11470.0 1.0 false ||current SGXA50 T:  13:15:11.948 Order: 3393 SELL IOC LMT 1.0 at 11470.0 msg:  Tradetype Q1315_DEV Status: Created bid ask sp last 11467.5 11472.5 4 bp 11470.0
+3392 3393 -> 3394 XU RESUBMIT: Q1315_DEV IOC SELL 11470.0 1.0 false ||current SGXA50 T:  13:15:13.214 Order: 3394 SELL IOC LMT 1.0 at 11470.0 msg:  Tradetype Q1315_DEV Status: Created bid ask sp last 11467.5 11472.5 4 bp 11470.0
+3392 3394 -> 3395 XU RESUBMIT: Q1315_DEV IOC SELL 11470.0 1.0 false ||current SGXA50 T:  13:15:14.617 Order: 3395 SELL IOC LMT 1.0 at 11470.0 msg:  Tradetype Q1315_DEV Status: Created bid ask sp last 11467.5 11472.5 4 bp 11470.0
+3392 3395 *GUARANTEE XU FILL PreSubmitted -> Filled 13:15:16.324 ID: 108 SGXA50 T:  13:15:14.617 Order: 3395 SELL IOC LMT 1.0 at 11470.0 msg:  Tradetype Q1315_DEV Status: Filled TIF: IOC
+NEW 3396 quarter hr dev buy #: 1 SGXA50 T:  13:17:39.263 Order: 3396 BUY IOC LMT 1.0 at 11475.0 msg:  Tradetype Q1315_DEV Status: Created Q1315 type Q1315_DEV quarterHourOpen  11472.5 fresh 11475.0
+3396 3396 *GUARANTEE XU FILL PreSubmitted -> Filled 13:17:40.805 ID: 109 SGXA50 T:  13:17:39.263 Order: 3396 BUY IOC LMT 1.0 at 11475.0 msg:  Tradetype Q1315_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1330 13:30:03.602 startTime 13:30
+NEW 3397 quarter hr dev sell #: 0 SGXA50 T:  13:30:04.062 Order: 3397 SELL IOC LMT 1.0 at 11480.0 msg:  Tradetype Q1330_DEV Status: Created Q1330 type Q1330_DEV quarterHourOpen  11482.5 fresh 11480.0
+3397 3397 *GUARANTEE XU FILL PreSubmitted -> Filled 13:30:05.258 ID: 110 SGXA50 T:  13:30:04.062 Order: 3397 SELL IOC LMT 1.0 at 11480.0 msg:  Tradetype Q1330_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1345 13:45:03.231 startTime 13:45
+NEW 3398 quarter hr dev buy #: 0 SGXA50 T:  13:45:29.296 Order: 3398 BUY IOC LMT 1.0 at 11472.5 msg:  Tradetype Q1345_DEV Status: Created Q1345 type Q1345_DEV quarterHourOpen  11470.0 fresh 11472.5
+3398 3398 *GUARANTEE XU FILL PreSubmitted -> Filled 13:45:30.659 ID: 111 SGXA50 T:  13:45:29.296 Order: 3398 BUY IOC LMT 1.0 at 11472.5 msg:  Tradetype Q1345_DEV Status: Filled TIF: IOC
+NEW 3399 quarter hr dev sell #: 1 SGXA50 T:  13:54:24.549 Order: 3399 SELL IOC LMT 1.0 at 11467.5 msg:  Tradetype Q1345_DEV Status: Created Q1345 type Q1345_DEV quarterHourOpen  11470.0 fresh 11467.5
+3399 3399 *GUARANTEE XU FILL PreSubmitted -> Filled 13:54:26.001 ID: 112 SGXA50 T:  13:54:24.549 Order: 3399 SELL IOC LMT 1.0 at 11467.5 msg:  Tradetype Q1345_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1400 14:00:00.419 startTime 14:00
+NEW 3400 quarter hr dev buy #: 0 SGXA50 T:  14:00:05.341 Order: 3400 BUY IOC LMT 1.0 at 11465.0 msg:  Tradetype Q1400_DEV Status: Created Q1400 type Q1400_DEV quarterHourOpen  11462.5 fresh 11465.0
+3400 3400 *GUARANTEE XU FILL PreSubmitted -> Filled 14:00:06.627 ID: 113 SGXA50 T:  14:00:05.341 Order: 3400 BUY IOC LMT 1.0 at 11465.0 msg:  Tradetype Q1400_DEV Status: Filled TIF: IOC
+NEW 3401 quarter hr dev sell #: 1 SGXA50 T:  14:00:22.606 Order: 3401 SELL IOC LMT 1.0 at 11457.5 msg:  Tradetype Q1400_DEV Status: Created Q1400 type Q1400_DEV quarterHourOpen  11462.5 fresh 11457.5
+3401 3401 *GUARANTEE XU FILL PreSubmitted -> Filled 14:00:23.690 ID: 114 SGXA50 T:  14:00:22.606 Order: 3401 SELL IOC LMT 1.0 at 11457.5 msg:  Tradetype Q1400_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1415 14:15:02.353 startTime 14:15
+NEW 3402 quarter hr dev sell #: 0 SGXA50 T:  14:15:02.732 Order: 3402 SELL IOC LMT 1.0 at 11452.5 msg:  Tradetype Q1415_DEV Status: Created Q1415 type Q1415_DEV quarterHourOpen  11455.0 fresh 11452.5
+3402 3402 *GUARANTEE XU FILL PreSubmitted -> Filled 14:15:04.339 ID: 115 SGXA50 T:  14:15:02.732 Order: 3402 SELL IOC LMT 1.0 at 11452.5 msg:  Tradetype Q1415_DEV Status: Filled TIF: IOC
+NEW 3403 quarter hr dev buy #: 1 SGXA50 T:  14:17:43.198 Order: 3403 BUY IOC LMT 1.0 at 11457.5 msg:  Tradetype Q1415_DEV Status: Created Q1415 type Q1415_DEV quarterHourOpen  11455.0 fresh 11457.5
+3403 3403 *GUARANTEE XU FILL PreSubmitted -> Filled 14:17:44.421 ID: 116 SGXA50 T:  14:17:43.198 Order: 3403 BUY IOC LMT 1.0 at 11457.5 msg:  Tradetype Q1415_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1430 14:30:16.167 startTime 14:30
+NEW 3404 quarter hr dev buy #: 0 SGXA50 T:  14:30:25.636 Order: 3404 BUY IOC LMT 1.0 at 11437.5 msg:  Tradetype Q1430_DEV Status: Created Q1430 type Q1430_DEV quarterHourOpen  11435.0 fresh 11437.5
+3404 3404 *GUARANTEE XU FILL PreSubmitted -> Filled 14:30:26.734 ID: 117 SGXA50 T:  14:30:25.636 Order: 3404 BUY IOC LMT 1.0 at 11437.5 msg:  Tradetype Q1430_DEV Status: Filled TIF: IOC
+NEW 3405 quarter hr dev sell #: 1 SGXA50 T:  14:31:19.055 Order: 3405 SELL IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1430_DEV Status: Created Q1430 type Q1430_DEV quarterHourOpen  11435.0 fresh 11432.5
+3405 3405 *GUARANTEE XU FILL PreSubmitted -> Filled 14:31:20.474 ID: 118 SGXA50 T:  14:31:19.055 Order: 3405 SELL IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1430_DEV Status: Filled TIF: IOC
+2018-10-04T14:36:36.989
+ setting manual XU qhour dev dir fresh<start SGXA50 Q1430 14:36:58.959 fresh<start 11422.5 < 11435.0
+ setting manual XU qhour dev direction SGXA50 Q1445 14:45:01.052 startTime 14:45
+NEW 3408 quarter hr dev buy #: 0 SGXA50 T:  14:45:24.803 Order: 3408 BUY IOC LMT 1.0 at 11405.0 msg:  Tradetype Q1445_DEV Status: Created Q1445 type Q1445_DEV quarterHourOpen  11400.0 fresh 11405.0
+3408 3408 -> 3409 XU RESUBMIT: Q1445_DEV IOC BUY 11410.0 1.0 false ||current SGXA50 T:  14:45:25.838 Order: 3409 BUY IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1445_DEV Status: Created bid ask sp last 11407.5 11410.0 2 bp 11410.0
+3408 3409 -> 3410 XU RESUBMIT: Q1445_DEV IOC BUY 11410.0 1.0 false ||current SGXA50 T:  14:45:26.942 Order: 3410 BUY IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1445_DEV Status: Created bid ask sp last 11410.0 11412.5 2 bp 11410.0
+3408 3410 -> 3411 XU RESUBMIT: Q1445_DEV IOC BUY 11415.0 1.0 false ||current SGXA50 T:  14:45:28.084 Order: 3411 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1445_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11415.0
+3408 3411 *GUARANTEE XU FILL PreSubmitted -> Filled 14:45:29.599 ID: 104 SGXA50 T:  14:45:28.084 Order: 3411 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1445_DEV Status: Filled TIF: IOC
+2018-10-04T14:56:11.478
+ setting manual XU qhour dev fresh>start SGXA50 Q1445 14:56:20.698 fresh>start 11440.0 > 11400.0
+ setting manual XU qhour dev direction SGXA50 Q1500 15:00:02.390 startTime 15:00
+NEW 1440 quarter hr dev buy #: 0 SGXA50 T:  15:00:02.415 Order: 1440 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1500_DEV Status: Created Q1500 type Q1500_DEV quarterHourOpen  11430.0 fresh 11432.5
+1440 1440 *GUARANTEE XU FILL PreSubmitted -> Filled 15:00:04.494 ID: 101 SGXA50 T:  15:00:02.415 Order: 1440 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1500_DEV Status: Filled TIF: IOC
+NEW 1441 quarter hr dev sell #: 1 SGXA50 T:  15:06:31.915 Order: 1441 SELL IOC LMT 1.0 at 11427.5 msg:  Tradetype Q1500_DEV Status: Created Q1500 type Q1500_DEV quarterHourOpen  11430.0 fresh 11427.5
+1441 1441 *GUARANTEE XU FILL PreSubmitted -> Filled 15:06:33.659 ID: 102 SGXA50 T:  15:06:31.915 Order: 1441 SELL IOC LMT 1.0 at 11427.5 msg:  Tradetype Q1500_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1515 15:15:05.608 startTime 15:15
+NEW 1442 quarter hr dev buy #: 0 SGXA50 T:  15:15:16.181 Order: 1442 BUY IOC LMT 1.0 at 11440.0 msg:  Tradetype Q1515_DEV Status: Created Q1515 type Q1515_DEV quarterHourOpen  11437.5 fresh 11440.0
+1442 1442 *GUARANTEE XU FILL PreSubmitted -> Filled 15:15:17.710 ID: 103 SGXA50 T:  15:15:16.181 Order: 1442 BUY IOC LMT 1.0 at 11440.0 msg:  Tradetype Q1515_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1530 15:30:04.148 startTime 15:30
+NEW 1443 quarter hr dev sell #: 0 SGXA50 T:  15:30:06.438 Order: 1443 SELL IOC LMT 1.0 at 11450.0 msg:  Tradetype Q1530_DEV Status: Created Q1530 type Q1530_DEV quarterHourOpen  11452.5 fresh 11450.0
+1443 1443 *GUARANTEE XU FILL PreSubmitted -> Filled 15:30:07.954 ID: 104 SGXA50 T:  15:30:06.438 Order: 1443 SELL IOC LMT 1.0 at 11450.0 msg:  Tradetype Q1530_DEV Status: Filled TIF: IOC
+NEW 1444 quarter hr dev buy #: 1 SGXA50 T:  15:30:21.046 Order: 1444 BUY IOC LMT 1.0 at 11455.0 msg:  Tradetype Q1530_DEV Status: Created Q1530 type Q1530_DEV quarterHourOpen  11452.5 fresh 11455.0
+1444 1444 *GUARANTEE XU FILL PreSubmitted -> Filled 15:30:22.631 ID: 105 SGXA50 T:  15:30:21.046 Order: 1444 BUY IOC LMT 1.0 at 11455.0 msg:  Tradetype Q1530_DEV Status: Filled TIF: IOC
+ setting manual XU qhour dev direction SGXA50 Q1545 15:45:33.956 startTime 15:45
+NEW 1445 quarter hr dev sell #: 0 SGXA50 T:  15:45:58.361 Order: 1445 SELL IOC LMT 1.0 at 11457.5 msg:  Tradetype Q1545_DEV Status: Created Q1545 type Q1545_DEV quarterHourOpen  11460.0 fresh 11457.5
+1445 1445 -> 1446 XU RESUBMIT: Q1545_DEV IOC SELL 11455.0 1.0 false ||current SGXA50 T:  15:45:59.325 Order: 1446 SELL IOC LMT 1.0 at 11455.0 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11455.0 11457.5 2 bp 11455.0
+1445 1446 *GUARANTEE XU FILL PreSubmitted -> Filled 15:46:00.970 ID: 107 SGXA50 T:  15:45:59.325 Order: 1446 SELL IOC LMT 1.0 at 11455.0 msg:  Tradetype Q1545_DEV Status: Filled TIF: IOC
+NEW 1447 quarter hr dev buy #: 1 SGXA50 T:  15:48:31.713 Order: 1447 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created Q1545 type Q1545_DEV quarterHourOpen  11460.0 fresh 11462.5
+1447 1447 -> 1448 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:32.963 Order: 1448 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1448 -> 1449 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:34.042 Order: 1449 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1449 -> 1450 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:35.421 Order: 1450 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1450 -> 1451 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:36.804 Order: 1451 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1451 -> 1452 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:38.384 Order: 1452 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1452 -> 1453 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:39.502 Order: 1453 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1453 -> 1454 XU RESUBMIT: Q1545_DEV IOC BUY 11465.0 1.0 false ||current SGXA50 T:  15:48:40.968 Order: 1454 BUY IOC LMT 1.0 at 11465.0 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11465.0
+1447 1454 *GUARANTEE XU FILL PreSubmitted -> Filled 15:48:42.648 ID: 115 SGXA50 T:  15:48:40.968 Order: 1454 BUY IOC LMT 1.0 at 11465.0 msg:  Tradetype Q1545_DEV Status: Filled TIF: IOC
+2018-10-04T19:09:58.800
+2018-10-04T21:41:44.508
+2018-10-04T21:46:26.597
+2018-10-04T21:49:32.594
+2018-10-04T21:54:38.574
+2018-10-04T22:03:31.372
+2018-10-05T08:55:57.061
+2018-10-05T08:56:34.413
+ set XU qhr dev direction SGXA50 Q900 09:00:02.804 startTime 09:00
+**********
+NEW 3440 quarter hr dev buy #: 0 SGXA50 T:  09:00:03.403 Order: 3440 BUY IOC LMT 1.0 at 11382.5 msg:  Tradetype Q900_DEV Status: Created Q900 type Q900_DEV quarterHourOpen  11377.5 fresh 11382.5
+3440 3440 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:03.856 ID: 101 SGXA50 T:  09:00:03.403 Order: 3440 BUY IOC LMT 1.0 at 11382.5 msg:  Tradetype Q900_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q915 09:15:00.218 startTime 09:15
+**********
+NEW 3441 quarter hr dev sell #: 0 SGXA50 T:  09:15:03.911 Order: 3441 SELL IOC LMT 1.0 at 11420.0 msg:  Tradetype Q915_DEV Status: Created Q915 type Q915_DEV quarterHourOpen  11422.5 fresh 11420.0
+3441 3441 -> 3442 XU RESUBMIT: Q915_DEV IOC SELL 11420.0 1.0 false ||current SGXA50 T:  09:15:04.115 Order: 3442 SELL IOC LMT 1.0 at 11420.0 msg:  Tradetype Q915_DEV Status: Created bid ask sp last 11417.5 11420.0 2 bp 11420.0
+3441 3442 -> 3443 XU RESUBMIT: Q915_DEV IOC SELL 11417.5 1.0 false ||current SGXA50 T:  09:15:04.401 Order: 3443 SELL IOC LMT 1.0 at 11417.5 msg:  Tradetype Q915_DEV Status: Created bid ask sp last 11417.5 11420.0 2 bp 11417.5
+3441 3443 *GUARANTEE XU FILL PreSubmitted -> Filled 09:15:04.824 ID: 104 SGXA50 T:  09:15:04.401 Order: 3443 SELL IOC LMT 1.0 at 11417.5 msg:  Tradetype Q915_DEV Status: Filled TIF: IOC
+**********
+NEW 3444 quarter hr dev buy #: 1 SGXA50 T:  09:15:32.261 Order: 3444 BUY IOC LMT 1.0 at 11425.0 msg:  Tradetype Q915_DEV Status: Created Q915 type Q915_DEV quarterHourOpen  11422.5 fresh 11425.0
+3444 3444 *GUARANTEE XU FILL PreSubmitted -> Filled 09:15:32.562 ID: 105 SGXA50 T:  09:15:32.261 Order: 3444 BUY IOC LMT 1.0 at 11425.0 msg:  Tradetype Q915_DEV Status: Filled TIF: IOC
+2018-10-05T09:22:25.433
+ set XU qhr dev fresh>start SGXA50 Q915 09:22:58.033 fresh>start 11430.0 > 11422.5
+ set XU qhr dev direction SGXA50 Q930 09:30:03 startTime 09:30
+**********
+NEW 1440 q hr dev sell #: 0 SGXA50 T:  09:30:04.806 Order: 1440 SELL IOC LMT 1.0 at 11425.0 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV qHrOpen  11427.5 fresh 11425.0
+1440 1440 *GUARANTEE XU FILL PreSubmitted -> Filled 09:30:05.225 ID: 101 SGXA50 T:  09:30:04.806 Order: 1440 SELL IOC LMT 1.0 at 11425.0 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+**********
+NEW 1441 q hr dev buy #: 1 SGXA50 T:  09:30:20.435 Order: 1441 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV qHrOpen  11427.5 fresh 11430.0
+1441 1441 *GUARANTEE XU FILL PreSubmitted -> Filled 09:30:20.855 ID: 102 SGXA50 T:  09:30:20.435 Order: 1441 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q945 09:45:00.439 startTime 09:45
+**********
+NEW 1442 q hr dev sell #: 0 SGXA50 T:  09:45:03.647 Order: 1442 SELL IOC LMT 1.0 at 11425.0 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV qHrOpen  11427.5 fresh 11425.0
+1442 1442 -> 1443 XU RESUBMIT: Q945_DEV IOC SELL 11425.0 1.0 false ||current SGXA50 T:  09:45:03.846 Order: 1443 SELL IOC LMT 1.0 at 11425.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11422.5 11427.5 4 bp 11425.0
+1442 1443 -> 1444 XU RESUBMIT: Q945_DEV IOC SELL 11425.0 1.0 false ||current SGXA50 T:  09:45:04.130 Order: 1444 SELL IOC LMT 1.0 at 11425.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11422.5 11427.5 4 bp 11425.0
+1442 1444 -> 1445 XU RESUBMIT: Q945_DEV IOC SELL 11425.0 1.0 false ||current SGXA50 T:  09:45:04.413 Order: 1445 SELL IOC LMT 1.0 at 11425.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11422.5 11427.5 4 bp 11425.0
+1442 1445 -> 1446 XU RESUBMIT: Q945_DEV IOC SELL 11422.5 1.0 false ||current SGXA50 T:  09:45:04.699 Order: 1446 SELL IOC LMT 1.0 at 11422.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11422.5 11427.5 4 bp 11422.5
+1442 1446 *GUARANTEE XU FILL PreSubmitted -> Filled 09:45:05.107 ID: 107 SGXA50 T:  09:45:04.699 Order: 1446 SELL IOC LMT 1.0 at 11422.5 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+**********
+NEW 1447 q hr dev buy #: 1 SGXA50 T:  09:45:25.406 Order: 1447 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV qHrOpen  11427.5 fresh 11430.0
+1447 1447 -> 1448 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:25.599 Order: 1448 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1448 -> 1449 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:25.891 Order: 1449 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1449 -> 1450 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:26.237 Order: 1450 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1450 -> 1451 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:26.523 Order: 1451 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1451 -> 1452 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:26.805 Order: 1452 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1452 -> 1453 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:27.086 Order: 1453 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1453 -> 1454 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:27.374 Order: 1454 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1454 -> 1455 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:27.658 Order: 1455 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1455 -> 1456 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:27.939 Order: 1456 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1456 -> 1457 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:28.222 Order: 1457 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1457 -> 1458 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:28.500 Order: 1458 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1458 -> 1459 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:28.781 Order: 1459 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1459 -> 1460 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:29.065 Order: 1460 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1460 -> 1461 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:29.351 Order: 1461 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1461 -> 1462 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:29.635 Order: 1462 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1462 -> 1463 XU RESUBMIT: Q945_DEV IOC BUY 11427.5 1.0 false ||current SGXA50 T:  09:45:29.913 Order: 1463 BUY IOC LMT 1.0 at 11427.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11427.5
+1447 1463 -> 1464 XU RESUBMIT: Q945_DEV IOC BUY 11427.5 1.0 false ||current SGXA50 T:  09:45:30.196 Order: 1464 BUY IOC LMT 1.0 at 11427.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11427.5
+1447 1464 -> 1465 XU RESUBMIT: Q945_DEV IOC BUY 11427.5 1.0 false ||current SGXA50 T:  09:45:30.482 Order: 1465 BUY IOC LMT 1.0 at 11427.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11427.5
+1447 1465 -> 1466 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:30.758 Order: 1466 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1466 -> 1467 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:31.039 Order: 1467 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1467 -> 1468 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:31.318 Order: 1468 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1468 -> 1469 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:31.612 Order: 1469 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1469 -> 1470 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:31.893 Order: 1470 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1470 -> 1471 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:32.181 Order: 1471 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1471 -> 1472 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:32.461 Order: 1472 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1472 -> 1473 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:32.745 Order: 1473 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1473 -> 1474 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:33.027 Order: 1474 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1474 -> 1475 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:33.305 Order: 1475 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1475 -> 1476 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:33.593 Order: 1476 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1476 -> 1477 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:33.871 Order: 1477 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1477 -> 1478 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:34.153 Order: 1478 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1478 -> 1479 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:34.432 Order: 1479 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1479 -> 1480 XU RESUBMIT: Q945_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  09:45:34.717 Order: 1480 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11430.0 11432.5 2 bp 11432.5
+1447 1480 *GUARANTEE XU FILL PreSubmitted -> Filled 09:45:35.119 ID: 141 SGXA50 T:  09:45:34.717 Order: 1480 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1000 10:00:02.986 startTime 10:00
+**********
+NEW 1481 q hr dev sell #: 0 SGXA50 T:  10:00:03.196 Order: 1481 SELL IOC LMT 1.0 at 11417.5 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV qHrOpen  11420.0 fresh 11417.5
+1481 1481 *GUARANTEE XU FILL PreSubmitted -> Filled 10:00:03.489 ID: 142 SGXA50 T:  10:00:03.196 Order: 1481 SELL IOC LMT 1.0 at 11417.5 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+**********
+NEW 1482 q hr dev buy #: 1 SGXA50 T:  10:00:15.163 Order: 1482 BUY IOC LMT 1.0 at 11425.0 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV qHrOpen  11420.0 fresh 11425.0
+1482 1482 *GUARANTEE XU FILL PreSubmitted -> Filled 10:00:15.461 ID: 143 SGXA50 T:  10:00:15.163 Order: 1482 BUY IOC LMT 1.0 at 11425.0 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1015 10:15:00.487 startTime 10:15
+**********
+NEW 1483 q hr dev sell #: 0 SGXA50 T:  10:15:02.992 Order: 1483 SELL IOC LMT 1.0 at 11390.0 msg:  Tradetype Q1015_DEV Status: Created Q1015 type Q1015_DEV qHrOpen  11392.5 fresh 11390.0
+1483 1483 *GUARANTEE XU FILL PreSubmitted -> Filled 10:15:03.299 ID: 144 SGXA50 T:  10:15:02.992 Order: 1483 SELL IOC LMT 1.0 at 11390.0 msg:  Tradetype Q1015_DEV Status: Filled TIF: IOC
+**********
+NEW 1484 q hr dev buy #: 1 SGXA50 T:  10:15:16.735 Order: 1484 BUY IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1015_DEV Status: Created Q1015 type Q1015_DEV qHrOpen  11392.5 fresh 11397.5
+1484 1484 *GUARANTEE XU FILL PreSubmitted -> Filled 10:15:17.032 ID: 145 SGXA50 T:  10:15:16.735 Order: 1484 BUY IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1015_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1030 10:30:01.847 startTime 10:30
+**********
+NEW 1485 q hr dev buy #: 0 SGXA50 T:  10:30:15.680 Order: 1485 BUY IOC LMT 1.0 at 11395.0 msg:  Tradetype Q1030_DEV Status: Created Q1030 type Q1030_DEV qHrOpen  11392.5 fresh 11395.0
+1485 1485 *GUARANTEE XU FILL PreSubmitted -> Filled 10:30:15.976 ID: 146 SGXA50 T:  10:30:15.680 Order: 1485 BUY IOC LMT 1.0 at 11395.0 msg:  Tradetype Q1030_DEV Status: Filled TIF: IOC
+**********
+NEW 1486 q hr dev sell #: 1 SGXA50 T:  10:32:22.290 Order: 1486 SELL IOC LMT 1.0 at 11390.0 msg:  Tradetype Q1030_DEV Status: Created Q1030 type Q1030_DEV qHrOpen  11392.5 fresh 11390.0
+1486 1486 *GUARANTEE XU FILL PreSubmitted -> Filled 10:32:22.579 ID: 147 SGXA50 T:  10:32:22.290 Order: 1486 SELL IOC LMT 1.0 at 11390.0 msg:  Tradetype Q1030_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1045 10:45:01.994 startTime 10:45
+**********
+NEW 1487 q hr dev buy #: 0 SGXA50 T:  10:45:02.895 Order: 1487 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1045_DEV Status: Created Q1045 type Q1045_DEV qHrOpen  11410.0 fresh 11412.5
+1487 1487 *GUARANTEE XU FILL PreSubmitted -> Filled 10:45:03.203 ID: 148 SGXA50 T:  10:45:02.895 Order: 1487 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1045_DEV Status: Filled TIF: IOC
+2018-10-05T10:55:24.647
+ set XU qhr dev fresh>start SGXA50 Q1045 10:55:29.419 fresh>start 11427.5 > 11410.0
+ set XU qhr dev direction SGXA50 Q1100 11:00:00.592 startTime 11:00
+**********
+NEW 1490 q hr dev sell #: 0 SGXA50 T:  11:00:03.195 Order: 1490 SELL IOC LMT 2.0 at 11427.5 msg:  Tradetype Q1100_DEV Status: Created Q1100 type Q1100_DEV qHrOpen  11430.0 fresh 11427.5 sellSize 2.0
+1490 1490 *GUARANTEE XU FILL PreSubmitted -> Filled 11:00:03.497 ID: 101 SGXA50 T:  11:00:03.195 Order: 1490 SELL IOC LMT 2.0 at 11427.5 msg:  Tradetype Q1100_DEV Status: Filled TIF: IOC
+**********
+NEW 1491 q hr dev buy #: 1 SGXA50 T:  11:00:14.415 Order: 1491 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created Q1100 type Q1100_DEV qHrOpen  11430.0 fresh 11432.5 buysize 1.0
+1491 1491 -> 1492 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:14.602 Order: 1492 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1492 -> 1493 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:14.882 Order: 1493 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1493 -> 1494 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:15.167 Order: 1494 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1494 -> 1495 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:15.453 Order: 1495 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1495 -> 1496 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:15.736 Order: 1496 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1496 -> 1497 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:16.017 Order: 1497 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1497 -> 1498 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:16.298 Order: 1498 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1498 -> 1499 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:16.578 Order: 1499 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1499 -> 1500 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:16.858 Order: 1500 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1500 -> 1501 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:17.142 Order: 1501 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1501 -> 1502 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:17.424 Order: 1502 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1502 -> 1503 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:17.705 Order: 1503 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1503 -> 1504 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:17.987 Order: 1504 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1504 -> 1505 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:18.271 Order: 1505 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1505 -> 1506 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:18.551 Order: 1506 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1506 -> 1507 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:18.833 Order: 1507 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1507 -> 1508 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:19.113 Order: 1508 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1508 -> 1509 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:19.398 Order: 1509 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1509 -> 1510 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:19.687 Order: 1510 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1510 -> 1511 XU RESUBMIT: Q1100_DEV IOC BUY 11435.0 1.0 false ||current SGXA50 T:  11:00:19.984 Order: 1511 BUY IOC LMT 1.0 at 11435.0 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11435.0
+1491 1511 *GUARANTEE XU FILL PreSubmitted -> Filled 11:00:20.402 ID: 122 SGXA50 T:  11:00:19.984 Order: 1511 BUY IOC LMT 1.0 at 11435.0 msg:  Tradetype Q1100_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1115 11:15:00.342 startTime 11:15
+**********
+NEW 1512 q hr dev buy #: 0 SGXA50 T:  11:15:03.463 Order: 1512 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1115_DEV Status: Created Q1115 type Q1115_DEV qHrOpen  11412.5 fresh 11415.0 buysize 1.0
+1512 1512 *GUARANTEE XU FILL PreSubmitted -> Filled 11:15:03.770 ID: 123 SGXA50 T:  11:15:03.463 Order: 1512 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1115_DEV Status: Filled TIF: IOC
+**********
+NEW 1513 q hr dev sell #: 1 SGXA50 T:  11:15:32.103 Order: 1513 SELL IOC LMT 2.0 at 11410.0 msg:  Tradetype Q1115_DEV Status: Created Q1115 type Q1115_DEV qHrOpen  11412.5 fresh 11410.0 sellSize 2.0
+1513 1513 *GUARANTEE XU FILL PreSubmitted -> Filled 11:15:32.421 ID: 124 SGXA50 T:  11:15:32.103 Order: 1513 SELL IOC LMT 2.0 at 11410.0 msg:  Tradetype Q1115_DEV Status: Filled TIF: IOC
+2018-10-05T11:18:54.396
+ set XU qhr dev dir fresh<start SGXA50 Q1115 11:19:01.091 fresh<start 11410.0 < 11412.5
+**********
+NEW 1516 q hr dev buy #: 0 SGXA50 T:  11:23:13.512 Order: 1516 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1115_DEV Status: Created Q1115 type Q1115_DEV qHrOpen  11412.5 fresh 11415.0 buysize 1.0
+1516 1516 *GUARANTEE XU FILL PreSubmitted -> Filled 11:23:13.820 ID: 101 SGXA50 T:  11:23:13.512 Order: 1516 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1115_DEV Status: Filled TIF: IOC
+**********
+NEW 1517 q hr dev sell #: 1 SGXA50 T:  11:23:24.637 Order: 1517 SELL IOC LMT 1.0 at 11395.0 msg:  Tradetype Q1115_DEV Status: Created Q1115 type Q1115_DEV qHrOpen  11412.5 fresh 11395.0 sellSize 1.0
+1517 1517 -> 1518 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:24.834 Order: 1518 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1518 -> 1519 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:25.143 Order: 1519 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1519 -> 1520 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:25.447 Order: 1520 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1520 -> 1521 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:25.730 Order: 1521 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1521 -> 1522 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:26.008 Order: 1522 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1522 -> 1523 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:26.285 Order: 1523 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1523 -> 1524 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:26.565 Order: 1524 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1524 -> 1525 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:26.844 Order: 1525 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1525 -> 1526 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:27.123 Order: 1526 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1526 -> 1527 XU RESUBMIT: Q1115_DEV IOC SELL 11392.5 1.0 false ||current SGXA50 T:  11:23:27.405 Order: 1527 SELL IOC LMT 1.0 at 11392.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11395.0 2 bp 11392.5
+1517 1527 *GUARANTEE XU FILL PreSubmitted -> Filled 11:23:27.810 ID: 112 SGXA50 T:  11:23:27.405 Order: 1527 SELL IOC LMT 1.0 at 11392.5 msg:  Tradetype Q1115_DEV Status: Filled TIF: IOC
+2018-10-05T11:26:46.612
+ set XU qhr dev dir fresh<start SGXA50 Q1115 11:27:18.334 fresh<start 11395.0 < 11412.5
+ set XU qhr dev direction SGXA50 Q1130 11:30:04.437 startTime 11:30
+**********
+NEW 1530 q hr dev sell #: 0 SGXA50 T:  11:30:10.851 Order: 1530 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1130_DEV Status: Created Q1130 type Q1130_DEV qHrOpen  11400.0 fresh 11397.5 sellSize 1.0
+1530 1530 *GUARANTEE XU FILL PreSubmitted -> Filled 11:30:11.165 ID: 101 SGXA50 T:  11:30:10.851 Order: 1530 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1130_DEV Status: Filled TIF: IOC
+**********
+NEW 1531 q hr dev buy #: 1 SGXA50 T:  11:40:21.898 Order: 1531 BUY IOC LMT 1.0 at 11402.5 msg:  Tradetype Q1130_DEV Status: Created Q1130 type Q1130_DEV qHrOpen  11400.0 fresh 11402.5 buysize 1.0
+1531 1531 *GUARANTEE XU FILL PreSubmitted -> Filled 11:40:22.200 ID: 102 SGXA50 T:  11:40:21.898 Order: 1531 BUY IOC LMT 1.0 at 11402.5 msg:  Tradetype Q1130_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1145 11:45:00.718 startTime 11:45
+**********
+NEW 1532 q hr dev buy #: 0 SGXA50 T:  11:45:02.716 Order: 1532 BUY IOC LMT 1.0 at 11405.0 msg:  Tradetype Q1145_DEV Status: Created Q1145 type Q1145_DEV qHrOpen  11402.5 fresh 11405.0 buysize 1.0
+1532 1532 *GUARANTEE XU FILL PreSubmitted -> Filled 11:45:03.008 ID: 103 SGXA50 T:  11:45:02.716 Order: 1532 BUY IOC LMT 1.0 at 11405.0 msg:  Tradetype Q1145_DEV Status: Filled TIF: IOC
+**********
+NEW 1533 q hr dev sell #: 1 SGXA50 T:  11:45:07.726 Order: 1533 SELL IOC LMT 1.0 at 11400.0 msg:  Tradetype Q1145_DEV Status: Created Q1145 type Q1145_DEV qHrOpen  11402.5 fresh 11400.0 sellSize 1.0
+1533 1533 *GUARANTEE XU FILL PreSubmitted -> Filled 11:45:08.021 ID: 104 SGXA50 T:  11:45:07.726 Order: 1533 SELL IOC LMT 1.0 at 11400.0 msg:  Tradetype Q1145_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1200 12:00:13.019 startTime 12:00
+**********
+NEW 1534 q hr dev sell #: 0 SGXA50 T:  12:00:14.370 Order: 1534 SELL IOC LMT 1.0 at 11402.5 msg:  Tradetype Q1200_DEV Status: Created Q1200 type Q1200_DEV qHrOpen  11407.5 fresh 11402.5 sellSize 1.0
+1534 1534 *GUARANTEE XU FILL PreSubmitted -> Filled 12:00:14.679 ID: 105 SGXA50 T:  12:00:14.370 Order: 1534 SELL IOC LMT 1.0 at 11402.5 msg:  Tradetype Q1200_DEV Status: Filled TIF: IOC
+**********
+NEW 1535 q hr dev buy #: 1 SGXA50 T:  12:07:24.700 Order: 1535 BUY IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1200_DEV Status: Created Q1200 type Q1200_DEV qHrOpen  11407.5 fresh 11410.0 buysize 1.0
+1535 1535 *GUARANTEE XU FILL PreSubmitted -> Filled 12:07:24.994 ID: 106 SGXA50 T:  12:07:24.700 Order: 1535 BUY IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1200_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1215 12:15:09.054 startTime 12:15
+**********
+NEW 1536 q hr dev sell #: 0 SGXA50 T:  12:15:10.858 Order: 1536 SELL IOC LMT 1.0 at 11407.5 msg:  Tradetype Q1215_DEV Status: Created Q1215 type Q1215_DEV qHrOpen  11410.0 fresh 11407.5 sellSize 1.0
+1536 1536 *GUARANTEE XU FILL PreSubmitted -> Filled 12:15:11.177 ID: 107 SGXA50 T:  12:15:10.858 Order: 1536 SELL IOC LMT 1.0 at 11407.5 msg:  Tradetype Q1215_DEV Status: Filled TIF: IOC
+**********
+NEW 1537 q hr dev buy #: 1 SGXA50 T:  12:15:22.806 Order: 1537 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1215_DEV Status: Created Q1215 type Q1215_DEV qHrOpen  11410.0 fresh 11412.5 buysize 1.0
+1537 1537 -> 1538 XU RESUBMIT: Q1215_DEV IOC BUY 11412.5 1.0 false ||current SGXA50 T:  12:15:22.998 Order: 1538 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11412.5
+1537 1538 -> 1539 XU RESUBMIT: Q1215_DEV IOC BUY 11412.5 1.0 false ||current SGXA50 T:  12:15:23.279 Order: 1539 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11412.5
+1537 1539 -> 1540 XU RESUBMIT: Q1215_DEV IOC BUY 11412.5 1.0 false ||current SGXA50 T:  12:15:23.562 Order: 1540 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11412.5
+1537 1540 -> 1541 XU RESUBMIT: Q1215_DEV IOC BUY 11412.5 1.0 false ||current SGXA50 T:  12:15:23.846 Order: 1541 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11412.5
+1537 1541 -> 1542 XU RESUBMIT: Q1215_DEV IOC BUY 11415.0 1.0 false ||current SGXA50 T:  12:15:24.119 Order: 1542 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11415.0
+1537 1542 *GUARANTEE XU FILL PreSubmitted -> Filled 12:15:24.518 ID: 113 SGXA50 T:  12:15:24.119 Order: 1542 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1215_DEV Status: Filled TIF: IOC
+2018-10-05T12:24:41.705
+ set XU qhr dev fresh>start SGXA50 Q1215 12:25:40.861 fresh>start 11412.5 > 11410.0
+ set XU qhr dev direction SGXA50 Q1230 12:30:10.888 startTime 12:30
+**********
+NEW 1545 q hr dev buy #: 0 SGXA50 T:  12:30:23.512 Order: 1545 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1230_DEV Status: Created Q1230 type Q1230_DEV qHrOpen  11412.5 fresh 11415.0 buysize 1.0
+1545 1545 *GUARANTEE XU FILL PreSubmitted -> Filled 12:30:23.819 ID: 101 SGXA50 T:  12:30:23.512 Order: 1545 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1230_DEV Status: Filled TIF: IOC
+**********
+NEW 1546 q hr dev sell #: 1 SGXA50 T:  12:30:30.426 Order: 1546 SELL IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1230_DEV Status: Created Q1230 type Q1230_DEV qHrOpen  11412.5 fresh 11410.0 sellSize 1.0
+1546 1546 *GUARANTEE XU FILL PreSubmitted -> Filled 12:30:30.723 ID: 102 SGXA50 T:  12:30:30.426 Order: 1546 SELL IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1230_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1245 12:45:19.139 startTime 12:45
+**********
+NEW 1547 q hr dev sell #: 0 SGXA50 T:  12:45:28.856 Order: 1547 SELL IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1245_DEV Status: Created Q1245 type Q1245_DEV qHrOpen  11412.5 fresh 11410.0 sellSize 1.0
+1547 1547 *GUARANTEE XU FILL PreSubmitted -> Filled 12:45:29.157 ID: 103 SGXA50 T:  12:45:28.856 Order: 1547 SELL IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1245_DEV Status: Filled TIF: IOC
+**********
+NEW 1548 q hr dev buy #: 1 SGXA50 T:  12:46:05.732 Order: 1548 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1245_DEV Status: Created Q1245 type Q1245_DEV qHrOpen  11412.5 fresh 11415.0 buysize 1.0
+1548 1548 *GUARANTEE XU FILL PreSubmitted -> Filled 12:46:06.037 ID: 104 SGXA50 T:  12:46:05.732 Order: 1548 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1245_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1300 13:00:10.903 startTime 13:00
+**********
+NEW 1549 q hr dev buy #: 0 SGXA50 T:  13:00:11.703 Order: 1549 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1300_DEV Status: Created Q1300 type Q1300_DEV qHrOpen  11412.5 fresh 11415.0 buysize 1.0
+1549 1549 *GUARANTEE XU FILL PreSubmitted -> Filled 13:00:12.009 ID: 105 SGXA50 T:  13:00:11.703 Order: 1549 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1300_DEV Status: Filled TIF: IOC
+**********
+NEW 1550 q hr dev sell #: 1 SGXA50 T:  13:03:10.906 Order: 1550 SELL IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1300_DEV Status: Created Q1300 type Q1300_DEV qHrOpen  11412.5 fresh 11410.0 sellSize 1.0
+1550 1550 *GUARANTEE XU FILL PreSubmitted -> Filled 13:03:11.209 ID: 106 SGXA50 T:  13:03:10.906 Order: 1550 SELL IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1300_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1315 13:15:40.244 startTime 13:15
+**********
+NEW 1551 q hr dev buy #: 0 SGXA50 T:  13:16:00.273 Order: 1551 BUY IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1315_DEV Status: Created Q1315 type Q1315_DEV qHrOpen  11407.5 fresh 11410.0 buysize 1.0
+1551 1551 *GUARANTEE XU FILL PreSubmitted -> Filled 13:16:00.568 ID: 107 SGXA50 T:  13:16:00.273 Order: 1551 BUY IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1315_DEV Status: Filled TIF: IOC
+**********
+NEW 1552 q hr dev sell #: 1 SGXA50 T:  13:16:34.140 Order: 1552 SELL IOC LMT 1.0 at 11405.0 msg:  Tradetype Q1315_DEV Status: Created Q1315 type Q1315_DEV qHrOpen  11407.5 fresh 11405.0 sellSize 1.0
+1552 1552 *GUARANTEE XU FILL PreSubmitted -> Filled 13:16:34.439 ID: 108 SGXA50 T:  13:16:34.140 Order: 1552 SELL IOC LMT 1.0 at 11405.0 msg:  Tradetype Q1315_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1330 13:30:03.499 startTime 13:30
+**********
+NEW 1553 q hr dev sell #: 0 SGXA50 T:  13:30:08.005 Order: 1553 SELL IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1330_DEV Status: Created Q1330 type Q1330_DEV qHrOpen  11415.0 fresh 11412.5 sellSize 1.0
+1553 1553 *GUARANTEE XU FILL PreSubmitted -> Filled 13:30:08.316 ID: 109 SGXA50 T:  13:30:08.005 Order: 1553 SELL IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1330_DEV Status: Filled TIF: IOC
+**********
+NEW 1554 q hr dev buy #: 1 SGXA50 T:  13:30:51.480 Order: 1554 BUY IOC LMT 1.0 at 11417.5 msg:  Tradetype Q1330_DEV Status: Created Q1330 type Q1330_DEV qHrOpen  11415.0 fresh 11417.5 buysize 1.0
+1554 1554 *GUARANTEE XU FILL PreSubmitted -> Filled 13:30:51.788 ID: 110 SGXA50 T:  13:30:51.480 Order: 1554 BUY IOC LMT 1.0 at 11417.5 msg:  Tradetype Q1330_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1345 13:45:03.320 startTime 13:45
+**********
+NEW 1555 q hr dev sell #: 0 SGXA50 T:  13:45:08.217 Order: 1555 SELL IOC LMT 1.0 at 11407.5 msg:  Tradetype Q1345_DEV Status: Created Q1345 type Q1345_DEV qHrOpen  11412.5 fresh 11407.5 sellSize 1.0
+1555 1555 *GUARANTEE XU FILL PreSubmitted -> Filled 13:45:08.577 ID: 111 SGXA50 T:  13:45:08.217 Order: 1555 SELL IOC LMT 1.0 at 11407.5 msg:  Tradetype Q1345_DEV Status: Filled TIF: IOC
+**********
+NEW 1556 q hr dev buy #: 1 SGXA50 T:  13:45:44.898 Order: 1556 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1345_DEV Status: Created Q1345 type Q1345_DEV qHrOpen  11412.5 fresh 11415.0 buysize 1.0
+1556 1556 *GUARANTEE XU FILL PreSubmitted -> Filled 13:45:45.216 ID: 112 SGXA50 T:  13:45:44.898 Order: 1556 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1345_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1400 14:00:00.155 startTime 14:00
+**********
+NEW 1557 q hr dev sell #: 0 SGXA50 T:  14:00:01.559 Order: 1557 SELL IOC LMT 1.0 at 11427.5 msg:  Tradetype Q1400_DEV Status: Created Q1400 type Q1400_DEV qHrOpen  11430.0 fresh 11427.5 sellSize 1.0
+1557 1557 *GUARANTEE XU FILL PreSubmitted -> Filled 14:00:01.855 ID: 113 SGXA50 T:  14:00:01.559 Order: 1557 SELL IOC LMT 1.0 at 11427.5 msg:  Tradetype Q1400_DEV Status: Filled TIF: IOC
+**********
+NEW 1558 q hr dev buy #: 1 SGXA50 T:  14:00:05.482 Order: 1558 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1400_DEV Status: Created Q1400 type Q1400_DEV qHrOpen  11430.0 fresh 11432.5 buysize 1.0
+1558 1558 *GUARANTEE XU FILL PreSubmitted -> Filled 14:00:05.778 ID: 114 SGXA50 T:  14:00:05.482 Order: 1558 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1400_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1415 14:15:26.412 startTime 14:15
+**********
+NEW 1559 q hr dev buy #: 0 SGXA50 T:  14:15:50.347 Order: 1559 BUY IOC LMT 1.0 at 11440.0 msg:  Tradetype Q1415_DEV Status: Created Q1415 type Q1415_DEV qHrOpen  11437.5 fresh 11440.0 buysize 1.0
+1559 1559 *GUARANTEE XU FILL PreSubmitted -> Filled 14:15:50.653 ID: 115 SGXA50 T:  14:15:50.347 Order: 1559 BUY IOC LMT 1.0 at 11440.0 msg:  Tradetype Q1415_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1430 14:30:22.702 startTime 14:30
+**********
+NEW 1560 q hr dev sell #: 0 SGXA50 T:  14:31:33.767 Order: 1560 SELL IOC LMT 2.0 at 11442.5 msg:  Tradetype Q1430_DEV Status: Created Q1430 type Q1430_DEV qHrOpen  11445.0 fresh 11442.5 sellSize 2.0
+1560 1560 *GUARANTEE XU FILL PreSubmitted -> Filled 14:31:34.077 ID: 116 SGXA50 T:  14:31:33.767 Order: 1560 SELL IOC LMT 2.0 at 11442.5 msg:  Tradetype Q1430_DEV Status: Filled TIF: IOC
+**********
+NEW 1561 q hr dev buy #: 1 SGXA50 T:  14:33:27.408 Order: 1561 BUY IOC LMT 1.0 at 11447.5 msg:  Tradetype Q1430_DEV Status: Created Q1430 type Q1430_DEV qHrOpen  11445.0 fresh 11447.5 buysize 1.0
+1561 1561 *GUARANTEE XU FILL PreSubmitted -> Filled 14:33:27.705 ID: 117 SGXA50 T:  14:33:27.408 Order: 1561 BUY IOC LMT 1.0 at 11447.5 msg:  Tradetype Q1430_DEV Status: Filled TIF: IOC
+ set XU qhr dev direction SGXA50 Q1445 14:45:03.930 startTime 14:45
+**********
+NEW 1562 q hr dev sell #: 0 SGXA50 T:  14:45:08.457 Order: 1562 SELL IOC LMT 1.0 at 11442.5 msg:  Tradetype Q1445_DEV Status: Created Q1445 type Q1445_DEV qHrOpen  11445.0 fresh 11442.5 sellSize 1.0
+1562 1562 *GUARANTEE XU FILL PreSubmitted -> Filled 14:45:08.753 ID: 118 SGXA50 T:  14:45:08.457 Order: 1562 SELL IOC LMT 1.0 at 11442.5 msg:  Tradetype Q1445_DEV Status: Filled TIF: IOC
+**********
+NEW 1563 q hr dev buy #: 1 SGXA50 T:  14:47:51.585 Order: 1563 BUY IOC LMT 1.0 at 11447.5 msg:  Tradetype Q1445_DEV Status: Created Q1445 type Q1445_DEV qHrOpen  11445.0 fresh 11447.5 buysize 1.0
+1563 1563 *GUARANTEE XU FILL PreSubmitted -> Filled 14:47:52.187 ID: 119 SGXA50 T:  14:47:51.585 Order: 1563 BUY IOC LMT 1.0 at 11447.5 msg:  Tradetype Q1445_DEV Status: Filled TIF: IOC
+2018-10-05T18:51:26.709
+2018-10-05T20:44:42.547
+2018-10-05T21:28:39.022
+2018-10-05T21:31:33.394
+2018-10-05T22:10:54.424
+2018-10-08T08:23:02.707
+set fut open dev dir 9:011 09:00:01.218
+3659 fut dev SELL #: 0 SGXA50 T:  09:00:01.386 Order: 3659 SELL IOC LMT 1.0 at 11505.0 msg:  Tradetype FUT_OPEN_DEVI Status: Created open,last  11507.5 11505.0 milliLast2 9223372036854775807 waitSec 0 priceOffset 0.0 next T 2018-10-08T00:00
+3659 3659 -> 3660 XU RESUBMIT: FUT_OPEN_DEVI IOC SELL 11507.5 1.0 false ||current SGXA50 T:  09:00:01.732 Order: 3660 SELL IOC LMT 1.0 at 11507.5 msg:  Tradetype FUT_OPEN_DEVI Status: Created bid ask sp last 11505.0 11507.5 2 bp 11507.5
+3659 3660 -> 3661 XU RESUBMIT: FUT_OPEN_DEVI IOC SELL 11502.5 1.0 false ||current SGXA50 T:  09:00:02.015 Order: 3661 SELL IOC LMT 1.0 at 11502.5 msg:  Tradetype FUT_OPEN_DEVI Status: Created bid ask sp last 11502.5 11505.0 2 bp 11502.5
+3659 3661 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:02.439 ID: 103 SGXA50 T:  09:00:02.015 Order: 3661 SELL IOC LMT 1.0 at 11502.5 msg:  Tradetype FUT_OPEN_DEVI Status: Filled TIF: IOC
+3662 fut dev BUY #: 1 SGXA50 T:  09:06:58.585 Order: 3662 BUY IOC LMT 1.0 at 11510.0 msg:  Tradetype FUT_OPEN_DEVI Status: Created open,last  11507.5 11510.0 milliLast2 9223372036854775807 waitSec 0 priceOffset 0.0 next T 2018-10-08T09:00:01.386
+3662 3662 *GUARANTEE XU FILL PreSubmitted -> Filled 09:06:58.884 ID: 104 SGXA50 T:  09:06:58.585 Order: 3662 BUY IOC LMT 1.0 at 11510.0 msg:  Tradetype FUT_OPEN_DEVI Status: Filled TIF: IOC
+3663 fut dev SELL #: 2 SGXA50 T:  09:55:28.671 Order: 3663 SELL IOC LMT 1.0 at 11505.0 msg:  Tradetype FUT_OPEN_DEVI Status: Created open,last  11507.5 11505.0 milliLast2 417199 waitSec 0 priceOffset 0.0 next T 2018-10-08T09:06:58.585
+3663 3663 *GUARANTEE XU FILL PreSubmitted -> Filled 09:55:28.974 ID: 105 SGXA50 T:  09:55:28.671 Order: 3663 SELL IOC LMT 1.0 at 11505.0 msg:  Tradetype FUT_OPEN_DEVI Status: Filled TIF: IOC
+**********
+NEW 3664 fut dev take profit BUY min,open,last 11370.0 11507.5 11405.0 min/open -0.011948729089724108 loThresh -0.01 p/min 0.0030782761653473933 retreatHIThresh 0.003
+3664 3664 *GUARANTEE XU FILL PreSubmitted -> Filled 10:54:46.609 ID: 106 SGXA50 T:  10:54:46.300 Order: 3664 BUY IOC LMT 1.0 at 11405.0 msg:  Tradetype FUT_OPEN_DEVI Status: Filled TIF: IOC
+2018-10-08T19:16:30.619
+2018-10-09T07:11:37.728
+2018-10-09T08:50:20.109
+set fut open dev dir 9:011 09:00:01.040
+**********
+NEW 1440 fut dev SELL #: 0 SGXA50 T:  09:00:01.562 Order: 1440 SELL IOC LMT 2.0 at 11225.0 msg:  Tradetype FUT_DEV Status: Created open,last  11230.0 11225.0 milliLast2 9223372036854775807 waitSec 0 priceOffset 0.0 next T 2018-10-09T00:00
+1440 1440 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:02.219 ID: 101 SGXA50 T:  09:00:01.562 Order: 1440 SELL IOC LMT 2.0 at 11225.0 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 1441 fut dev BUY #: 1 SGXA50 T:  09:00:02.750 Order: 1441 BUY IOC LMT 2.0 at 11240.0 msg:  Tradetype FUT_DEV Status: Created open,last  11230.0 11240.0 milliLast2 9223372036854775807 waitSec 0 priceOffset 0.0 next T 2018-10-09T09:00:01.562
+1441 1441 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:03.079 ID: 102 SGXA50 T:  09:00:02.750 Order: 1441 BUY IOC LMT 2.0 at 11240.0 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+2018-10-09T09:26:18.261
+set fut dev dir fresh > open 09:26:32.763
+2018-10-09T10:00:02.276
+set fut dev dir fresh > open 10:00:09.132
+2018-10-09T12:02:44.142
+set fut dev dir fresh > open 12:02:50.870 11347.5 > 11230.0
+2018-10-09T12:04:30.295
+set fut dev dir fresh > open 12:04:42.702 11345.0 > 11230.0
+2018-10-09T12:06:06.055
+set fut dev dir fresh > open 12:06:16.589 11342.5 > 11230.0
+2018-10-09T20:46:51.477
+2018-10-10T08:03:08.792
+set fut open dev dir 9:01 09:00:01.841 11297.5
+**********
+NEW 09:18:56.183 1444 fut dev SELL #: 0 SGXA50 T:  09:18:56.183 Order: 1444 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created open,last  11327.5 11325.0 milliLast2 >1d waitSec 0 nextT 2018-10-10T00:00 baseSize 2.0
+1444 1444 -> 1445 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:56.551 Order: 1445 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1445 -> 1446 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:56.828 Order: 1446 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1446 -> 1447 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:57.109 Order: 1447 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1447 -> 1448 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:57.395 Order: 1448 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1448 -> 1449 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:57.675 Order: 1449 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1449 -> 1450 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:57.958 Order: 1450 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1450 -> 1451 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:58.234 Order: 1451 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1451 -> 1452 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:58.585 Order: 1452 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1452 -> 1453 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:59.020 Order: 1453 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1453 -> 1454 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:59.521 Order: 1454 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1454 -> 1455 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:19:00.020 Order: 1455 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1455 -> 1456 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:19:00.521 Order: 1456 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1456 -> 1457 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:19:01.020 Order: 1457 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1457 -> 1458 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:19:01.531 Order: 1458 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1458 *GUARANTEE XU FILL PreSubmitted -> Filled 09:19:02.549 ID: 115 SGXA50 T:  09:19:01.531 Order: 1458 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 09:19:12.520 1459 fut dev BUY #: 1 SGXA50 T:  09:19:12.520 Order: 1459 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created open,last  11327.5 11330.0 milliLast2 >1d waitSec 0 nextT 2018-10-10T09:18:56.183 baseSize 2.0
+1459 1459 -> 1460 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:12.694 Order: 1460 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1460 -> 1461 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:12.971 Order: 1461 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1461 -> 1462 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:13.249 Order: 1462 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1462 -> 1463 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:13.527 Order: 1463 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1463 -> 1464 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:13.805 Order: 1464 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1464 -> 1465 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:14.082 Order: 1465 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11327.5 11332.5 4 bp 11330.0
+1459 1465 -> 1466 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:14.359 Order: 1466 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1466 -> 1467 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:14.645 Order: 1467 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1467 -> 1468 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:14.933 Order: 1468 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1468 -> 1469 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:15.209 Order: 1469 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1469 -> 1470 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:15.486 Order: 1470 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1470 -> 1471 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:15.762 Order: 1471 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1471 -> 1472 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:16.044 Order: 1472 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1472 -> 1473 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:16.328 Order: 1473 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1473 -> 1474 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:16.651 Order: 1474 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1474 -> 1475 XU RESUBMIT: FUT_DEV IOC BUY 11332.5 2.0 false ||current SGXA50 T:  09:19:16.930 Order: 1475 BUY IOC LMT 2.0 at 11332.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11332.5
+1459 1475 *GUARANTEE XU FILL PreSubmitted -> Filled 09:19:17.319 ID: 132 SGXA50 T:  09:19:16.930 Order: 1475 BUY IOC LMT 2.0 at 11332.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+2018-10-10T09:21:22.501
+2018-10-10T09:32:16.688
+2018-10-10T09:34:46.159
+2018-10-10T09:35:58.912
+2018-10-10T09:37:16.072
+2018-10-10T09:39:20.409
+2018-10-10T10:04:25.258
+2018-10-10T10:06:44.973
+2018-10-10T10:09:13.216
+2018-10-10T10:10:15.350
+2018-10-10T10:11:26.470
+2018-10-10T10:12:57.219
+set fut dev dir fresh > open 10:13:36.056 11380.0 > 11295.0
+2018-10-10T10:28:56.107
+set fut dev dir fresh > open 10:29:31.614 11347.5 > 11295.0
+2018-10-10T10:31:04.572
+set fut dev dir fresh > open 10:31:19.669 11352.5 > 11295.0
+**********
+NEW 10:44:42.681 3667 fut dev SELL #: 0 SGXA50 T:  10:44:42.681 Order: 3667 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created open,last  11295.0 11292.5 milliLast2 >1d waitSec 0 nextT 2018-10-10T00:00 baseSize 2.0
+3667 3667 *GUARANTEE XU FILL Submitted -> Filled 10:44:43.108 ID: 101 SGXA50 T:  10:44:42.681 Order: 3667 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 13:17:27.762 3668 fut dev BUY #: 1 SGXA50 T:  13:17:27.762 Order: 3668 BUY IOC LMT 2.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Created open,last  11295.0 11297.5 milliLast2 >1d waitSec 0 nextT 2018-10-10T10:44:42.681 baseSize 2.0
+3668 3668 *GUARANTEE XU FILL PreSubmitted -> Filled 13:17:28.063 ID: 102 SGXA50 T:  13:17:27.762 Order: 3668 BUY IOC LMT 2.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 13:48:13.242 3669 fut dev SELL #: 2 SGXA50 T:  13:48:13.242 Order: 3669 SELL IOC LMT 3.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created open,last  11295.0 11292.5 milliLast2 9165081 waitSec 0 nextT 2018-10-10T13:17:27.762 baseSize 3.0
+3669 3669 *GUARANTEE XU FILL PreSubmitted -> Filled 13:48:13.555 ID: 103 SGXA50 T:  13:48:13.242 Order: 3669 SELL IOC LMT 3.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 13:49:45.004 3670 fut dev BUY #: 3 SGXA50 T:  13:49:45.004 Order: 3670 BUY IOC LMT 3.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Created open,last  11295.0 11297.5 milliLast2 1845480 waitSec 0 nextT 2018-10-10T13:48:13.242 baseSize 2.0
+3670 3670 *GUARANTEE XU FILL Submitted -> Filled 13:49:45.288 ID: 104 SGXA50 T:  13:49:45.004 Order: 3670 BUY IOC LMT 3.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 13:51:01.549 3671 fut dev SELL #: 4 SGXA50 T:  13:51:01.549 Order: 3671 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created open,last  11295.0 11292.5 milliLast2 91762 waitSec 0 nextT 2018-10-10T13:49:45.004 baseSize 2.0
+3671 3671 -> 3672 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:01.736 Order: 3672 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3672 -> 3673 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:02.021 Order: 3673 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3673 -> 3674 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:02.313 Order: 3674 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3674 -> 3675 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:02.601 Order: 3675 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3675 -> 3676 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:02.885 Order: 3676 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3676 -> 3677 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:03.175 Order: 3677 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3677 -> 3678 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:03.458 Order: 3678 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3678 -> 3679 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:03.738 Order: 3679 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3679 -> 3680 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:04.027 Order: 3680 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3680 -> 3681 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:04.313 Order: 3681 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3681 -> 3682 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:04.593 Order: 3682 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3682 -> 3683 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:04.879 Order: 3683 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3683 -> 3684 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:05.160 Order: 3684 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3684 -> 3685 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:05.440 Order: 3685 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3685 -> 3686 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:05.721 Order: 3686 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3686 -> 3687 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:06.005 Order: 3687 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3687 -> 3688 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:06.292 Order: 3688 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3688 -> 3689 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:06.579 Order: 3689 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3689 -> 3690 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:06.866 Order: 3690 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3690 -> 3691 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:07.147 Order: 3691 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3691 -> 3692 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:07.427 Order: 3692 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3692 -> 3693 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:07.707 Order: 3693 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3693 -> 3694 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:07.987 Order: 3694 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3694 -> 3695 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:08.268 Order: 3695 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3695 -> 3696 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:08.549 Order: 3696 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3696 -> 3697 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:08.841 Order: 3697 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3697 -> 3698 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:09.121 Order: 3698 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3698 -> 3699 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:09.404 Order: 3699 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3699 -> 3700 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:09.686 Order: 3700 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3700 -> 3701 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:09.970 Order: 3701 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3701 -> 3702 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:10.250 Order: 3702 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3702 -> 3703 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:10.526 Order: 3703 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3703 -> 3704 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:10.817 Order: 3704 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3704 -> 3705 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:11.100 Order: 3705 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3705 -> 3706 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:11.382 Order: 3706 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3706 *GUARANTEE XU FILL PreSubmitted -> Filled 13:51:11.772 ID: 140 SGXA50 T:  13:51:11.382 Order: 3706 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 13:58:30.515 3707 fut dev BUY #: 5 SGXA50 T:  13:58:30.515 Order: 3707 BUY IOC LMT 2.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Created open,last  11295.0 11297.5 milliLast2 76545 waitSec 0 nextT 2018-10-10T13:51:01.549 baseSize 2.0
+3707 3707 *GUARANTEE XU FILL PreSubmitted -> Filled 13:58:30.818 ID: 141 SGXA50 T:  13:58:30.515 Order: 3707 BUY IOC LMT 2.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 13:59:04.267 3708 fut dev SELL #: 6 SGXA50 T:  13:59:04.267 Order: 3708 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created open,last  11295.0 11292.5 milliLast2 448966 waitSec 0 nextT 2018-10-10T13:58:30.515 baseSize 2.0
+3708 3708 *GUARANTEE XU FILL PreSubmitted -> Filled 13:59:04.566 ID: 142 SGXA50 T:  13:59:04.267 Order: 3708 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 14:00:42.805 3709 fut dev BUY #: 7 SGXA50 T:  14:00:42.805 Order: 3709 BUY IOC LMT 2.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Created open,last  11295.0 11297.5 milliLast2 33752 waitSec 60 nextT 2018-10-10T14:00:04.267 baseSize 2.0
+3709 3709 *GUARANTEE XU FILL PreSubmitted -> Filled 14:00:43.094 ID: 143 SGXA50 T:  14:00:42.805 Order: 3709 BUY IOC LMT 2.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC

@@ -605,3 +605,519 @@ NEW 3293 US take profit SELL# max open fresh  6.13 6.14 6.21 max/open-1 0.024429
 **********
 NEW 3295 US take profit SELL# max open fresh  6.13 6.14 6.2 max/open-1 0.02442996742671011 up thresh 0.02 p/max-1 -0.014308426073131986 retreathDownThresh -0.01
 3295 3295 *GUARANTEE US FILL* PreSubmitted -> Filled 21:40:20.870 ID: 143 NIO T:  09:40:18.816 Order: 3295 SELL IOC LMT 100.0 at 6.2 msg:  Tradetype US_RELATIVE_TAKE_PROFIT Status: Filled TIF: IOC
+2018-10-04T08:41:59.613
+US handle generic SHORTABLE NIO 3.0 2018-10-04T08:42
+US handle generic SHORTABLE NIO 3.0 2018-10-04T08:42
+US handle generic SHORTABLE NIO 3.0 2018-10-04T08:42
+US handle generic SHORTABLE NIO 3.0 2018-10-04T08:42
+2018-10-04T08:43:45.951
+US handle generic SHORTABLE NIO 3.0 2018-10-04T08:43
+US handle generic SHORTABLE NIO 3.0 2018-10-04T08:43
+US handle generic SHORTABLE NIO 3.0 2018-10-04T08:43
+US handle generic SHORTABLE NIO 3.0 2018-10-04T08:43
+2018-10-04T09:01:13.093
+US handle generic SHORTABLE NIO 3.0 2018-10-04T09:01
+2018-10-04T09:10:32.362
+US handle generic SHORTABLE NIO 3.0 2018-10-04T09:10
+3348 3348 -> 3349 XU RESUBMIT: Q915_DEV IOC SELL 11602.5 1.0 false ||current SGXA50 T:  09:15:05.364 Order: 3349 SELL IOC LMT 1.0 at 11602.5 msg:  Tradetype Q915_DEV Status: Created bid ask sp last 11602.5 11605.0 2 bp 11602.5
+2018-10-04T09:21:11.420
+US handle generic SHORTABLE NIO 3.0 2018-10-04T09:21
+2018-10-04T09:24:36.422
+US handle generic SHORTABLE NIO 3.0 2018-10-04T09:24
+2018-10-04T09:28:29.344
+US handle generic SHORTABLE NIO 3.0 2018-10-04T09:28
+3352 3352 -> 3353 XU RESUBMIT: Q930_DEV IOC BUY 11565.0 1.0 false ||current SGXA50 T:  09:30:04.984 Order: 3353 BUY IOC LMT 1.0 at 11565.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11562.5 11567.5 4 bp 11565.0
+3352 3353 -> 3354 XU RESUBMIT: Q930_DEV IOC BUY 11567.5 1.0 false ||current SGXA50 T:  09:30:06.487 Order: 3354 BUY IOC LMT 1.0 at 11567.5 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11565.0 11570.0 4 bp 11567.5
+3352 3354 -> 3355 XU RESUBMIT: Q930_DEV IOC BUY 11570.0 1.0 false ||current SGXA50 T:  09:30:08.396 Order: 3355 BUY IOC LMT 1.0 at 11570.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11567.5 11570.0 2 bp 11570.0
+3352 3355 -> 3356 XU RESUBMIT: Q930_DEV IOC BUY 11570.0 1.0 false ||current SGXA50 T:  09:30:09.687 Order: 3356 BUY IOC LMT 1.0 at 11570.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11567.5 11570.0 2 bp 11570.0
+3352 3356 -> 3357 XU RESUBMIT: Q930_DEV IOC BUY 11570.0 1.0 false ||current SGXA50 T:  09:30:10.937 Order: 3357 BUY IOC LMT 1.0 at 11570.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11570.0 11572.5 2 bp 11570.0
+3352 3357 -> 3358 XU RESUBMIT: Q930_DEV IOC BUY 11572.5 1.0 false ||current SGXA50 T:  09:30:12.845 Order: 3358 BUY IOC LMT 1.0 at 11572.5 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11572.5 11575.0 2 bp 11572.5
+3352 3358 -> 3359 XU RESUBMIT: Q930_DEV IOC BUY 11575.0 1.0 false ||current SGXA50 T:  09:30:14.735 Order: 3359 BUY IOC LMT 1.0 at 11575.0 msg:  Tradetype Q930_DEV Status: Created bid ask sp last 11575.0 11577.5 2 bp 11575.0
+2018-10-04T09:35:40.140
+US handle generic SHORTABLE NIO 3.0 2018-10-04T09:35
+10:00:20.115  Cancel ALL after deadline  3364 SGXA50 Q1000_DEV status CHG: Created -> DeadlineCancelled
+2018-10-04T10:01:39.068
+US handle generic SHORTABLE NIO 3.0 2018-10-04T10:01
+2018-10-04T10:06:26.823
+US handle generic SHORTABLE NIO 3.0 2018-10-04T10:06
+3368 3368 -> 3369 XU RESUBMIT: Q1015_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  10:18:07.590 Order: 3369 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1015_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+3370 3370 -> 3371 XU RESUBMIT: SGXA50_RELATIVE_TAKE_PROFIT IOC BUY 11487.5 2.0 false ||current SGXA50 T:  10:26:25.121 Order: 3371 BUY IOC LMT 2.0 at 11487.5 msg:  Tradetype SGXA50_RELATIVE_TAKE_PROFIT Status: Created bid ask sp last 11485.0 11487.5 2 bp 11487.5
+3370 3371 -> 3372 XU RESUBMIT: SGXA50_RELATIVE_TAKE_PROFIT IOC BUY 11487.5 2.0 false ||current SGXA50 T:  10:26:26.882 Order: 3372 BUY IOC LMT 2.0 at 11487.5 msg:  Tradetype SGXA50_RELATIVE_TAKE_PROFIT Status: Created bid ask sp last 11485.0 11487.5 2 bp 11487.5
+3378 3378 -> 3379 XU RESUBMIT: Q1100_DEV IOC SELL 11500.0 1.0 false ||current SGXA50 T:  11:00:43.981 Order: 3379 SELL IOC LMT 1.0 at 11500.0 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11497.5 11500.0 2 bp 11500.0
+3378 3379 -> 3380 XU RESUBMIT: Q1100_DEV IOC SELL 11497.5 1.0 false ||current SGXA50 T:  11:00:45.381 Order: 3380 SELL IOC LMT 1.0 at 11497.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11497.5 11500.0 2 bp 11497.5
+US handle generic SHORTABLE NIO 3.0 2018-10-04T11:59
+US handle generic SHORTABLE NIO 0.0 2018-10-04T12:00
+US handle generic SHORTABLE NIO 3.0 2018-10-04T12:00
+2018-10-04T12:24:54.134
+US handle generic SHORTABLE NIO 3.0 2018-10-04T12:24
+2018-10-04T12:46:17.591
+US handle generic SHORTABLE NIO 3.0 2018-10-04T12:46
+2018-10-04T12:47:55.080
+US handle generic SHORTABLE NIO 3.0 2018-10-04T12:47
+US handle generic SHORTABLE NIO 3.0 2018-10-04T13:04
+US handle generic SHORTABLE NIO 3.0 2018-10-04T13:07
+US handle generic SHORTABLE NIO 3.0 2018-10-04T13:13
+US handle generic SHORTABLE NIO 3.0 2018-10-04T13:14
+3392 3392 -> 3393 XU RESUBMIT: Q1315_DEV IOC SELL 11470.0 1.0 false ||current SGXA50 T:  13:15:11.948 Order: 3393 SELL IOC LMT 1.0 at 11470.0 msg:  Tradetype Q1315_DEV Status: Created bid ask sp last 11467.5 11472.5 4 bp 11470.0
+3392 3393 -> 3394 XU RESUBMIT: Q1315_DEV IOC SELL 11470.0 1.0 false ||current SGXA50 T:  13:15:13.214 Order: 3394 SELL IOC LMT 1.0 at 11470.0 msg:  Tradetype Q1315_DEV Status: Created bid ask sp last 11467.5 11472.5 4 bp 11470.0
+3392 3394 -> 3395 XU RESUBMIT: Q1315_DEV IOC SELL 11470.0 1.0 false ||current SGXA50 T:  13:15:14.617 Order: 3395 SELL IOC LMT 1.0 at 11470.0 msg:  Tradetype Q1315_DEV Status: Created bid ask sp last 11467.5 11472.5 4 bp 11470.0
+US handle generic SHORTABLE NIO 3.0 2018-10-04T14:02
+2018-10-04T14:36:36.989
+US handle generic SHORTABLE NIO 3.0 2018-10-04T14:36
+3408 3408 -> 3409 XU RESUBMIT: Q1445_DEV IOC BUY 11410.0 1.0 false ||current SGXA50 T:  14:45:25.838 Order: 3409 BUY IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1445_DEV Status: Created bid ask sp last 11407.5 11410.0 2 bp 11410.0
+3408 3409 -> 3410 XU RESUBMIT: Q1445_DEV IOC BUY 11410.0 1.0 false ||current SGXA50 T:  14:45:26.942 Order: 3410 BUY IOC LMT 1.0 at 11410.0 msg:  Tradetype Q1445_DEV Status: Created bid ask sp last 11410.0 11412.5 2 bp 11410.0
+3408 3410 -> 3411 XU RESUBMIT: Q1445_DEV IOC BUY 11415.0 1.0 false ||current SGXA50 T:  14:45:28.084 Order: 3411 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1445_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11415.0
+2018-10-04T14:56:11.478
+US handle generic SHORTABLE NIO 3.0 2018-10-04T14:56
+1445 1445 -> 1446 XU RESUBMIT: Q1545_DEV IOC SELL 11455.0 1.0 false ||current SGXA50 T:  15:45:59.325 Order: 1446 SELL IOC LMT 1.0 at 11455.0 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11455.0 11457.5 2 bp 11455.0
+1447 1447 -> 1448 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:32.963 Order: 1448 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1448 -> 1449 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:34.042 Order: 1449 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1449 -> 1450 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:35.421 Order: 1450 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1450 -> 1451 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:36.804 Order: 1451 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1451 -> 1452 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:38.384 Order: 1452 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1452 -> 1453 XU RESUBMIT: Q1545_DEV IOC BUY 11462.5 1.0 false ||current SGXA50 T:  15:48:39.502 Order: 1453 BUY IOC LMT 1.0 at 11462.5 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11462.5
+1447 1453 -> 1454 XU RESUBMIT: Q1545_DEV IOC BUY 11465.0 1.0 false ||current SGXA50 T:  15:48:40.968 Order: 1454 BUY IOC LMT 1.0 at 11465.0 msg:  Tradetype Q1545_DEV Status: Created bid ask sp last 11462.5 11465.0 2 bp 11465.0
+US handle generic SHORTABLE NIO 3.0 2018-10-04T16:06
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T19:09
+2018-10-04T19:09:58.800
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T19:23
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T20:48
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T20:49
+ setting manual US qhour dev direction NBEV Q930 09:30:02.803
+**********
+NEW 3400 q hr US dev sell #: NBEV T:  09:30:02.833 Order: 3400 SELL IOC LMT 100.0 at 8.66 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV dir Flat
+**********
+NEW 3404 q hr US dev buy #: NBEV T:  09:30:17.522 Order: 3404 BUY IOC LMT 100.0 at 8.75 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV dir Short
+3404 3404 *GUARANTEE US FILL* PreSubmitted -> Filled 21:30:18.910 ID: 105 NBEV T:  09:30:17.522 Order: 3404 BUY IOC LMT 100.0 at 8.75 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+**********
+NEW 3405 US take profit SELL# NBEV T:  09:31:10.317 Order: 3405 SELL IOC LMT 100.0 at 8.8955 msg:  Tradetype US_RELATIVE_TAKE_PROFIT Status: Created max open fresh  8.97 8.67 8.8955 max/open-1 0.03460207612456756 up thresh 0.02 p/max-1 -0.008305462653288798 retreathDownThresh -0.006
+2018-10-04T21:41:44.508
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:41
+ setting manual US qhour dev fresh<start NBEV Q930 09:41:51.727
+**********
+NEW 3408 US take profit SELL# NBEV T:  09:41:51.727 Order: 3408 SELL IOC LMT 100.0 at 8.66 msg:  Tradetype US_RELATIVE_TAKE_PROFIT Status: Created max open fresh  9.15 8.67 8.66 sellPrice 8.66 max/open-1 0.05536332179930792 up thresh 0.02 p/max-1 -0.05355191256830605 retreathDownThresh -0.006
+**********
+NEW 3409 q hr US dev buy #: NBEV T:  09:41:52.354 Order: 3409 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV dir Short
+3409 3409 *GUARANTEE US FILL* Submitted -> Filled 21:41:54.491 ID: 102 NBEV T:  09:41:52.354 Order: 3409 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+**********
+NEW 3413 q hr US dev sell #: NBEV T:  09:42:15.614 Order: 3413 SELL IOC LMT 100.0 at 8.63 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV dir Long
+ setting manual US qhour dev direction NBEV Q945 09:45:00.465
+**********
+NEW 3415 q hr US dev buy #: NBEV T:  09:45:01.030 Order: 3415 BUY IOC LMT 100.0 at 8.64 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Flat
+2018-10-04T21:46:26.597
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:46
+ setting manual US qhour dev fresh>start NBEV Q945 09:46:29.856
+**********
+NEW 3421 q hr US dev sell #: NBEV T:  09:47:26.716 Order: 3421 SELL IOC LMT 100.0 at 8.63 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Long
+3421 3421 *GUARANTEE US FILL* PreSubmitted -> Filled 21:47:28.275 ID: 101 NBEV T:  09:47:26.716 Order: 3421 SELL IOC LMT 100.0 at 8.63 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+**********
+NEW 3422 q hr US dev buy #: NBEV T:  09:47:57.695 Order: 3422 BUY IOC LMT 100.0 at 8.6368 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Short
+2018-10-04T21:49:32.594
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:49
+ setting manual US qhour dev fresh>start NBEV Q945 09:49:38.178
+**********
+NEW 3425 q hr US dev sell #: NBEV T:  09:49:38.801 Order: 3425 SELL IOC LMT 100.0 at 8.62 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Long
+**********
+NEW 3427 q hr US dev buy #: NBEV T:  09:49:50.157 Order: 3427 BUY IOC LMT 100.0 at 8.64 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV dir Short
+3427 3428 *GUARANTEE US FILL* Submitted -> Filled 21:49:53.135 ID: 104 NBEV T:  21:49:51.370 Order: 3428 BUY IOC LMT 100.0 at 8.65 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+2018-10-04T21:54:38.574
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T21:54
+ setting manual US qhour dev fresh>start NBEV Q945 09:54:45.086
+ setting manual US qhour dev direction NBEV Q1000 10:00:00.523
+**********
+NEW 3431 q hr US dev sell #: 0 NBEV T:  10:00:01.366 Order: 3431 SELL IOC LMT 100.0 at 9.03 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV dir Flat open fresh sellPrice 9.05 9.03 9.03
+US handle generic SHORTABLE NBEV 3.0 2018-10-04T22:03
+2018-10-04T22:03:31.372
+ setting manual US qhour dev fresh<start NBEV Q1000 10:03:35.790 fresh<start 8.961 10:00
+**********
+NEW 3435 q hr US dev buy #: 0 NBEV T:  10:03:59.353 Order: 3435 BUY IOC LMT 100.0 at 9.05 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV dir Short open fresh buyPrice 9.05 9.0513 9.05
+3435 3436 *GUARANTEE US FILL* PreSubmitted -> Filled 22:04:02.449 ID: 102 NBEV T:  22:04:00.542 Order: 3436 BUY IOC LMT 100.0 at 9.1 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+**********
+NEW 3437 q hr US dev sell #: 1 NBEV T:  10:06:16.907 Order: 3437 SELL IOC LMT 100.0 at 8.95 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV dir Long open fresh sellPrice 9.05 8.9513 8.95
+3437 3437 *GUARANTEE US FILL* PreSubmitted -> Filled 22:06:18.731 ID: 103 NBEV T:  10:06:16.907 Order: 3437 SELL IOC LMT 100.0 at 8.95 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:55
+2018-10-05T08:55:57.061
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T08:56
+2018-10-05T08:56:34.413
+3441 3441 -> 3442 XU RESUBMIT: Q915_DEV IOC SELL 11420.0 1.0 false ||current SGXA50 T:  09:15:04.115 Order: 3442 SELL IOC LMT 1.0 at 11420.0 msg:  Tradetype Q915_DEV Status: Created bid ask sp last 11417.5 11420.0 2 bp 11420.0
+3441 3442 -> 3443 XU RESUBMIT: Q915_DEV IOC SELL 11417.5 1.0 false ||current SGXA50 T:  09:15:04.401 Order: 3443 SELL IOC LMT 1.0 at 11417.5 msg:  Tradetype Q915_DEV Status: Created bid ask sp last 11417.5 11420.0 2 bp 11417.5
+2018-10-05T09:22:25.433
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T09:22
+1442 1442 -> 1443 XU RESUBMIT: Q945_DEV IOC SELL 11425.0 1.0 false ||current SGXA50 T:  09:45:03.846 Order: 1443 SELL IOC LMT 1.0 at 11425.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11422.5 11427.5 4 bp 11425.0
+1442 1443 -> 1444 XU RESUBMIT: Q945_DEV IOC SELL 11425.0 1.0 false ||current SGXA50 T:  09:45:04.130 Order: 1444 SELL IOC LMT 1.0 at 11425.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11422.5 11427.5 4 bp 11425.0
+1442 1444 -> 1445 XU RESUBMIT: Q945_DEV IOC SELL 11425.0 1.0 false ||current SGXA50 T:  09:45:04.413 Order: 1445 SELL IOC LMT 1.0 at 11425.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11422.5 11427.5 4 bp 11425.0
+1442 1445 -> 1446 XU RESUBMIT: Q945_DEV IOC SELL 11422.5 1.0 false ||current SGXA50 T:  09:45:04.699 Order: 1446 SELL IOC LMT 1.0 at 11422.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11422.5 11427.5 4 bp 11422.5
+1447 1447 -> 1448 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:25.599 Order: 1448 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1448 -> 1449 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:25.891 Order: 1449 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1449 -> 1450 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:26.237 Order: 1450 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1450 -> 1451 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:26.523 Order: 1451 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1451 -> 1452 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:26.805 Order: 1452 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1452 -> 1453 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:27.086 Order: 1453 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1453 -> 1454 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:27.374 Order: 1454 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1454 -> 1455 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:27.658 Order: 1455 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1455 -> 1456 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:27.939 Order: 1456 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1456 -> 1457 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:28.222 Order: 1457 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1457 -> 1458 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:28.500 Order: 1458 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1458 -> 1459 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:28.781 Order: 1459 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1459 -> 1460 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:29.065 Order: 1460 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1460 -> 1461 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:29.351 Order: 1461 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1461 -> 1462 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:29.635 Order: 1462 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1462 -> 1463 XU RESUBMIT: Q945_DEV IOC BUY 11427.5 1.0 false ||current SGXA50 T:  09:45:29.913 Order: 1463 BUY IOC LMT 1.0 at 11427.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11427.5
+1447 1463 -> 1464 XU RESUBMIT: Q945_DEV IOC BUY 11427.5 1.0 false ||current SGXA50 T:  09:45:30.196 Order: 1464 BUY IOC LMT 1.0 at 11427.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11427.5
+1447 1464 -> 1465 XU RESUBMIT: Q945_DEV IOC BUY 11427.5 1.0 false ||current SGXA50 T:  09:45:30.482 Order: 1465 BUY IOC LMT 1.0 at 11427.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11427.5
+1447 1465 -> 1466 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:30.758 Order: 1466 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1466 -> 1467 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:31.039 Order: 1467 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1467 -> 1468 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:31.318 Order: 1468 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1468 -> 1469 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:31.612 Order: 1469 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1469 -> 1470 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:31.893 Order: 1470 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1470 -> 1471 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:32.181 Order: 1471 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1471 -> 1472 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:32.461 Order: 1472 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1472 -> 1473 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:32.745 Order: 1473 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1473 -> 1474 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:33.027 Order: 1474 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1474 -> 1475 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:33.305 Order: 1475 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1475 -> 1476 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:33.593 Order: 1476 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1476 -> 1477 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:33.871 Order: 1477 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1477 -> 1478 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:34.153 Order: 1478 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1478 -> 1479 XU RESUBMIT: Q945_DEV IOC BUY 11430.0 1.0 false ||current SGXA50 T:  09:45:34.432 Order: 1479 BUY IOC LMT 1.0 at 11430.0 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11427.5 11432.5 4 bp 11430.0
+1447 1479 -> 1480 XU RESUBMIT: Q945_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  09:45:34.717 Order: 1480 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q945_DEV Status: Created bid ask sp last 11430.0 11432.5 2 bp 11432.5
+2018-10-05T10:55:24.647
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T10:55
+1491 1491 -> 1492 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:14.602 Order: 1492 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1492 -> 1493 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:14.882 Order: 1493 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1493 -> 1494 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:15.167 Order: 1494 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1494 -> 1495 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:15.453 Order: 1495 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1495 -> 1496 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:15.736 Order: 1496 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1496 -> 1497 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:16.017 Order: 1497 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1497 -> 1498 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:16.298 Order: 1498 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1498 -> 1499 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:16.578 Order: 1499 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1499 -> 1500 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:16.858 Order: 1500 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1500 -> 1501 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:17.142 Order: 1501 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1501 -> 1502 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:17.424 Order: 1502 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1502 -> 1503 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:17.705 Order: 1503 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1503 -> 1504 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:17.987 Order: 1504 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1504 -> 1505 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:18.271 Order: 1505 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1505 -> 1506 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:18.551 Order: 1506 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1506 -> 1507 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:18.833 Order: 1507 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1507 -> 1508 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:19.113 Order: 1508 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1508 -> 1509 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:19.398 Order: 1509 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1509 -> 1510 XU RESUBMIT: Q1100_DEV IOC BUY 11432.5 1.0 false ||current SGXA50 T:  11:00:19.687 Order: 1510 BUY IOC LMT 1.0 at 11432.5 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11432.5
+1491 1510 -> 1511 XU RESUBMIT: Q1100_DEV IOC BUY 11435.0 1.0 false ||current SGXA50 T:  11:00:19.984 Order: 1511 BUY IOC LMT 1.0 at 11435.0 msg:  Tradetype Q1100_DEV Status: Created bid ask sp last 11432.5 11435.0 2 bp 11435.0
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T11:18
+2018-10-05T11:18:54.396
+1517 1517 -> 1518 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:24.834 Order: 1518 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1518 -> 1519 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:25.143 Order: 1519 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1519 -> 1520 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:25.447 Order: 1520 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1520 -> 1521 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:25.730 Order: 1521 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1521 -> 1522 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:26.008 Order: 1522 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1522 -> 1523 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:26.285 Order: 1523 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1523 -> 1524 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:26.565 Order: 1524 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1524 -> 1525 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:26.844 Order: 1525 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1525 -> 1526 XU RESUBMIT: Q1115_DEV IOC SELL 11397.5 1.0 false ||current SGXA50 T:  11:23:27.123 Order: 1526 SELL IOC LMT 1.0 at 11397.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11397.5 4 bp 11397.5
+1517 1526 -> 1527 XU RESUBMIT: Q1115_DEV IOC SELL 11392.5 1.0 false ||current SGXA50 T:  11:23:27.405 Order: 1527 SELL IOC LMT 1.0 at 11392.5 msg:  Tradetype Q1115_DEV Status: Created bid ask sp last 11392.5 11395.0 2 bp 11392.5
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T11:26
+2018-10-05T11:26:46.612
+US handle generic SHORTABLE NBEV 0.0 2018-10-05T12:00
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T12:00
+1537 1537 -> 1538 XU RESUBMIT: Q1215_DEV IOC BUY 11412.5 1.0 false ||current SGXA50 T:  12:15:22.998 Order: 1538 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11412.5
+1537 1538 -> 1539 XU RESUBMIT: Q1215_DEV IOC BUY 11412.5 1.0 false ||current SGXA50 T:  12:15:23.279 Order: 1539 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11412.5
+1537 1539 -> 1540 XU RESUBMIT: Q1215_DEV IOC BUY 11412.5 1.0 false ||current SGXA50 T:  12:15:23.562 Order: 1540 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11412.5
+1537 1540 -> 1541 XU RESUBMIT: Q1215_DEV IOC BUY 11412.5 1.0 false ||current SGXA50 T:  12:15:23.846 Order: 1541 BUY IOC LMT 1.0 at 11412.5 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11412.5
+1537 1541 -> 1542 XU RESUBMIT: Q1215_DEV IOC BUY 11415.0 1.0 false ||current SGXA50 T:  12:15:24.119 Order: 1542 BUY IOC LMT 1.0 at 11415.0 msg:  Tradetype Q1215_DEV Status: Created bid ask sp last 11412.5 11415.0 2 bp 11415.0
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T12:23
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T12:24
+2018-10-05T12:24:41.705
+2018-10-05T18:51:26.709
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T18:51
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T20:37
+2018-10-05T20:44:42.547
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T20:44
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T20:46
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T21:09
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T21:28
+2018-10-05T21:28:39.022
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T21:31
+2018-10-05T21:31:33.394
+ set US qhr dev fresh>start NBEV Q930 09:31:46.523 fresh>start 9.2 > 09:30
+**********
+NEW 3440 q hr US dev sell #: 0 NBEV T:  09:31:49.234 Order: 3440 SELL IOC LMT 100.0 at 9.15 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV qHfilled 0.0 currPos 0.0 dir Long open fresh sellPrice 9.18 9.15 9.15 sellsize 100.0
+3440 3440 *GUARANTEE US FILL* Submitted -> Filled 21:31:49.883 ID: 101 NBEV T:  09:31:49.234 Order: 3440 SELL IOC LMT 100.0 at 9.15 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+**********
+NEW 3441 q hr US dev buy #: 1 NBEV T:  09:31:51.329 Order: 3441 BUY IOC LMT 100.0 at 9.18 msg:  Tradetype Q930_DEV Status: Created Q930 type Q930_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 9.18 9.1815 9.18 buysize 100.0
+3441 3441 *GUARANTEE US FILL* Submitted -> Filled 21:31:51.803 ID: 102 NBEV T:  09:31:51.329 Order: 3441 BUY IOC LMT 100.0 at 9.18 msg:  Tradetype Q930_DEV Status: Filled TIF: IOC
+ set US qhr dev direction NBEV Q945 09:45:00.164
+**********
+NEW 3442 q hr US dev buy #: 0 NBEV T:  09:45:00.678 Order: 3442 BUY IOC LMT 100.0 at 8.83 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.82 8.8321 8.83 buysize 100.0
+3442 3446 *GUARANTEE US FILL* Submitted -> Filled 21:45:02.817 ID: 107 NBEV T:  21:45:02.396 Order: 3446 BUY IOC LMT 100.0 at 8.84 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+**********
+NEW 3447 q hr US dev sell #: 1 NBEV T:  09:46:15.009 Order: 3447 SELL IOC LMT 100.0 at 8.8 msg:  Tradetype Q945_DEV Status: Created Q945 type Q945_DEV qHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.82 8.8046 8.8 sellsize 100.0
+3447 3447 *GUARANTEE US FILL* PreSubmitted -> Filled 21:46:15.486 ID: 108 NBEV T:  09:46:15.009 Order: 3447 SELL IOC LMT 100.0 at 8.8 msg:  Tradetype Q945_DEV Status: Filled TIF: IOC
+ set US qhr dev direction NBEV Q1000 10:00:00.131
+**********
+NEW 3448 q hr US dev buy #: 0 NBEV T:  10:00:01.135 Order: 3448 BUY IOC LMT 100.0 at 8.72 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.715 8.72 8.72 buysize 100.0
+3448 3450 *GUARANTEE US FILL* PreSubmitted -> Filled 22:00:02.326 ID: 111 NBEV T:  22:00:01.948 Order: 3450 BUY IOC LMT 100.0 at 8.73 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+**********
+NEW 3451  US postAMCutoff liq SELL #: 0 T now 10:00:02.889  cutoff 10:00 NBEV T:  10:00:02.889 Order: 3451 SELL IOC LMT 100.0 at 8.7001 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-05T00:00 currPos 100.0 fresh: 8.7001 open  9.18 safety ratio  0.02 safety margin  0.17400200000000002 safety level 9.354002
+**********
+NEW 3452 q hr US dev sell #: 1 NBEV T:  10:00:07.168 Order: 3452 SELL IOC LMT 100.0 at 8.71 msg:  Tradetype Q1000_DEV Status: Created Q1000 type Q1000_DEV qHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.715 8.706 8.71 sellsize 100.0
+3452 3454 *GUARANTEE US FILL* PreSubmitted -> Filled 22:00:08.412 ID: 115 NBEV T:  22:00:07.941 Order: 3454 SELL IOC LMT 100.0 at 8.7 msg:  Tradetype Q1000_DEV Status: Filled TIF: IOC
+US handle generic SHORTABLE NBEV 3.0 2018-10-05T22:10
+2018-10-05T22:10:54.424
+ set US mhr dev direction NBEV M1011 10:11:04.668
+**********
+NEW 3457 mhr US dev sell #: 0 NBEV T:  10:11:04.668 Order: 3457 SELL IOC LMT 100.0 at 8.61 msg:  Tradetype M1011_DEV Status: Created M1011 type M1011_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.65 8.61 8.61 sellsize 100.0
+3457 3457 *GUARANTEE US FILL* PreSubmitted -> Filled 22:11:05.192 ID: 101 NBEV T:  10:11:04.668 Order: 3457 SELL IOC LMT 100.0 at 8.61 msg:  Tradetype M1011_DEV Status: Filled TIF: IOC
+**********
+NEW 3458 mhr US dev buy #: 1 NBEV T:  10:11:24.429 Order: 3458 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype M1011_DEV Status: Created M1011 type M1011_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.65 8.6798 8.68 buysize 100.0
+3458 3463 *GUARANTEE US FILL* Submitted -> Filled 22:11:26.800 ID: 107 NBEV T:  22:11:26.378 Order: 3463 BUY IOC LMT 100.0 at 8.69 msg:  Tradetype M1011_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1012 10:12:00.279
+**********
+NEW 3464 mhr US dev buy #: 0 NBEV T:  10:12:03.176 Order: 3464 BUY IOC LMT 100.0 at 8.67 msg:  Tradetype M1012_DEV Status: Created M1012 type M1012_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.66 8.67 8.67 buysize 100.0
+3464 3465 *GUARANTEE US FILL* PreSubmitted -> Filled 22:12:03.969 ID: 109 NBEV T:  22:12:03.533 Order: 3465 BUY IOC LMT 100.0 at 8.67 msg:  Tradetype M1012_DEV Status: Filled TIF: IOC
+**********
+NEW 3466  US postAMCutoff liq SELL #: 0 T now 10:12:04.229  cutoff 10:00 NBEV T:  10:12:04.229 Order: 3466 SELL IOC LMT 100.0 at 8.6685 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Created last order T 2018-10-05T00:00 currPos 100.0 fresh: 8.6685 open  9.18 safety ratio  0.02 safety margin  0.17337 safety level 9.35337
+**********
+NEW 3467 mhr US dev sell #: 1 NBEV T:  10:12:05.279 Order: 3467 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1012_DEV Status: Created M1012 type M1012_DEV mHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.66 8.65 8.65 sellsize 100.0
+3467 3467 *GUARANTEE US FILL* Submitted -> Filled 22:12:05.750 ID: 111 NBEV T:  10:12:05.279 Order: 3467 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1012_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1013 10:13:00.605
+**********
+NEW 3468 mhr US dev sell #: 0 NBEV T:  10:13:01.018 Order: 3468 SELL IOC LMT 100.0 at 8.77 msg:  Tradetype M1013_DEV Status: Created M1013 type M1013_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.7786 8.77 8.77 sellsize 100.0
+3468 3468 *GUARANTEE US FILL* Submitted -> Filled 22:13:01.490 ID: 112 NBEV T:  10:13:01.018 Order: 3468 SELL IOC LMT 100.0 at 8.77 msg:  Tradetype M1013_DEV Status: Filled TIF: IOC
+**********
+NEW 3469 mUS take profit BUY# 1 NBEV T:  10:13:30.055 Order: 3469 BUY IOC LMT 100.0 at 8.75 msg:  Tradetype M1013_DEV Status: Created min open last 8.6712 8.7786 8.75 buyPrice 8.75 filled -100.0 currPos -100.0 min/open-1 -0.012234297040530362 loThresh -0.01 p/min-1 0.009087554202417136 retreatUpThresh 0.003
+3469 3469 *GUARANTEE US FILL* PreSubmitted -> Filled 22:13:30.531 ID: 113 NBEV T:  10:13:30.055 Order: 3469 BUY IOC LMT 100.0 at 8.75 msg:  Tradetype M1013_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1014 10:14:00.029
+**********
+NEW 3470 mhr US dev sell #: 0 NBEV T:  10:14:00.439 Order: 3470 SELL IOC LMT 100.0 at 8.7 msg:  Tradetype M1014_DEV Status: Created M1014 type M1014_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.7028 8.7015 8.7 sellsize 100.0
+3470 3482 *GUARANTEE US FILL* PreSubmitted -> Filled 22:14:05.609 ID: 126 NBEV T:  22:14:05.201 Order: 3482 SELL IOC LMT 100.0 at 8.66 msg:  Tradetype M1014_DEV Status: Filled TIF: IOC
+**********
+NEW 3483 mhr US dev buy #: 1 NBEV T:  10:14:08.805 Order: 3483 BUY IOC LMT 100.0 at 8.74 msg:  Tradetype M1014_DEV Status: Created M1014 type M1014_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.7028 8.74 8.74 buysize 100.0
+3483 3483 *GUARANTEE US FILL* PreSubmitted -> Filled 22:14:09.312 ID: 127 NBEV T:  10:14:08.805 Order: 3483 BUY IOC LMT 100.0 at 8.74 msg:  Tradetype M1014_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1015 10:15:00.365
+**********
+NEW 3484 mhr US dev buy #: 0 NBEV T:  10:15:00.770 Order: 3484 BUY IOC LMT 100.0 at 8.74 msg:  Tradetype M1015_DEV Status: Created M1015 type M1015_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.73 8.7354 8.74 buysize 100.0
+3484 3484 *GUARANTEE US FILL* PreSubmitted -> Filled 22:15:01.233 ID: 128 NBEV T:  10:15:00.770 Order: 3484 BUY IOC LMT 100.0 at 8.74 msg:  Tradetype M1015_DEV Status: Filled TIF: IOC
+**********
+NEW 3485 mhr US dev sell #: 1 NBEV T:  10:15:04.529 Order: 3485 SELL IOC LMT 100.0 at 8.71 msg:  Tradetype M1015_DEV Status: Created M1015 type M1015_DEV mHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.73 8.7103 8.71 sellsize 100.0
+3485 3485 *GUARANTEE US FILL* PreSubmitted -> Filled 22:15:05.003 ID: 129 NBEV T:  10:15:04.529 Order: 3485 SELL IOC LMT 100.0 at 8.71 msg:  Tradetype M1015_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1016 10:16:00.170
+**********
+NEW 3486 mhr US dev buy #: 0 NBEV T:  10:16:01.218 Order: 3486 BUY IOC LMT 100.0 at 8.66 msg:  Tradetype M1016_DEV Status: Created M1016 type M1016_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.66 8.665 8.66 buysize 100.0
+3486 3504 *GUARANTEE US FILL* PreSubmitted -> Filled 22:16:08.961 ID: 148 NBEV T:  22:16:08.433 Order: 3504 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype M1016_DEV Status: Filled TIF: IOC
+**********
+NEW 3505 mhr US dev sell #: 1 NBEV T:  10:16:46.800 Order: 3505 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1016_DEV Status: Created M1016 type M1016_DEV mHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.66 8.65 8.65 sellsize 100.0
+3505 3517 *GUARANTEE US FILL* Submitted -> Filled 22:16:51.981 ID: 161 NBEV T:  22:16:51.614 Order: 3517 SELL IOC LMT 100.0 at 8.62 msg:  Tradetype M1016_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1017 10:17:02.480
+**********
+NEW 3518 mhr US dev buy #: 0 NBEV T:  10:17:03.525 Order: 3518 BUY IOC LMT 100.0 at 8.67 msg:  Tradetype M1017_DEV Status: Created M1017 type M1017_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.665 8.6731 8.67 buysize 100.0
+**********
+NEW 3531 mhr US dev sell #: 1 NBEV T:  10:17:08.309 Order: 3531 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1017_DEV Status: Created M1017 type M1017_DEV mHfilled 0.0 currPos 0.0 dir Long open fresh sellPrice 8.665 8.65 8.65 sellsize 100.0
+3531 3531 *GUARANTEE US FILL* PreSubmitted -> Filled 22:17:08.799 ID: 175 NBEV T:  10:17:08.309 Order: 3531 SELL IOC LMT 100.0 at 8.65 msg:  Tradetype M1017_DEV Status: Filled TIF: IOC
+3518 3533 *GUARANTEE US FILL* PreSubmitted -> Filled 22:17:09.653 ID: 177 NBEV T:  22:17:09.114 Order: 3533 BUY IOC LMT 100.0 at 8.68 msg:  Tradetype M1017_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1018 10:18:00.764
+**********
+NEW 3534 mhr US dev buy #: 0 NBEV T:  10:18:01.403 Order: 3534 BUY IOC LMT 100.0 at 8.54 msg:  Tradetype M1018_DEV Status: Created M1018 type M1018_DEV qHfilled 0.0 currPos 0.0 dir Flat open fresh buyPrice 8.5334 8.54 8.54 buysize 100.0
+3534 3541 *GUARANTEE US FILL* Submitted -> Filled 22:18:04.704 ID: 185 NBEV T:  22:18:04.262 Order: 3541 BUY IOC LMT 100.0 at 8.55 msg:  Tradetype M1018_DEV Status: Filled TIF: IOC
+**********
+NEW 3542 mhr US dev sell #: 1 NBEV T:  10:18:05.149 Order: 3542 SELL IOC LMT 100.0 at 8.53 msg:  Tradetype M1018_DEV Status: Created M1018 type M1018_DEV mHfilled 100.0 currPos 100.0 dir Long open fresh sellPrice 8.5334 8.53 8.53 sellsize 100.0
+3542 3542 *GUARANTEE US FILL* PreSubmitted -> Filled 22:18:05.704 ID: 186 NBEV T:  10:18:05.149 Order: 3542 SELL IOC LMT 100.0 at 8.53 msg:  Tradetype M1018_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1019 10:19:01.840
+**********
+NEW 3543 mhr US dev sell #: 0 NBEV T:  10:19:02.250 Order: 3543 SELL IOC LMT 100.0 at 8.52 msg:  Tradetype M1019_DEV Status: Created M1019 type M1019_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.53 8.518 8.52 sellsize 100.0
+3543 3553 *GUARANTEE US FILL* Submitted -> Filled 22:19:06.772 ID: 197 NBEV T:  22:19:06.300 Order: 3553 SELL IOC LMT 100.0 at 8.51 msg:  Tradetype M1019_DEV Status: Filled TIF: IOC
+**********
+NEW 3554 mhr US dev buy #: 1 NBEV T:  10:19:22.319 Order: 3554 BUY IOC LMT 100.0 at 8.54 msg:  Tradetype M1019_DEV Status: Created M1019 type M1019_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.53 8.54 8.54 buysize 100.0
+3554 3554 *GUARANTEE US FILL* PreSubmitted -> Filled 22:19:22.790 ID: 198 NBEV T:  10:19:22.319 Order: 3554 BUY IOC LMT 100.0 at 8.54 msg:  Tradetype M1019_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1020 10:20:01.612
+**********
+NEW 3555 mhr US dev sell #: 0 NBEV T:  10:20:03.727 Order: 3555 SELL IOC LMT 100.0 at 8.62 msg:  Tradetype M1020_DEV Status: Created M1020 type M1020_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.6268 8.6228 8.62 sellsize 100.0
+3555 3559 *GUARANTEE US FILL* Submitted -> Filled 22:20:05.666 ID: 203 NBEV T:  22:20:05.278 Order: 3559 SELL IOC LMT 100.0 at 8.61 msg:  Tradetype M1020_DEV Status: Filled TIF: IOC
+**********
+NEW 3560 mhr US dev buy #: 1 NBEV T:  10:20:13.925 Order: 3560 BUY IOC LMT 100.0 at 8.63 msg:  Tradetype M1020_DEV Status: Created M1020 type M1020_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.6268 8.63 8.63 buysize 100.0
+3560 3560 *GUARANTEE US FILL* PreSubmitted -> Filled 22:20:14.390 ID: 204 NBEV T:  10:20:13.925 Order: 3560 BUY IOC LMT 100.0 at 8.63 msg:  Tradetype M1020_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1021 10:21:00.670
+**********
+NEW 3561 mhr US dev sell #: 0 NBEV T:  10:21:01.730 Order: 3561 SELL IOC LMT 100.0 at 8.63 msg:  Tradetype M1021_DEV Status: Created M1021 type M1021_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.6385 8.63 8.63 sellsize 100.0
+**********
+NEW 3574 mhr US dev buy #: 1 NBEV T:  10:21:06.485 Order: 3574 BUY IOC LMT 100.0 at 8.64 msg:  Tradetype M1021_DEV Status: Created M1021 type M1021_DEV qHfilled 0.0 currPos 0.0 dir Short open fresh buyPrice 8.6385 8.6397 8.64 buysize 100.0
+3574 3574 *GUARANTEE US FILL* PreSubmitted -> Filled 22:21:06.982 ID: 218 NBEV T:  10:21:06.485 Order: 3574 BUY IOC LMT 100.0 at 8.64 msg:  Tradetype M1021_DEV Status: Filled TIF: IOC
+3561 3577 *GUARANTEE US FILL* Submitted -> Filled 22:21:08.011 ID: 221 NBEV T:  22:21:07.632 Order: 3577 SELL IOC LMT 100.0 at 8.61 msg:  Tradetype M1021_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1022 10:22:02.267
+**********
+NEW 3578 mhr US dev sell #: 0 NBEV T:  10:22:03.316 Order: 3578 SELL IOC LMT 100.0 at 8.6 msg:  Tradetype M1022_DEV Status: Created M1022 type M1022_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.6 8.5997 8.6 sellsize 100.0
+3578 3590 *GUARANTEE US FILL* PreSubmitted -> Filled 22:22:08.387 ID: 234 NBEV T:  22:22:08.007 Order: 3590 SELL IOC LMT 100.0 at 8.57 msg:  Tradetype M1022_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1023 10:23:03.519
+**********
+NEW 3591 mhr US dev buy #: 0 NBEV T:  10:23:05.273 Order: 3591 BUY IOC LMT 200.0 at 8.57 msg:  Tradetype M1023_DEV Status: Created M1023 type M1023_DEV qHfilled 0.0 currPos -100.0 dir Flat open fresh buyPrice 8.5534 8.57 8.57 buysize 200.0
+3591 3591 *GUARANTEE US FILL* PreSubmitted -> Filled 22:23:05.716 ID: 235 NBEV T:  10:23:05.273 Order: 3591 BUY IOC LMT 200.0 at 8.57 msg:  Tradetype M1023_DEV Status: Filled TIF: IOC
+**********
+NEW 3592 mhr US dev sell #: 1 NBEV T:  10:23:29.939 Order: 3592 SELL IOC LMT 100.0 at 8.55 msg:  Tradetype M1023_DEV Status: Created M1023 type M1023_DEV mHfilled 200.0 currPos 100.0 dir Long open fresh sellPrice 8.5534 8.55 8.55 sellsize 100.0
+3592 3632 *GUARANTEE US FILL* PreSubmitted -> Filled 22:23:47.029 ID: 276 NBEV T:  22:23:46.632 Order: 3632 SELL IOC LMT 100.0 at 8.54 msg:  Tradetype M1023_DEV Status: Filled TIF: IOC
+ set US mhr dev direction NBEV M1024 10:24:00.211
+**********
+NEW 3633 mhr US dev sell #: 0 NBEV T:  10:24:03.149 Order: 3633 SELL IOC LMT 100.0 at 8.55 msg:  Tradetype M1024_DEV Status: Created M1024 type M1024_DEV mHfilled 0.0 currPos 0.0 dir Flat open fresh sellPrice 8.56 8.5535 8.55 sellsize 100.0
+3633 3650 *GUARANTEE US FILL* PreSubmitted -> Filled 22:24:10.678 ID: 294 NBEV T:  22:24:10.107 Order: 3650 SELL IOC LMT 100.0 at 8.55 msg:  Tradetype M1024_DEV Status: Filled TIF: IOC
+**********
+NEW 3651 mhr US dev buy #: 1 NBEV T:  10:24:14.292 Order: 3651 BUY IOC LMT 100.0 at 8.57 msg:  Tradetype M1024_DEV Status: Created M1024 type M1024_DEV qHfilled -100.0 currPos -100.0 dir Short open fresh buyPrice 8.56 8.57 8.57 buysize 100.0
+3651 3656 *GUARANTEE US FILL* Submitted -> Filled 22:24:16.661 ID: 300 NBEV T:  22:24:16.277 Order: 3656 BUY IOC LMT 100.0 at 8.59 msg:  Tradetype M1024_DEV Status: Filled TIF: IOC
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T08:23
+2018-10-08T08:23:02.707
+3659 3659 -> 3660 XU RESUBMIT: FUT_OPEN_DEVI IOC SELL 11507.5 1.0 false ||current SGXA50 T:  09:00:01.732 Order: 3660 SELL IOC LMT 1.0 at 11507.5 msg:  Tradetype FUT_OPEN_DEVI Status: Created bid ask sp last 11505.0 11507.5 2 bp 11507.5
+3659 3660 -> 3661 XU RESUBMIT: FUT_OPEN_DEVI IOC SELL 11502.5 1.0 false ||current SGXA50 T:  09:00:02.015 Order: 3661 SELL IOC LMT 1.0 at 11502.5 msg:  Tradetype FUT_OPEN_DEVI Status: Created bid ask sp last 11502.5 11505.0 2 bp 11502.5
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T11:11
+US handle generic SHORTABLE NBEV 0.0 2018-10-08T12:00
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T12:00
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T12:25
+US handle generic SHORTABLE NBEV 3.0 2018-10-08T19:16
+2018-10-08T19:16:30.619
+2018-10-09T07:11:37.728
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T07:11
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T08:50
+2018-10-09T08:50:20.109
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T09:26
+2018-10-09T09:26:18.261
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T09:29
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T09:30
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T10:00
+2018-10-09T10:00:02.276
+US handle generic SHORTABLE NBEV 0.0 2018-10-09T12:00
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:00
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:02
+2018-10-09T12:02:44.142
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:04
+2018-10-09T12:04:30.295
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:06
+2018-10-09T12:06:06.055
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:23
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T12:30
+2018-10-09T20:46:51.477
+US handle generic SHORTABLE NBEV 3.0 2018-10-09T20:46
+2018-10-10T08:03:08.792
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T08:03
+1444 1444 -> 1445 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:56.551 Order: 1445 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1445 -> 1446 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:56.828 Order: 1446 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1446 -> 1447 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:57.109 Order: 1447 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1447 -> 1448 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:57.395 Order: 1448 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1448 -> 1449 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:57.675 Order: 1449 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1449 -> 1450 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:57.958 Order: 1450 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1450 -> 1451 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:58.234 Order: 1451 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1451 -> 1452 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:58.585 Order: 1452 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1452 -> 1453 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:59.020 Order: 1453 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1453 -> 1454 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:18:59.521 Order: 1454 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1454 -> 1455 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:19:00.020 Order: 1455 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1455 -> 1456 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:19:00.521 Order: 1456 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1456 -> 1457 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:19:01.020 Order: 1457 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1444 1457 -> 1458 XU RESUBMIT: FUT_DEV IOC SELL 11325.0 2.0 false ||current SGXA50 T:  09:19:01.531 Order: 1458 SELL IOC LMT 2.0 at 11325.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11322.5 11325.0 2 bp 11325.0
+1459 1459 -> 1460 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:12.694 Order: 1460 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1460 -> 1461 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:12.971 Order: 1461 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1461 -> 1462 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:13.249 Order: 1462 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1462 -> 1463 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:13.527 Order: 1463 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1463 -> 1464 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:13.805 Order: 1464 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1464 -> 1465 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:14.082 Order: 1465 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11327.5 11332.5 4 bp 11330.0
+1459 1465 -> 1466 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:14.359 Order: 1466 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1466 -> 1467 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:14.645 Order: 1467 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1467 -> 1468 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:14.933 Order: 1468 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1468 -> 1469 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:15.209 Order: 1469 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1469 -> 1470 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:15.486 Order: 1470 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1470 -> 1471 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:15.762 Order: 1471 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1471 -> 1472 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:16.044 Order: 1472 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1472 -> 1473 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:16.328 Order: 1473 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1473 -> 1474 XU RESUBMIT: FUT_DEV IOC BUY 11330.0 2.0 false ||current SGXA50 T:  09:19:16.651 Order: 1474 BUY IOC LMT 2.0 at 11330.0 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11330.0
+1459 1474 -> 1475 XU RESUBMIT: FUT_DEV IOC BUY 11332.5 2.0 false ||current SGXA50 T:  09:19:16.930 Order: 1475 BUY IOC LMT 2.0 at 11332.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11330.0 11332.5 2 bp 11332.5
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:21
+2018-10-10T09:21:22.501
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:32
+2018-10-10T09:32:16.688
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:34
+2018-10-10T09:34:46.159
+2018-10-10T09:35:58.912
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:35
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:37
+2018-10-10T09:37:16.072
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T09:39
+2018-10-10T09:39:20.409
+2018-10-10T10:04:25.258
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:05
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:06
+2018-10-10T10:06:44.973
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:09
+2018-10-10T10:09:13.216
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:10
+2018-10-10T10:10:15.350
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:11
+2018-10-10T10:11:26.470
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:12
+2018-10-10T10:12:57.219
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:28
+2018-10-10T10:28:56.107
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T10:31
+2018-10-10T10:31:04.572
+US handle generic SHORTABLE NBEV 0.0 2018-10-10T12:00
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T12:00
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T12:34
+US handle generic SHORTABLE NBEV 3.0 2018-10-10T12:35
+3671 3671 -> 3672 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:01.736 Order: 3672 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3672 -> 3673 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:02.021 Order: 3673 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3673 -> 3674 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:02.313 Order: 3674 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3674 -> 3675 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:02.601 Order: 3675 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3675 -> 3676 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:02.885 Order: 3676 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3676 -> 3677 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:03.175 Order: 3677 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3677 -> 3678 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:03.458 Order: 3678 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3678 -> 3679 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:03.738 Order: 3679 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3679 -> 3680 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:04.027 Order: 3680 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3680 -> 3681 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:04.313 Order: 3681 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3681 -> 3682 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:04.593 Order: 3682 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3682 -> 3683 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:04.879 Order: 3683 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3683 -> 3684 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:05.160 Order: 3684 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3684 -> 3685 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:05.440 Order: 3685 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3685 -> 3686 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:05.721 Order: 3686 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3686 -> 3687 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:06.005 Order: 3687 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3687 -> 3688 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:06.292 Order: 3688 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3688 -> 3689 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:06.579 Order: 3689 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3689 -> 3690 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:06.866 Order: 3690 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3690 -> 3691 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:07.147 Order: 3691 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3691 -> 3692 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:07.427 Order: 3692 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3692 -> 3693 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:07.707 Order: 3693 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3693 -> 3694 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:07.987 Order: 3694 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3694 -> 3695 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:08.268 Order: 3695 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3695 -> 3696 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:08.549 Order: 3696 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3696 -> 3697 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:08.841 Order: 3697 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3697 -> 3698 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:09.121 Order: 3698 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3698 -> 3699 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:09.404 Order: 3699 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3699 -> 3700 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:09.686 Order: 3700 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3700 -> 3701 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:09.970 Order: 3701 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3701 -> 3702 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:10.250 Order: 3702 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3702 -> 3703 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:10.526 Order: 3703 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3703 -> 3704 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:10.817 Order: 3704 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3704 -> 3705 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:11.100 Order: 3705 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
+3671 3705 -> 3706 XU RESUBMIT: FUT_DEV IOC SELL 11292.5 2.0 false ||current SGXA50 T:  13:51:11.382 Order: 3706 SELL IOC LMT 2.0 at 11292.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11290.0 11292.5 2 bp 11292.5
