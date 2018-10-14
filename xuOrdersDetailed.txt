@@ -694,3 +694,110 @@ NEW 13:59:04.267 3708 fut dev SELL #: 6 SGXA50 T:  13:59:04.267 Order: 3708 SELL
 **********
 NEW 14:00:42.805 3709 fut dev BUY #: 7 SGXA50 T:  14:00:42.805 Order: 3709 BUY IOC LMT 2.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Created open,last  11295.0 11297.5 milliLast2 33752 waitSec 60 nextT 2018-10-10T14:00:04.267 baseSize 2.0
 3709 3709 *GUARANTEE XU FILL PreSubmitted -> Filled 14:00:43.094 ID: 143 SGXA50 T:  14:00:42.805 Order: 3709 BUY IOC LMT 2.0 at 11297.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+2018-10-11T08:52:33.314
+2018-10-11T08:59:17.312
+set fut open dev dir 9:01 09:00:01.610 11002.5
+**********
+NEW 09:00:01.895 3712 fut dev BUY #: 0 SGXA50 T:  09:00:01.895 Order: 3712 BUY IOC LMT 2.0 at 11005.0 msg:  Tradetype FUT_DEV Status: Created open,last  11002.5 11005.0 milliLast2 >1d waitSec 0 nextT 2018-10-11T00:00 baseSize 2.0
+3712 3712 -> 3713 XU RESUBMIT: FUT_DEV IOC BUY 11007.5 2.0 false ||current SGXA50 T:  09:00:02.280 Order: 3713 BUY IOC LMT 2.0 at 11007.5 msg:  Tradetype FUT_DEV Status: Created bid ask sp last 11005.0 11010.0 5 bp 11007.5
+3712 3713 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:02.787 ID: 102 SGXA50 T:  09:00:02.280 Order: 3713 BUY IOC LMT 2.0 at 11007.5 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 09:00:03.275 3714 fut dev SELL #: 1 SGXA50 T:  09:00:03.275 Order: 3714 SELL IOC LMT 2.0 at 11000.0 msg:  Tradetype FUT_DEV Status: Created open,last  11002.5 11000.0 milliLast2 >1d waitSec 0 nextT 2018-10-11T09:00:01.895 baseSize 2.0
+3714 3714 *GUARANTEE XU FILL PreSubmitted -> Filled 09:00:03.593 ID: 103 SGXA50 T:  09:00:03.275 Order: 3714 SELL IOC LMT 2.0 at 11000.0 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 09:05:11.867 3715 fut dev BUY #: 2 SGXA50 T:  09:05:11.867 Order: 3715 BUY IOC LMT 2.0 at 11005.0 msg:  Tradetype FUT_DEV Status: Created open,last  11002.5 11005.0 milliLast2 1380 waitSec 300 nextT 2018-10-11T09:05:03.275 baseSize 2.0
+3715 3715 *GUARANTEE XU FILL PreSubmitted -> Filled 09:05:12.187 ID: 104 SGXA50 T:  09:05:11.867 Order: 3715 BUY IOC LMT 2.0 at 11005.0 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+**********
+NEW 09:15:10.230 3716 fut dev SELL #: 3 SGXA50 T:  09:15:10.230 Order: 3716 SELL IOC LMT 2.0 at 11000.0 msg:  Tradetype FUT_DEV Status: Created open,last  11002.5 11000.0 milliLast2 308592 waitSec 0 nextT 2018-10-11T09:05:11.867 baseSize 2.0
+3716 3716 *GUARANTEE XU FILL Submitted -> Filled 09:15:10.557 ID: 105 SGXA50 T:  09:15:10.230 Order: 3716 SELL IOC LMT 2.0 at 11000.0 msg:  Tradetype FUT_DEV Status: Filled TIF: IOC
+2018-10-11T09:47:04.642
+2018-10-11T10:05:44.978
+2018-10-11T10:07:47.441
+2018-10-11T10:10:35.367
+2018-10-11T10:15:13.224
+2018-10-11T10:16:50.412
+2018-10-11T10:17:26.455
+2018-10-11T10:20:49.399
+2018-10-11T15:21:22.794
+2018-10-11T15:25:12.907
+2018-10-11T15:25:42.769
+2018-10-11T15:26:42.478
+2018-10-11T15:27:28.369
+2018-10-11T15:29:34.411
+2018-10-11T15:34:49.963
+2018-10-11T15:38:55.125
+set fut N open dev dir 17:01 17:00:01.620 10837.5
+**********
+NEW 17:00:01.647 1444 fut N dev SELL #: 0 SGXA50 T:  17:00:01.647 Order: 1444 SELL IOC LMT 1.0 at 10835.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created open,last  10837.5 10835.0 milliLast2 >1d waitSec 0 nextT 2018-10-11T00:00 baseSize 1.0
+1444 1444 -> 1445 XU RESUBMIT: FUT_NIGHT_DEV IOC SELL 10835.0 1.0 false ||current SGXA50 T:  17:00:01.985 Order: 1445 SELL IOC LMT 1.0 at 10835.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10832.5 10835.0 2 bp 10835.0
+1444 1445 -> 1446 XU RESUBMIT: FUT_NIGHT_DEV IOC SELL 10832.5 1.0 false ||current SGXA50 T:  17:00:02.290 Order: 1446 SELL IOC LMT 1.0 at 10832.5 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10830.0 10835.0 5 bp 10832.5
+1444 1446 -> 1447 XU RESUBMIT: FUT_NIGHT_DEV IOC SELL 10830.0 1.0 false ||current SGXA50 T:  17:00:02.583 Order: 1447 SELL IOC LMT 1.0 at 10830.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10827.5 10832.5 5 bp 10830.0
+1444 1447 -> 1448 XU RESUBMIT: FUT_NIGHT_DEV IOC SELL 10830.0 1.0 false ||current SGXA50 T:  17:00:02.880 Order: 1448 SELL IOC LMT 1.0 at 10830.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10827.5 10830.0 2 bp 10830.0
+1444 1448 -> 1449 XU RESUBMIT: FUT_NIGHT_DEV IOC SELL 10830.0 1.0 false ||current SGXA50 T:  17:00:03.177 Order: 1449 SELL IOC LMT 1.0 at 10830.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10827.5 10830.0 2 bp 10830.0
+1444 1449 -> 1450 XU RESUBMIT: FUT_NIGHT_DEV IOC SELL 10825.0 1.0 false ||current SGXA50 T:  17:00:03.505 Order: 1450 SELL IOC LMT 1.0 at 10825.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10825.0 10830.0 5 bp 10825.0
+1444 1450 -> 1451 XU RESUBMIT: FUT_NIGHT_DEV IOC SELL 10825.0 1.0 false ||current SGXA50 T:  17:00:03.802 Order: 1451 SELL IOC LMT 1.0 at 10825.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10822.5 10827.5 5 bp 10825.0
+1444 1451 -> 1452 XU RESUBMIT: FUT_NIGHT_DEV IOC SELL 10820.0 1.0 false ||current SGXA50 T:  17:00:04.100 Order: 1452 SELL IOC LMT 1.0 at 10820.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10822.5 10825.0 2 bp 10820.0
+1444 1452 *GUARANTEE XU FILL PreSubmitted -> Filled 17:00:04.522 ID: 109 SGXA50 T:  17:00:04.100 Order: 1452 SELL IOC LMT 1.0 at 10820.0 msg:  Tradetype FUT_NIGHT_DEV Status: Filled TIF: IOC
+**********
+NEW 17:53:43.540 1453 fut N dev BUY #: 1 SGXA50 T:  17:53:43.540 Order: 1453 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created open,last  10837.5 10840.0 milliLast2 >1d waitSec 0 nextT 2018-10-11T17:00:01.647 baseSize 1.0
+1453 1453 *GUARANTEE XU FILL PreSubmitted -> Filled 17:53:43.858 ID: 110 SGXA50 T:  17:53:43.540 Order: 1453 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Filled TIF: IOC
+**********
+NEW 17:53:47.946 1454 fut N dev SELL #: 2 SGXA50 T:  17:53:47.946 Order: 1454 SELL IOC LMT 1.0 at 10835.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created open,last  10837.5 10835.0 milliLast2 3221893 waitSec 0 nextT 2018-10-11T17:53:43.540 baseSize 1.0
+1454 1454 *GUARANTEE XU FILL PreSubmitted -> Filled 17:53:48.245 ID: 111 SGXA50 T:  17:53:47.946 Order: 1454 SELL IOC LMT 1.0 at 10835.0 msg:  Tradetype FUT_NIGHT_DEV Status: Filled TIF: IOC
+**********
+NEW 18:02:44.198 1455 fut N dev BUY #: 3 SGXA50 T:  18:02:44.198 Order: 1455 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created open,last  10837.5 10840.0 milliLast2 4406 waitSec 300 nextT 2018-10-11T17:58:47.946 baseSize 1.0
+1455 1455 -> 1456 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:44.385 Order: 1456 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1456 -> 1457 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:44.664 Order: 1457 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1457 -> 1458 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:44.951 Order: 1458 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1458 -> 1459 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:45.234 Order: 1459 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1459 -> 1460 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:45.512 Order: 1460 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1460 -> 1461 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:45.787 Order: 1461 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1461 -> 1462 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:46.062 Order: 1462 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1462 -> 1463 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:46.344 Order: 1463 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1463 -> 1464 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:46.623 Order: 1464 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1464 -> 1465 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:46.897 Order: 1465 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1465 -> 1466 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:47.173 Order: 1466 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1466 -> 1467 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:47.449 Order: 1467 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1467 -> 1468 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:47.726 Order: 1468 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1468 -> 1469 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:48.007 Order: 1469 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1469 -> 1470 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:48.290 Order: 1470 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1470 -> 1471 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:48.567 Order: 1471 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1471 -> 1472 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10840.0 1.0 false ||current SGXA50 T:  18:02:48.844 Order: 1472 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10840.0 10842.5 2 bp 10840.0
+1455 1472 -> 1473 XU RESUBMIT: FUT_NIGHT_DEV IOC BUY 10842.5 1.0 false ||current SGXA50 T:  18:02:49.124 Order: 1473 BUY IOC LMT 1.0 at 10842.5 msg:  Tradetype FUT_NIGHT_DEV Status: Created bid ask sp last 10842.5 10845.0 2 bp 10842.5
+1455 1473 *GUARANTEE XU FILL PreSubmitted -> Filled 18:02:49.525 ID: 130 SGXA50 T:  18:02:49.124 Order: 1473 BUY IOC LMT 1.0 at 10842.5 msg:  Tradetype FUT_NIGHT_DEV Status: Filled TIF: IOC
+2018-10-11T18:10:12.283
+2018-10-11T18:37:13.390
+2018-10-12T08:41:36.813
+2018-10-12T08:48:15.938
+2018-10-12T08:49:22.513
+2018-10-12T08:58:56.795
+set fut W dev dir fresh < open 09:00:13.054 10940.0 < 11507.5
+2018-10-12T09:03:37.697
+2018-10-12T09:06:21.552
+set fut W dev dir fresh < open 09:06:37.438 10922.5 < 11507.5
+2018-10-12T09:18:00.731
+set fut W open dev dir 2018-10-12T09:19:00.638 09:18:09.100 10935.0
+**********
+NEW 09:18:09.100 1444 fut W dev BUY #: 0 SGXA50 T:  09:18:09.100 Order: 1444 BUY IOC LMT 1.0 at 10935.0 msg:  Tradetype FUT_WEEK_DEV Status: Created open,last  10930.0 10935.0 milliLast2 >1d waitSec 0 nextT 2018-10-12T00:00 baseSize 1.0
+1444 1444 *GUARANTEE XU FILL PreSubmitted -> Filled 09:18:09.586 ID: 101 SGXA50 T:  09:18:09.100 Order: 1444 BUY IOC LMT 1.0 at 10935.0 msg:  Tradetype FUT_WEEK_DEV Status: Filled TIF: IOC
+**********
+NEW 09:18:13.214 1445 fut W dev SELL #: 1 SGXA50 T:  09:18:13.214 Order: 1445 SELL IOC LMT 1.0 at 10927.5 msg:  Tradetype FUT_WEEK_DEV Status: Created open,last  10930.0 10927.5 milliLast2 >1d waitSec 0 nextT 2018-10-12T09:18:09.100 baseSize 1.0
+1445 1445 *GUARANTEE XU FILL PreSubmitted -> Filled 09:18:13.506 ID: 102 SGXA50 T:  09:18:13.214 Order: 1445 SELL IOC LMT 1.0 at 10927.5 msg:  Tradetype FUT_WEEK_DEV Status: Filled TIF: IOC
+2018-10-12T09:23:25.221
+set fut W dev dir fresh < open 09:23:52.535 10935.0 < 11507.5
+2018-10-12T10:15:27.733
+set fut W dev dir fresh < open 10:15:39.223 10965.0 < 11507.5
+2018-10-12T10:21:34.546
+set fut W dev dir fresh < open 10:21:38.939 10972.5 < 11507.5
+2018-10-12T10:23:59.456
+2018-10-12T10:28:51.237
+set fut W dev dir fresh < open 10:29:18.049 10960.0 < 11507.5
+2018-10-12T10:43:20.648
+set fut W dev dir fresh < open 10:43:27.021 10937.5 < 11507.5
+2018-10-12T10:56:12.868
+set fut W dev dir fresh < open 10:56:16.404 10912.5 < 11507.5
+2018-10-12T11:04:01.235
+2018-10-12T11:11:53.835
+2018-10-12T11:22:05.748
+2018-10-12T11:28:14.322
+set fut W dev dir fresh < open 11:35:19.654 11037.5 < 11507.5

@@ -7862,3 +7862,2282 @@ ERROR LIVE ID: -1 code 504 MSG Not connected
 ERROR LIVE ID: -1 code 504 MSG Not connected
 ERROR LIVE ID: -1 code 504 MSG Not connected
 ERROR LIVE ID: -1 code 504 MSG Not connected
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10003724 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR Guarantee XU handler: defaultID 101 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  09:00:01.895 Order: 3712 BUY IOC LMT 2.0 at 11005.0 msg:  Tradetype FUT_DEV Status: Created
+ERROR LIVE ID: 3712 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 101 error code 202 Order Canceled - reason: SGXA50 T:  09:00:01.895 Order: 3712 BUY IOC LMT 2.0 at 11005.0 msg:  Tradetype FUT_DEV Status: PendingCancel
+ERROR LIVE ID: 3712 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 102 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  09:00:02.280 Order: 3713 BUY IOC LMT 2.0 at 11007.5 msg:  Tradetype FUT_DEV Status: Created
+ERROR LIVE ID: 3713 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 103 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  09:00:03.275 Order: 3714 SELL IOC LMT 2.0 at 11000.0 msg:  Tradetype FUT_DEV Status: Created
+ERROR LIVE ID: 3714 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR Guarantee XU handler: defaultID 104 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  09:05:11.867 Order: 3715 BUY IOC LMT 2.0 at 11005.0 msg:  Tradetype FUT_DEV Status: Created
+ERROR LIVE ID: 3715 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR Guarantee XU handler: defaultID 105 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  09:15:10.230 Order: 3716 SELL IOC LMT 2.0 at 11000.0 msg:  Tradetype FUT_DEV Status: Created
+ERROR LIVE ID: 3716 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ tradeKey already in the set  00013d70.5bbd27ec.01
+ tradeKey already in the set  00013d70.5bbd27ee.01
+ tradeKey already in the set  00013d70.5bbd2fba.01
+ tradeKey already in the set  00013d70.5bbd3671.01
+ tradeKey already in the set  00013d70.5bbd388a.01
+ tradeKey already in the set  00013d70.5bbd389c.01
+ tradeKey already in the set  00013d70.5bbd389d.01
+ tradeKey already in the set  00013d70.5bbd389e.01
+ tradeKey already in the set  00013d70.5bbd38a8.01
+ tradeKey already in the set  00013d70.5bbd38ea.01
+ tradeKey already in the set  00013d70.5bbd38ec.01
+ tradeKey already in the set  00013d70.5bbd3911.01
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR Guarantee HK handler: 101 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCH.HK T:  10:22:54.808 Order: 3719 BUY IOC LMT 1.0 at 10133.0 msg:  Tradetype HK_FUT_DEV Status: Created
+ERROR LIVE ID: 3719 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee HK handler: 102 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCH.HK T:  10:22:56.533 Order: 3720 SELL IOC LMT 1.0 at 10130.0 msg:  Tradetype HK_FUT_DEV Status: Created
+ERROR LIVE ID: 3720 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ushmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ilhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:ushmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:ilhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ushmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ushmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ushmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ushmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:ushmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ilhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ilhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ilhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ilhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ilhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ilhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ilhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:euhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:ilhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:fundfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:ushmds.us
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfuture
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfuture
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usopt
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usopt
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfarm.us
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfarm.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfuture.us
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.usfuture.us
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.eufarm
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfarm.us
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:hfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfuture
+ERROR LIVE ID: 10003735 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usopt
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:secdefhk
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ushmds.us
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:euhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ilhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:cashhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:fundfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:hkhmds
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:ushmds
+ERROR LIVE ID: -1 code 540 MSG Request Positions Sending Error - java.net.SocketException: Connection reset by peer: socket write error
+ERROR LIVE ID: -1 code 516 MSG Request Open Order Sending Error -java.net.SocketException: Connection reset by peer: socket write error
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR Guarantee XU handler: defaultID 101 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:00:01.647 Order: 1444 SELL IOC LMT 1.0 at 10835.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1444 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 101 error code 202 Order Canceled - reason: SGXA50 T:  17:00:01.647 Order: 1444 SELL IOC LMT 1.0 at 10835.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1444 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 102 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:00:01.985 Order: 1445 SELL IOC LMT 1.0 at 10835.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1445 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 102 error code 202 Order Canceled - reason: SGXA50 T:  17:00:01.985 Order: 1445 SELL IOC LMT 1.0 at 10835.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1445 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 103 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:00:02.290 Order: 1446 SELL IOC LMT 1.0 at 10832.5 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1446 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 103 error code 202 Order Canceled - reason: SGXA50 T:  17:00:02.290 Order: 1446 SELL IOC LMT 1.0 at 10832.5 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1446 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 104 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:00:02.583 Order: 1447 SELL IOC LMT 1.0 at 10830.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1447 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 104 error code 202 Order Canceled - reason: SGXA50 T:  17:00:02.583 Order: 1447 SELL IOC LMT 1.0 at 10830.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1447 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 105 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:00:02.880 Order: 1448 SELL IOC LMT 1.0 at 10830.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1448 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 105 error code 202 Order Canceled - reason: SGXA50 T:  17:00:02.880 Order: 1448 SELL IOC LMT 1.0 at 10830.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1448 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 106 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:00:03.177 Order: 1449 SELL IOC LMT 1.0 at 10830.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1449 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 106 error code 202 Order Canceled - reason: SGXA50 T:  17:00:03.177 Order: 1449 SELL IOC LMT 1.0 at 10830.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1449 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 107 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:00:03.505 Order: 1450 SELL IOC LMT 1.0 at 10825.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1450 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 107 error code 202 Order Canceled - reason: SGXA50 T:  17:00:03.505 Order: 1450 SELL IOC LMT 1.0 at 10825.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1450 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 108 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:00:03.802 Order: 1451 SELL IOC LMT 1.0 at 10825.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1451 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 108 error code 202 Order Canceled - reason: SGXA50 T:  17:00:03.802 Order: 1451 SELL IOC LMT 1.0 at 10825.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1451 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 109 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:00:04.100 Order: 1452 SELL IOC LMT 1.0 at 10820.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1452 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 110 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:53:43.540 Order: 1453 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1453 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 111 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  17:53:47.946 Order: 1454 SELL IOC LMT 1.0 at 10835.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1454 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 112 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:44.198 Order: 1455 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1455 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 112 error code 202 Order Canceled - reason: SGXA50 T:  18:02:44.198 Order: 1455 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1455 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 113 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:44.385 Order: 1456 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1456 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 113 error code 202 Order Canceled - reason: SGXA50 T:  18:02:44.385 Order: 1456 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1456 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 114 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:44.664 Order: 1457 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1457 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 114 error code 202 Order Canceled - reason: SGXA50 T:  18:02:44.664 Order: 1457 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1457 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 115 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:44.951 Order: 1458 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1458 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 115 error code 202 Order Canceled - reason: SGXA50 T:  18:02:44.951 Order: 1458 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1458 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 116 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:45.234 Order: 1459 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1459 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 116 error code 202 Order Canceled - reason: SGXA50 T:  18:02:45.234 Order: 1459 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1459 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 117 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:45.512 Order: 1460 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1460 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 117 error code 202 Order Canceled - reason: SGXA50 T:  18:02:45.512 Order: 1460 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1460 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 118 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:45.787 Order: 1461 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1461 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 118 error code 202 Order Canceled - reason: SGXA50 T:  18:02:45.787 Order: 1461 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1461 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 119 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:46.062 Order: 1462 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1462 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 119 error code 202 Order Canceled - reason: SGXA50 T:  18:02:46.062 Order: 1462 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1462 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 120 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:46.344 Order: 1463 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1463 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 120 error code 202 Order Canceled - reason: SGXA50 T:  18:02:46.344 Order: 1463 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1463 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 121 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:46.623 Order: 1464 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1464 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 121 error code 202 Order Canceled - reason: SGXA50 T:  18:02:46.623 Order: 1464 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1464 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 122 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:46.897 Order: 1465 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1465 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 122 error code 202 Order Canceled - reason: SGXA50 T:  18:02:46.897 Order: 1465 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1465 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 123 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:47.173 Order: 1466 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1466 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 123 error code 202 Order Canceled - reason: SGXA50 T:  18:02:47.173 Order: 1466 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1466 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 124 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:47.449 Order: 1467 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1467 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 124 error code 202 Order Canceled - reason: SGXA50 T:  18:02:47.449 Order: 1467 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1467 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 125 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:47.726 Order: 1468 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1468 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 125 error code 202 Order Canceled - reason: SGXA50 T:  18:02:47.726 Order: 1468 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1468 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 126 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:48.007 Order: 1469 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1469 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 126 error code 202 Order Canceled - reason: SGXA50 T:  18:02:48.007 Order: 1469 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1469 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 127 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:48.290 Order: 1470 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1470 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 127 error code 202 Order Canceled - reason: SGXA50 T:  18:02:48.290 Order: 1470 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1470 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 128 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:48.567 Order: 1471 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1471 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 128 error code 202 Order Canceled - reason: SGXA50 T:  18:02:48.567 Order: 1471 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1471 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 129 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:48.844 Order: 1472 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1472 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 129 error code 202 Order Canceled - reason: SGXA50 T:  18:02:48.844 Order: 1472 BUY IOC LMT 1.0 at 10840.0 msg:  Tradetype FUT_NIGHT_DEV Status: PendingCancel
+ERROR LIVE ID: 1472 code 202 MSG Order Canceled - reason:
+ERROR Guarantee XU handler: defaultID 130 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  18:02:49.124 Order: 1473 BUY IOC LMT 1.0 at 10842.5 msg:  Tradetype FUT_NIGHT_DEV Status: Created
+ERROR LIVE ID: 1473 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:hfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ID: -1 code 1102 MSG Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:hfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:jfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ID: 10001488 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:jfarm
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001456 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR Guarantee XU handler: defaultID 101 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  09:18:09.100 Order: 1444 BUY IOC LMT 1.0 at 10935.0 msg:  Tradetype FUT_WEEK_DEV Status: Created
+ERROR LIVE ID: 1444 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR Guarantee XU handler: defaultID 102 error code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. SGXA50 T:  09:18:13.214 Order: 1445 SELL IOC LMT 1.0 at 10927.5 msg:  Tradetype FUT_WEEK_DEV Status: Created
+ERROR LIVE ID: 1445 code 2109 MSG Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:hfarm
+ERROR LIVE ID: -1 code 2105 MSG HMDS data farm connection is broken:hkhmds
+ERROR LIVE ID: -1 code 1102 MSG Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR LIVE ID: -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:jfarm
+ERROR LIVE ID: -1 code 2119 MSG Market data farm is connecting:hfarm
+ERROR LIVE ID: -1 code 2119 MSG Market data farm is connecting:usfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:hfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ID: -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ID: -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:hfarm
+ERROR LIVE ID: 10001460 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ID: -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ID: -1 code 540 MSG Request Positions Sending Error - java.net.SocketException: Connection reset by peer: socket write error
+ERROR LIVE ID: -1 code 516 MSG Request Open Order Sending Error -java.net.SocketException: Connection reset by peer: socket write error
+ERROR LIVE ID: -1 code 504 MSG Not connected
+ERROR LIVE ID: -1 code 504 MSG Not connected
