@@ -38,3 +38,15 @@ set fut Wdev dir fresh < open 10:43:28.937 10162.0 < 10515.0
 set fut Wdev dir fresh < open 10:56:22.277 10140.0 < 10515.0
 2018-10-12T11:35:16.577
 set fut Wdev dir fresh < open 11:35:16.560 10236.0 < 10515.0
+2018-10-15T09:15:01.739
+set fut Wdev dir fresh > open 09:15:01.732 10193.0 > 10190.0
+**********
+NEW 09:15:06.053 1447 hkfut Wdev SELL #: 0 MCH.HK T:  09:15:06.053 Order: 1447 SELL IOC LMT 1.0 at 10189.0 msg:  Tradetype HK_FUT_WDEV Status: Created open,last  10190.0 10189.0 milliLast2 >1d waitSec 0 nextT 2018-10-15T00:00 baseSize 1.0
+1447 *GUARANTEE HK* **STATUS CHG** ConstructedInHandler -> PendingCancel 09:15:06.204 ID: 104 MCH.HK T:  09:15:06.053 Order: 1447 SELL IOC LMT 1.0 at 10189.0 msg:  Tradetype HK_FUT_WDEV Status: PendingCancel TIF: IOC
+1447 -> 1448 RESUBMIT HK. Type, TIF, Action, P, Q, Primary? HK_FUT_WDEV DAY SELL 10189.0 1.0 false current MCH.HK T:  09:15:06.215 Order: 1448 SELL DAY LMT 1.0 at 10189.0 msg:  Tradetype HK_FUT_WDEV Status: Created bid ask sp last 10185.0 10188.0 3 bp 10189.0
+1448 *GUARANTEE HK* **STATUS CHG** ConstructedInHandler -> Submitted 09:15:06.464 ID: 105 MCH.HK T:  09:15:06.215 Order: 1448 SELL DAY LMT 1.0 at 10189.0 msg:  Tradetype HK_FUT_WDEV Status: Submitted TIF: DAY
+1448 *GUARANTEE HK* **STATUS CHG** Submitted -> Filled 09:15:08.028 ID: 105 MCH.HK T:  09:15:06.215 Order: 1448 SELL DAY LMT 1.0 at 10189.0 msg:  Tradetype HK_FUT_WDEV Status: Filled TIF: DAY
+**********
+NEW 09:15:09.745 1449 hkfut Wdev BUY #: 1 MCH.HK T:  09:15:09.745 Order: 1449 BUY IOC LMT 1.0 at 10191.0 msg:  Tradetype HK_FUT_WDEV Status: Created open,last  10190.0 10191.0 milliLast2 >1d waitSec 0 nextT 2018-10-15T09:15:06.053 baseSize 1.0
+1449 *GUARANTEE HK* **STATUS CHG** ConstructedInHandler -> PreSubmitted 09:15:09.896 ID: 106 MCH.HK T:  09:15:09.745 Order: 1449 BUY IOC LMT 1.0 at 10191.0 msg:  Tradetype HK_FUT_WDEV Status: PreSubmitted TIF: IOC
+1449 *GUARANTEE HK* **STATUS CHG** PreSubmitted -> Filled 09:15:10.004 ID: 106 MCH.HK T:  09:15:09.745 Order: 1449 BUY IOC LMT 1.0 at 10191.0 msg:  Tradetype HK_FUT_WDEV Status: Filled TIF: IOC
