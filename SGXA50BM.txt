@@ -1,0 +1,80 @@
+1444  Manual Bid Limit  bid1 SGXA50BM T:  10:31:52.284 Order: 1444 BUY DAY LMT 1.0 at 10892.5 msg:  Tradetype ON_BID Status: Created
+1444 **FILLS** ConstructedInHandler -> Filled 10:31:55 ID: 101 SGXA50BM T:  10:31:52.284 Order: 1444 BUY DAY LMT 1.0 at 10892.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+1445  Manual Bid Limit  bid1 SGXA50BM T:  10:32:12.001 Order: 1445 BUY DAY LMT 1.0 at 10895.0 msg:  Tradetype ON_BID Status: Created
+1445 **FILLS** ConstructedInHandler -> Filled 10:33:16 ID: 102 SGXA50BM T:  10:32:12.001 Order: 1445 BUY DAY LMT 1.0 at 10895.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3757  Manual Offer Limit  ask1 SGXA50BM T:  09:01:40.152 Order: 3757 SELL DAY LMT 1.0 at 10917.5 msg:  Tradetype ON_OFFER Status: Created
+3757 **FILLS** ConstructedInHandler -> Filled 09:01:44 ID: 101 SGXA50BM T:  09:01:40.152 Order: 3757 SELL DAY LMT 1.0 at 10917.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3758  Manual Bid Limit  bid1 SGXA50BM T:  09:34:20.009 Order: 3758 BUY DAY LMT 1.0 at 10922.5 msg:  Tradetype ON_BID Status: Created
+3758 **FILLS** ConstructedInHandler -> Filled 09:34:45 ID: 102 SGXA50BM T:  09:34:20.009 Order: 3758 BUY DAY LMT 1.0 at 10922.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3759  Manual Bid Limit  bid1 SGXA50BM T:  09:35:07.569 Order: 3759 BUY DAY LMT 1.0 at 10922.5 msg:  Tradetype ON_BID Status: Created
+3759 **FILLS** ConstructedInHandler -> Filled 09:35:08 ID: 103 SGXA50BM T:  09:35:07.569 Order: 3759 BUY DAY LMT 1.0 at 10922.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3760  Manual Bid Limit  bid1 SGXA50BM T:  09:35:57.870 Order: 3760 BUY DAY LMT 1.0 at 10907.5 msg:  Tradetype ON_BID Status: Created
+3761  Manual Bid Limit  bid1 SGXA50BM T:  09:36:46.022 Order: 3761 BUY DAY LMT 1.0 at 10915.0 msg:  Tradetype ON_BID Status: Created
+3762  Manual Bid Limit  bid1 SGXA50BM T:  09:37:54.619 Order: 3762 BUY DAY LMT 1.0 at 10922.5 msg:  Tradetype ON_BID Status: Created
+3762 **FILLS** ConstructedInHandler -> Filled 09:38:05 ID: 106 SGXA50BM T:  09:37:54.619 Order: 3762 BUY DAY LMT 1.0 at 10922.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3763  Manual Bid Limit  bid1 SGXA50BM T:  09:40:35.855 Order: 3763 BUY DAY LMT 1.0 at 10932.5 msg:  Tradetype ON_BID Status: Created
+3763 **FILLS** ConstructedInHandler -> Filled 09:40:56 ID: 107 SGXA50BM T:  09:40:35.855 Order: 3763 BUY DAY LMT 1.0 at 10932.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3764  Manual Bid Limit  bid1 SGXA50BM T:  09:42:49.317 Order: 3764 BUY DAY LMT 1.0 at 10922.5 msg:  Tradetype ON_BID Status: Created
+3764 **FILLS** ConstructedInHandler -> Filled 09:42:50 ID: 108 SGXA50BM T:  09:42:49.317 Order: 3764 BUY DAY LMT 1.0 at 10922.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3765  Manual Bid Limit  bid1 SGXA50BM T:  09:45:41.366 Order: 3765 BUY DAY LMT 1.0 at 10917.5 msg:  Tradetype ON_BID Status: Created
+3765 **FILLS** ConstructedInHandler -> Filled 09:45:46 ID: 109 SGXA50BM T:  09:45:41.366 Order: 3765 BUY DAY LMT 1.0 at 10917.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3766  Manual Bid Limit  bid1 SGXA50BM T:  10:24:50.878 Order: 3766 BUY DAY LMT 1.0 at 10932.5 msg:  Tradetype ON_BID Status: Created
+3766 **FILLS** ConstructedInHandler -> Filled 10:24:53 ID: 110 SGXA50BM T:  10:24:50.878 Order: 3766 BUY DAY LMT 1.0 at 10932.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3767  Manual Offer Limit  ask1 SGXA50BM T:  13:25:36.187 Order: 3767 SELL DAY LMT 1.0 at 11017.5 msg:  Tradetype ON_OFFER Status: Created
+3767 **FILLS** ConstructedInHandler -> Filled 13:26:14 ID: 111 SGXA50BM T:  13:25:36.187 Order: 3767 SELL DAY LMT 1.0 at 11017.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3768  Manual Offer Limit  ask1 SGXA50BM T:  13:30:33.892 Order: 3768 SELL DAY LMT 1.0 at 11010.0 msg:  Tradetype ON_OFFER Status: Created
+3768 **FILLS** ConstructedInHandler -> Filled 13:30:34 ID: 112 SGXA50BM T:  13:30:33.892 Order: 3768 SELL DAY LMT 1.0 at 11010.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3769  Manual Offer Limit  ask1 SGXA50BM T:  13:40:26.886 Order: 3769 SELL DAY LMT 1.0 at 11005.0 msg:  Tradetype ON_OFFER Status: Created
+3769 **FILLS** ConstructedInHandler -> Filled 13:40:28 ID: 113 SGXA50BM T:  13:40:26.886 Order: 3769 SELL DAY LMT 1.0 at 11005.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3770  Manual Offer Limit  ask1 SGXA50BM T:  13:40:35.168 Order: 3770 SELL DAY LMT 1.0 at 11007.5 msg:  Tradetype ON_OFFER Status: Created
+3770 **FILLS** ConstructedInHandler -> Filled 13:40:52 ID: 114 SGXA50BM T:  13:40:35.168 Order: 3770 SELL DAY LMT 1.0 at 11007.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3771  Manual Offer Limit  ask1 SGXA50BM T:  13:41:31.910 Order: 3771 SELL DAY LMT 1.0 at 11010.0 msg:  Tradetype ON_OFFER Status: Created
+3771 **FILLS** ConstructedInHandler -> Filled 13:41:33 ID: 115 SGXA50BM T:  13:41:31.910 Order: 3771 SELL DAY LMT 1.0 at 11010.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3772  Manual Offer Limit  ask1 SGXA50BM T:  13:41:48.127 Order: 3772 SELL DAY LMT 1.0 at 11010.0 msg:  Tradetype ON_OFFER Status: Created
+3772 **FILLS** ConstructedInHandler -> Filled 13:42:42 ID: 116 SGXA50BM T:  13:41:48.127 Order: 3772 SELL DAY LMT 1.0 at 11010.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3775  Manual Offer Limit  ask1 SGXA50BM T:  09:00:00.776 Order: 3775 SELL DAY LMT 1.0 at 11117.5 msg:  Tradetype ON_OFFER Status: Created
+3775 **FILLS** ConstructedInHandler -> Filled 09:00:07 ID: 101 SGXA50BM T:  09:00:00.776 Order: 3775 SELL DAY LMT 1.0 at 11117.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3776  Manual Offer Limit  ask1 SGXA50BM T:  09:00:30.810 Order: 3776 SELL DAY LMT 1.0 at 11127.5 msg:  Tradetype ON_OFFER Status: Created
+3776 **FILLS** ConstructedInHandler -> Filled 09:00:31 ID: 102 SGXA50BM T:  09:00:30.810 Order: 3776 SELL DAY LMT 1.0 at 11127.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3777  Manual Offer Limit  ask1 SGXA50BM T:  09:01:47.906 Order: 3777 SELL DAY LMT 1.0 at 11117.5 msg:  Tradetype ON_OFFER Status: Created
+3777 **FILLS** ConstructedInHandler -> Filled 09:02:25 ID: 103 SGXA50BM T:  09:01:47.906 Order: 3777 SELL DAY LMT 1.0 at 11117.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3778  Manual Offer Limit  ask1 SGXA50BM T:  09:06:37.716 Order: 3778 SELL DAY LMT 1.0 at 11107.5 msg:  Tradetype ON_OFFER Status: Created
+3778 **FILLS** ConstructedInHandler -> Filled 09:22:59 ID: 104 SGXA50BM T:  09:06:37.716 Order: 3778 SELL DAY LMT 1.0 at 11107.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3779  Manual Offer Limit  ask1 SGXA50BM T:  09:26:01.211 Order: 3779 SELL DAY LMT 1.0 at 11115.0 msg:  Tradetype ON_OFFER Status: Created
+3780  Manual Offer Limit  ask1 SGXA50BM T:  09:31:47.582 Order: 3780 SELL DAY LMT 1.0 at 11102.5 msg:  Tradetype ON_OFFER Status: Created
+3780 **FILLS** ConstructedInHandler -> Filled 09:31:48 ID: 106 SGXA50BM T:  09:31:47.582 Order: 3780 SELL DAY LMT 1.0 at 11102.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3781  Manual Bid Limit  bid1 SGXA50BM T:  09:35:28.809 Order: 3781 BUY DAY LMT 1.0 at 11107.5 msg:  Tradetype ON_BID Status: Created
+3781 **FILLS** ConstructedInHandler -> Filled 09:35:31 ID: 107 SGXA50BM T:  09:35:28.809 Order: 3781 BUY DAY LMT 1.0 at 11107.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3782  Manual Bid Limit  bid1 SGXA50BM T:  09:35:37.749 Order: 3782 BUY DAY LMT 1.0 at 11100.0 msg:  Tradetype ON_BID Status: Created
+3782 **FILLS** ConstructedInHandler -> Filled 09:35:38 ID: 108 SGXA50BM T:  09:35:37.749 Order: 3782 BUY DAY LMT 1.0 at 11100.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3783  Manual Bid Limit  bid1 SGXA50BM T:  09:35:50.473 Order: 3783 BUY DAY LMT 1.0 at 11092.5 msg:  Tradetype ON_BID Status: Created
+3783 **FILLS** ConstructedInHandler -> Filled 09:35:52 ID: 109 SGXA50BM T:  09:35:50.473 Order: 3783 BUY DAY LMT 1.0 at 11092.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3784  Manual Bid Limit  bid1 SGXA50BM T:  09:37:59.807 Order: 3784 BUY DAY LMT 1.0 at 11105.0 msg:  Tradetype ON_BID Status: Created
+3784 **FILLS** ConstructedInHandler -> Filled 09:38:02 ID: 110 SGXA50BM T:  09:37:59.807 Order: 3784 BUY DAY LMT 1.0 at 11105.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3785  Manual Bid Limit  bid2 SGXA50BM T:  09:38:33.333 Order: 3785 BUY DAY LMT 1.0 at 11115.0 msg:  Tradetype ON_BID Status: Created
+3785 **FILLS** ConstructedInHandler -> Filled 09:38:45 ID: 111 SGXA50BM T:  09:38:33.333 Order: 3785 BUY DAY LMT 1.0 at 11115.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3786  Manual Offer Limit  ask1 SGXA50BM T:  09:43:17.794 Order: 3786 SELL DAY LMT 1.0 at 11095.0 msg:  Tradetype ON_OFFER Status: Created
+3787  Manual Offer Limit  ask1 SGXA50BM T:  09:44:08.752 Order: 3787 SELL DAY LMT 1.0 at 11087.5 msg:  Tradetype ON_OFFER Status: Created
+3787 **FILLS** ConstructedInHandler -> Filled 09:44:29 ID: 113 SGXA50BM T:  09:44:08.752 Order: 3787 SELL DAY LMT 1.0 at 11087.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3788  Manual Offer Limit  ask1 SGXA50BM T:  09:46:34.625 Order: 3788 SELL DAY LMT 1.0 at 11080.0 msg:  Tradetype ON_OFFER Status: Created
+3788 **FILLS** ConstructedInHandler -> Filled 09:46:36 ID: 114 SGXA50BM T:  09:46:34.625 Order: 3788 SELL DAY LMT 1.0 at 11080.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3789  Manual Offer Limit  ask1 SGXA50BM T:  09:49:03.032 Order: 3789 SELL DAY LMT 1.0 at 11080.0 msg:  Tradetype ON_OFFER Status: Created
+3789 **FILLS** ConstructedInHandler -> Filled 09:50:12 ID: 115 SGXA50BM T:  09:49:03.032 Order: 3789 SELL DAY LMT 1.0 at 11080.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3790  Manual Offer Limit  ask1 SGXA50BM T:  09:52:44.744 Order: 3790 SELL DAY LMT 1.0 at 11077.5 msg:  Tradetype ON_OFFER Status: Created
+3790 **FILLS** ConstructedInHandler -> Filled 09:53:27 ID: 116 SGXA50BM T:  09:52:44.744 Order: 3790 SELL DAY LMT 1.0 at 11077.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3791  Manual Offer Limit  ask1 SGXA50BM T:  09:58:56.292 Order: 3791 SELL DAY LMT 1.0 at 11070.0 msg:  Tradetype ON_OFFER Status: Created
+3791 **FILLS** ConstructedInHandler -> Filled 09:59:14 ID: 117 SGXA50BM T:  09:58:56.292 Order: 3791 SELL DAY LMT 1.0 at 11070.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3792  Manual Offer Limit  ask2 SGXA50BM T:  10:01:21.444 Order: 3792 SELL DAY LMT 1.0 at 11075.0 msg:  Tradetype ON_OFFER Status: Created
+3792 **FILLS** ConstructedInHandler -> Filled 10:01:30 ID: 118 SGXA50BM T:  10:01:21.444 Order: 3792 SELL DAY LMT 1.0 at 11075.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3793  Manual Offer Limit  ask1 SGXA50BM T:  10:04:59.810 Order: 3793 SELL DAY LMT 1.0 at 11090.0 msg:  Tradetype ON_OFFER Status: Created
+3793 **FILLS** ConstructedInHandler -> Filled 10:05:34 ID: 119 SGXA50BM T:  10:04:59.810 Order: 3793 SELL DAY LMT 1.0 at 11090.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3794  Manual Bid Limit  bid1 SGXA50BM T:  10:08:41.501 Order: 3794 BUY DAY LMT 1.0 at 11062.5 msg:  Tradetype ON_BID Status: Created
+3794 **FILLS** ConstructedInHandler -> Filled 10:09:22 ID: 120 SGXA50BM T:  10:08:41.501 Order: 3794 BUY DAY LMT 1.0 at 11062.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3795  Manual Bid Limit  bid1 SGXA50BM T:  10:09:42.412 Order: 3795 BUY DAY LMT 1.0 at 11062.5 msg:  Tradetype ON_BID Status: Created
+3795 **FILLS** ConstructedInHandler -> Filled 10:09:43 ID: 121 SGXA50BM T:  10:09:42.412 Order: 3795 BUY DAY LMT 1.0 at 11062.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3796  Manual Bid Limit  bid1 SGXA50BM T:  10:23:49.331 Order: 3796 BUY DAY LMT 1.0 at 11055.0 msg:  Tradetype ON_BID Status: Created
+3796 **FILLS** ConstructedInHandler -> Filled 10:24 ID: 122 SGXA50BM T:  10:23:49.331 Order: 3796 BUY DAY LMT 1.0 at 11055.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3797  Manual Bid Limit  bid1 SGXA50BM T:  10:26:07.258 Order: 3797 BUY DAY LMT 1.0 at 11050.0 msg:  Tradetype ON_BID Status: Created
+3797 **FILLS** ConstructedInHandler -> Filled 10:26:58 ID: 123 SGXA50BM T:  10:26:07.258 Order: 3797 BUY DAY LMT 1.0 at 11050.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3798  Manual Bid Limit  bid1 SGXA50BM T:  10:28:09.102 Order: 3798 BUY DAY LMT 1.0 at 11047.5 msg:  Tradetype ON_BID Status: Created
+3798 **FILLS** ConstructedInHandler -> Filled 10:29:38 ID: 124 SGXA50BM T:  10:28:09.102 Order: 3798 BUY DAY LMT 1.0 at 11047.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY

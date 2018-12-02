@@ -1,3 +1,1 @@
 ticker		cashDiv	cashDivDate	stockDiv	stockDivDate	lastPrice	adjFactor	adjPrice	inList
-1	sz002555	ÈýÆß»¥Óé	1	2018-10-26	0	2018-10-26	10.77	0.990714948932219	10.67	TRUE
-2	sh601877	ÕýÌ©µçÆ÷	2	2018-10-26	0	2018-10-26	23.04	0.991319444444444	22.84	TRUE
