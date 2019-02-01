@@ -1,0 +1,13 @@
+{
+    "path" : "C:/Users/Luke Shi/Desktop/Trading",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 2
+        }
+    ]
+}

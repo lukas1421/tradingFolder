@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "ticker\t\tcashDiv\tcashDivDate\tstockDiv\tstockDivDate\tlastPrice\tadjFactor\tadjPrice\tinList\n1\tsz002444\t巨星科技\t1\t2017-07-03\t0\t2017-07-03\t15.58\t0.993581514762516\t15.48\tTRUE\n2\tsh600026\t中远海能\t1.9\t2017-07-03\t0\t2017-07-03\t6.63\t0.971342383107089\t6.44\tTRUE\n3\tsh600094\t大名城\t0.5\t2017-07-03\t0\t2017-07-03\t7.67\t0.99348109517601\t7.62\tTRUE\n",
+    "created" : 1498857649483.000,
+    "dirty" : false,
+    "encoding" : "GB2312",
+    "folds" : "",
+    "hash" : "1449240423",
+    "id" : "F9642DFB",
+    "lastKnownWriteTime" : 1499082251,
+    "last_content_update" : 1499082251,
+    "path" : "C:/Users/Luke Shi/Desktop/Trading/div.txt",
+    "project_path" : "div.txt",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
