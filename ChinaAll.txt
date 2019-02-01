@@ -1,4 +1,4 @@
-sh601360	三六零零	废	废	CNY	STK
+sh601360	三六零零	废	废	CNY	STK
 sz002352	顺丰控股	废	废	CNY	STK
 sh601398	工商银行	银行	银	CNY	STK
 sh601939	建设银行	银行	银	CNY	STK
@@ -1032,3 +1032,4 @@ PFE	辉瑞	美	美	USD	STK
 V	维萨	美	美	USD	STK
 WB	微博	美	美	USD	STK
 AAPL	苹果	美	美	USD	STK
+QQQ	NAS	美	美	USD	STK

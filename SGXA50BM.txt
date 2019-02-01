@@ -78,3 +78,13 @@
 3797 **FILLS** ConstructedInHandler -> Filled 10:26:58 ID: 123 SGXA50BM T:  10:26:07.258 Order: 3797 BUY DAY LMT 1.0 at 11050.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
 3798  Manual Bid Limit  bid1 SGXA50BM T:  10:28:09.102 Order: 3798 BUY DAY LMT 1.0 at 11047.5 msg:  Tradetype ON_BID Status: Created
 3798 **FILLS** ConstructedInHandler -> Filled 10:29:38 ID: 124 SGXA50BM T:  10:28:09.102 Order: 3798 BUY DAY LMT 1.0 at 11047.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3834  Manual Bid Limit  bid1 SGXA50BM T:  10:05:04.950 Order: 3834 BUY DAY LMT 1.0 at 11190.0 msg:  Tradetype ON_BID Status: Created
+3834 **FILLS** ConstructedInHandler -> Filled 10:05:06 ID: 101 SGXA50BM T:  10:05:04.950 Order: 3834 BUY DAY LMT 1.0 at 11190.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3835  Manual Bid Limit  bid1 SGXA50BM T:  10:08:08.248 Order: 3835 BUY DAY LMT 1.0 at 11175.0 msg:  Tradetype ON_BID Status: Created
+3835 **FILLS** ConstructedInHandler -> Filled 10:08:10 ID: 102 SGXA50BM T:  10:08:08.248 Order: 3835 BUY DAY LMT 1.0 at 11175.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3836  Manual Bid Limit  bid1 SGXA50BM T:  10:09:58.829 Order: 3836 BUY DAY LMT 1.0 at 11162.5 msg:  Tradetype ON_BID Status: Created
+3836 **FILLS** ConstructedInHandler -> Filled 10:10:01 ID: 103 SGXA50BM T:  10:09:58.829 Order: 3836 BUY DAY LMT 1.0 at 11162.5 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3837  Manual Bid Limit  bid1 SGXA50BM T:  10:17:09.569 Order: 3837 BUY DAY LMT 1.0 at 11170.0 msg:  Tradetype ON_BID Status: Created
+3837 **FILLS** ConstructedInHandler -> Filled 10:17:11 ID: 104 SGXA50BM T:  10:17:09.569 Order: 3837 BUY DAY LMT 1.0 at 11170.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
+3838  Manual Bid Limit  bid1 SGXA50BM T:  10:24:09.614 Order: 3838 BUY DAY LMT 1.0 at 11145.0 msg:  Tradetype ON_BID Status: Created
+3838 **FILLS** ConstructedInHandler -> Filled 10:24:43 ID: 105 SGXA50BM T:  10:24:09.614 Order: 3838 BUY DAY LMT 1.0 at 11145.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY
