@@ -1,10 +1,7 @@
-SPX 0.0 1-31 2704.1 0.9% ||yOpen 1-2 2476.96 yDays21 yUp% 95.2% yDev 9.2% ||mOpen  1-31 2704.1 mDays0 mUp% 0.0% mDev 0.0% NO POS
-SGXA50 0.0 2-1 11515.0 0.2% ||yOpen 1-2 10457.5 yDays27 yUp% 92.6% yDev 10.1% ||mOpen  1-31 11487.5 mDays1 mUp% 100.0% mDev 0.2% NO POS
-PDD 100.0 1-31 29.21 0.8% ||yOpen 1-2 22.0 yDays21 yUp% 90.5% yDev 32.8% ||mOpen  1-31 29.21 mDays0 mUp% 0.0% mDev 0.0% LONG OFF
-FB 100.0 1-31 166.8 -0.6% ||yOpen 1-2 127.69 yDays21 yUp% 100.0% yDev 30.6% ||mOpen  1-31 166.8 mDays0 mUp% 0.0% mDev 0.0% LONG OFF
-WB -100.0 1-31 60.5 1.9% ||yOpen 1-2 56.97 yDays21 yUp% 71.4% yDev 6.2% ||mOpen  1-31 60.5 mDays0 mUp% 0.0% mDev 0.0% SHORT OFF
-hk27 0.0 2-1 54.85 1.6% ||yOpen 1-2 49.85 yDays23 yUp% 30.4% yDev 10.0% ||mOpen  1-31 54.0 mDays1 mUp% 100.0% mDev 1.6% NO POS
-hk700 200.0 2-1 346.799 0.2% ||yOpen 1-2 315.0 yDays23 yUp% 87.0% yDev 10.1% ||mOpen  1-31 346.0 mDays1 mUp% 100.0% mDev 0.2% LONG ON
-PFE -100.0 1-31 42.71 2.7% ||yOpen 1-2 43.09 yDays21 yUp% 19.0% yDev -0.9% ||mOpen  1-31 42.71 mDays0 mUp% 0.0% mDev 0.0% SHORT OFF
-V 100.0 1-31 134.95 -0.3% ||yOpen 1-2 130.0 yDays21 yUp% 90.5% yDev 3.8% ||mOpen  1-31 134.95 mDays0 mUp% 0.0% mDev 0.0% LONG OFF
-QQQ 100.0 1-31 167.9 0.7% ||yOpen 1-2 150.24 yDays21 yUp% 95.2% yDev 11.8% ||mOpen  1-31 167.9 mDays0 mUp% 0.0% mDev 0.0% LONG OFF
+SPX 0.0 2-1 2706.53 0.1% ||yOpen 1-2 2476.96 yDays22 yUp% 95.5% yDev 9.3% ||mOpen  1-31 2704.1 mDays1 mUp% 100.0% mDev 0.1% NO POS
+PDD 100.0 2-1 29.01 -0.7% ||yOpen 1-2 22.0 yDays22 yUp% 90.9% yDev 31.9% ||mOpen  1-31 29.21 mDays1 mUp% 0.0% mDev -0.7% LONG OFF
+FB 100.0 2-1 165.7 -0.7% ||yOpen 1-2 127.69 yDays22 yUp% 100.0% yDev 29.8% ||mOpen  1-31 166.8 mDays1 mUp% 0.0% mDev -0.7% LONG OFF
+V 100.0 2-1 139.8 3.6% ||yOpen 1-2 130.0 yDays22 yUp% 90.9% yDev 7.5% ||mOpen  1-31 134.95 mDays1 mUp% 100.0% mDev 3.6% LONG ON
+PFE -100.0 2-1 42.95 0.6% ||yOpen 1-2 43.09 yDays22 yUp% 18.2% yDev -0.3% ||mOpen  1-31 42.71 mDays1 mUp% 100.0% mDev 0.6% SHORT OFF
+WB -100.0 2-1 60.89 0.6% ||yOpen 1-2 56.97 yDays22 yUp% 72.7% yDev 6.9% ||mOpen  1-31 60.5 mDays1 mUp% 100.0% mDev 0.6% SHORT OFF
+QQQ 100.0 2-1 167.35 -0.3% ||yOpen 1-2 150.24 yDays22 yUp% 95.5% yDev 11.4% ||mOpen  1-31 167.9 mDays1 mUp% 0.0% mDev -0.3% LONG OFF
