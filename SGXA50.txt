@@ -703,3 +703,5 @@ NEW 09:00:03.329 1446 fut dev BUY #: 1 SGXA50 T:  09:00:03.329 Order: 1446 BUY I
 3850 **FILLS** ConstructedInHandler -> Filled 09:41:13 ID: 110 SGXA50 T:  09:41:11.976 Order: 3850 SELL DAY LMT 1.0 at 11475.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
 3851  Manual Offer Limit  ask1 SGXA50 T:  09:41:28.144 Order: 3851 SELL DAY LMT 1.0 at 11475.0 msg:  Tradetype ON_OFFER Status: Created
 3851 **FILLS** ConstructedInHandler -> Filled 09:42:16 ID: 111 SGXA50 T:  09:41:28.144 Order: 3851 SELL DAY LMT 1.0 at 11475.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+3  Manual Bid Limit  bid1 SGXA50 T:  09:26:36.224 Order: 3 BUY DAY LMT 1.0 at 11565.0 msg:  Tradetype ON_BID Status: Created
+3 **FILLS** ConstructedInHandler -> Filled 09:27:13 ID: 101 SGXA50 T:  09:26:36.224 Order: 3 BUY DAY LMT 1.0 at 11565.0 msg:  Tradetype ON_BID Status: Submitted TIF: DAY

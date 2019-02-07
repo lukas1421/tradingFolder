@@ -1033,3 +1033,7 @@ V	维萨	美	美	USD	STK
 WB	微博	美	美	USD	STK
 AAPL	苹果	美	美	USD	STK
 QQQ	NAS	美	美	USD	STK
+JD	京东	美	美	USD	STK
+NFLX	耐飞	美	美	USD	STK
+SPY	SPX	美	美	USD	STK
+BABA	阿里	美	美	USD	STK
