@@ -718,3 +718,15 @@ NEW 09:00:03.329 1446 fut dev BUY #: 1 SGXA50 T:  09:00:03.329 Order: 1446 BUY I
 8 **FILLS** ConstructedInHandler -> Filled 11:16:08 ID: 106 SGXA50 T:  11:06:22.876 Order: 8 SELL DAY LMT 1.0 at 11397.5 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
 9  Manual Offer Limit  ask1 SGXA50 T:  14:21:31.097 Order: 9 SELL DAY LMT 1.0 at 11425.0 msg:  Tradetype ON_OFFER Status: Created
 9 **FILLS** ConstructedInHandler -> Filled 14:24:11 ID: 107 SGXA50 T:  14:21:31.097 Order: 9 SELL DAY LMT 1.0 at 11425.0 msg:  Tradetype ON_OFFER Status: Submitted TIF: DAY
+2019-02-11T10:14:12.661
+*********
+2019-02-11T10:14:12.662
+NEW 3  Breach Cutter BUY #: SGXA50 T:  10:14:12.581 Order: 3 BUY DAY LMT 4.0 at 11495.0 msg:  Tradetype BREACH_CUTTER Status: Created pos -4.0
+2019-02-11T10:14:12.982
+*********
+2019-02-11T10:14:12.984
+NEW 4  Breach Cutter BUY #: SGXA50 T:  10:14:12.980 Order: 4 BUY DAY LMT 4.0 at 11495.0 msg:  Tradetype BREACH_CUTTER Status: Created pos -4.0
+2019-02-11T10:15:00.544
+*********
+2019-02-11T10:15:00.545
+NEW 3 Breach Cutter BUY #: SGXA50 T:  10:15:00.503 Order: 3 BUY DAY LMT 4.0 at 11490.0 msg:  Tradetype BREACH_CUTTER Status: Created pos -4.0
