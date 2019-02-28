@@ -1,0 +1,9 @@
+********
+NEW 13 Breach MDEV BUY: HSBC T:  2019-02-20T18:06:26.056 Order: 13 BUY IOC LMT 100.0 at 42.2 msg:  Trade type BREACH_MDEV Status: Created pos 0.0 yOpen 41.11 mOpen 42.13 price 42.2 first value 42.1
+13 13 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-02-20T18:06:26.782 ID: 101 HSBC T:  2019-02-20T18:06:26.056 Order: 13 BUY IOC LMT 100.0 at 42.2 msg:  Trade type BREACH_MDEV Status: Filled TIF: IOC
+********
+26 Breach Cutter SELL: HSBC T:  2019-02-23T04:30:09.288 Order: 26 SELL IOC LMT 200.0 at 40.73 msg:  Trade type BREACH_CUTTER Status: Created pos 100.0 yOpen 41.11 mOpen 42.13 price 40.74
+26 26 *GUARANTEE DEV FILL* Submitted -> Filled 2019-02-23T04:30:09.626 ID: 104 HSBC T:  2019-02-23T04:30:09.288 Order: 26 SELL IOC LMT 200.0 at 40.73 msg:  Trade type BREACH_CUTTER Status: Filled TIF: IOC
+********
+136 Breach Cutter BUY: HSBC T:  2019-02-28T04:31:19.376 Order: 136 BUY IOC LMT 100.0 at 41.12 msg:  Trade type BREACH_CUTTER Status: Created || currPos -100.0 yOpen 41.11 mOpen 42.13 price 41.12
+136 136 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-02-28T04:31:19.701 ID: 109 HSBC T:  2019-02-28T04:31:19.376 Order: 136 BUY IOC LMT 100.0 at 41.12 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC

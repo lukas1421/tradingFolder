@@ -740,3 +740,4 @@ NEW 3 Breach Cutter BUY #: SGXA50 T:  10:15:00.503 Order: 3 BUY DAY LMT 4.0 at 1
 6 **FILLS** ConstructedInHandler -> Filled 10:03:05 ID: 104 SGXA50 T:  10:02:54.111 Order: 6 BUY DAY LMT 1.0 at 11737.5 msg:  Trade type ON_BID Status: Submitted TIF: DAY
 7  Manual Bid Limit  bid1 SGXA50 T:  10:03:57.320 Order: 7 BUY DAY LMT 1.0 at 11735.0 msg:  Trade type ON_BID Status: Created
 7 **FILLS** ConstructedInHandler -> Filled 10:05:28 ID: 105 SGXA50 T:  10:03:57.320 Order: 7 BUY DAY LMT 1.0 at 11735.0 msg:  Trade type ON_BID Status: Submitted TIF: DAY
+35  Manual Offer Limit  ask1 SGXA50 T:  2019-02-27T15:04:29.011 Order: 35 SELL DAY LMT 1.0 at 12540.0 msg:  Trade type ON_OFFER Status: Created ||

@@ -1,0 +1,1 @@
+6 6 *GUARANTEE DEV FILL* PreSubmitted -> Filled 22:49:07.513 ID: 101 PFE T:  22:49:07.111 Order: 6 BUY IOC LMT 100.0 at 42.72 msg:  Trade type BREACH_MDEV Status: Filled TIF: IOC

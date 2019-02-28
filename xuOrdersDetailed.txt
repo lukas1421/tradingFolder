@@ -1482,3 +1482,97 @@ NEW 3 Breach Cutter BUY #: SGXA50 T:  10:15:00.503 Order: 3 BUY DAY LMT 4.0 at 1
 2019-02-19T20:45:05.114
 2019-02-19T20:45:46.725
 2019-02-19T20:51:36.595
+2019-02-19T22:42:40.168
+2019-02-20T07:37:58.452
+2019-02-20T08:09:50.970
+2019-02-20T08:10:54.673
+2019-02-20T09:03:58.898
+2019-02-20T09:05:10.950
+2019-02-20T09:48:06.416
+2019-02-21T04:30:59.531
+2019-02-21T04:32:11.170
+2019-02-21T04:48:30.668
+2019-02-21T06:31:27.911
+2019-02-21T06:34:48.963
+2019-02-21T06:38:56.659
+2019-02-21T07:14:12.975
+2019-02-21T21:03:16.532
+2019-02-22T03:41:41.013
+2019-02-22T03:47:23.593
+2019-02-22T03:48:03.295
+2019-02-22T03:49:19.654
+2019-02-22T08:47:04.597
+2019-02-22T08:51:35.415
+2019-02-23T06:23:32.093
+2019-02-25T08:24:57.388
+2019-02-25T22:29:33.799
+2019-02-26T06:41:48.802
+2019-02-26T07:20:43.981
+2019-02-26T20:45:35.988
+2019-02-27T08:14:18.216
+2019-02-27T08:50:16.683
+3  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:35:30.468 Order: 3 BUY DAY LMT 1.0 at 12585.0 msg:  Trade type ON_BID Status: Created ||
+4  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:36:12.625 Order: 4 BUY DAY LMT 1.0 at 12600.0 msg:  Trade type ON_BID Status: Created ||
+4 **FILLS** ConstructedInHandler -> Filled 09:36:13 ID: 102 SGXA50BM T:  2019-02-27T09:36:12.625 Order: 4 BUY DAY LMT 1.0 at 12600.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+5  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:36:30.476 Order: 5 BUY DAY LMT 1.0 at 12595.0 msg:  Trade type ON_BID Status: Created ||
+5 **FILLS** ConstructedInHandler -> Filled 09:36:30 ID: 103 SGXA50BM T:  2019-02-27T09:36:30.476 Order: 5 BUY DAY LMT 1.0 at 12595.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+3 **FILLS** ConstructedInHandler -> Filled 09:36:40 ID: 101 SGXA50BM T:  2019-02-27T09:35:30.468 Order: 3 BUY DAY LMT 1.0 at 12585.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+6  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:37:22.302 Order: 6 BUY DAY LMT 1.0 at 12572.5 msg:  Trade type ON_BID Status: Created ||
+6 **FILLS** ConstructedInHandler -> Filled 09:37:24 ID: 104 SGXA50BM T:  2019-02-27T09:37:22.302 Order: 6 BUY DAY LMT 1.0 at 12572.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+7  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:37:44.238 Order: 7 BUY DAY LMT 1.0 at 12565.0 msg:  Trade type ON_BID Status: Created ||
+7 **FILLS** ConstructedInHandler -> Filled 09:37:45 ID: 105 SGXA50BM T:  2019-02-27T09:37:44.238 Order: 7 BUY DAY LMT 1.0 at 12565.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+8  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:38:00.276 Order: 8 BUY DAY LMT 1.0 at 12557.5 msg:  Trade type ON_BID Status: Created ||
+8 **FILLS** ConstructedInHandler -> Filled 09:38:06 ID: 106 SGXA50BM T:  2019-02-27T09:38:00.276 Order: 8 BUY DAY LMT 1.0 at 12557.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+9  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:54:17.078 Order: 9 BUY DAY LMT 1.0 at 12607.5 msg:  Trade type ON_BID Status: Created ||
+9 **FILLS** ConstructedInHandler -> Filled 09:54:25 ID: 107 SGXA50BM T:  2019-02-27T09:54:17.078 Order: 9 BUY DAY LMT 1.0 at 12607.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+10  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:54:28.489 Order: 10 BUY DAY LMT 1.0 at 12605.0 msg:  Trade type ON_BID Status: Created ||
+10 **FILLS** ConstructedInHandler -> Filled 09:54:29 ID: 108 SGXA50BM T:  2019-02-27T09:54:28.489 Order: 10 BUY DAY LMT 1.0 at 12605.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+11  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:54:47.826 Order: 11 BUY DAY LMT 1.0 at 12600.0 msg:  Trade type ON_BID Status: Created ||
+11 **FILLS** ConstructedInHandler -> Filled 09:54:51 ID: 109 SGXA50BM T:  2019-02-27T09:54:47.826 Order: 11 BUY DAY LMT 1.0 at 12600.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+12  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T09:59:51.225 Order: 12 BUY DAY LMT 1.0 at 12587.5 msg:  Trade type ON_BID Status: Created ||
+12 **FILLS** ConstructedInHandler -> Filled 09:59:54 ID: 110 SGXA50BM T:  2019-02-27T09:59:51.225 Order: 12 BUY DAY LMT 1.0 at 12587.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+13  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:00:55.289 Order: 13 BUY DAY LMT 1.0 at 12585.0 msg:  Trade type ON_BID Status: Created ||
+13 **FILLS** ConstructedInHandler -> Filled 10:00:59 ID: 111 SGXA50BM T:  2019-02-27T10:00:55.289 Order: 13 BUY DAY LMT 1.0 at 12585.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+14  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:01:30.722 Order: 14 BUY DAY LMT 1.0 at 12580.0 msg:  Trade type ON_BID Status: Created ||
+14 **FILLS** ConstructedInHandler -> Filled 10:01:30 ID: 112 SGXA50BM T:  2019-02-27T10:01:30.722 Order: 14 BUY DAY LMT 1.0 at 12580.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+15  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:01:50.773 Order: 15 BUY DAY LMT 1.0 at 12572.5 msg:  Trade type ON_BID Status: Created ||
+15 **FILLS** ConstructedInHandler -> Filled 10:01:52 ID: 113 SGXA50BM T:  2019-02-27T10:01:50.773 Order: 15 BUY DAY LMT 1.0 at 12572.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+16  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:02:05.819 Order: 16 BUY DAY LMT 1.0 at 12575.0 msg:  Trade type ON_BID Status: Created ||
+16 **FILLS** ConstructedInHandler -> Filled 10:02:10 ID: 114 SGXA50BM T:  2019-02-27T10:02:05.819 Order: 16 BUY DAY LMT 1.0 at 12575.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+17  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:02:27.968 Order: 17 BUY DAY LMT 1.0 at 12570.0 msg:  Trade type ON_BID Status: Created ||
+17 **FILLS** ConstructedInHandler -> Filled 10:02:39 ID: 115 SGXA50BM T:  2019-02-27T10:02:27.968 Order: 17 BUY DAY LMT 1.0 at 12570.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+18  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:03:22.936 Order: 18 BUY DAY LMT 1.0 at 12570.0 msg:  Trade type ON_BID Status: Created ||
+18 **FILLS** ConstructedInHandler -> Filled 10:03:33 ID: 116 SGXA50BM T:  2019-02-27T10:03:22.936 Order: 18 BUY DAY LMT 1.0 at 12570.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+19  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:03:45.566 Order: 19 BUY DAY LMT 1.0 at 12565.0 msg:  Trade type ON_BID Status: Created ||
+19 **FILLS** ConstructedInHandler -> Filled 10:03:45 ID: 117 SGXA50BM T:  2019-02-27T10:03:45.566 Order: 19 BUY DAY LMT 1.0 at 12565.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+20  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:04:14.651 Order: 20 BUY DAY LMT 1.0 at 12562.5 msg:  Trade type ON_BID Status: Created ||
+20 **FILLS** ConstructedInHandler -> Filled 10:04:18 ID: 118 SGXA50BM T:  2019-02-27T10:04:14.651 Order: 20 BUY DAY LMT 1.0 at 12562.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+21  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:04:26.516 Order: 21 BUY DAY LMT 1.0 at 12557.5 msg:  Trade type ON_BID Status: Created ||
+21 **FILLS** ConstructedInHandler -> Filled 10:04:28 ID: 119 SGXA50BM T:  2019-02-27T10:04:26.516 Order: 21 BUY DAY LMT 1.0 at 12557.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+22  Manual Bid Limit  bid2 SGXA50BM T:  2019-02-27T10:05:09.137 Order: 22 BUY DAY LMT 1.0 at 12550.0 msg:  Trade type ON_BID Status: Created ||
+23  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:05:34.134 Order: 23 BUY DAY LMT 1.0 at 12555.0 msg:  Trade type ON_BID Status: Created ||
+23 **FILLS** ConstructedInHandler -> Filled 10:05:35 ID: 121 SGXA50BM T:  2019-02-27T10:05:34.134 Order: 23 BUY DAY LMT 1.0 at 12555.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+22 **FILLS** ConstructedInHandler -> Filled 10:05:39 ID: 120 SGXA50BM T:  2019-02-27T10:05:09.137 Order: 22 BUY DAY LMT 1.0 at 12550.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+24  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:06:07.453 Order: 24 BUY DAY LMT 1.0 at 12550.0 msg:  Trade type ON_BID Status: Created ||
+24 **FILLS** ConstructedInHandler -> Filled 10:06:08 ID: 122 SGXA50BM T:  2019-02-27T10:06:07.453 Order: 24 BUY DAY LMT 1.0 at 12550.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+25  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:13:49.256 Order: 25 BUY DAY LMT 1.0 at 12555.0 msg:  Trade type ON_BID Status: Created ||
+25 **FILLS** ConstructedInHandler -> Filled 10:14:25 ID: 123 SGXA50BM T:  2019-02-27T10:13:49.256 Order: 25 BUY DAY LMT 1.0 at 12555.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+26  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:15:30.375 Order: 26 BUY DAY LMT 1.0 at 12540.0 msg:  Trade type ON_BID Status: Created ||
+26 **FILLS** ConstructedInHandler -> Filled 10:15:35 ID: 124 SGXA50BM T:  2019-02-27T10:15:30.375 Order: 26 BUY DAY LMT 1.0 at 12540.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+27  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:16:17.907 Order: 27 BUY DAY LMT 1.0 at 12532.5 msg:  Trade type ON_BID Status: Created ||
+27 **FILLS** ConstructedInHandler -> Filled 10:16:33 ID: 125 SGXA50BM T:  2019-02-27T10:16:17.907 Order: 27 BUY DAY LMT 1.0 at 12532.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+28  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T10:16:59.824 Order: 28 BUY DAY LMT 1.0 at 12525.0 msg:  Trade type ON_BID Status: Created ||
+29  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T14:17:53.716 Order: 29 BUY DAY LMT 1.0 at 12547.5 msg:  Trade type ON_BID Status: Created ||
+29 **FILLS** ConstructedInHandler -> Filled 14:17:55 ID: 127 SGXA50BM T:  2019-02-27T14:17:53.716 Order: 29 BUY DAY LMT 1.0 at 12547.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+28 **FILLS** ConstructedInHandler -> Filled 14:19:39 ID: 126 SGXA50BM T:  2019-02-27T10:16:59.824 Order: 28 BUY DAY LMT 1.0 at 12525.0 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+30  Manual Bid Limit  bid1 SGXA50BM T:  2019-02-27T14:20:06.918 Order: 30 BUY DAY LMT 1.0 at 12512.5 msg:  Trade type ON_BID Status: Created ||
+30 **FILLS** ConstructedInHandler -> Filled 14:20:14 ID: 128 SGXA50BM T:  2019-02-27T14:20:06.918 Order: 30 BUY DAY LMT 1.0 at 12512.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
+31  Manual Offer Limit  ask1 SGXA50BM T:  2019-02-27T14:57:45.645 Order: 31 SELL DAY LMT 1.0 at 12560.0 msg:  Trade type ON_OFFER Status: Created ||
+32  Manual Offer Limit  ask1 SGXA50BM T:  2019-02-27T14:58:25.799 Order: 32 SELL DAY LMT 1.0 at 12555.0 msg:  Trade type ON_OFFER Status: Created ||
+2019-02-27T14:59:33.382
+2019-02-27T15:04:13.933
+35  Manual Offer Limit  ask1 SGXA50 T:  2019-02-27T15:04:29.011 Order: 35 SELL DAY LMT 1.0 at 12540.0 msg:  Trade type ON_OFFER Status: Created ||
+2019-02-28T06:46:43.742
+2019-02-28T07:09:50.689
+2019-02-28T07:13:56.763
+2019-02-28T07:14:28.146

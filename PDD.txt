@@ -1,0 +1,19 @@
+7 7 *GUARANTEE DEV FILL* PreSubmitted -> Filled 23:11:56.660 ID: 102 PDD T:  23:11:56.176 Order: 7 BUY IOC LMT 100.0 at 29.22 msg:  Trade type BREACH_MDEV Status: Filled TIF: IOC
+********
+NEW 23 Breach MDEV SELL: PDD T:  2019-02-25T23:48:22.544 Order: 23 SELL IOC LMT 100.0 at 29.21 msg:  Trade type BREACH_MDEV Status: Created || pos 100.0 yOpen 22.48 mOpen 29.21 price 29.2 first value 30.85
+23 23 -> 24 BREACH RESUBMIT: BREACH_MDEV IOC SELL 29.2 100.0 Primary? false current PDD T:  2019-02-25T23:48:23.054 Order: 24 SELL IOC LMT 100.0 at 29.2 msg:  Trade type BREACH_MDEV Status: Created || bid ask sp last 29.2 29.2 0 bp 29.2
+23 24 *GUARANTEE DEV FILL* Submitted -> Filled 2019-02-25T23:48:23.342 ID: 102 PDD T:  2019-02-25T23:48:23.054 Order: 24 SELL IOC LMT 100.0 at 29.2 msg:  Trade type BREACH_MDEV Status: Filled || TIF: IOC
+********
+NEW 27 Breach MDEV BUY: PDD T:  2019-02-26T22:37:06.865 Order: 27 BUY IOC LMT 100.0 at 29.25 msg:  Trade type BREACH_MDEV Status: Created || pos 0.0 yOpen 22.48 mOpen 29.21 price 29.23 first value 28.5
+27 27 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-02-26T22:37:07.653 ID: 101 PDD T:  2019-02-26T22:37:06.865 Order: 27 BUY IOC LMT 100.0 at 29.25 msg:  Trade type BREACH_MDEV Status: Filled || TIF: IOC
+********
+77 Breach Cutter SELL: PDD T:  2019-02-27T04:30:11.837 Order: 77 SELL IOC LMT 100.0 at 29.21 msg:  Trade type BREACH_CUTTER Status: Created || currPos 100.0 yOpen 22.48 mOpen 29.21 price 29.2
+77 77 -> 79 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 29.2 100.0 Primary? false current PDD T:  2019-02-27T04:30:12.291 Order: 79 SELL IOC LMT 100.0 at 29.2 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 29.2 29.2 0 bp 29.2
+77 79 *GUARANTEE DEV FILL* Submitted -> Filled 2019-02-27T04:30:12.793 ID: 153 PDD T:  2019-02-27T04:30:12.291 Order: 79 SELL IOC LMT 100.0 at 29.2 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+********
+NEW 130 Breach MDEV BUY: PDD T:  2019-02-27T22:30:31.187 Order: 130 BUY IOC LMT 100.0 at 29.2 msg:  Trade type BREACH_MDEV Status: Created || pos 0.0 yOpen 22.48 mOpen 29.21 price 29.22 first value 29.0
+130 130 -> 131 BREACH RESUBMIT: BREACH_MDEV IOC BUY 29.25 100.0 Primary? false current PDD T:  2019-02-27T22:30:31.457 Order: 131 BUY IOC LMT 100.0 at 29.25 msg:  Trade type BREACH_MDEV Status: Created || bid ask sp last 29.24 29.25 3 bp 29.22
+130 131 *GUARANTEE DEV FILL* Submitted -> Filled 2019-02-27T22:30:31.740 ID: 104 PDD T:  2019-02-27T22:30:31.457 Order: 131 BUY IOC LMT 100.0 at 29.25 msg:  Trade type BREACH_MDEV Status: Filled || TIF: IOC
+********
+133 Breach Cutter SELL: PDD T:  2019-02-28T04:30:02.489 Order: 133 SELL IOC LMT 100.0 at 28.65 msg:  Trade type BREACH_CUTTER Status: Created || currPos 100.0 yOpen 22.48 mOpen 29.21 price 28.65
+133 133 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-02-28T04:30:02.854 ID: 106 PDD T:  2019-02-28T04:30:02.489 Order: 133 SELL IOC LMT 100.0 at 28.65 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC

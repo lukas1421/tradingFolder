@@ -16,3 +16,11 @@ NEW 1552  US postAMCutoff liq sell BUY #: 0 T now 10:00:17.947  cutoff 10:00 pri
 US handle generic SHORTABLE BILI 3.0 2018-10-01T22:00
 1552 1556 *GUARANTEE US FILL* PreSubmitted -> Filled 22:00:41.063 ID: 209 BILI T:  22:00:36.078 Order: 1556 BUY IOC LMT 100.0 at 13.83 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
 US handle generic SHORTABLE BILI 3.0 2018-10-01T22:00
+********
+NEW 18 Breach MDEV BUY: BILI T:  2019-02-20T22:42:13.578 Order: 18 BUY IOC LMT 100.0 at 18.4 msg:  Trade type BREACH_MDEV Status: Created pos 0.0 yOpen 14.5 mOpen 18.4 price 18.41 first value 18.18
+18 18 -> 19 BREACH RESUBMIT: BREACH_MDEV IOC BUY 18.41 100.0 Primary? false current BILI T:  2019-02-20T22:42:13.942 Order: 19 BUY IOC LMT 100.0 at 18.41 msg:  Trade type BREACH_MDEV Status: Created bid ask sp last 18.41 18.41 0 bp 18.41
+18 19 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-02-20T22:42:14.319 ID: 104 BILI T:  2019-02-20T22:42:13.942 Order: 19 BUY IOC LMT 100.0 at 18.41 msg:  Trade type BREACH_MDEV Status: Filled TIF: IOC
+********
+NEW 23 Breach MDEV SELL: BILI T:  2019-02-22T21:46:25.003 Order: 23 SELL IOC LMT 100.0 at 18.37 msg:  Trade type BREACH_MDEV Status: Created pos 100.0 yOpen 14.5 mOpen 18.4 price 18.37 first value 18.5497
+23 23 -> 24 BREACH RESUBMIT: BREACH_MDEV IOC SELL 18.35 100.0 Primary? false current BILI T:  2019-02-22T21:46:25.842 Order: 24 SELL IOC LMT 100.0 at 18.35 msg:  Trade type BREACH_MDEV Status: Created bid ask sp last 18.35 18.35 0 bp 18.37
+23 24 *GUARANTEE DEV FILL* Submitted -> Filled 2019-02-22T21:46:26.264 ID: 102 BILI T:  2019-02-22T21:46:25.842 Order: 24 SELL IOC LMT 100.0 at 18.35 msg:  Trade type BREACH_MDEV Status: Filled TIF: IOC
