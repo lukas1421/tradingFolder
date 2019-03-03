@@ -1,12 +1,1 @@
-SGXA50 7.0 2-28 12560.0 0.1% ||yOpen 1-2 10337.5 yDays50 yUp% 96.0% yDev 21.5% ||mOpen  1-31 11527.5 mDays24 mUp% 91.7% mDev 9.0% LONG ON
-BABA 100.0 2-27 184.45 0.8% ||yOpen 1-2 135.0 yDays39 yUp% 94.9% yDev 36.6% ||mOpen  1-31 167.6 mDays18 mUp% 77.8% mDev 10.1% LONG ON
-NFLX 100.0 2-27 363.0 -0.5% ||yOpen 1-2 260.8 yDays39 yUp% 100.0% yDev 39.2% ||mOpen  1-31 337.25 mDays18 mUp% 100.0% mDev 7.6% LONG ON
-AAPL 100.0 2-27 174.89 0.4% ||yOpen 1-2 154.4 yDays39 yUp% 66.7% yDev 13.3% ||mOpen  1-31 166.97 mDays18 mUp% 94.4% mDev 4.7% LONG ON
-HSBC 0.0 2-27 41.13 0.9% ||yOpen 1-2 40.46 yDays39 yUp% 100.0% yDev 1.7% ||mOpen  1-31 42.13 mDays18 mUp% 27.8% mDev -2.4% NO POS
-PDD 0.0 2-27 28.5 -2.3% ||yOpen 1-2 22.0 yDays39 yUp% 94.9% yDev 29.5% ||mOpen  1-31 29.21 mDays18 mUp% 22.2% mDev -2.4% NO POS
-JD 100.0 2-27 25.97 -2.3% ||yOpen 1-2 20.98 yDays39 yUp% 94.9% yDev 23.8% ||mOpen  1-31 24.85 mDays18 mUp% 38.9% mDev 4.5% LONG ON
-TM 0.0 2-27 122.35 -0.7% ||yOpen 1-2 114.68 yDays39 yUp% 97.4% yDev 6.7% ||mOpen  1-31 123.17 mDays18 mUp% 11.1% mDev -0.7% NO POS
-TLRY 0.0 2-27 79.0 0.3% ||yOpen 1-2 70.54 yDays39 yUp% 92.3% yDev 12.0% ||mOpen  1-31 80.3 mDays18 mUp% 22.2% mDev -1.6% NO POS
-SPX 0.0 2-27 2792.4 -0.1% ||yOpen 1-2 2477.44 yDays39 yUp% 97.4% yDev 12.7% ||mOpen  1-31 2704.1 mDays18 mUp% 100.0% mDev 3.3% NO POS
-QQQ 0.0 2-27 173.54 0.1% ||yOpen 1-2 150.24 yDays39 yUp% 97.4% yDev 15.5% ||mOpen  1-31 167.9 mDays18 mUp% 88.9% mDev 3.4% NO POS
-V 100.0 2-27 147.25 0.2% ||yOpen 1-2 130.0 yDays39 yUp% 94.9% yDev 13.3% ||mOpen  1-31 134.95 mDays18 mUp% 100.0% mDev 9.1% LONG ON
+SGXA50 7.0 3-1 12655.0 1.0% ||yOpen 1-2 10337.5 yDays51 yUp% 96.1% yDev 22.4% ||mOpen  2-28 12535.0 mDays1 mUp% 100.0% mDev 1.0% LONG ON

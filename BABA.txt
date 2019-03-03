@@ -1,1 +1,9 @@
 3 3 *GUARANTEE DEV FILL* PreSubmitted -> Filled 22:31:59.171 ID: 101 BABA T:  22:31:58.289 Order: 3 BUY IOC LMT 100.0 at 167.66 msg:  Trade type BREACH_MDEV Status: Filled TIF: IOC
+******** 2019-03-01T08:03:09.275
+184 Cutter SELL: BABA T:  2019-03-01T08:03:09.275 Order: 184 SELL IOC LMT 100.0 at 183.0 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 137.43 mOpen 182.99 price 182.97
+184 184 -> 185 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 182.95 100.0 Primary? false current BABA T:  2019-03-01T08:03:09.641 Order: 185 SELL IOC LMT 100.0 at 182.95 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 182.95 182.95 0 bp 182.97
+184 185 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-01T08:03:10.099 ID: 105 BABA T:  2019-03-01T08:03:09.641 Order: 185 SELL IOC LMT 100.0 at 182.95 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-01T17:47:30.165
+193 ADDER BUY: BABA T:  2019-03-01T17:47:30.165 Order: 193 BUY IOC LMT 100.0 at 185.45 msg:  Trade type BREACH_ADDER Status: Created || yOpen 137.43 mOpen 182.92 prevClose 185.28 price 185.45
+193 193 -> 194 BREACH RESUBMIT: BREACH_ADDER IOC BUY 185.6 100.0 Primary? false current BABA T:  2019-03-01T17:47:30.886 Order: 194 BUY IOC LMT 100.0 at 185.6 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 185.45 185.6 8 bp 185.45
+193 194 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T17:47:31.350 ID: 102 BABA T:  2019-03-01T17:47:30.886 Order: 194 BUY IOC LMT 100.0 at 185.6 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC

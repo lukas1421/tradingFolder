@@ -1,0 +1,2 @@
+******** 2019-03-01T09:40:44.173
+190 ADDER BUY: hk700 T:  2019-03-01T09:40:44.173 Order: 190 BUY IOC LMT 100.0 at 337.2 msg:  Trade type BREACH_ADDER Status: Created || yOpen 314.0 mOpen 335.8 prevClose 337.2 price 337.4

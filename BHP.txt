@@ -1,0 +1,6 @@
+******** 2019-03-01T00:00:02.845
+136 Breach ADDER BUY: BHP T:  2019-03-01T00:00:02.845 Order: 136 BUY IOC LMT 100.0 at 53.18 msg:  Trade type BREACH_ADDER Status: Created || yOpen 48.29 mOpen 51.19 price 53.17
+136 136 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-01T00:00:03.360 ID: 104 BHP T:  2019-03-01T00:00:02.845 Order: 136 BUY IOC LMT 100.0 at 53.18 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-01T21:22:17.315
+213 Cutter SELL: BHP T:  2019-03-01T21:22:17.315 Order: 213 SELL IOC LMT 100.0 at 52.9 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 48.29 mOpen 52.75 price 52.56
+213 213 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T21:22:17.895 ID: 121 BHP T:  2019-03-01T21:22:17.315 Order: 213 SELL IOC LMT 100.0 at 52.9 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC

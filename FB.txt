@@ -1,0 +1,3 @@
+******** 2019-03-01T18:55:42.889
+211 ADDER BUY: FB T:  2019-03-01T18:55:42.889 Order: 211 BUY IOC LMT 100.0 at 162.25 msg:  Trade type BREACH_ADDER Status: Created || yOpen 131.0 mOpen 161.55 prevClose 162.2 price 162.25
+211 211 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T18:55:43.371 ID: 119 FB T:  2019-03-01T18:55:42.889 Order: 211 BUY IOC LMT 100.0 at 162.25 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC

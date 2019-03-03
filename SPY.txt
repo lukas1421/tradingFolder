@@ -1,0 +1,10 @@
+******** 2019-03-01T00:42:01.617
+161 Breach ADDER BUY: SPY T:  2019-03-01T00:42:01.617 Order: 161 BUY IOC LMT 100.0 at 279.26 msg:  Trade type BREACH_ADDER Status: Created || yOpen 250.09 mOpen 270.42 price 279.26
+161 161 -> 162 BREACH RESUBMIT: BREACH_ADDER IOC BUY 279.27 100.0 Primary? false current SPY T:  2019-03-01T00:42:01.916 Order: 162 BUY IOC LMT 100.0 at 279.27 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 279.26 279.27 0 bp 279.26
+161 162 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-01T00:42:02.923 ID: 130 SPY T:  2019-03-01T00:42:01.916 Order: 162 BUY IOC LMT 100.0 at 279.27 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-01T07:30:32.975
+176 Breach Cutter SELL: SPY T:  2019-03-01T07:30:32.975 Order: 176 SELL IOC LMT 100.0 at 278.48 msg:  Trade type BREACH_CUTTER Status: Created || currPos 100.0 yOpen 250.09 mOpen 278.49 price 278.48
+176 176 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T07:30:33.478 ID: 101 SPY T:  2019-03-01T07:30:32.975 Order: 176 SELL IOC LMT 100.0 at 278.48 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-01T08:03:22.042
+186 ADDER BUY: SPY T:  2019-03-01T08:03:22.042 Order: 186 BUY IOC LMT 100.0 at 278.78 msg:  Trade type BREACH_ADDER Status: Created || yOpen 250.09 mOpen 278.6 prevClose 278.6 price 278.72
+186 186 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T08:03:22.519 ID: 106 SPY T:  2019-03-01T08:03:22.042 Order: 186 BUY IOC LMT 100.0 at 278.78 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC

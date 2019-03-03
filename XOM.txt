@@ -1,0 +1,3 @@
+******** 2019-03-01T21:28:24.288
+214 ADDER BUY: XOM T:  2019-03-01T21:28:24.288 Order: 214 BUY IOC LMT 100.0 at 79.38 msg:  Trade type BREACH_ADDER Status: Created || yOpen 68.19 mOpen 79.0 prevClose 79.05 price 79.22
+214 214 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-01T21:28:24.797 ID: 122 XOM T:  2019-03-01T21:28:24.288 Order: 214 BUY IOC LMT 100.0 at 79.38 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC

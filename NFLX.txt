@@ -1,0 +1,6 @@
+******** 2019-03-01T22:36:27.240
+233 Cutter SELL: NFLX T:  2019-03-01T22:36:27.240 Order: 233 SELL IOC LMT 100.0 at 359.6 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 268.7 mOpen 359.75 price 359.74
+233 233 -> 234 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 359.74 100.0 Primary? false current NFLX T:  2019-03-01T22:36:27.624 Order: 234 SELL IOC LMT 100.0 at 359.74 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 359.74 359.74 0 bp 359.74
+233 234 -> 235 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 359.44 100.0 Primary? false current NFLX T:  2019-03-01T22:36:27.998 Order: 235 SELL IOC LMT 100.0 at 359.44 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 359.44 359.74 8 bp 359.33
+233 235 -> 236 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 359.44 100.0 Primary? false current NFLX T:  2019-03-01T22:36:28.376 Order: 236 SELL IOC LMT 100.0 at 359.44 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 359.44 359.74 8 bp 359.33
+233 236 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T22:36:28.813 ID: 144 NFLX T:  2019-03-01T22:36:28.376 Order: 236 SELL IOC LMT 100.0 at 359.44 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC

@@ -1,0 +1,4 @@
+******** 2019-03-01T22:36:29.277
+237 ADDER BUY: JPM T:  2019-03-01T22:36:29.277 Order: 237 BUY IOC LMT 100.0 at 105.63 msg:  Trade type BREACH_ADDER Status: Created || yOpen 97.7 mOpen 104.37 prevClose 104.37 price 105.64
+237 237 -> 238 BREACH RESUBMIT: BREACH_ADDER IOC BUY 105.64 100.0 Primary? false current JPM T:  2019-03-01T22:36:29.641 Order: 238 BUY IOC LMT 100.0 at 105.64 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 105.64 105.64 0 bp 105.64
+237 238 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T22:36:30.071 ID: 146 JPM T:  2019-03-01T22:36:29.641 Order: 238 BUY IOC LMT 100.0 at 105.64 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC

@@ -1,0 +1,6 @@
+******** 2019-03-01T00:00:00.712
+133 Breach ADDER BUY: NVS T:  2019-03-01T00:00:00.712 Order: 133 BUY IOC LMT 100.0 at 91.81 msg:  Trade type BREACH_ADDER Status: Created || yOpen 85.81 mOpen 87.52 price 91.8
+133 133 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T00:00:01.368 ID: 101 NVS T:  2019-03-01T00:00:00.712 Order: 133 BUY IOC LMT 100.0 at 91.81 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-01T18:48:15.082
+210 Cutter SELL: NVS T:  2019-03-01T18:48:15.082 Order: 210 SELL IOC LMT 100.0 at 90.79 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 85.81 mOpen 91.24 price 90.94
+210 210 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T18:48:15.561 ID: 118 NVS T:  2019-03-01T18:48:15.082 Order: 210 SELL IOC LMT 100.0 at 90.79 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC

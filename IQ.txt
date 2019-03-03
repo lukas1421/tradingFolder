@@ -14,3 +14,22 @@ NEW 1551  US postAMCutoff liq SELL #: 0 T now 10:00:17.809  cutoff 10:00 price, 
 US handle generic SHORTABLE IQ 3.0 2018-10-01T22:00
 1551 1559 *GUARANTEE US FILL* Submitted -> Filled 22:00:49.191 ID: 212 IQ T:  22:00:45.519 Order: 1559 SELL IOC LMT 100.0 at 26.82 msg:  Tradetype US_POST_AMCUTOFF_LIQ Status: Filled TIF: IOC
 US handle generic SHORTABLE IQ 3.0 2018-10-01T22:00
+******** 2019-03-01T02:27:35.706
+165 Breach ADDER BUY: IQ T:  2019-03-01T02:27:35.706 Order: 165 BUY IOC LMT 100.0 at 27.2 msg:  Trade type BREACH_ADDER Status: Created || yOpen 14.94 mOpen 20.18 price 27.2
+165 165 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-01T02:27:36.030 ID: 133 IQ T:  2019-03-01T02:27:35.706 Order: 165 BUY IOC LMT 100.0 at 27.2 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-01T07:12:37.114
+NEW 171 Breach MDEV SELL: IQ T:  2019-03-01T07:12:37.114 Order: 171 SELL IOC LMT 100.0 at 26.9 msg:  Trade type BREACH_MDEV Status: Created || pos 100.0 yOpen 14.94 mOpen 26.9 price 26.83 first value 2019-03-01T06:12:38.333 27.0
+171 171 -> 172 BREACH RESUBMIT: BREACH_MDEV IOC SELL 26.83 100.0 Primary? false current IQ T:  2019-03-01T07:12:37.473 Order: 172 SELL IOC LMT 100.0 at 26.83 msg:  Trade type BREACH_MDEV Status: Created || bid ask sp last 26.83 26.83 0 bp 26.83
+171 172 -> 173 BREACH RESUBMIT: BREACH_MDEV IOC SELL 26.7 100.0 Primary? false current IQ T:  2019-03-01T07:12:37.853 Order: 173 SELL IOC LMT 100.0 at 26.7 msg:  Trade type BREACH_MDEV Status: Created || bid ask sp last 26.7 26.7 0 bp 26.81
+171 173 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T07:12:38.235 ID: 105 IQ T:  2019-03-01T07:12:37.853 Order: 173 SELL IOC LMT 100.0 at 26.7 msg:  Trade type BREACH_MDEV Status: Filled || TIF: IOC
+******** 2019-03-01T18:26:01.683
+201 ADDER BUY: IQ T:  2019-03-01T18:26:01.683 Order: 201 BUY IOC LMT 100.0 at 27.8 msg:  Trade type BREACH_ADDER Status: Created || yOpen 14.94 mOpen 27.2 prevClose 27.8 price 27.84
+201 201 -> 202 BREACH RESUBMIT: BREACH_ADDER IOC BUY 27.84 100.0 Primary? false current IQ T:  2019-03-01T18:26:02.047 Order: 202 BUY IOC LMT 100.0 at 27.84 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 27.84 27.84 0 bp 27.84
+201 202 -> 203 BREACH RESUBMIT: BREACH_ADDER IOC BUY 27.84 100.0 Primary? false current IQ T:  2019-03-01T18:26:02.425 Order: 203 BUY IOC LMT 100.0 at 27.84 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 27.84 27.84 0 bp 27.84
+201 203 -> 204 BREACH RESUBMIT: BREACH_ADDER IOC BUY 27.84 100.0 Primary? false current IQ T:  2019-03-01T18:26:02.789 Order: 204 BUY IOC LMT 100.0 at 27.84 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 27.84 27.84 0 bp 27.84
+201 204 -> 205 BREACH RESUBMIT: BREACH_ADDER IOC BUY 27.84 100.0 Primary? false current IQ T:  2019-03-01T18:26:03.166 Order: 205 BUY IOC LMT 100.0 at 27.84 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 27.84 27.84 0 bp 27.84
+201 205 -> 206 BREACH RESUBMIT: BREACH_ADDER IOC BUY 27.84 100.0 Primary? false current IQ T:  2019-03-01T18:26:03.551 Order: 206 BUY IOC LMT 100.0 at 27.84 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 27.84 27.84 0 bp 27.84
+201 206 -> 207 BREACH RESUBMIT: BREACH_ADDER IOC BUY 27.84 100.0 Primary? false current IQ T:  2019-03-01T18:26:03.919 Order: 207 BUY IOC LMT 100.0 at 27.84 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 27.84 27.84 0 bp 27.84
+201 207 -> 208 BREACH RESUBMIT: BREACH_ADDER IOC BUY 27.84 100.0 Primary? false current IQ T:  2019-03-01T18:26:04.297 Order: 208 BUY IOC LMT 100.0 at 27.84 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 27.84 27.84 0 bp 27.84
+201 208 -> 209 BREACH RESUBMIT: BREACH_ADDER IOC BUY 27.9 100.0 Primary? false current IQ T:  2019-03-01T18:26:04.663 Order: 209 BUY IOC LMT 100.0 at 27.9 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 27.84 27.9 22 bp 27.84
+201 209 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-01T18:26:05.101 ID: 117 IQ T:  2019-03-01T18:26:04.663 Order: 209 BUY IOC LMT 100.0 at 27.9 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC

@@ -1,0 +1,3 @@
+******** 2019-03-01T22:37:35.703
+239 ADDER BUY: NIO T:  2019-03-01T22:37:35.703 Order: 239 BUY IOC LMT 100.0 at 9.87 msg:  Trade type BREACH_ADDER Status: Created || yOpen 6.33 mOpen 9.7 prevClose 9.86 price 9.87
+239 239 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T22:37:36.186 ID: 147 NIO T:  2019-03-01T22:37:35.703 Order: 239 BUY IOC LMT 100.0 at 9.87 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC

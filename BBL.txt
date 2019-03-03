@@ -1,0 +1,6 @@
+******** 2019-03-01T00:00:02.802
+135 Breach ADDER BUY: BBL T:  2019-03-01T00:00:02.802 Order: 135 BUY IOC LMT 100.0 at 46.71 msg:  Trade type BREACH_ADDER Status: Created || yOpen 41.89 mOpen 45.0 price 46.7
+135 135 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-01T00:00:03.343 ID: 103 BBL T:  2019-03-01T00:00:02.802 Order: 135 BUY IOC LMT 100.0 at 46.71 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-01T19:04:56.961
+212 Cutter SELL: BBL T:  2019-03-01T19:04:56.961 Order: 212 SELL IOC LMT 100.0 at 46.34 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 41.89 mOpen 46.37 price 46.36
+212 212 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T19:04:57.443 ID: 120 BBL T:  2019-03-01T19:04:56.961 Order: 212 SELL IOC LMT 100.0 at 46.34 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
