@@ -1,3 +1,22 @@
 ******** 2019-03-01T22:37:35.703
 239 ADDER BUY: NIO T:  2019-03-01T22:37:35.703 Order: 239 BUY IOC LMT 100.0 at 9.87 msg:  Trade type BREACH_ADDER Status: Created || yOpen 6.33 mOpen 9.7 prevClose 9.86 price 9.87
 239 239 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T22:37:36.186 ID: 147 NIO T:  2019-03-01T22:37:35.703 Order: 239 BUY IOC LMT 100.0 at 9.87 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-05T00:41:35.366
+209 Cutter SELL: NIO T:  2019-03-05T00:41:35.366 Order: 209 SELL IOC LMT 100.0 at 9.68 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 6.33 mOpen 9.7 price 9.68
+209 209 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-05T00:41:35.767 ID: 117 NIO T:  2019-03-05T00:41:35.366 Order: 209 SELL IOC LMT 100.0 at 9.68 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-05T17:00:01.412
+438 ADDER BUY: NIO T:  2019-03-05T17:00:01.412 Order: 438 BUY IOC LMT 100.0 at 9.75 msg:  Trade type BREACH_ADDER Status: Created || yOpen 6.33 mOpen 9.7 prevClose 9.66 price 9.75
+438 438 -> 439 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.69 100.0 Primary? false current NIO T:  2019-03-05T17:00:01.942 Order: 439 BUY IOC LMT 100.0 at 9.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.69 0 bp 9.75
+438 439 -> 440 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.69 100.0 Primary? false current NIO T:  2019-03-05T17:00:02.313 Order: 440 BUY IOC LMT 100.0 at 9.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.69 0 bp 9.75
+438 440 -> 441 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.69 100.0 Primary? false current NIO T:  2019-03-05T17:00:02.694 Order: 441 BUY IOC LMT 100.0 at 9.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.69 0 bp 9.75
+438 441 -> 442 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.69 100.0 Primary? false current NIO T:  2019-03-05T17:00:03.050 Order: 442 BUY IOC LMT 100.0 at 9.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.69 0 bp 9.75
+438 442 -> 443 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.69 100.0 Primary? false current NIO T:  2019-03-05T17:00:03.436 Order: 443 BUY IOC LMT 100.0 at 9.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.69 0 bp 9.75
+438 443 -> 444 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.69 100.0 Primary? false current NIO T:  2019-03-05T17:00:03.788 Order: 444 BUY IOC LMT 100.0 at 9.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.69 0 bp 9.75
+438 444 -> 445 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.69 100.0 Primary? false current NIO T:  2019-03-05T17:00:04.163 Order: 445 BUY IOC LMT 100.0 at 9.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.69 0 bp 9.75
+438 445 -> 446 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.69 100.0 Primary? false current NIO T:  2019-03-05T17:00:04.524 Order: 446 BUY IOC LMT 100.0 at 9.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.69 0 bp 9.75
+438 446 -> 447 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.69 100.0 Primary? false current NIO T:  2019-03-05T17:00:04.895 Order: 447 BUY IOC LMT 100.0 at 9.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.69 0 bp 9.75
+438 447 -> 448 BREACH RESUBMIT: BREACH_ADDER IOC BUY 9.75 100.0 Primary? false current NIO T:  2019-03-05T17:00:05.253 Order: 448 BUY IOC LMT 100.0 at 9.75 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 9.69 9.75 62 bp 9.75
+438 448 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-05T17:00:05.629 ID: 111 NIO T:  2019-03-05T17:00:05.253 Order: 448 BUY IOC LMT 100.0 at 9.75 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-06T08:42:58.932
+655 Cutter SELL: added?false live cut NIO T:  2019-03-06T08:42:58.932 Order: 655 SELL IOC LMT 100.0 at 8.5 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 6.33 mOpen 9.7 price 8.5
+655 655 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-06T08:42:59.810 ID: 101 NIO T:  2019-03-06T08:42:58.932 Order: 655 SELL IOC LMT 100.0 at 8.5 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC

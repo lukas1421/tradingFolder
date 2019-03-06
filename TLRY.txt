@@ -94,3 +94,6 @@ NEW 128 Breach MDEV BUY: TLRY T:  2019-02-27T21:31:19.935 Order: 128 BUY IOC LMT
 195 ADDER BUY: TLRY T:  2019-03-01T17:47:39.679 Order: 195 BUY IOC LMT 100.0 at 83.0 msg:  Trade type BREACH_ADDER Status: Created || yOpen 71.1 mOpen 81.2 prevClose 81.3 price 83.0
 195 195 -> 196 BREACH RESUBMIT: BREACH_ADDER IOC BUY 84.69 100.0 Primary? false current TLRY T:  2019-03-01T17:47:39.971 Order: 196 BUY IOC LMT 100.0 at 84.69 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 83.0 84.69 204 bp 83.0
 195 196 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-01T17:47:40.349 ID: 104 TLRY T:  2019-03-01T17:47:39.971 Order: 196 BUY IOC LMT 100.0 at 84.69 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-04T20:13:56.654
+198 Cutter SELL: TLRY T:  2019-03-04T20:13:56.654 Order: 198 SELL IOC LMT 100.0 at 79.13 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 71.1 mOpen 81.2 price 79.69
+198 198 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-04T20:13:57.079 ID: 106 TLRY T:  2019-03-04T20:13:56.654 Order: 198 SELL IOC LMT 100.0 at 79.13 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC

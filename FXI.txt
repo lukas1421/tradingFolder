@@ -1,0 +1,7 @@
+******** 2019-03-04T17:22:49.861
+193 ADDER BUY: FXI T:  2019-03-04T17:22:49.861 Order: 193 BUY IOC LMT 100.0 at 44.53 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.1 mOpen 43.8 prevClose 44.25 price 44.56
+193 193 -> 194 BREACH RESUBMIT: BREACH_ADDER IOC BUY 44.53 100.0 Primary? false current FXI T:  2019-03-04T17:22:50.542 Order: 194 BUY IOC LMT 100.0 at 44.53 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 44.53 44.53 0 bp 44.56
+193 194 -> 195 BREACH RESUBMIT: BREACH_ADDER IOC BUY 44.53 100.0 Primary? false current FXI T:  2019-03-04T17:22:50.923 Order: 195 BUY IOC LMT 100.0 at 44.53 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 44.53 44.53 0 bp 44.56
+193 195 -> 196 BREACH RESUBMIT: BREACH_ADDER IOC BUY 44.53 100.0 Primary? false current FXI T:  2019-03-04T17:22:51.307 Order: 196 BUY IOC LMT 100.0 at 44.53 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 44.53 44.53 0 bp 44.56
+193 196 -> 197 BREACH RESUBMIT: BREACH_ADDER IOC BUY 44.65 100.0 Primary? false current FXI T:  2019-03-04T17:22:51.667 Order: 197 BUY IOC LMT 100.0 at 44.65 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 44.53 44.65 27 bp 44.56
+193 197 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-04T17:22:52.062 ID: 105 FXI T:  2019-03-04T17:22:51.667 Order: 197 BUY IOC LMT 100.0 at 44.65 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC

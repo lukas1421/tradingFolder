@@ -5,3 +5,6 @@
 ******** 2019-03-01T17:52:42.313
 198 Cutter BUY: PFE T:  2019-03-01T17:52:42.313 Order: 198 BUY IOC LMT 100.0 at 43.71 msg:  Trade type BREACH_CUTTER Status: Created || pos -100.0 yOpen 43.65 mOpen 43.5 price 43.58
 198 198 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T17:52:42.797 ID: 106 PFE T:  2019-03-01T17:52:42.313 Order: 198 BUY IOC LMT 100.0 at 43.71 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-04T22:21:30.042
+202 ADDER SELL: PFE T:  2019-03-04T22:21:30.042 Order: 202 SELL IOC LMT 100.0 at 43.31 msg:  Trade type BREACH_ADDER Status: Created || yOpen 43.65 mOpen 43.5 prevClose 43.36 price 43.32
+202 202 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-04T22:21:30.430 ID: 110 PFE T:  2019-03-04T22:21:30.042 Order: 202 SELL IOC LMT 100.0 at 43.31 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC

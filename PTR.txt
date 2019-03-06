@@ -2,3 +2,6 @@
 240 ADDER BUY: PTR T:  2019-03-01T22:39:38.909 Order: 240 BUY IOC LMT 100.0 at 66.21 msg:  Trade type BREACH_ADDER Status: Created || yOpen 61.55 mOpen 65.86 prevClose 65.86 price 66.4
 240 240 -> 241 BREACH RESUBMIT: BREACH_ADDER IOC BUY 66.45 100.0 Primary? false current PTR T:  2019-03-01T22:39:39.287 Order: 241 BUY IOC LMT 100.0 at 66.45 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 66.4 66.45 8 bp 66.4
 240 241 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T22:39:39.684 ID: 149 PTR T:  2019-03-01T22:39:39.287 Order: 241 BUY IOC LMT 100.0 at 66.45 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-05T00:45:46.594
+217 Cutter SELL: PTR T:  2019-03-05T00:45:46.594 Order: 217 SELL IOC LMT 100.0 at 65.7 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 61.55 mOpen 65.86 price 65.78
+217 217 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-05T00:45:47.002 ID: 125 PTR T:  2019-03-05T00:45:46.594 Order: 217 SELL IOC LMT 100.0 at 65.7 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
