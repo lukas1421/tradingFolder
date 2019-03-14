@@ -1,0 +1,9 @@
+delta impact check PASSED  52631.671200000004
+******** 2019-03-13T21:30:00.192
+747 ADDER BUY: TSM T:  2019-03-13T21:30:00.192 Order: 747 BUY DAY LMT 200.0 at 39.22 msg:  Trade type BREACH_ADDER Status: Created || yOpen 36.91 mOpen 39.05 prevClose 39.25 price 39.22
+747 747 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:30:00.929 ID: 106 TSM T:  2019-03-13T21:30:00.192 Order: 747 BUY DAY LMT 200.0 at 39.22 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+delta impact check PASSED  52403.538
+******** 2019-03-13T21:47:48.095
+781 Cutter SELL: added?true close cut TSM T:  2019-03-13T21:47:48.095 Order: 781 SELL IOC LMT 200.0 at 39.05 msg:  Trade type BREACH_CUTTER Status: Created || pos 200.0 yOpen 36.91 mOpen 39.05 price 39.04
+781 781 -> 782 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 39.04 200.0 Primary? false current TSM T:  2019-03-13T21:47:48.496 Order: 782 SELL IOC LMT 200.0 at 39.04 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 39.04 39.04 0 bp 39.04 attempts  1
+781 782 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-13T21:47:48.871 ID: 141 TSM T:  2019-03-13T21:47:48.496 Order: 782 SELL IOC LMT 200.0 at 39.04 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1

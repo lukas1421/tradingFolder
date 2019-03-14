@@ -1,0 +1,4 @@
+delta impact check PASSED  35058.705
+******** 2019-03-13T21:29:18.375
+745 ADDER BUY: CSCO T:  2019-03-13T21:29:18.375 Order: 745 BUY DAY LMT 100.0 at 52.25 msg:  Trade type BREACH_ADDER Status: Created || yOpen 43.41 mOpen 51.9 prevClose 52.15 price 52.35
+745 745 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:34:20.310 ID: 104 CSCO T:  2019-03-13T21:29:18.375 Order: 745 BUY DAY LMT 100.0 at 52.25 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

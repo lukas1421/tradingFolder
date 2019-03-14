@@ -1,0 +1,4 @@
+delta impact check PASSED  54148.086
+******** 2019-03-13T21:30:02.692
+757 ADDER SELL: UAL T:  2019-03-13T21:30:02.692 Order: 757 SELL DAY LMT 100.0 at 80.7 msg:  Trade type BREACH_ADDER Status: Created || yOpen 83.5 mOpen 87.99 prevClose 80.22 price 80.57
+757 757 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:32:16.709 ID: 116 UAL T:  2019-03-13T21:30:02.692 Order: 757 SELL DAY LMT 100.0 at 80.7 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

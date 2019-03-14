@@ -1,0 +1,3 @@
+delta impact check PASSED  73740.702
+******** 2019-03-13T21:30:00.237
+749 ADDER BUY: AXP T:  2019-03-13T21:30:00.237 Order: 749 BUY DAY LMT 100.0 at 109.9 msg:  Trade type BREACH_ADDER Status: Created || yOpen 95.36 mOpen 107.74 prevClose 110.1 price 110.18

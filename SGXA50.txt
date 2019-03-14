@@ -741,3 +741,41 @@ NEW 3 Breach Cutter BUY #: SGXA50 T:  10:15:00.503 Order: 3 BUY DAY LMT 4.0 at 1
 7  Manual Bid Limit  bid1 SGXA50 T:  10:03:57.320 Order: 7 BUY DAY LMT 1.0 at 11735.0 msg:  Trade type ON_BID Status: Created
 7 **FILLS** ConstructedInHandler -> Filled 10:05:28 ID: 105 SGXA50 T:  10:03:57.320 Order: 7 BUY DAY LMT 1.0 at 11735.0 msg:  Trade type ON_BID Status: Submitted TIF: DAY
 35  Manual Offer Limit  ask1 SGXA50 T:  2019-02-27T15:04:29.011 Order: 35 SELL DAY LMT 1.0 at 12540.0 msg:  Trade type ON_OFFER Status: Created ||
+******** 2019-03-08T09:18:00.271
+655 Cutter SELL: added?false live cut SGXA50 T:  2019-03-08T09:18:00.271 Order: 655 SELL GTD LMT 7.0 at 12537.5 msg:  Trade type BREACH_CUTTER Status: Created || pos 7.0 yOpen 10500.0 mOpen 12535.0 price 12532.5
+******** 2019-03-08T09:28:56.503
+658 Cutter SELL: added?false live cut SGXA50 T:  2019-03-08T09:28:56.503 Order: 658 SELL GTD LMT 7.0 at 12470.0 msg:  Trade type BREACH_CUTTER Status: Created || pos 7.0 yOpen 10500.0 mOpen 12535.0 price 12472.5
+******** 2019-03-08T09:35:58.893
+3 Cutter SELL: added?false live cut SGXA50 T:  2019-03-08T09:35:58.893 Order: 3 SELL GTC LMT 7.0 at 12455.0 msg:  Trade type BREACH_CUTTER Status: Created || pos 7.0 yOpen 10500.0 mOpen 12535.0 price 12457.5
+3 3 *PATIENT DEV FILL* Submitted -> Filled 2019-03-08T09:35:59.367 ID: 101 SGXA50 T:  2019-03-08T09:35:58.893 Order: 3 SELL GTC LMT 7.0 at 12455.0 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: GTC
+******** 2019-03-08T09:50:16.731
+6 ADDER SELL: SGXA50 T:  2019-03-08T09:50:16.731 Order: 6 SELL GTC LMT 1.0 at 12495.0 msg:  Trade type BREACH_ADDER Status: Created || mOpen 12535.0 prevClose 12497.5 price 12492.5
+6 6 *PATIENT DEV FILL* Submitted -> Filled 2019-03-08T09:50:39.697 ID: 101 SGXA50 T:  2019-03-08T09:50:16.731 Order: 6 SELL GTC LMT 1.0 at 12495.0 msg:  Trade type BREACH_ADDER Status: Filled || TIF: GTC
+******** 2019-03-08T09:53:35.372
+9 Cutter BUY: added?false SGXA50 T:  2019-03-08T09:53:35.372 Order: 9 BUY GTC LMT 1.0 at 12512.5 msg:  Trade type BREACH_CUTTER Status: Created || pos -1.0 yOpen 10500.0 mOpen 12535.0 price 12517.5
+******** 2019-03-08T09:57:16.145
+12 Cutter BUY: added?false SGXA50 T:  2019-03-08T09:57:16.145 Order: 12 BUY IOC LMT 1.0 at 12532.5 msg:  Trade type BREACH_CUTTER Status: Created || pos -1.0 yOpen 10500.0 mOpen 12535.0 price 12535.0
+12 12 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-08T09:57:16.639 ID: 101 SGXA50 T:  2019-03-08T09:57:16.145 Order: 12 BUY IOC LMT 1.0 at 12532.5 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-11T23:09:02.694
+679 ADDER BUY: SGXA50 T:  2019-03-11T23:09:02.694 Order: 679 BUY DAY LMT 1.0 at 12535.0 msg:  Trade type BREACH_ADDER Status: Created || yOpen 10500.0 mOpen 12535.0 prevClose 12510.0 price 12537.5
+******** 2019-03-12T09:00:00.324
+674 ADDER BUY: SGXA50 T:  2019-03-12T09:00:00.324 Order: 674 BUY DAY LMT 1.0 at 12570.0 msg:  Trade type BREACH_ADDER Status: Created || yOpen 10500.0 mOpen 12535.0 prevClose 12562.5 price 12575.0
+674 674 *PATIENT DEV FILL* Submitted -> Filled 2019-03-12T09:05:00.571 ID: 101 SGXA50 T:  2019-03-12T09:00:00.324 Order: 674 BUY DAY LMT 1.0 at 12570.0 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-12T09:19:07.530
+675 Cutter SELL: added?true close cut SGXA50 T:  2019-03-12T09:19:07.530 Order: 675 SELL IOC LMT 1.0 at 12535.0 msg:  Trade type BREACH_CUTTER Status: Created || pos 1.0 yOpen 10500.0 mOpen 12535.0 price 12532.5
+675 675 -> 676 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 12532.5 1.0 Primary? false current SGXA50 T:  2019-03-12T09:19:07.747 Order: 676 SELL IOC LMT 1.0 at 12532.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12532.5 12532.5 0 bp 12532.5
+675 676 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-12T09:19:08.170 ID: 103 SGXA50 T:  2019-03-12T09:19:07.747 Order: 676 SELL IOC LMT 1.0 at 12532.5 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-12T22:16:37.596
+708 ADDER BUY: SGXA50 T:  2019-03-12T22:16:37.596 Order: 708 BUY DAY LMT 1.0 at 12535.0 msg:  Trade type BREACH_ADDER Status: Created || yOpen 10500.0 mOpen 12535.0 prevClose 12512.5 price 12537.5
+708 708 *PATIENT DEV FILL* Submitted -> Filled 2019-03-12T22:16:51.449 ID: 110 SGXA50 T:  2019-03-12T22:16:37.596 Order: 708 BUY DAY LMT 1.0 at 12535.0 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-12T22:16:53.405
+709 Cutter SELL: added?true close cut SGXA50 T:  2019-03-12T22:16:53.405 Order: 709 SELL IOC LMT 1.0 at 12535.0 msg:  Trade type BREACH_CUTTER Status: Created || pos 1.0 yOpen 10500.0 mOpen 12535.0 price 12532.5
+709 709 -> 710 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 12532.5 1.0 Primary? false current SGXA50 T:  2019-03-12T22:16:53.593 Order: 710 SELL IOC LMT 1.0 at 12532.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12532.5 12532.5 0 bp 12532.5 attempts  1
+709 710 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-12T22:16:54.011 ID: 112 SGXA50 T:  2019-03-12T22:16:53.593 Order: 710 SELL IOC LMT 1.0 at 12532.5 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+******** 2019-03-13T13:29:49.275
+737 ADDER BUY: SGXA50 T:  2019-03-13T13:29:49.275 Order: 737 BUY DAY LMT 3.0 at 12535.0 msg:  Trade type BREACH_ADDER Status: Created || yOpen 10500.0 mOpen 12535.0 prevClose 12500.0 price 12537.5
+737 737 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T13:30:16.765 ID: 101 SGXA50 T:  2019-03-13T13:29:49.275 Order: 737 BUY DAY LMT 3.0 at 12535.0 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-13T13:30:17.338
+738 Cutter SELL: added?true close cut SGXA50 T:  2019-03-13T13:30:17.338 Order: 738 SELL IOC LMT 3.0 at 12535.0 msg:  Trade type BREACH_CUTTER Status: Created || pos 3.0 yOpen 10500.0 mOpen 12535.0 price 12532.5
+738 738 -> 739 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 12532.5 3.0 Primary? false current SGXA50 T:  2019-03-13T13:30:17.464 Order: 739 SELL IOC LMT 3.0 at 12532.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12532.5 12532.5 0 bp 12532.5 attempts  1
+738 739 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-13T13:30:17.779 ID: 103 SGXA50 T:  2019-03-13T13:30:17.464 Order: 739 SELL IOC LMT 3.0 at 12532.5 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1

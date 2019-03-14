@@ -1,0 +1,4 @@
+delta impact check PASSED  112657.542
+******** 2019-03-13T21:30:01.446
+755 ADDER BUY: BIDU T:  2019-03-13T21:30:01.446 Order: 755 BUY DAY LMT 100.0 at 167.9 msg:  Trade type BREACH_ADDER Status: Created || yOpen 159.13 mOpen 162.26 prevClose 167.1 price 168.23
+755 755 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:31:45.295 ID: 114 BIDU T:  2019-03-13T21:30:01.446 Order: 755 BUY DAY LMT 100.0 at 167.9 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

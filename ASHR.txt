@@ -1,0 +1,9 @@
+delta impact check PASSED  56040.2496
+******** 2019-03-13T21:29:01.354
+742 ADDER BUY: ASHR T:  2019-03-13T21:29:01.354 Order: 742 BUY DAY LMT 300.0 at 27.84 msg:  Trade type BREACH_ADDER Status: Created || yOpen 21.97 mOpen 27.8 prevClose 28.17 price 27.82
+742 742 *PATIENT DEV FILL* PreSubmitted -> Filled 2019-03-13T21:29:01.835 ID: 101 ASHR T:  2019-03-13T21:29:01.354 Order: 742 BUY DAY LMT 300.0 at 27.84 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+delta impact check PASSED  55959.732
+******** 2019-03-13T21:32:59.724
+772 Cutter SELL: added?true close cut ASHR T:  2019-03-13T21:32:59.724 Order: 772 SELL IOC LMT 300.0 at 27.8 msg:  Trade type BREACH_CUTTER Status: Created || pos 300.0 yOpen 21.97 mOpen 27.8 price 27.79
+772 772 -> 773 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 27.79 300.0 Primary? false current ASHR T:  2019-03-13T21:33:00.007 Order: 773 SELL IOC LMT 300.0 at 27.79 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 27.79 27.79 0 bp 27.79 attempts  1
+772 773 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-13T21:33:00.327 ID: 132 ASHR T:  2019-03-13T21:33:00.007 Order: 773 SELL IOC LMT 300.0 at 27.79 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1

@@ -5,3 +5,12 @@
 193 195 -> 196 BREACH RESUBMIT: BREACH_ADDER IOC BUY 44.53 100.0 Primary? false current FXI T:  2019-03-04T17:22:51.307 Order: 196 BUY IOC LMT 100.0 at 44.53 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 44.53 44.53 0 bp 44.56
 193 196 -> 197 BREACH RESUBMIT: BREACH_ADDER IOC BUY 44.65 100.0 Primary? false current FXI T:  2019-03-04T17:22:51.667 Order: 197 BUY IOC LMT 100.0 at 44.65 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 44.53 44.65 27 bp 44.56
 193 197 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-04T17:22:52.062 ID: 105 FXI T:  2019-03-04T17:22:51.667 Order: 197 BUY IOC LMT 100.0 at 44.65 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-07T22:45:00.630
+682 Cutter SELL: added?false live cut FXI T:  2019-03-07T22:45:00.630 Order: 682 SELL IOC LMT 100.0 at 43.8 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 39.1 mOpen 43.8 price 43.79
+682 682 -> 683 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 43.79 100.0 Primary? false current FXI T:  2019-03-07T22:45:00.990 Order: 683 SELL IOC LMT 100.0 at 43.79 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 43.79 43.79 0 bp 43.79
+682 683 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-07T22:45:01.366 ID: 129 FXI T:  2019-03-07T22:45:00.990 Order: 683 SELL IOC LMT 100.0 at 43.79 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-12T21:29:16.350
+678 ADDER BUY: FXI T:  2019-03-12T21:29:16.350 Order: 678 BUY DAY LMT 100.0 at 43.96 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.1 mOpen 43.8 prevClose 43.95 price 44.01
+******** 2019-03-12T21:50:52.743
+700 ADDER BUY: FXI T:  2019-03-12T21:50:52.743 Order: 700 BUY DAY LMT 100.0 at 44.03 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.1 mOpen 43.8 prevClose 44.04 price 44.04
+700 700 *PATIENT DEV FILL* Submitted -> Filled 2019-03-12T21:50:54.315 ID: 102 FXI T:  2019-03-12T21:50:52.743 Order: 700 BUY DAY LMT 100.0 at 44.03 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

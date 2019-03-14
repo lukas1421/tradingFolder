@@ -1,0 +1,4 @@
+delta impact check PASSED  76478.30040000001
+******** 2019-03-13T21:29:39.404
+746 ADDER BUY: MSFT T:  2019-03-13T21:29:39.404 Order: 746 BUY DAY LMT 100.0 at 113.98 msg:  Trade type BREACH_ADDER Status: Created || yOpen 101.65 mOpen 112.24 prevClose 113.55 price 114.02
+746 746 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:30:00.517 ID: 105 MSFT T:  2019-03-13T21:29:39.404 Order: 746 BUY DAY LMT 100.0 at 113.98 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

@@ -1,0 +1,8 @@
+delta impact check PASSED  60005.741400000006
+******** 2019-03-13T21:29:17.379
+744 ADDER BUY: XOP T:  2019-03-13T21:29:17.379 Order: 744 BUY DAY LMT 300.0 at 29.81 msg:  Trade type BREACH_ADDER Status: Created || yOpen 26.53 mOpen 29.83 prevClose 29.49 price 29.84
+744 744 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:29:50.118 ID: 103 XOP T:  2019-03-13T21:29:17.379 Order: 744 BUY DAY LMT 300.0 at 29.81 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+delta impact check PASSED  60005.741400000006
+******** 2019-03-13T21:30:00.235
+748 Cutter SELL: added?true close cut XOP T:  2019-03-13T21:30:00.235 Order: 748 SELL IOC LMT 300.0 at 29.81 msg:  Trade type BREACH_CUTTER Status: Created || pos 300.0 yOpen 26.53 mOpen 29.83 price 29.8
+748 748 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-13T21:30:00.801 ID: 107 XOP T:  2019-03-13T21:30:00.235 Order: 748 SELL IOC LMT 300.0 at 29.81 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 0

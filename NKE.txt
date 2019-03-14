@@ -1,0 +1,17 @@
+delta impact check PASSED  57496.2762
+******** 2019-03-13T21:30:13.214
+761 ADDER BUY: NKE T:  2019-03-13T21:30:13.214 Order: 761 BUY DAY LMT 100.0 at 85.69 msg:  Trade type BREACH_ADDER Status: Created || yOpen 74.14 mOpen 85.73 prevClose 85.6 price 85.75
+delta impact check PASSED  1149.7913280000002
+******** 2019-03-13T21:30:14.712
+762 Cutter SELL: added?true close cut NKE T:  2019-03-13T21:30:14.712 Order: 762 SELL IOC LMT 2.0 at 85.68 msg:  Trade type BREACH_CUTTER Status: Created || pos 2.0 yOpen 74.14 mOpen 85.73 price 85.69
+762 762 -> 763 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.69 2.0 Primary? false current NKE T:  2019-03-13T21:30:15.065 Order: 763 SELL IOC LMT 2.0 at 85.69 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.69 85.69 0 bp 85.69 attempts  1
+762 763 -> 764 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.81 2.0 Primary? false current NKE T:  2019-03-13T21:30:15.444 Order: 764 SELL IOC LMT 2.0 at 85.81 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.69 85.81 14 bp 85.69 attempts  2
+762 764 -> 765 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.76 2.0 Primary? false current NKE T:  2019-03-13T21:30:15.851 Order: 765 SELL IOC LMT 2.0 at 85.76 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.68 85.76 9 bp 85.69 attempts  3
+762 765 -> 766 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.8 2.0 Primary? false current NKE T:  2019-03-13T21:30:16.225 Order: 766 SELL IOC LMT 2.0 at 85.8 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.69 85.8 13 bp 85.69 attempts  4
+762 766 -> 767 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.8 2.0 Primary? false current NKE T:  2019-03-13T21:30:16.576 Order: 767 SELL IOC LMT 2.0 at 85.8 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.69 85.8 13 bp 85.69 attempts  5
+762 767 -> 768 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.8 2.0 Primary? false current NKE T:  2019-03-13T21:30:16.946 Order: 768 SELL IOC LMT 2.0 at 85.8 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.69 85.8 13 bp 85.69 attempts  6
+762 768 -> 769 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.8 2.0 Primary? false current NKE T:  2019-03-13T21:30:17.294 Order: 769 SELL IOC LMT 2.0 at 85.8 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.69 85.8 13 bp 85.69 attempts  7
+762 769 -> 770 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.8 2.0 Primary? false current NKE T:  2019-03-13T21:30:17.662 Order: 770 SELL IOC LMT 2.0 at 85.8 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.69 85.8 13 bp 85.69 attempts  8
+762 770 -> 771 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.7 2.0 Primary? false current NKE T:  2019-03-13T21:30:18.023 Order: 771 SELL IOC LMT 2.0 at 85.7 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.7 85.7 0 bp 85.69 attempts  9
+762 771 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-13T21:30:18.394 ID: 130 NKE T:  2019-03-13T21:30:18.023 Order: 771 SELL IOC LMT 2.0 at 85.7 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 9
+761 761 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:30:20.533 ID: 120 NKE T:  2019-03-13T21:30:13.214 Order: 761 BUY DAY LMT 100.0 at 85.69 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

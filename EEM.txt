@@ -1,0 +1,4 @@
+delta impact check PASSED  57248.013600000006
+******** 2019-03-13T21:30:01.194
+754 ADDER BUY: EEM T:  2019-03-13T21:30:01.194 Order: 754 BUY DAY LMT 200.0 at 42.66 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.0 mOpen 42.52 prevClose 42.64 price 42.67
+754 754 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:30:19.590 ID: 113 EEM T:  2019-03-13T21:30:01.194 Order: 754 BUY DAY LMT 200.0 at 42.66 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

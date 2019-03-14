@@ -25,3 +25,11 @@
 ******** 2019-03-05T08:40:30.266
 222 ADDER BUY: QQQ T:  2019-03-05T08:40:30.266 Order: 222 BUY IOC LMT 100.0 at 174.21 msg:  Trade type BREACH_ADDER Status: Created || yOpen 154.34 mOpen 173.37 prevClose 174.2 price 174.21
 222 222 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-05T08:40:30.906 ID: 101 QQQ T:  2019-03-05T08:40:30.266 Order: 222 BUY IOC LMT 100.0 at 174.21 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-07T02:05:50.693
+710 Cutter SELL: added?false live cut QQQ T:  2019-03-07T02:05:50.693 Order: 710 SELL IOC LMT 100.0 at 173.36 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 154.34 mOpen 173.37 price 173.36
+710 710 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-07T02:05:51.353 ID: 150 QQQ T:  2019-03-07T02:05:50.693 Order: 710 SELL IOC LMT 100.0 at 173.36 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-11T22:33:49.874
+663 ADDER BUY: QQQ T:  2019-03-11T22:33:49.874 Order: 663 BUY GTC LMT 100.0 at 173.4 msg:  Trade type BREACH_ADDER Status: Created || yOpen 154.34 mOpen 173.37 prevClose 171.33 price 173.41
+******** 2019-03-11T22:45:22.328
+669 ADDER BUY: QQQ T:  2019-03-11T22:45:22.328 Order: 669 BUY DAY LMT 100.0 at 173.41 msg:  Trade type BREACH_ADDER Status: Created || yOpen 154.34 mOpen 173.37 prevClose 173.43 price 173.42
+669 669 *PATIENT DEV FILL* Submitted -> Filled 2019-03-11T22:45:28.167 ID: 104 QQQ T:  2019-03-11T22:45:22.328 Order: 669 BUY DAY LMT 100.0 at 173.41 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

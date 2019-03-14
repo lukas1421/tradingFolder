@@ -5,3 +5,37 @@
 ******** 2019-03-05T00:52:16.380
 218 Cutter SELL: JPM T:  2019-03-05T00:52:16.380 Order: 218 SELL IOC LMT 100.0 at 104.35 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 97.7 mOpen 104.37 price 104.36
 218 218 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-05T00:52:16.772 ID: 126 JPM T:  2019-03-05T00:52:16.380 Order: 218 SELL IOC LMT 100.0 at 104.35 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-06T22:31:16.788
+706 ADDER BUY: JPM T:  2019-03-06T22:31:16.788 Order: 706 BUY IOC LMT 100.0 at 104.37 msg:  Trade type BREACH_ADDER Status: Created || yOpen 97.7 mOpen 104.37 prevClose 104.05 price 104.38
+706 706 -> 707 BREACH RESUBMIT: BREACH_ADDER IOC BUY 104.38 100.0 Primary? false current JPM T:  2019-03-06T22:31:17.157 Order: 707 BUY IOC LMT 100.0 at 104.38 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 104.38 104.38 0 bp 104.38
+706 707 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-06T22:31:17.540 ID: 147 JPM T:  2019-03-06T22:31:17.157 Order: 707 BUY IOC LMT 100.0 at 104.38 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-07T22:29:18.939
+674 Cutter SELL: added?false live cut JPM T:  2019-03-07T22:29:18.939 Order: 674 SELL IOC LMT 100.0 at 103.37 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 97.7 mOpen 104.37 price 103.35
+674 674 -> 675 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 103.25 100.0 Primary? false current JPM T:  2019-03-07T22:29:19.289 Order: 675 SELL IOC LMT 100.0 at 103.25 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 103.25 103.25 0 bp 103.35
+674 675 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-07T22:29:19.683 ID: 121 JPM T:  2019-03-07T22:29:19.289 Order: 675 SELL IOC LMT 100.0 at 103.25 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-11T21:32:40.165
+660 ADDER BUY: JPM T:  2019-03-11T21:32:40.165 Order: 660 BUY GTC LMT 100.0 at 104.38 msg:  Trade type BREACH_ADDER Status: Created || yOpen 97.7 mOpen 104.37 prevClose 103.1 price 104.38
+******** 2019-03-11T22:49:03.278
+676 ADDER BUY: JPM T:  2019-03-11T22:49:03.278 Order: 676 BUY DAY LMT 100.0 at 104.37 msg:  Trade type BREACH_ADDER Status: Created || yOpen 97.7 mOpen 104.37 prevClose 104.27 price 104.38
+676 676 *PATIENT DEV FILL* Submitted -> Filled 2019-03-11T22:49:10.119 ID: 111 JPM T:  2019-03-11T22:49:03.278 Order: 676 BUY DAY LMT 100.0 at 104.37 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-11T22:49:14.418
+677 Cutter SELL: added?true close cut JPM T:  2019-03-11T22:49:14.418 Order: 677 SELL IOC LMT 100.0 at 104.37 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 97.7 mOpen 104.37 price 104.36
+677 677 -> 678 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 104.36 100.0 Primary? false current JPM T:  2019-03-11T22:49:15.728 Order: 678 SELL IOC LMT 100.0 at 104.36 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 104.36 104.36 0 bp 104.36
+677 678 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-11T22:49:17.996 ID: 113 JPM T:  2019-03-11T22:49:15.728 Order: 678 SELL IOC LMT 100.0 at 104.36 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-12T21:30:03.966
+683 ADDER BUY: JPM T:  2019-03-12T21:30:03.966 Order: 683 BUY DAY LMT 100.0 at 104.51 msg:  Trade type BREACH_ADDER Status: Created || yOpen 97.7 mOpen 104.37 prevClose 104.59 price 104.59
+683 683 *PATIENT DEV FILL* Submitted -> Filled 2019-03-12T21:30:10.054 ID: 110 JPM T:  2019-03-12T21:30:03.966 Order: 683 BUY DAY LMT 100.0 at 104.51 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-12T22:11:07.980
+705 Cutter SELL: added?false live cut JPM T:  2019-03-12T22:11:07.980 Order: 705 SELL IOC LMT 100.0 at 104.37 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 97.7 mOpen 104.37 price 104.36
+705 705 -> 706 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 104.36 100.0 Primary? false current JPM T:  2019-03-12T22:11:08.344 Order: 706 SELL IOC LMT 100.0 at 104.36 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 104.36 104.36 0 bp 104.36 attempts  1
+705 706 -> 707 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 104.36 100.0 Primary? false current JPM T:  2019-03-12T22:11:08.723 Order: 707 SELL IOC LMT 100.0 at 104.36 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 104.35 104.36 1 bp 104.36 attempts  2
+705 707 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-12T22:11:09.086 ID: 109 JPM T:  2019-03-12T22:11:08.723 Order: 707 SELL IOC LMT 100.0 at 104.36 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 2
+delta impact check PASSED  70030.1826
+******** 2019-03-13T21:45:11.611
+778 ADDER BUY: JPM T:  2019-03-13T21:45:11.611 Order: 778 BUY DAY LMT 100.0 at 104.37 msg:  Trade type BREACH_ADDER Status: Created || yOpen 97.7 mOpen 104.37 prevClose 103.95 price 104.38
+778 778 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:45:24.853 ID: 137 JPM T:  2019-03-13T21:45:11.611 Order: 778 BUY DAY LMT 100.0 at 104.37 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+delta impact check PASSED  70023.4728
+******** 2019-03-13T21:45:25.825
+779 Cutter SELL: added?true close cut JPM T:  2019-03-13T21:45:25.825 Order: 779 SELL IOC LMT 100.0 at 104.36 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 97.7 mOpen 104.37 price 104.35
+779 779 -> 780 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 104.35 100.0 Primary? false current JPM T:  2019-03-13T21:45:26.215 Order: 780 SELL IOC LMT 100.0 at 104.35 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 104.35 104.35 0 bp 104.35 attempts  1
+779 780 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-13T21:45:26.612 ID: 139 JPM T:  2019-03-13T21:45:26.215 Order: 780 SELL IOC LMT 100.0 at 104.35 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1

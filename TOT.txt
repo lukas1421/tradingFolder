@@ -9,3 +9,29 @@
 204 ADDER BUY: TOT T:  2019-03-04T22:30:01.294 Order: 204 BUY IOC LMT 100.0 at 57.19 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.18 mOpen 56.91 prevClose 57.21 price 57.22
 204 204 -> 205 BREACH RESUBMIT: BREACH_ADDER IOC BUY 57.2 100.0 Primary? false current TOT T:  2019-03-04T22:30:02.220 Order: 205 BUY IOC LMT 100.0 at 57.2 msg:  Trade type BREACH_ADDER Status: Created || bid ask sp last 57.18 57.2 3 bp 57.22
 204 205 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-04T22:30:03.212 ID: 113 TOT T:  2019-03-04T22:30:02.220 Order: 205 BUY IOC LMT 100.0 at 57.2 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-08T22:30:01.156
+659 Cutter SELL: added?false live cut TOT T:  2019-03-08T22:30:01.156 Order: 659 SELL IOC LMT 100.0 at 56.63 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 52.18 mOpen 56.91 price 56.6
+659 659 -> 661 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 56.59 100.0 Primary? false current TOT T:  2019-03-08T22:30:05.803 Order: 661 SELL IOC LMT 100.0 at 56.59 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 56.59 56.6 2 bp 56.6
+659 661 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-08T22:30:06.106 ID: 107 TOT T:  2019-03-08T22:30:05.803 Order: 661 SELL IOC LMT 100.0 at 56.59 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-11T21:30:33.944
+659 ADDER BUY: TOT T:  2019-03-11T21:30:33.944 Order: 659 BUY GTC LMT 100.0 at 56.91 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.18 mOpen 56.91 prevClose 56.35 price 56.92
+******** 2019-03-11T22:46:36.345
+675 ADDER BUY: TOT T:  2019-03-11T22:46:36.345 Order: 675 BUY DAY LMT 100.0 at 57.11 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.18 mOpen 56.91 prevClose 57.11 price 57.12
+675 675 *PATIENT DEV FILL* Submitted -> Filled 2019-03-11T22:47:16.536 ID: 110 TOT T:  2019-03-11T22:46:36.345 Order: 675 BUY DAY LMT 100.0 at 57.11 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-11T23:52:53.080
+683 Cutter SELL: added?true close cut TOT T:  2019-03-11T23:52:53.080 Order: 683 SELL IOC LMT 100.0 at 56.91 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 52.18 mOpen 56.91 price 56.9
+683 683 -> 684 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 56.9 100.0 Primary? false current TOT T:  2019-03-11T23:52:53.447 Order: 684 SELL IOC LMT 100.0 at 56.9 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 56.9 56.9 0 bp 56.9
+683 684 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-11T23:52:53.823 ID: 119 TOT T:  2019-03-11T23:52:53.447 Order: 684 SELL IOC LMT 100.0 at 56.9 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-12T21:30:01.102
+680 ADDER BUY: TOT T:  2019-03-12T21:30:01.102 Order: 680 BUY DAY LMT 100.0 at 56.9 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.18 mOpen 56.91 prevClose 56.93 price 56.93
+******** 2019-03-12T21:51:08.441
+701 ADDER BUY: TOT T:  2019-03-12T21:51:08.441 Order: 701 BUY DAY LMT 100.0 at 57.05 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.18 mOpen 56.91 prevClose 57.07 price 57.06
+701 701 *PATIENT DEV FILL* Submitted -> Filled 2019-03-12T21:51:22.498 ID: 103 TOT T:  2019-03-12T21:51:08.441 Order: 701 BUY DAY LMT 100.0 at 57.05 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-13T03:55:49.072
+733 Cutter SELL: added?true close cut TOT T:  2019-03-13T03:55:49.072 Order: 733 SELL IOC LMT 100.0 at 56.91 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 52.18 mOpen 56.91 price 56.9
+733 733 -> 734 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 56.9 100.0 Primary? false current TOT T:  2019-03-13T03:55:49.479 Order: 734 SELL IOC LMT 100.0 at 56.9 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 56.9 56.9 0 bp 56.9 attempts  1
+733 734 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-13T03:55:49.911 ID: 136 TOT T:  2019-03-13T03:55:49.479 Order: 734 SELL IOC LMT 100.0 at 56.9 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  38601.479400000004
+******** 2019-03-13T21:30:00.943
+753 ADDER BUY: TOT T:  2019-03-13T21:30:00.943 Order: 753 BUY DAY LMT 100.0 at 57.53 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.18 mOpen 56.91 prevClose 56.89 price 57.49
+753 753 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:30:03.111 ID: 112 TOT T:  2019-03-13T21:30:00.943 Order: 753 BUY DAY LMT 100.0 at 57.53 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

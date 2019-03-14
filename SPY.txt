@@ -20,3 +20,12 @@
 ******** 2019-03-06T08:44:13.048
 656 Cutter SELL: added?false live cut SPY T:  2019-03-06T08:44:13.048 Order: 656 SELL IOC LMT 100.0 at 278.55 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 250.09 mOpen 278.8 price 278.55
 656 656 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-06T08:44:13.519 ID: 102 SPY T:  2019-03-06T08:44:13.048 Order: 656 SELL IOC LMT 100.0 at 278.55 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-06T22:29:03.213
+664 ADDER BUY: SPY T:  2019-03-06T22:29:03.213 Order: 664 BUY IOC LMT 100.0 at 279.17 msg:  Trade type BREACH_ADDER Status: Created || yOpen 250.09 mOpen 278.8 prevClose 278.61 price 279.17
+664 664 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-06T22:29:03.708 ID: 104 SPY T:  2019-03-06T22:29:03.213 Order: 664 BUY IOC LMT 100.0 at 279.17 msg:  Trade type BREACH_ADDER Status: Filled || TIF: IOC
+******** 2019-03-07T22:29:01.061
+655 Cutter SELL: added?false live cut SPY T:  2019-03-07T22:29:01.061 Order: 655 SELL IOC LMT 100.0 at 276.86 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 250.09 mOpen 278.8 price 276.89
+655 655 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-07T22:29:01.924 ID: 101 SPY T:  2019-03-07T22:29:01.061 Order: 655 SELL IOC LMT 100.0 at 276.86 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+******** 2019-03-12T21:29:01.047
+677 ADDER BUY: SPY T:  2019-03-12T21:29:01.047 Order: 677 BUY DAY LMT 100.0 at 278.97 msg:  Trade type BREACH_ADDER Status: Created || yOpen 250.09 mOpen 278.8 prevClose 279.38 price 278.96
+677 677 *PATIENT DEV FILL* Submitted -> Filled 2019-03-12T21:29:01.683 ID: 104 SPY T:  2019-03-12T21:29:01.047 Order: 677 BUY DAY LMT 100.0 at 278.97 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
