@@ -39,3 +39,7 @@ delta impact check PASSED  70023.4728
 779 Cutter SELL: added?true close cut JPM T:  2019-03-13T21:45:25.825 Order: 779 SELL IOC LMT 100.0 at 104.36 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 97.7 mOpen 104.37 price 104.35
 779 779 -> 780 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 104.35 100.0 Primary? false current JPM T:  2019-03-13T21:45:26.215 Order: 780 SELL IOC LMT 100.0 at 104.35 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 104.35 104.35 0 bp 104.35 attempts  1
 779 780 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-13T21:45:26.612 ID: 139 JPM T:  2019-03-13T21:45:26.215 Order: 780 SELL IOC LMT 100.0 at 104.35 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  70068.1119
+******** 2019-03-14T21:30:04.746
+882 ADDER BUY: JPM T:  2019-03-14T21:30:04.746 Order: 882 BUY DAY LMT 100.0 at 104.46 msg:  Trade type BREACH_ADDER Status: Created || yOpen 97.7 mOpen 104.37 prevClose 104.6 price 104.49
+882 882 *PATIENT DEV FILL* Submitted -> Filled 2019-03-14T21:31:47.990 ID: 126 JPM T:  2019-03-14T21:30:04.746 Order: 882 BUY DAY LMT 100.0 at 104.46 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

@@ -50,3 +50,18 @@
 ******** 2019-03-07T22:30:01.033
 680 Cutter SELL: added?false live cut QTT T:  2019-03-07T22:30:01.033 Order: 680 SELL IOC LMT 100.0 at 12.4 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 6.18 mOpen 13.6 price 12.4
 680 680 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-07T22:30:01.805 ID: 126 QTT T:  2019-03-07T22:30:01.033 Order: 680 SELL IOC LMT 100.0 at 12.4 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+delta impact check PASSED  73676.8276
+******** 2019-03-14T21:34:57.323
+885 ADDER BUY: QTT T:  2019-03-14T21:34:57.323 Order: 885 BUY DAY LMT 800.0 at 13.73 msg:  Trade type BREACH_ADDER Status: Created || yOpen 6.18 mOpen 13.6 prevClose 13.3 price 13.72
+885 885 *PATIENT DEV FILL* Submitted -> Filled 2019-03-14T21:35:20.116 ID: 129 QTT T:  2019-03-14T21:34:57.323 Order: 885 BUY DAY LMT 800.0 at 13.73 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-14T21:35:30.982
+886 Cutter SELL: added?true QTT T:  2019-03-14T21:35:30.982 Order: 886 SELL IOC LMT 800.0 at 13.53 msg:  Trade type BREACH_CUTTER Status: Created || pos 800.0 yOpen 6.18 mOpen 13.6 price 13.54
+886 886 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-14T21:35:31.381 ID: 130 QTT T:  2019-03-14T21:35:30.982 Order: 886 SELL IOC LMT 800.0 at 13.53 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 0
+delta impact check PASSED  74642.7292
+******** 2019-03-15T21:30:50.396
+886 ADDER BUY: QTT T:  2019-03-15T21:30:50.396 Order: 886 BUY DAY LMT 800.0 at 13.91 msg:  Trade type BREACH_ADDER Status: Created || yOpen 6.18 mOpen 13.6 prevClose 13.5 price 13.9
+886 886 *PATIENT DEV FILL* Submitted -> Filled 2019-03-15T21:30:50.833 ID: 130 QTT T:  2019-03-15T21:30:50.396 Order: 886 BUY DAY LMT 800.0 at 13.91 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-15T21:35:48.305
+887 Cutter SELL: added?true QTT T:  2019-03-15T21:35:48.305 Order: 887 SELL IOC LMT 800.0 at 13.64 msg:  Trade type BREACH_CUTTER Status: Created || pos 800.0 yOpen 6.18 mOpen 13.6 price 13.57
+887 887 -> 888 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 13.57 800.0 Primary? false current QTT T:  2019-03-15T21:35:48.660 Order: 888 SELL IOC LMT 800.0 at 13.57 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 13.57 13.57 0 bp 13.57 attempts  1
+887 888 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-15T21:35:49.032 ID: 132 QTT T:  2019-03-15T21:35:48.660 Order: 888 SELL IOC LMT 800.0 at 13.57 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1

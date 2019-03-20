@@ -14,3 +14,11 @@
 ******** 2019-03-12T21:50:52.743
 700 ADDER BUY: FXI T:  2019-03-12T21:50:52.743 Order: 700 BUY DAY LMT 100.0 at 44.03 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.1 mOpen 43.8 prevClose 44.04 price 44.04
 700 700 *PATIENT DEV FILL* Submitted -> Filled 2019-03-12T21:50:54.315 ID: 102 FXI T:  2019-03-12T21:50:52.743 Order: 700 BUY DAY LMT 100.0 at 44.03 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-14T22:06:28.956
+905 Cutter SELL: added?false FXI T:  2019-03-14T22:06:28.956 Order: 905 SELL IOC LMT 100.0 at 43.8 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 39.1 mOpen 43.8 price 43.79
+905 905 -> 906 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 43.79 100.0 Primary? false current FXI T:  2019-03-14T22:06:29.316 Order: 906 SELL IOC LMT 100.0 at 43.79 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 43.79 43.79 0 bp 43.79 attempts  1
+905 906 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-14T22:06:29.749 ID: 150 FXI T:  2019-03-14T22:06:29.316 Order: 906 SELL IOC LMT 100.0 at 43.79 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  59376.1178
+******** 2019-03-15T21:29:08.350
+861 ADDER BUY: FXI T:  2019-03-15T21:29:08.350 Order: 861 BUY DAY LMT 200.0 at 44.26 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.1 mOpen 43.8 prevClose 43.73 price 44.26
+861 861 *PATIENT DEV FILL* Submitted -> Filled 2019-03-15T21:30:01.584 ID: 105 FXI T:  2019-03-15T21:29:08.350 Order: 861 BUY DAY LMT 200.0 at 44.26 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

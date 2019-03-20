@@ -1,3 +1,24 @@
 delta impact check PASSED  177219.23760000002
 ******** 2019-03-13T21:30:00.439
 752 ADDER BUY: ADBE T:  2019-03-13T21:30:00.439 Order: 752 BUY DAY LMT 100.0 at 264.12 msg:  Trade type BREACH_ADDER Status: Created || yOpen 226.55 mOpen 262.5 prevClose 263.82 price 264.91
+delta impact check PASSED  177551.4955
+******** 2019-03-14T21:29:47.755
+878 ADDER BUY: ADBE T:  2019-03-14T21:29:47.755 Order: 878 BUY DAY LMT 100.0 at 264.7 msg:  Trade type BREACH_ADDER Status: Created || yOpen 226.55 mOpen 262.5 prevClose 265.0 price 265.23
+878 878 *PATIENT DEV FILL* Submitted -> Filled 2019-03-14T21:32:35.259 ID: 122 ADBE T:  2019-03-14T21:29:47.755 Order: 878 BUY DAY LMT 100.0 at 264.7 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-15T21:29:53.245
+864 Cutter SELL: added?false ADBE T:  2019-03-15T21:29:53.245 Order: 864 SELL IOC LMT 100.0 at 258.31 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 226.55 mOpen 262.5 price 257.5
+864 864 -> 865 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 258.22 100.0 Primary? false current ADBE T:  2019-03-15T21:29:53.618 Order: 865 SELL IOC LMT 100.0 at 258.22 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.5 258.22 28 bp 257.5 attempts  1
+864 865 -> 866 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 257.98 100.0 Primary? false current ADBE T:  2019-03-15T21:29:53.989 Order: 866 SELL IOC LMT 100.0 at 257.98 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.98 257.98 0 bp 257.98 attempts  2
+864 866 -> 867 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 257.98 100.0 Primary? false current ADBE T:  2019-03-15T21:29:54.357 Order: 867 SELL IOC LMT 100.0 at 257.98 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.98 257.98 0 bp 257.98 attempts  3
+864 867 -> 868 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 257.5 100.0 Primary? false current ADBE T:  2019-03-15T21:29:54.726 Order: 868 SELL IOC LMT 100.0 at 257.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.5 257.5 0 bp 257.5 attempts  4
+864 868 -> 869 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 257.54 100.0 Primary? false current ADBE T:  2019-03-15T21:29:55.088 Order: 869 SELL IOC LMT 100.0 at 257.54 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.54 257.54 0 bp 257.54 attempts  5
+864 869 -> 870 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 257.54 100.0 Primary? false current ADBE T:  2019-03-15T21:29:55.465 Order: 870 SELL IOC LMT 100.0 at 257.54 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.54 257.54 0 bp 257.54 attempts  6
+864 870 -> 871 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 257.54 100.0 Primary? false current ADBE T:  2019-03-15T21:29:55.827 Order: 871 SELL IOC LMT 100.0 at 257.54 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.54 257.54 0 bp 257.54 attempts  7
+864 871 -> 872 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 257.54 100.0 Primary? false current ADBE T:  2019-03-15T21:29:56.200 Order: 872 SELL IOC LMT 100.0 at 257.54 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.54 257.54 0 bp 257.54 attempts  8
+864 872 -> 874 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 257.54 100.0 Primary? false current ADBE T:  2019-03-15T21:29:56.567 Order: 874 SELL IOC LMT 100.0 at 257.54 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.54 257.54 0 bp 257.54 attempts  9
+864 874 -> 876 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 257.54 100.0 Primary? false current ADBE T:  2019-03-15T21:29:57.034 Order: 876 SELL IOC LMT 100.0 at 257.54 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.54 257.54 0 bp 257.54 attempts  10
+864 876 -> 877 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 259.1 100.0 Primary? false current ADBE T:  2019-03-15T21:29:57.547 Order: 877 SELL IOC LMT 100.0 at 259.1 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.54 259.1 61 bp 257.54 attempts  11
+864 877 -> 878 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 259.1 100.0 Primary? false current ADBE T:  2019-03-15T21:29:57.899 Order: 878 SELL IOC LMT 100.0 at 259.1 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.54 259.1 61 bp 257.54 attempts  12
+864 878 -> 879 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 259.1 100.0 Primary? false current ADBE T:  2019-03-15T21:29:58.266 Order: 879 SELL IOC LMT 100.0 at 259.1 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 257.54 259.1 61 bp 257.54 attempts  13
+864 879 -> 880 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 258.23 100.0 Primary? false current ADBE T:  2019-03-15T21:29:58.635 Order: 880 SELL IOC LMT 100.0 at 258.23 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 258.23 258.23 0 bp 258.23 attempts  14
+864 880 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-15T21:29:59.065 ID: 124 ADBE T:  2019-03-15T21:29:58.635 Order: 880 SELL IOC LMT 100.0 at 258.23 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 14

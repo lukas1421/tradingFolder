@@ -45,3 +45,10 @@ NEW 16 Breach MDEV BUY: JD T:  2019-02-20T22:30:08.280 Order: 16 BUY IOC LMT 100
 ******** 2019-03-12T21:50:52.703
 699 ADDER BUY: JD T:  2019-03-12T21:50:52.703 Order: 699 BUY DAY LMT 100.0 at 27.75 msg:  Trade type BREACH_ADDER Status: Created || yOpen 21.06 mOpen 27.6 prevClose 27.75 price 27.76
 699 699 *PATIENT DEV FILL* Submitted -> Filled 2019-03-12T21:51:20.220 ID: 101 JD T:  2019-03-12T21:50:52.703 Order: 699 BUY DAY LMT 100.0 at 27.75 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-14T21:30:10.719
+883 Cutter SELL: added?false JD T:  2019-03-14T21:30:10.719 Order: 883 SELL IOC LMT 100.0 at 27.57 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 21.06 mOpen 27.6 price 27.57
+883 883 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-14T21:30:11.218 ID: 127 JD T:  2019-03-14T21:30:10.719 Order: 883 SELL IOC LMT 100.0 at 27.57 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 0
+delta impact check PASSED  56545.4895
+******** 2019-03-15T21:29:36.134
+863 ADDER BUY: JD T:  2019-03-15T21:29:36.134 Order: 863 BUY DAY LMT 300.0 at 28.1 msg:  Trade type BREACH_ADDER Status: Created || yOpen 21.06 mOpen 27.6 prevClose 27.8 price 28.16
+863 863 *PATIENT DEV FILL* Submitted -> Filled 2019-03-15T21:30:18.117 ID: 107 JD T:  2019-03-15T21:29:36.134 Order: 863 BUY DAY LMT 300.0 at 28.1 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

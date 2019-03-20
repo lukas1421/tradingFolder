@@ -1,3 +1,7 @@
 delta impact check PASSED  66896.706
 ******** 2019-03-13T21:30:03.196
 758 ADDER BUY: PG T:  2019-03-13T21:30:03.196 Order: 758 BUY DAY LMT 100.0 at 99.7 msg:  Trade type BREACH_ADDER Status: Created || yOpen 91.89 mOpen 98.74 prevClose 100.05 price 99.99
+delta impact check PASSED  67572.8661
+******** 2019-03-14T21:30:00.794
+879 ADDER BUY: PG T:  2019-03-14T21:30:00.794 Order: 879 BUY DAY LMT 100.0 at 100.74 msg:  Trade type BREACH_ADDER Status: Created || yOpen 91.89 mOpen 98.74 prevClose 101.18 price 100.94
+879 879 *PATIENT DEV FILL* Submitted -> Filled 2019-03-14T21:33:00.440 ID: 123 PG T:  2019-03-14T21:30:00.794 Order: 879 BUY DAY LMT 100.0 at 100.74 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

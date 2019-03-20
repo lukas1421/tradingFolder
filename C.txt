@@ -8,3 +8,21 @@ delta impact check PASSED  42909.171
 810 810 -> 811 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.94 100.0 Primary? false current C T:  2019-03-14T00:02:21.083 Order: 811 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.94 2 bp 63.94 attempts  1
 810 811 -> 812 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.94 100.0 Primary? false current C T:  2019-03-14T00:02:21.464 Order: 812 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.94 2 bp 63.94 attempts  2
 810 812 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-14T00:02:21.897 ID: 171 C T:  2019-03-14T00:02:21.464 Order: 812 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 2
+delta impact check PASSED  42895.42175
+******** 2019-03-14T21:43:09.254
+890 ADDER BUY: C T:  2019-03-14T21:43:09.254 Order: 890 BUY DAY LMT 100.0 at 63.95 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.12 mOpen 63.95 prevClose 63.66 price 63.96
+890 890 *PATIENT DEV FILL* Submitted -> Filled 2019-03-14T21:43:30.068 ID: 134 C T:  2019-03-14T21:43:09.254 Order: 890 BUY DAY LMT 100.0 at 63.95 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-14T21:43:32.009
+891 Cutter SELL: added?true C T:  2019-03-14T21:43:32.009 Order: 891 SELL IOC LMT 100.0 at 63.95 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 52.12 mOpen 63.95 price 63.94
+891 891 -> 892 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.94 100.0 Primary? false current C T:  2019-03-14T21:43:32.420 Order: 892 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.94 2 bp 63.94 attempts  1
+891 892 -> 893 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.94 100.0 Primary? false current C T:  2019-03-14T21:43:32.782 Order: 893 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.94 2 bp 63.94 attempts  2
+891 893 -> 894 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.94 100.0 Primary? false current C T:  2019-03-14T21:43:33.159 Order: 894 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.94 2 bp 63.94 attempts  3
+891 894 -> 895 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.94 100.0 Primary? false current C T:  2019-03-14T21:43:33.513 Order: 895 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.94 2 bp 63.94 attempts  4
+891 895 -> 896 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.94 100.0 Primary? false current C T:  2019-03-14T21:43:33.885 Order: 896 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.94 2 bp 63.94 attempts  5
+891 896 -> 897 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.94 100.0 Primary? false current C T:  2019-03-14T21:43:34.243 Order: 897 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.94 2 bp 63.94 attempts  6
+891 897 -> 898 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.94 100.0 Primary? false current C T:  2019-03-14T21:43:34.603 Order: 898 SELL IOC LMT 100.0 at 63.94 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.94 2 bp 63.94 attempts  7
+891 898 -> 899 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 63.93 100.0 Primary? false current C T:  2019-03-14T21:43:34.968 Order: 899 SELL IOC LMT 100.0 at 63.93 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 63.93 63.93 0 bp 63.93 attempts  8
+891 899 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-14T21:43:35.397 ID: 143 C T:  2019-03-14T21:43:34.968 Order: 899 SELL IOC LMT 100.0 at 63.93 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 8
+delta impact check PASSED  42928.96
+******** 2019-03-15T21:30:06.456
+885 ADDER BUY: C T:  2019-03-15T21:30:06.456 Order: 885 BUY DAY LMT 100.0 at 64.0 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.12 mOpen 63.95 prevClose 64.06 price 64.16

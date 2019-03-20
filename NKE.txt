@@ -15,3 +15,10 @@ delta impact check PASSED  1149.7913280000002
 762 770 -> 771 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 85.7 2.0 Primary? false current NKE T:  2019-03-13T21:30:18.023 Order: 771 SELL IOC LMT 2.0 at 85.7 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 85.7 85.7 0 bp 85.69 attempts  9
 762 771 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-13T21:30:18.394 ID: 130 NKE T:  2019-03-13T21:30:18.023 Order: 771 SELL IOC LMT 2.0 at 85.7 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 9
 761 761 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:30:20.533 ID: 120 NKE T:  2019-03-13T21:30:13.214 Order: 761 BUY DAY LMT 100.0 at 85.69 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-14T22:09:35.740
+907 Cutter SELL: added?false NKE T:  2019-03-14T22:09:35.740 Order: 907 SELL IOC LMT 98.0 at 85.71 msg:  Trade type BREACH_CUTTER Status: Created || pos 98.0 yOpen 74.14 mOpen 85.73 price 85.72
+907 907 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-14T22:09:36.228 ID: 151 NKE T:  2019-03-14T22:09:35.740 Order: 907 SELL IOC LMT 98.0 at 85.71 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 0
+delta impact check PASSED  58390.09325
+******** 2019-03-15T21:30:05.209
+884 ADDER BUY: NKE T:  2019-03-15T21:30:05.209 Order: 884 BUY DAY LMT 100.0 at 87.05 msg:  Trade type BREACH_ADDER Status: Created || yOpen 74.14 mOpen 85.73 prevClose 86.94 price 87.22
+884 884 *PATIENT DEV FILL* Submitted -> Filled 2019-03-15T21:36:54.213 ID: 128 NKE T:  2019-03-15T21:30:05.209 Order: 884 BUY DAY LMT 100.0 at 87.05 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

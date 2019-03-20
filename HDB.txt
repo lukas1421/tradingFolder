@@ -1,3 +1,7 @@
 delta impact check PASSED  73136.82
 ******** 2019-03-13T21:30:02.162
 756 ADDER BUY: HDB T:  2019-03-13T21:30:02.162 Order: 756 BUY DAY LMT 100.0 at 109.0 msg:  Trade type BREACH_ADDER Status: Created || yOpen 103.59 mOpen 101.12 prevClose 107.91 price 109.1
+delta impact check PASSED  73717.0735
+******** 2019-03-14T21:30:01.439
+880 ADDER BUY: HDB T:  2019-03-14T21:30:01.439 Order: 880 BUY DAY LMT 100.0 at 109.9 msg:  Trade type BREACH_ADDER Status: Created || yOpen 103.59 mOpen 101.12 prevClose 110.5 price 110.0
+880 880 *PATIENT DEV FILL* Submitted -> Filled 2019-03-14T22:02:35.277 ID: 124 HDB T:  2019-03-14T21:30:01.439 Order: 880 BUY DAY LMT 100.0 at 109.9 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

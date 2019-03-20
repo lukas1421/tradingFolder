@@ -1,3 +1,7 @@
 delta impact check PASSED  73740.702
 ******** 2019-03-13T21:30:00.237
 749 ADDER BUY: AXP T:  2019-03-13T21:30:00.237 Order: 749 BUY DAY LMT 100.0 at 109.9 msg:  Trade type BREACH_ADDER Status: Created || yOpen 95.36 mOpen 107.74 prevClose 110.1 price 110.18
+delta impact check PASSED  75279.95595
+******** 2019-03-14T21:30:29.498
+884 ADDER BUY: AXP T:  2019-03-14T21:30:29.498 Order: 884 BUY DAY LMT 100.0 at 112.23 msg:  Trade type BREACH_ADDER Status: Created || yOpen 95.36 mOpen 107.74 prevClose 112.14 price 112.39
+884 884 *PATIENT DEV FILL* Submitted -> Filled 2019-03-14T21:33:02.024 ID: 128 AXP T:  2019-03-14T21:30:29.498 Order: 884 BUY DAY LMT 100.0 at 112.23 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
