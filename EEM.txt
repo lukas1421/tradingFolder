@@ -9,3 +9,7 @@ delta impact check PASSED  57457.7299
 ******** 2019-03-15T21:30:01.197
 882 ADDER BUY: EEM T:  2019-03-15T21:30:01.197 Order: 882 BUY DAY LMT 200.0 at 42.83 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.0 mOpen 42.52 prevClose 42.45 price 42.83
 882 882 *PATIENT DEV FILL* Submitted -> Filled 2019-03-15T21:30:02.200 ID: 126 EEM T:  2019-03-15T21:30:01.197 Order: 882 BUY DAY LMT 200.0 at 42.83 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-22T23:53:14.151
+1004 Cutter SELL: added?false EEM T:  2019-03-22T23:53:14.151 Order: 1004 SELL IOC LMT 200.0 at 42.52 msg:  Trade type BREACH_CUTTER Status: Created || pos 200.0 yOpen 39.0 mOpen 42.52 price 42.51
+1004 1004 -> 1005 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 42.51 200.0 Primary? false current EEM T:  2019-03-22T23:53:14.470 Order: 1005 SELL IOC LMT 200.0 at 42.51 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 42.51 42.51 0 bp 42.51 attempts  1
+1004 1005 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-22T23:53:15.317 ID: 152 EEM T:  2019-03-22T23:53:14.470 Order: 1005 SELL IOC LMT 200.0 at 42.51 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
