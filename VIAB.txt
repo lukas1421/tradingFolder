@@ -28,3 +28,14 @@ delta impact check PASSED  52157.296035
 delta impact check PASSED  52154.91504000001
 ******** 2019-03-22T21:30:05.051
 1001 ADDER SELL: VIAB T:  2019-03-22T21:30:05.051 Order: 1001 SELL DAY LMT 300.0 at 25.92 msg:  Trade type BREACH_ADDER Status: Created || yOpen 25.9 mOpen 29.18 prevClose 26.07 price 25.89 devMonthOpen 0.0
+delta impact check PASSED  58779.9504
+******** 2019-03-26T23:43:13.595
+965 ADDER BUY: VIAB T:  2019-03-26T23:43:13.595 Order: 965 BUY DAY LMT 300.0 at 29.2 msg:  Trade type BREACH_ADDER Status: Created || yOpen 25.9 mOpen 29.18 prevClose 26.35 price 29.2 devFromOpen 0.0
+965 965 *PATIENT DEV FILL* Submitted -> Filled 2019-03-26T23:43:15.638 ID: 144 VIAB T:  2019-03-26T23:43:13.595 Order: 965 BUY DAY LMT 300.0 at 29.2 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-26T23:43:18.353
+966 Cutter SELL: added?true VIAB T:  2019-03-26T23:43:18.353 Order: 966 SELL IOC LMT 300.0 at 29.17 msg:  Trade type BREACH_CUTTER Status: Created || pos 300.0 yOpen 25.9 mOpen 29.18 price 29.17
+966 966 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-26T23:43:18.995 ID: 145 VIAB T:  2019-03-26T23:43:18.353 Order: 966 SELL IOC LMT 300.0 at 29.17 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 0
+delta impact check PASSED  76067.9262
+******** 2019-04-01T21:30:01.416
+871 ADDER BUY: VIAB T:  2019-04-01T21:30:01.416 Order: 871 BUY DAY LMT 400.0 at 28.35 msg:  Trade type BREACH_ADDER Status: Created || yOpen 25.9 mOpen 28.19 prevClose 28.19 price 28.34 devFromMaxOpen 0.0053
+871 871 *PATIENT DEV FILL* Submitted -> Filled 2019-04-01T21:30:06.129 ID: 115 VIAB T:  2019-04-01T21:30:01.416 Order: 871 BUY DAY LMT 400.0 at 28.35 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

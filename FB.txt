@@ -20,3 +20,7 @@
 866 880 -> 881 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 161.2 100.0 Primary? false current FB T:  2019-03-18T21:39:55.056 Order: 881 SELL IOC LMT 100.0 at 161.2 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 161.12 161.2 5 bp 161.16 attempts  15
 866 881 -> 882 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 161.22 100.0 Primary? false current FB T:  2019-03-18T21:39:55.607 Order: 882 SELL IOC LMT 100.0 at 161.22 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 161.15 161.22 4 bp 161.21 attempts  16
 866 882 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-18T21:39:55.948 ID: 126 FB T:  2019-03-18T21:39:55.607 Order: 882 SELL IOC LMT 100.0 at 161.22 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 16
+delta impact check PASSED  110586.097885
+******** 2019-03-28T21:29:31.818
+911 ADDER BUY: FB T:  2019-03-28T21:29:31.818 Order: 911 BUY DAY LMT 100.0 at 164.11 msg:  Trade type BREACH_ADDER Status: Created || yOpen 131.0 mOpen 161.55 prevClose 165.5 price 164.26 devFromMaxOpen 0.0168
+911 911 *PATIENT DEV FILL* Submitted -> Filled 2019-03-28T21:29:54.025 ID: 101 FB T:  2019-03-28T21:29:31.818 Order: 911 BUY DAY LMT 100.0 at 164.11 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

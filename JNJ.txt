@@ -34,3 +34,18 @@
 ******** 2019-03-11T22:45:21.368
 668 ADDER BUY: JNJ T:  2019-03-11T22:45:21.368 Order: 668 BUY DAY LMT 100.0 at 138.01 msg:  Trade type BREACH_ADDER Status: Created || yOpen 129.1 mOpen 136.59 prevClose 138.04 price 138.04
 668 668 *PATIENT DEV FILL* Submitted -> Filled 2019-03-11T22:45:37.272 ID: 103 JNJ T:  2019-03-11T22:45:21.368 Order: 668 BUY DAY LMT 100.0 at 138.01 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-25T21:30:02.977
+885 Cutter SELL: added?false JNJ T:  2019-03-25T21:30:02.977 Order: 885 SELL IOC LMT 100.0 at 136.75 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 129.1 mOpen 136.59 price 136.55
+885 885 -> 887 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 136.55 100.0 Primary? false current JNJ T:  2019-03-25T21:30:03.840 Order: 887 SELL IOC LMT 100.0 at 136.55 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 136.55 136.55 0 bp 136.84 attempts  1
+885 887 *GUARANTEE DEV FILL* Submitted -> Filled 2019-03-25T21:30:04.703 ID: 131 JNJ T:  2019-03-25T21:30:03.840 Order: 887 SELL IOC LMT 100.0 at 136.55 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  91699.40664
+******** 2019-03-26T21:30:00.615
+963 ADDER BUY: JNJ T:  2019-03-26T21:30:00.615 Order: 963 BUY DAY LMT 100.0 at 136.66 msg:  Trade type BREACH_ADDER Status: Created || yOpen 129.1 mOpen 136.59 prevClose 136.27 price 136.93 devFromOpen 0.0
+delta impact check PASSED  93155.48594
+******** 2019-03-27T21:30:05.389
+872 ADDER BUY: JNJ T:  2019-03-27T21:30:05.389 Order: 872 BUY DAY LMT 100.0 at 138.59 msg:  Trade type BREACH_ADDER Status: Created || yOpen 129.1 mOpen 136.59 prevClose 137.8 price 138.59 devFromMaxOpen 0.0146
+872 872 *PATIENT DEV FILL* Submitted -> Filled 2019-03-27T22:52:09.300 ID: 116 JNJ T:  2019-03-27T21:30:05.389 Order: 872 BUY DAY LMT 100.0 at 138.59 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-01T21:30:01.417
+872 Cutter SELL: added?false JNJ T:  2019-04-01T21:30:01.417 Order: 872 SELL IOC LMT 100.0 at 140.0 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 129.1 mOpen 139.99 price 139.95
+872 872 -> 881 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 139.95 100.0 Primary? false current JNJ T:  2019-04-01T21:30:05.464 Order: 881 SELL IOC LMT 100.0 at 139.95 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.95 139.95 0 bp 140.0 attempts  1
+872 881 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-01T21:30:06.225 ID: 125 JNJ T:  2019-04-01T21:30:05.464 Order: 881 SELL IOC LMT 100.0 at 139.95 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1

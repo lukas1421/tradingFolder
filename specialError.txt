@@ -1,0 +1,100 @@
+2019-04-02T21:34:26.384 NKTR 146 NKTR T:  2019-04-02T21:33:55.354 Order: 1472 BUY IOC LMT 100.0 at 33.28 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-02T21:34:26.449 NKTR 146 NKTR T:  2019-04-02T21:33:55.354 Order: 1472 BUY IOC LMT 100.0 at 33.28 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-02T21:34:26.507 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 400.0 -300.0
+2019-04-02T21:34:26.512 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 400.0 -200.0
+2019-04-02T21:34:26.516 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 400.0 -100.0
+2019-04-02T21:34:26.518 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 400.0 -100.0
+2019-04-02T21:34:26.520 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 400.0 -100.0
+2019-04-02T21:34:26.522 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 400.0 -100.0
+2019-04-02T21:34:26.565 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 400.0 -100.0
+2019-04-02T21:34:26.567 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 400.0 -100.0
+2019-04-02T21:34:26.612 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: PreSubmitted || breach cutting, pos partialFill, lastQ, pos 400.0 -100.0
+2019-04-02T21:34:26.613 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 400.0 0.0
+2019-04-02T21:34:26.615 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 400.0 0.0
+2019-04-02T21:34:26.616 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 400.0 0.0
+2019-04-02T21:34:26.617 BILI 141 BILI T:  2019-04-02T21:33:53.638 Order: 1467 BUY IOC LMT 400.0 at 18.45 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 400.0 0.0
+2019-04-02T21:35:07.671 UAL 164 UAL T:  2019-04-02T21:35:07.297 Order: 1490 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-02T21:35:07.685 UAL 164 UAL T:  2019-04-02T21:35:07.297 Order: 1490 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-02T22:10:08.738 NKTR 147 NKTR T:  2019-04-02T22:10:08.354 Order: 1657 SELL IOC LMT 300.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 300.0 200.0
+2019-04-02T22:10:08.740 NKTR 147 NKTR T:  2019-04-02T22:10:08.354 Order: 1657 SELL IOC LMT 300.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 300.0 200.0
+2019-04-02T22:10:08.780 NKTR 147 NKTR T:  2019-04-02T22:10:08.354 Order: 1657 SELL IOC LMT 300.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 300.0 200.0
+2019-04-02T22:10:08.782 NKTR 147 NKTR T:  2019-04-02T22:10:08.354 Order: 1657 SELL IOC LMT 300.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 300.0 200.0
+2019-04-02T22:10:08.783 NKTR 147 NKTR T:  2019-04-02T22:10:08.354 Order: 1657 SELL IOC LMT 300.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 300.0 100.0
+2019-04-02T22:10:08.824 NKTR 147 NKTR T:  2019-04-02T22:10:08.354 Order: 1657 SELL IOC LMT 300.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: PreSubmitted || breach cutting, pos partialFill, lastQ, pos 300.0 100.0
+2019-04-02T22:10:08.825 NKTR 147 NKTR T:  2019-04-02T22:10:08.354 Order: 1657 SELL IOC LMT 300.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: PendingCancel || breach cutting, pos partialFill, lastQ, pos 300.0 100.0
+2019-04-02T22:10:08.828 NKTR 147 NKTR T:  2019-04-02T22:10:08.354 Order: 1657 SELL IOC LMT 300.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: PendingCancel || breach cutting, pos partialFill, lastQ, pos 300.0 100.0
+2019-04-02T22:10:08.831 NKTR 147 NKTR T:  2019-04-02T22:10:08.354 Order: 1657 SELL IOC LMT 300.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: PendingCancel || breach cutting, pos partialFill, lastQ, pos 300.0 100.0
+2019-04-02T22:11:14.353 NKTR 231 NKTR T:  2019-04-02T22:11:13.944 Order: 1741 SELL IOC LMT 100.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-02T22:11:14.353 NKTR 231 NKTR T:  2019-04-02T22:11:13.944 Order: 1741 SELL IOC LMT 100.0 at 33.31 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-02T23:42:39.564 NKE 549 NKE T:  2019-04-02T23:42:38.557 Order: 2059 SELL IOC LMT 100.0 at 84.18 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-02T23:42:39.627 NKE 549 NKE T:  2019-04-02T23:42:38.557 Order: 2059 SELL IOC LMT 100.0 at 84.18 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-03T00:23:39.474 UAL 610 UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, pos 100.0 93.0
+2019-04-03T00:23:39.589 UAL 610 UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-03T00:23:39.589 UAL 610 UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-03T00:23:39.590 UAL 610 UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 100.0 0.0
+2019-04-03T00:45:04.628 JD 651 JD T:  2019-04-03T00:44:18.538 Order: 2161 SELL IOC LMT 300.0 at 30.15 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 300.0 0.0
+2019-04-03T00:45:04.628 JD 651 JD T:  2019-04-03T00:44:18.538 Order: 2161 SELL IOC LMT 300.0 at 30.15 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, pos 300.0 0.0
+2019-04-03T21:36:05.794 PDD 155 PDD T: 2019-04-03T21:36:05.328 Order: 911 SELL IOC LMT 400.0 24.7 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 400.0 300.0
+2019-04-03T21:36:05.800 PDD 155 PDD T: 2019-04-03T21:36:05.328 Order: 911 SELL IOC LMT 400.0 24.7 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 400.0 100.0
+2019-04-03T21:36:05.806 PDD 155 PDD T: 2019-04-03T21:36:05.328 Order: 911 SELL IOC LMT 400.0 24.7 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-03T21:36:05.808 PDD 155 PDD T: 2019-04-03T21:36:05.328 Order: 911 SELL IOC LMT 400.0 24.7 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-03T21:36:05.811 PDD 155 PDD T: 2019-04-03T21:36:05.328 Order: 911 SELL IOC LMT 400.0 24.7 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-03T21:36:05.813 PDD 155 PDD T: 2019-04-03T21:36:05.328 Order: 911 SELL IOC LMT 400.0 24.7 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-03T21:52:53.735 UAL 218 UAL T: 2019-04-03T21:52:16.044 Order: 974 SELL IOC LMT 100.0 83.37 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-03T21:52:53.793 UAL 218 UAL T: 2019-04-03T21:52:16.044 Order: 974 SELL IOC LMT 100.0 83.37 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-03T23:23:36.309 XOP 324 XOP T: 2019-04-03T23:23:35.932 Order: 1080 SELL IOC LMT 300.0 30.67 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-04-03T23:23:36.373 XOP 324 XOP T: 2019-04-03T23:23:35.932 Order: 1080 SELL IOC LMT 300.0 30.67 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-04-04T02:03:52.694 XOM 337 XOM T: 2019-04-04T02:03:52.267 Order: 1093 SELL IOC LMT 100.0 80.8 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-04T02:03:52.695 XOM 337 XOM T: 2019-04-04T02:03:52.267 Order: 1093 SELL IOC LMT 100.0 80.8 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-04T02:13:26.947 IQ 346 IQ T: 2019-04-04T02:13:26.518 Order: 1102 SELL IOC LMT 400.0 23.83 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-04T02:13:26.948 IQ 346 IQ T: 2019-04-04T02:13:26.518 Order: 1102 SELL IOC LMT 400.0 23.83 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-04T21:30:04.015 JD 103 JD T: 2019-04-04T21:30:03.502 Order: 1107 SELL IOC LMT 300.0 29.73 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-04-04T21:30:04.017 JD 103 JD T: 2019-04-04T21:30:03.502 Order: 1107 SELL IOC LMT 300.0 29.73 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-04-04T21:30:04.019 JD 103 JD T: 2019-04-04T21:30:03.502 Order: 1107 SELL IOC LMT 300.0 29.73 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-04-04T21:30:04.023 JD 103 JD T: 2019-04-04T21:30:03.502 Order: 1107 SELL IOC LMT 300.0 29.73 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-04-04T21:30:04.033 JD 103 JD T: 2019-04-04T21:30:03.502 Order: 1107 SELL IOC LMT 300.0 29.73 Type: BREACH_CUTTER Status: PreSubmitted || breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-04-04T21:30:04.034 JD 103 JD T: 2019-04-04T21:30:03.502 Order: 1107 SELL IOC LMT 300.0 29.73 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-04-04T21:30:04.036 JD 103 JD T: 2019-04-04T21:30:03.502 Order: 1107 SELL IOC LMT 300.0 29.73 Type: BREACH_CUTTER Status: PendingCancel || breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-04-04T21:30:04.169 JD 103 JD T: 2019-04-04T21:30:03.502 Order: 1107 SELL IOC LMT 300.0 29.73 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 300.0 100.0
+2019-04-04T21:30:05.525 JD 104 JD T: 2019-04-04T21:30:04.037 Order: 1108 SELL IOC LMT 200.0 29.73 Type: BREACH_CUTTER Status: PendingCancel || breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-04-04T21:30:09.329 JD 112 JD T: 2019-04-04T21:30:08.705 Order: 1116 SELL IOC LMT 100.0 29.78 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-04T21:30:10.550 JD 112 JD T: 2019-04-04T21:30:08.705 Order: 1116 SELL IOC LMT 100.0 29.78 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-04T21:30:35.742 JD 104 JD T: 2019-04-04T21:30:04.037 Order: 1108 SELL IOC LMT 200.0 29.73 Type: BREACH_CUTTER Status: PendingCancel || breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-04-04T21:31:01.196 IQ 114 IQ T: 2019-04-04T21:31:00.779 Order: 1118 SELL IOC LMT 400.0 23.8 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 400.0 300.0
+2019-04-04T21:31:01.200 IQ 114 IQ T: 2019-04-04T21:31:00.779 Order: 1118 SELL IOC LMT 400.0 23.8 Type: BREACH_CUTTER Status: Submitted || breach cutting, pos partialFill, lastQ, livePos 400.0 300.0
+2019-04-04T21:31:01.206 IQ 114 IQ T: 2019-04-04T21:31:00.779 Order: 1118 SELL IOC LMT 400.0 23.8 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-04T21:31:01.209 IQ 114 IQ T: 2019-04-04T21:31:00.779 Order: 1118 SELL IOC LMT 400.0 23.8 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-04T21:31:01.253 IQ 114 IQ T: 2019-04-04T21:31:00.779 Order: 1118 SELL IOC LMT 400.0 23.8 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-04T21:32:21.676 XOM 132 XOM T: 2019-04-04T21:32:21.240 Order: 1136 SELL IOC LMT 100.0 80.81 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-04T21:32:21.677 XOM 132 XOM T: 2019-04-04T21:32:21.240 Order: 1136 SELL IOC LMT 100.0 80.81 Type: BREACH_CUTTER Status: Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-04T21:46:43.186 MCD 135 MCD 2019-04-04T21:46:42.708 1139 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-04T21:46:43.187 MCD 135 MCD 2019-04-04T21:46:42.708 1139 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Filled || breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-04T22:06:43.472 PDD 137 PDD 2019-04-04T22:06:43.061 1141 BUY IOC LMT 400.0 22.49 BREACH_CUTTER Submitted || breach cutting, pos partialFill, lastQ, livePos 400.0 -300.0
+2019-04-04T22:06:43.475 PDD 137 PDD 2019-04-04T22:06:43.061 1141 BUY IOC LMT 400.0 22.49 BREACH_CUTTER PreSubmitted || breach cutting, pos partialFill, lastQ, livePos 400.0 -300.0
+2019-04-04T22:06:43.478 PDD 137 PDD 2019-04-04T22:06:43.061 1141 BUY IOC LMT 400.0 22.49 BREACH_CUTTER Submitted || breach cutting, pos partialFill, lastQ, livePos 400.0 -300.0
+2019-04-04T22:06:43.481 PDD 137 PDD 2019-04-04T22:06:43.061 1141 BUY IOC LMT 400.0 22.49 BREACH_CUTTER PendingCancel || breach cutting, pos partialFill, lastQ, livePos 400.0 -300.0
+2019-04-04T22:06:43.541 PDD 137 PDD 2019-04-04T22:06:43.061 1141 BUY IOC LMT 400.0 22.49 BREACH_CUTTER PendingCancel || breach cutting, pos partialFill, lastQ, livePos 400.0 -300.0
+2019-04-04T22:06:44.329 PDD 139 PDD 2019-04-04T22:06:43.940 1143 BUY IOC LMT 300.0 22.49 BREACH_CUTTER Submitted || breach cutting, pos partialFill, lastQ, livePos 300.0 -200.0
+2019-04-04T22:06:44.394 PDD 139 PDD 2019-04-04T22:06:43.940 1143 BUY IOC LMT 300.0 22.49 BREACH_CUTTER Filled || breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-04-04T22:06:44.396 PDD 139 PDD 2019-04-04T22:06:43.940 1143 BUY IOC LMT 300.0 22.49 BREACH_CUTTER Filled || breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-04-04T22:06:44.398 PDD 139 PDD 2019-04-04T22:06:43.940 1143 BUY IOC LMT 300.0 22.49 BREACH_CUTTER Filled || breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-04-05T01:52:21.104 XOP 158 XOP 2019-04-05T01:52:20.722 1162 SELL IOC LMT 300.0 30.67 BREACH_CUTTER Filled || breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-04-05T01:52:21.163 XOP 158 XOP 2019-04-05T01:52:20.722 1162 SELL IOC LMT 300.0 30.67 BREACH_CUTTER Filled || breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-04-05T21:30:29.405 BABA 154 BABA 2019-04-05T21:30:28.892 1193 SELL IOC LMT 100.0 182.15 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-05T21:30:29.406 BABA 154 BABA 2019-04-05T21:30:28.892 1193 SELL IOC LMT 100.0 182.15 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-04-05T21:32:49.856 IP 179 IP 2019-04-05T21:32:02.097 1218 SELL IOC LMT 200.0 46.2 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-04-05T21:32:49.985 IP 179 IP 2019-04-05T21:32:02.097 1218 SELL IOC LMT 200.0 46.2 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-04-05T22:05:21.138 PDD 242 PDD 2019-04-05T22:04:50.295 1281 BUY IOC LMT 400.0 22.51 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 400.0 -300.0
+2019-04-05T22:05:21.177 PDD 242 PDD 2019-04-05T22:04:50.295 1281 BUY IOC LMT 400.0 22.51 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 400.0 -287.0
+2019-04-05T22:05:21.182 PDD 242 PDD 2019-04-05T22:04:50.295 1281 BUY IOC LMT 400.0 22.51 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 400.0 -100.0
+2019-04-05T22:05:21.185 PDD 242 PDD 2019-04-05T22:04:50.295 1281 BUY IOC LMT 400.0 22.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-05T22:05:21.185 PDD 242 PDD 2019-04-05T22:04:50.295 1281 BUY IOC LMT 400.0 22.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-05T22:05:21.197 PDD 242 PDD 2019-04-05T22:04:50.295 1281 BUY IOC LMT 400.0 22.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-05T22:05:21.199 PDD 242 PDD 2019-04-05T22:04:50.295 1281 BUY IOC LMT 400.0 22.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-05T22:05:21.201 PDD 242 PDD 2019-04-05T22:04:50.295 1281 BUY IOC LMT 400.0 22.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-05T22:15:21.540 IQ 286 IQ 2019-04-05T22:15:21.106 1325 SELL IOC LMT 400.0 23.79 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 400.0 200.0
+2019-04-05T22:15:21.541 IQ 286 IQ 2019-04-05T22:15:21.106 1325 SELL IOC LMT 400.0 23.79 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 400.0 200.0
+2019-04-05T22:15:21.542 IQ 286 IQ 2019-04-05T22:15:21.106 1325 SELL IOC LMT 400.0 23.79 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 400.0 200.0
+2019-04-05T22:15:21.637 IQ 286 IQ 2019-04-05T22:15:21.106 1325 SELL IOC LMT 400.0 23.79 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-05T22:15:21.639 IQ 286 IQ 2019-04-05T22:15:21.106 1325 SELL IOC LMT 400.0 23.79 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-05T22:15:21.640 IQ 286 IQ 2019-04-05T22:15:21.106 1325 SELL IOC LMT 400.0 23.79 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0

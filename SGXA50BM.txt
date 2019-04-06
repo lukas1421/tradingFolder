@@ -146,3 +146,25 @@
 30 **FILLS** ConstructedInHandler -> Filled 14:20:14 ID: 128 SGXA50BM T:  2019-02-27T14:20:06.918 Order: 30 BUY DAY LMT 1.0 at 12512.5 msg:  Trade type ON_BID Status: Submitted || TIF: DAY
 31  Manual Offer Limit  ask1 SGXA50BM T:  2019-02-27T14:57:45.645 Order: 31 SELL DAY LMT 1.0 at 12560.0 msg:  Trade type ON_OFFER Status: Created ||
 32  Manual Offer Limit  ask1 SGXA50BM T:  2019-02-27T14:58:25.799 Order: 32 SELL DAY LMT 1.0 at 12555.0 msg:  Trade type ON_OFFER Status: Created ||
+delta impact check PASSED  84205.59565
+******** 2019-03-27T09:21:15.892
+857 ADDER SELL: SGXA50BM T:  2019-03-27T09:21:15.892 Order: 857 SELL DAY LMT 1.0 at 12527.5 msg:  Trade type BREACH_ADDER Status: Created || yOpen 12775.0 mOpen 12550.0 prevClose 12527.5 price 12525.0 devFromMinOpen -0.002
+857 857 *PATIENT DEV FILL* Submitted -> Filled 2019-03-27T09:21:30.035 ID: 101 SGXA50BM T:  2019-03-27T09:21:15.892 Order: 857 SELL DAY LMT 1.0 at 12527.5 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-27T09:24:18.363
+858 Cutter BUY: added?true SGXA50BM T:  2019-03-27T09:24:18.363 Order: 858 BUY IOC LMT 1.0 at 12550.0 msg:  Trade type BREACH_CUTTER Status: Created || pos -1.0 yOpen 12775.0 mOpen 12550.0 price 12552.5
+858 858 -> 859 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 12552.5 1.0 Primary? false current SGXA50BM T:  2019-03-27T09:24:18.895 Order: 859 BUY IOC LMT 1.0 at 12552.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12552.5 12552.5 0 bp 12552.5 attempts  1
+858 859 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-27T09:24:20.088 ID: 103 SGXA50BM T:  2019-03-27T09:24:18.895 Order: 859 BUY IOC LMT 1.0 at 12552.5 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  84547.4675
+******** 2019-03-28T09:00:00.322
+900 ADDER SELL: SGXA50BM T:  2019-03-28T09:00:00.322 Order: 900 SELL DAY LMT 1.0 at 12550.0 msg:  Trade type BREACH_ADDER Status: Created || yOpen 12775.0 mOpen 12550.0 prevClose 12590.0 price 12547.5 devFromMinOpen -2.0E-4
+900 900 *PATIENT DEV FILL* Submitted -> Filled 2019-03-28T09:00:01.693 ID: 101 SGXA50BM T:  2019-03-28T09:00:00.322 Order: 900 SELL DAY LMT 1.0 at 12550.0 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-28T09:00:02.078
+901 Cutter BUY: added?true SGXA50BM T:  2019-03-28T09:00:02.078 Order: 901 BUY IOC LMT 1.0 at 12547.5 msg:  Trade type BREACH_CUTTER Status: Created || pos -1.0 yOpen 12775.0 mOpen 12550.0 price 12552.5
+901 901 -> 902 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 12550.0 1.0 Primary? false current SGXA50BM T:  2019-03-28T09:00:02.170 Order: 902 BUY IOC LMT 1.0 at 12550.0 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12550.0 12552.5 2 bp 12552.5 attempts  1
+901 902 -> 903 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 12547.5 1.0 Primary? false current SGXA50BM T:  2019-03-28T09:00:02.471 Order: 903 BUY IOC LMT 1.0 at 12547.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12547.5 12547.5 0 bp 12550.0 attempts  2
+901 903 -> 904 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 12545.0 1.0 Primary? false current SGXA50BM T:  2019-03-28T09:00:02.662 Order: 904 BUY IOC LMT 1.0 at 12545.0 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12545.0 12550.0 4 bp 12547.5 attempts  3
+901 904 -> 905 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 12545.0 1.0 Primary? false current SGXA50BM T:  2019-03-28T09:00:02.913 Order: 905 BUY IOC LMT 1.0 at 12545.0 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12545.0 12545.0 0 bp 12545.0 attempts  4
+901 905 -> 906 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 12545.0 1.0 Primary? false current SGXA50BM T:  2019-03-28T09:00:03.162 Order: 906 BUY IOC LMT 1.0 at 12545.0 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12545.0 12547.5 2 bp 12545.0 attempts  5
+901 906 -> 907 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 12545.0 1.0 Primary? false current SGXA50BM T:  2019-03-28T09:00:03.597 Order: 907 BUY IOC LMT 1.0 at 12545.0 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12545.0 12545.0 0 bp 12545.0 attempts  6
+901 907 -> 908 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 12545.0 1.0 Primary? false current SGXA50BM T:  2019-03-28T09:00:03.829 Order: 908 BUY IOC LMT 1.0 at 12545.0 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 12545.0 12547.5 2 bp 12545.0 attempts  7
+901 908 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-28T09:00:04.165 ID: 109 SGXA50BM T:  2019-03-28T09:00:03.829 Order: 908 BUY IOC LMT 1.0 at 12545.0 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 7

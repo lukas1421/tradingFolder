@@ -5,3 +5,6 @@ delta impact check PASSED  73717.0735
 ******** 2019-03-14T21:30:01.439
 880 ADDER BUY: HDB T:  2019-03-14T21:30:01.439 Order: 880 BUY DAY LMT 100.0 at 109.9 msg:  Trade type BREACH_ADDER Status: Created || yOpen 103.59 mOpen 101.12 prevClose 110.5 price 110.0
 880 880 *PATIENT DEV FILL* Submitted -> Filled 2019-03-14T22:02:35.277 ID: 124 HDB T:  2019-03-14T21:30:01.439 Order: 880 BUY DAY LMT 100.0 at 109.9 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-01T21:29:37.091
+861 Cutter SELL: added?false HDB T:  2019-04-01T21:29:37.091 Order: 861 SELL IOC LMT 100.0 at 114.66 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 103.59 mOpen 115.88 price 115.8
+861 861 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-01T21:29:37.422 ID: 105 HDB T:  2019-04-01T21:29:37.091 Order: 861 SELL IOC LMT 100.0 at 114.66 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 0

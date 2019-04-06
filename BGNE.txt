@@ -1,0 +1,313 @@
+delta impact check PASSED  94399.07081
+******** 2019-04-02T23:29:02.372
+1919 409 ADDER BUY: BGNE T:  2019-04-02T23:29:02.372 Order: 1919 BUY DAY LMT 100.0 at 140.47 msg:  Trade type BREACH_ADDER Status: Created || yOpen 140.26 mOpen 132.0 prevClose 138.04 price 140.64 devFromMaxOpen 0.0027
+1919 1919 *PATIENT DEV FILL* Submitted -> Filled 2019-04-02T23:33:02.861 ID: 409 BGNE T:  2019-04-02T23:29:02.372 Order: 1919 BUY DAY LMT 100.0 at 140.47 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-02T23:36:02.679
+1921 411 Cutter SELL: added?true BGNE T:  2019-04-02T23:36:02.679 Order: 1921 SELL IOC LMT 100.0 at 140.4 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 140.26 mOpen 132.0 price 140.2
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+1921 1921 -> 1922 ID 411 -> 412 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.4 100.0 current BGNE T:  2019-04-02T23:36:03.089 Order: 1922 SELL IOC LMT 100.0 at 140.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 140.01 140.4 28 bp 140.2 attempts  1 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1922 -> 1923 ID 412 -> 413 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.4 100.0 current BGNE T:  2019-04-02T23:36:03.470 Order: 1923 SELL IOC LMT 100.0 at 140.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 140.01 140.4 28 bp 140.2 attempts  2 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1923 -> 1924 ID 413 -> 414 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.4 100.0 current BGNE T:  2019-04-02T23:36:03.835 Order: 1924 SELL IOC LMT 100.0 at 140.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 140.01 140.4 28 bp 140.2 attempts  3 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1924 -> 1925 ID 414 -> 415 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.4 100.0 current BGNE T:  2019-04-02T23:36:04.190 Order: 1925 SELL IOC LMT 100.0 at 140.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 140.01 140.4 28 bp 140.2 attempts  4 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1925 -> 1926 ID 415 -> 416 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:04.566 Order: 1926 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 140.01 140.39 27 bp 140.2 attempts  5 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1926 -> 1927 ID 416 -> 417 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:04.925 Order: 1927 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  6 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1927 -> 1928 ID 417 -> 418 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:05.303 Order: 1928 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  7 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1928 -> 1929 ID 418 -> 419 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:05.658 Order: 1929 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  8 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1929 -> 1930 ID 419 -> 420 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:06.027 Order: 1930 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  9 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1930 -> 1931 ID 420 -> 421 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:06.384 Order: 1931 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  10 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1931 -> 1932 ID 421 -> 422 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:06.755 Order: 1932 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  11 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1932 -> 1933 ID 422 -> 423 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:07.115 Order: 1933 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  12 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1933 -> 1934 ID 423 -> 424 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:07.486 Order: 1934 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  13 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1934 -> 1935 ID 424 -> 425 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:07.839 Order: 1935 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  14 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1935 -> 1936 ID 425 -> 426 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:08.212 Order: 1936 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  15 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1936 -> 1937 ID 426 -> 427 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:08.569 Order: 1937 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  16 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1937 -> 1938 ID 427 -> 428 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:08.940 Order: 1938 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  17 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1938 -> 1939 ID 428 -> 429 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:09.302 Order: 1939 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  18 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1939 -> 1940 ID 429 -> 430 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:09.665 Order: 1940 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  19 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1940 -> 1941 ID 430 -> 431 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:10.033 Order: 1941 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  20 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1941 -> 1942 ID 431 -> 432 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:10.393 Order: 1942 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  21 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1942 -> 1943 ID 432 -> 433 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:10.762 Order: 1943 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  22 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1943 -> 1944 ID 433 -> 434 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.39 100.0 current BGNE T:  2019-04-02T23:36:11.116 Order: 1944 SELL IOC LMT 100.0 at 140.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  23 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1944 -> 1945 ID 434 -> 435 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.38 100.0 current BGNE T:  2019-04-02T23:36:11.490 Order: 1945 SELL IOC LMT 100.0 at 140.38 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  24 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1945 -> 1946 ID 435 -> 436 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.38 100.0 current BGNE T:  2019-04-02T23:36:11.845 Order: 1946 SELL IOC LMT 100.0 at 140.38 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  25 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1946 -> 1947 ID 436 -> 437 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.38 100.0 current BGNE T:  2019-04-02T23:36:12.216 Order: 1947 SELL IOC LMT 100.0 at 140.38 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  26 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1947 -> 1948 ID 437 -> 438 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.38 100.0 current BGNE T:  2019-04-02T23:36:12.574 Order: 1948 SELL IOC LMT 100.0 at 140.38 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  27 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1948 -> 1949 ID 438 -> 439 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.37 100.0 current BGNE T:  2019-04-02T23:36:12.940 Order: 1949 SELL IOC LMT 100.0 at 140.37 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  28 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1949 -> 1950 ID 439 -> 440 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.37 100.0 current BGNE T:  2019-04-02T23:36:13.305 Order: 1950 SELL IOC LMT 100.0 at 140.37 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  29 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1950 -> 1951 ID 440 -> 441 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.37 100.0 current BGNE T:  2019-04-02T23:36:13.674 Order: 1951 SELL IOC LMT 100.0 at 140.37 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.39 39 bp 140.2 attempts  30 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1951 -> 1952 ID 441 -> 442 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.31 100.0 current BGNE T:  2019-04-02T23:36:14.033 Order: 1952 SELL IOC LMT 100.0 at 140.31 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  31 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1952 -> 1953 ID 442 -> 443 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.3 100.0 current BGNE T:  2019-04-02T23:36:14.408 Order: 1953 SELL IOC LMT 100.0 at 140.3 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  32 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1953 -> 1954 ID 443 -> 444 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.3 100.0 current BGNE T:  2019-04-02T23:36:14.770 Order: 1954 SELL IOC LMT 100.0 at 140.3 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  33 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1954 -> 1955 ID 444 -> 445 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.3 100.0 current BGNE T:  2019-04-02T23:36:15.166 Order: 1955 SELL IOC LMT 100.0 at 140.3 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  34 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1955 -> 1956 ID 445 -> 446 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.3 100.0 current BGNE T:  2019-04-02T23:36:15.521 Order: 1956 SELL IOC LMT 100.0 at 140.3 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  35 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1956 -> 1957 ID 446 -> 447 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.3 100.0 current BGNE T:  2019-04-02T23:36:15.898 Order: 1957 SELL IOC LMT 100.0 at 140.3 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  36 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1957 -> 1958 ID 447 -> 448 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.3 100.0 current BGNE T:  2019-04-02T23:36:16.247 Order: 1958 SELL IOC LMT 100.0 at 140.3 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  37 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1958 -> 1959 ID 448 -> 449 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.29 100.0 current BGNE T:  2019-04-02T23:36:16.626 Order: 1959 SELL IOC LMT 100.0 at 140.29 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  38 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1959 -> 1960 ID 449 -> 450 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.29 100.0 current BGNE T:  2019-04-02T23:36:16.974 Order: 1960 SELL IOC LMT 100.0 at 140.29 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  39 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1960 -> 1961 ID 450 -> 451 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.29 100.0 current BGNE T:  2019-04-02T23:36:17.348 Order: 1961 SELL IOC LMT 100.0 at 140.29 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  40 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1961 -> 1962 ID 451 -> 452 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.29 100.0 current BGNE T:  2019-04-02T23:36:17.701 Order: 1962 SELL IOC LMT 100.0 at 140.29 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  41 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1962 -> 1963 ID 452 -> 453 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.29 100.0 current BGNE T:  2019-04-02T23:36:18.072 Order: 1963 SELL IOC LMT 100.0 at 140.29 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  42 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1963 -> 1964 ID 453 -> 454 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.29 100.0 current BGNE T:  2019-04-02T23:36:18.424 Order: 1964 SELL IOC LMT 100.0 at 140.29 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  43 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1964 -> 1965 ID 454 -> 455 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.29 100.0 current BGNE T:  2019-04-02T23:36:18.801 Order: 1965 SELL IOC LMT 100.0 at 140.29 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  44 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1965 -> 1966 ID 455 -> 456 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.28 100.0 current BGNE T:  2019-04-02T23:36:19.152 Order: 1966 SELL IOC LMT 100.0 at 140.28 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  45 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1966 -> 1967 ID 456 -> 457 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.28 100.0 current BGNE T:  2019-04-02T23:36:19.532 Order: 1967 SELL IOC LMT 100.0 at 140.28 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  46 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1967 -> 1968 ID 457 -> 458 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.28 100.0 current BGNE T:  2019-04-02T23:36:19.884 Order: 1968 SELL IOC LMT 100.0 at 140.28 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  47 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1968 -> 1969 ID 458 -> 459 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.28 100.0 current BGNE T:  2019-04-02T23:36:20.261 Order: 1969 SELL IOC LMT 100.0 at 140.28 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  48 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1969 -> 1970 ID 459 -> 460 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.28 100.0 current BGNE T:  2019-04-02T23:36:20.611 Order: 1970 SELL IOC LMT 100.0 at 140.28 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.85 140.32 34 bp 140.2 attempts  49 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1970 -> 1971 ID 460 -> 461 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.28 100.0 current BGNE T:  2019-04-02T23:36:20.983 Order: 1971 SELL IOC LMT 100.0 at 140.28 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  50 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1971 -> 1972 ID 461 -> 462 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.27 100.0 current BGNE T:  2019-04-02T23:36:21.340 Order: 1972 SELL IOC LMT 100.0 at 140.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  51 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1972 -> 1973 ID 462 -> 463 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.27 100.0 current BGNE T:  2019-04-02T23:36:21.713 Order: 1973 SELL IOC LMT 100.0 at 140.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  52 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1973 -> 1974 ID 463 -> 464 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.27 100.0 current BGNE T:  2019-04-02T23:36:22.066 Order: 1974 SELL IOC LMT 100.0 at 140.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  53 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1974 -> 1975 ID 464 -> 465 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.27 100.0 current BGNE T:  2019-04-02T23:36:22.443 Order: 1975 SELL IOC LMT 100.0 at 140.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  54 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1975 -> 1976 ID 465 -> 466 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.27 100.0 current BGNE T:  2019-04-02T23:36:22.797 Order: 1976 SELL IOC LMT 100.0 at 140.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  55 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1976 -> 1977 ID 466 -> 467 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.27 100.0 current BGNE T:  2019-04-02T23:36:23.178 Order: 1977 SELL IOC LMT 100.0 at 140.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  56 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1977 -> 1978 ID 467 -> 468 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.27 100.0 current BGNE T:  2019-04-02T23:36:23.530 Order: 1978 SELL IOC LMT 100.0 at 140.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  57 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1978 -> 1979 ID 468 -> 469 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.26 100.0 current BGNE T:  2019-04-02T23:36:23.904 Order: 1979 SELL IOC LMT 100.0 at 140.26 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  58 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1979 -> 1980 ID 469 -> 470 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.26 100.0 current BGNE T:  2019-04-02T23:36:24.255 Order: 1980 SELL IOC LMT 100.0 at 140.26 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.32 25 bp 140.2 attempts  59 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1980 -> 1981 ID 470 -> 471 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.18 100.0 current BGNE T:  2019-04-02T23:37:03.089 Order: 1981 SELL IOC LMT 100.0 at 140.18 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  60 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1981 -> 1982 ID 471 -> 472 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.18 100.0 current BGNE T:  2019-04-02T23:37:03.443 Order: 1982 SELL IOC LMT 100.0 at 140.18 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  61 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1982 -> 1983 ID 472 -> 473 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.18 100.0 current BGNE T:  2019-04-02T23:37:03.880 Order: 1983 SELL IOC LMT 100.0 at 140.18 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  62 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1983 -> 1984 ID 473 -> 474 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.18 100.0 current BGNE T:  2019-04-02T23:37:04.244 Order: 1984 SELL IOC LMT 100.0 at 140.18 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  63 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1984 -> 1985 ID 474 -> 475 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.17 100.0 current BGNE T:  2019-04-02T23:37:04.624 Order: 1985 SELL IOC LMT 100.0 at 140.17 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  64 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1985 -> 1986 ID 475 -> 476 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.17 100.0 current BGNE T:  2019-04-02T23:37:05.015 Order: 1986 SELL IOC LMT 100.0 at 140.17 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  65 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1986 -> 1987 ID 476 -> 477 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.17 100.0 current BGNE T:  2019-04-02T23:37:05.392 Order: 1987 SELL IOC LMT 100.0 at 140.17 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  66 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1987 -> 1988 ID 477 -> 478 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.17 100.0 current BGNE T:  2019-04-02T23:37:05.770 Order: 1988 SELL IOC LMT 100.0 at 140.17 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  67 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1988 -> 1989 ID 478 -> 479 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.17 100.0 current BGNE T:  2019-04-02T23:37:06.132 Order: 1989 SELL IOC LMT 100.0 at 140.17 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  68 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1989 -> 1990 ID 479 -> 480 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.17 100.0 current BGNE T:  2019-04-02T23:37:06.508 Order: 1990 SELL IOC LMT 100.0 at 140.17 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  69 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1990 -> 1991 ID 480 -> 481 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.16 100.0 current BGNE T:  2019-04-02T23:37:06.865 Order: 1991 SELL IOC LMT 100.0 at 140.16 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  70 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1991 -> 1992 ID 481 -> 482 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.16 100.0 current BGNE T:  2019-04-02T23:37:07.244 Order: 1992 SELL IOC LMT 100.0 at 140.16 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  71 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1992 -> 1993 ID 482 -> 483 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.16 100.0 current BGNE T:  2019-04-02T23:37:07.593 Order: 1993 SELL IOC LMT 100.0 at 140.16 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  72 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1993 -> 1994 ID 483 -> 484 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.16 100.0 current BGNE T:  2019-04-02T23:37:08.107 Order: 1994 SELL IOC LMT 100.0 at 140.16 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  73 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1994 -> 1995 ID 484 -> 485 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.16 100.0 current BGNE T:  2019-04-02T23:37:09.090 Order: 1995 SELL IOC LMT 100.0 at 140.16 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  74 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1995 -> 1996 ID 485 -> 486 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.16 100.0 current BGNE T:  2019-04-02T23:37:10.095 Order: 1996 SELL IOC LMT 100.0 at 140.16 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  75 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1996 -> 1997 ID 486 -> 487 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.15 100.0 current BGNE T:  2019-04-02T23:37:11.089 Order: 1997 SELL IOC LMT 100.0 at 140.15 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  76 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1997 -> 1998 ID 487 -> 488 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.15 100.0 current BGNE T:  2019-04-02T23:37:12.096 Order: 1998 SELL IOC LMT 100.0 at 140.15 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  77 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1998 -> 1999 ID 488 -> 489 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.15 100.0 current BGNE T:  2019-04-02T23:37:14.090 Order: 1999 SELL IOC LMT 100.0 at 140.15 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.25 20 bp 140.11 attempts  78 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 1999 -> 2000 ID 489 -> 490 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.04 100.0 current BGNE T:  2019-04-02T23:37:17.093 Order: 2000 SELL IOC LMT 100.0 at 140.04 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.24 19 bp 139.97 attempts  79 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2000 -> 2001 ID 490 -> 491 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.14 100.0 current BGNE T:  2019-04-02T23:38:03.088 Order: 2001 SELL IOC LMT 100.0 at 140.14 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  80 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2001 -> 2002 ID 491 -> 492 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.14 100.0 current BGNE T:  2019-04-02T23:38:03.445 Order: 2002 SELL IOC LMT 100.0 at 140.14 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  81 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2002 -> 2003 ID 492 -> 493 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:03.820 Order: 2003 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  82 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2003 -> 2004 ID 493 -> 494 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:04.171 Order: 2004 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  83 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2004 -> 2005 ID 494 -> 495 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:04.552 Order: 2005 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  84 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2005 -> 2006 ID 495 -> 496 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:04.908 Order: 2006 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  85 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2006 -> 2007 ID 496 -> 497 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:05.280 Order: 2007 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  86 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2007 -> 2008 ID 497 -> 498 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:05.640 Order: 2008 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  87 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2008 -> 2009 ID 498 -> 499 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:06.008 Order: 2009 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  88 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2009 -> 2010 ID 499 -> 500 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:06.369 Order: 2010 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  89 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2010 -> 2011 ID 500 -> 501 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:06.752 Order: 2011 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  90 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2011 -> 2012 ID 501 -> 502 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:07.098 Order: 2012 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  91 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2012 -> 2013 ID 502 -> 503 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:07.588 Order: 2013 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  92 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2013 -> 2014 ID 503 -> 504 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:08.088 Order: 2014 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  93 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2014 -> 2015 ID 504 -> 505 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.13 100.0 current BGNE T:  2019-04-02T23:38:09.102 Order: 2015 SELL IOC LMT 100.0 at 140.13 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  94 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2015 -> 2016 ID 505 -> 506 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.12 100.0 current BGNE T:  2019-04-02T23:38:10.088 Order: 2016 SELL IOC LMT 100.0 at 140.12 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  95 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2016 -> 2017 ID 506 -> 507 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.12 100.0 current BGNE T:  2019-04-02T23:38:11.088 Order: 2017 SELL IOC LMT 100.0 at 140.12 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  96 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2017 -> 2018 ID 507 -> 508 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.12 100.0 current BGNE T:  2019-04-02T23:38:12.088 Order: 2018 SELL IOC LMT 100.0 at 140.12 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  97 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2018 -> 2019 ID 508 -> 509 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.12 100.0 current BGNE T:  2019-04-02T23:38:14.086 Order: 2019 SELL IOC LMT 100.0 at 140.12 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  98 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2019 -> 2020 ID 509 -> 510 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.12 100.0 current BGNE T:  2019-04-02T23:38:17.087 Order: 2020 SELL IOC LMT 100.0 at 140.12 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  99 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2020 -> 2021 ID 510 -> 511 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.12 100.0 current BGNE T:  2019-04-02T23:39:03.087 Order: 2021 SELL IOC LMT 100.0 at 140.12 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  100 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2021 -> 2022 ID 511 -> 512 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 140.12 100.0 current BGNE T:  2019-04-02T23:39:03.441 Order: 2022 SELL IOC LMT 100.0 at 140.12 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 139.97 140.18 15 bp 140.12 attempts  101 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1921 2022 -> 2023 ID 512 -> 513 MAX ATTEMPTS EXCEEDED, Switch to PatientDev: BREACH_CUTTER DAY SELL 140.18 100.0 new Order: BGNE T:  2019-04-02T23:39:03.818 Order: 2023 SELL DAY LMT 100.0 at 140.18 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sprd last 139.97 140.18 15bp 140.12 attempts  101 pos 100.0
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2023 2023 *PATIENT DEV FILL* Submitted -> Filled 2019-04-02T23:46:38.891 ID: 513 BGNE T:  2019-04-02T23:39:03.818 Order: 2023 SELL DAY LMT 100.0 at 140.18 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: DAY

@@ -1,0 +1,10 @@
+delta impact check PASSED  79502.38636
+******** 2019-04-01T21:30:01.121
+869 ADDER BUY: VZ T:  2019-04-01T21:30:01.121 Order: 869 BUY DAY LMT 200.0 at 59.26 msg:  Trade type BREACH_ADDER Status: Created || yOpen 56.22 mOpen 59.24 prevClose 59.5 price 59.37 devFromMaxOpen 0.0022
+869 869 *PATIENT DEV FILL* Submitted -> Filled 2019-04-01T21:33:05.530 ID: 113 VZ T:  2019-04-01T21:30:01.121 Order: 869 BUY DAY LMT 200.0 at 59.26 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-01T21:36:35.979
+1040 Cutter SELL: added?true VZ T:  2019-04-01T21:36:35.979 Order: 1040 SELL IOC LMT 200.0 at 59.23 msg:  Trade type BREACH_CUTTER Status: Created || pos 200.0 yOpen 56.22 mOpen 59.24 price 59.23
+1040 1040 -> 1041 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 59.23 200.0 Primary? false current VZ T:  2019-04-01T21:36:36.240 Order: 1041 SELL IOC LMT 200.0 at 59.23 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 59.23 59.23 0 bp 59.23 attempts  1
+1040 1041 -> 1042 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 59.23 200.0 Primary? false current VZ T:  2019-04-01T21:36:36.507 Order: 1042 SELL IOC LMT 200.0 at 59.23 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 59.23 59.23 0 bp 59.23 attempts  2
+1040 1042 -> 1043 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 59.22 200.0 Primary? false current VZ T:  2019-04-01T21:36:36.760 Order: 1043 SELL IOC LMT 200.0 at 59.22 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 59.22 59.22 0 bp 59.22 attempts  3
+1040 1043 *GUARANTEE DEV FILL* Submitted -> Filled 2019-04-01T21:36:37.038 ID: 287 VZ T:  2019-04-01T21:36:36.760 Order: 1043 SELL IOC LMT 200.0 at 59.22 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 3

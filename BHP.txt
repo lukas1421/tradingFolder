@@ -22,3 +22,7 @@ delta impact check PASSED  35387.4852
 783 783 -> 784 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 52.74 100.0 Primary? false current BHP T:  2019-03-13T22:03:54.906 Order: 784 SELL IOC LMT 100.0 at 52.74 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 52.74 52.74 0 bp 52.74 attempts  1
 783 784 -> 785 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 52.74 100.0 Primary? false current BHP T:  2019-03-13T22:03:55.287 Order: 785 SELL IOC LMT 100.0 at 52.74 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 52.74 52.74 0 bp 52.74 attempts  2
 783 785 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-13T22:03:55.704 ID: 144 BHP T:  2019-03-13T22:03:55.287 Order: 785 SELL IOC LMT 100.0 at 52.74 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 2
+delta impact check PASSED  35777.933280000005
+******** 2019-03-26T21:29:15.982
+936 ADDER BUY: BHP T:  2019-03-26T21:29:15.982 Order: 936 BUY DAY LMT 100.0 at 53.32 msg:  Trade type BREACH_ADDER Status: Created || yOpen 48.29 mOpen 52.75 prevClose 52.8 price 53.32 devFromOpen 0.01
+936 936 *PATIENT DEV FILL* Submitted -> Filled 2019-03-26T21:29:21.103 ID: 115 BHP T:  2019-03-26T21:29:15.982 Order: 936 BUY DAY LMT 100.0 at 53.32 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

@@ -26,3 +26,7 @@ delta impact check PASSED  42895.42175
 delta impact check PASSED  42928.96
 ******** 2019-03-15T21:30:06.456
 885 ADDER BUY: C T:  2019-03-15T21:30:06.456 Order: 885 BUY DAY LMT 100.0 at 64.0 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.12 mOpen 63.95 prevClose 64.06 price 64.16
+delta impact check PASSED  84385.7594
+******** 2019-04-01T21:29:24.493
+860 ADDER BUY: C T:  2019-04-01T21:29:24.493 Order: 860 BUY DAY LMT 200.0 at 62.9 msg:  Trade type BREACH_ADDER Status: Created || yOpen 52.12 mOpen 62.3 prevClose 62.84 price 62.9 devFromMaxOpen 0.0096
+860 860 *PATIENT DEV FILL* Submitted -> Filled 2019-04-01T21:29:33.804 ID: 104 C T:  2019-04-01T21:29:24.493 Order: 860 BUY DAY LMT 200.0 at 62.9 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

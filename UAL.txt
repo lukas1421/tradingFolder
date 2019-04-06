@@ -2,3 +2,355 @@ delta impact check PASSED  54148.086
 ******** 2019-03-13T21:30:02.692
 757 ADDER SELL: UAL T:  2019-03-13T21:30:02.692 Order: 757 SELL DAY LMT 100.0 at 80.7 msg:  Trade type BREACH_ADDER Status: Created || yOpen 83.5 mOpen 87.99 prevClose 80.22 price 80.57
 757 757 *PATIENT DEV FILL* Submitted -> Filled 2019-03-13T21:32:16.709 ID: 116 UAL T:  2019-03-13T21:30:02.692 Order: 757 SELL DAY LMT 100.0 at 80.7 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-01T21:30:01.164
+870 Cutter BUY: added?false UAL T:  2019-04-01T21:30:01.164 Order: 870 BUY IOC LMT 100.0 at 79.85 msg:  Trade type BREACH_CUTTER Status: Created || pos -100.0 yOpen 83.5 mOpen 79.79 price 80.21
+870 870 -> 880 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:05.421 Order: 880 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  1
+870 880 -> 883 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:06.133 Order: 883 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  2
+870 883 -> 885 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:06.454 Order: 885 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  3
+870 885 -> 887 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:06.717 Order: 887 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  4
+870 887 -> 889 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:06.983 Order: 889 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  5
+870 889 -> 891 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:07.302 Order: 891 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  6
+870 891 -> 893 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:07.580 Order: 893 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  7
+870 893 -> 895 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:07.834 Order: 895 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  8
+870 895 -> 897 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:08.086 Order: 897 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  9
+870 897 -> 899 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:08.605 Order: 899 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  10
+870 899 -> 901 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:08.937 Order: 901 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  11
+870 901 -> 903 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:09.199 Order: 903 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  12
+870 903 -> 905 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:09.498 Order: 905 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  13
+870 905 -> 907 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:09.869 Order: 907 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  14
+870 907 -> 909 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:10.176 Order: 909 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  15
+870 909 -> 913 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:10.469 Order: 913 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  16
+870 913 -> 915 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:11.004 Order: 915 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.28 attempts  17
+870 915 -> 917 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.27 100.0 Primary? false current UAL T:  2019-04-01T21:30:11.324 Order: 917 BUY IOC LMT 100.0 at 80.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.27 80.34 9 bp 80.35 attempts  18
+870 917 -> 919 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.27 100.0 Primary? false current UAL T:  2019-04-01T21:30:11.592 Order: 919 BUY IOC LMT 100.0 at 80.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.27 80.34 9 bp 80.35 attempts  19
+870 919 -> 921 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.27 100.0 Primary? false current UAL T:  2019-04-01T21:30:12.041 Order: 921 BUY IOC LMT 100.0 at 80.27 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.27 80.27 0 bp 80.27 attempts  20
+870 921 -> 923 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 80.24 100.0 Primary? false current UAL T:  2019-04-01T21:30:12.535 Order: 923 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 80.24 80.24 0 bp 80.24 attempts  21
+870 923 *GUARANTEE DEV FILL* Submitted -> Filled 2019-04-01T21:30:12.874 ID: 167 UAL T:  2019-04-01T21:30:12.535 Order: 923 BUY IOC LMT 100.0 at 80.24 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 21
+delta impact check PASSED  57135.39546
+******** 2019-04-02T21:33:42.635
+1427 101 ADDER BUY: UAL T:  2019-04-02T21:33:42.635 Order: 1427 BUY DAY LMT 100.0 at 85.02 msg:  Trade type BREACH_ADDER Status: Created || yOpen 83.5 mOpen 79.79 prevClose 85.0 price 85.03 devFromMaxOpen 0.0183
+1427 1427 *PATIENT DEV FILL* Submitted -> Filled 2019-04-02T21:33:43.586 ID: 101 UAL T:  2019-04-02T21:33:42.635 Order: 1427 BUY DAY LMT 100.0 at 85.02 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-02T21:35:01.075
+1473 147 Cutter SELL: added?true UAL T:  2019-04-02T21:35:01.075 Order: 1473 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 83.5 mOpen 79.79 price 83.49
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+1473 1473 -> 1474 ID 147 -> 148 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:01.465 Order: 1474 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.48 22 bp 83.49 attempts  1 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1474 -> 1475 ID 148 -> 149 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:01.844 Order: 1475 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.17 83.48 37 bp 83.36 attempts  2 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1475 -> 1476 ID 149 -> 150 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:02.206 Order: 1476 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.17 83.48 37 bp 83.28 attempts  3 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1476 -> 1477 ID 150 -> 151 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:02.570 Order: 1477 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.48 14 bp 83.28 attempts  4 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1477 -> 1478 ID 151 -> 152 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T:  2019-04-02T21:35:02.933 Order: 1478 SELL IOC LMT 100.0 at 83.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.18 83.39 25 bp 83.42 attempts  5 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1478 -> 1479 ID 152 -> 153 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.37 100.0 current UAL T:  2019-04-02T21:35:03.305 Order: 1479 SELL IOC LMT 100.0 at 83.37 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.19 83.37 22 bp 83.39 attempts  6 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1479 -> 1480 ID 153 -> 154 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.36 100.0 current UAL T:  2019-04-02T21:35:03.657 Order: 1480 SELL IOC LMT 100.0 at 83.36 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.16 83.36 24 bp 83.39 attempts  7 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1480 -> 1481 ID 154 -> 155 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.42 100.0 current UAL T:  2019-04-02T21:35:04.030 Order: 1481 SELL IOC LMT 100.0 at 83.42 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.24 83.42 22 bp 83.36 attempts  8 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1481 -> 1482 ID 155 -> 156 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:04.381 Order: 1482 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.48 23 bp 83.45 attempts  9 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1482 -> 1483 ID 156 -> 157 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:04.748 Order: 1483 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.48 23 bp 83.45 attempts  10 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1483 -> 1484 ID 157 -> 158 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:05.117 Order: 1484 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.48 23 bp 83.45 attempts  11 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1484 -> 1485 ID 158 -> 159 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:05.479 Order: 1485 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.48 23 bp 83.45 attempts  12 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1485 -> 1486 ID 159 -> 160 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:05.841 Order: 1486 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.48 23 bp 83.45 attempts  13 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1486 -> 1487 ID 160 -> 161 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:06.214 Order: 1487 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.48 23 bp 83.45 attempts  14 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1487 -> 1488 ID 161 -> 162 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:06.566 Order: 1488 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.48 23 bp 83.45 attempts  15 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1488 -> 1489 ID 162 -> 163 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:06.942 Order: 1489 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.48 23 bp 83.45 attempts  16 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+1473 1489 -> 1490 ID 163 -> 164 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-02T21:35:07.297 Order: 1490 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.48 23 bp 83.45 attempts  17 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2019-04-02T21:35:07.672 164 UAL T:  2019-04-02T21:35:07.297 Order: 1490 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos changed, lastQ, pos 100.0 0.0
+1473 1490 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-02T21:35:07.671 ID: 164 UAL T:  2019-04-02T21:35:07.297 Order: 1490 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 17
+2019-04-02T21:35:07.686 164 UAL T:  2019-04-02T21:35:07.297 Order: 1490 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos changed, lastQ, pos 100.0 0.0
+delta impact check PASSED  56241.60487
+******** 2019-04-02T21:55:44.520
+1500 101 ADDER BUY: UAL T:  2019-04-02T21:55:44.520 Order: 1500 BUY DAY LMT 100.0 at 83.69 msg:  Trade type BREACH_ADDER Status: Created || yOpen 83.5 mOpen 79.79 prevClose 83.73 price 83.71 devFromMaxOpen 0.0025
+1500 1500 *PATIENT DEV FILL* Submitted -> Filled 2019-04-02T21:55:49.181 ID: 101 UAL T:  2019-04-02T21:55:44.520 Order: 1500 BUY DAY LMT 100.0 at 83.69 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-03T00:20:39.112
+2060 550 Cutter SELL: added?false UAL T:  2019-04-03T00:20:39.112 Order: 2060 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 83.5 mOpen 79.79 price 83.49
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+2060 2060 -> 2061 ID 550 -> 551 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:39.473 Order: 2061 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.49 83.52 4 bp 83.49 attempts  1 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2061 -> 2062 ID 551 -> 552 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:39.856 Order: 2062 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.49 83.52 4 bp 83.49 attempts  2 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2062 -> 2063 ID 552 -> 553 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:40.210 Order: 2063 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.49 83.52 4 bp 83.49 attempts  3 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2063 -> 2064 ID 553 -> 554 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:40.583 Order: 2064 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.49 83.52 4 bp 83.49 attempts  4 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2064 -> 2065 ID 554 -> 555 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:40.940 Order: 2065 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.49 attempts  5 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2065 -> 2066 ID 555 -> 556 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:41.314 Order: 2066 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.49 attempts  6 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2066 -> 2067 ID 556 -> 557 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:41.671 Order: 2067 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.49 attempts  7 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2067 -> 2068 ID 557 -> 558 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:42.043 Order: 2068 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.49 attempts  8 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2068 -> 2069 ID 558 -> 559 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:42.399 Order: 2069 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.49 attempts  9 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2069 -> 2070 ID 559 -> 560 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:42.769 Order: 2070 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.49 attempts  10 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2070 -> 2071 ID 560 -> 561 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:43.131 Order: 2071 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.49 attempts  11 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2071 -> 2072 ID 561 -> 562 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:43.501 Order: 2072 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.49 attempts  12 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2072 -> 2073 ID 562 -> 563 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:43.974 Order: 2073 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.49 attempts  13 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2073 -> 2074 ID 563 -> 564 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:44.474 Order: 2074 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.5 attempts  14 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2074 -> 2075 ID 564 -> 565 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:45.766 Order: 2075 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.5 attempts  15 pos: 100.0
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+2060 2075 -> 2076 ID 565 -> 566 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:46.479 Order: 2076 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.49 83.52 4 bp 83.5 attempts  16 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2076 -> 2077 ID 566 -> 567 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.52 100.0 current UAL T:  2019-04-03T00:20:47.708 Order: 2077 SELL IOC LMT 100.0 at 83.52 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.52 5 bp 83.5 attempts  17 pos: 100.0
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+2060 2077 -> 2078 ID 567 -> 568 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.51 100.0 current UAL T:  2019-04-03T00:20:48.835 Order: 2078 SELL IOC LMT 100.0 at 83.51 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.51 4 bp 83.5 attempts  18 pos: 100.0
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+2060 2078 -> 2079 ID 568 -> 569 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.51 100.0 current UAL T:  2019-04-03T00:20:50.474 Order: 2079 SELL IOC LMT 100.0 at 83.51 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.51 4 bp 83.5 attempts  19 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2079 -> 2080 ID 569 -> 570 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.51 100.0 current UAL T:  2019-04-03T00:20:53.541 Order: 2080 SELL IOC LMT 100.0 at 83.51 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.48 83.51 4 bp 83.5 attempts  20 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2080 -> 2081 ID 570 -> 571 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:39.471 Order: 2081 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.48 attempts  21 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2081 -> 2082 ID 571 -> 572 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:39.819 Order: 2082 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.48 attempts  22 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2082 -> 2083 ID 572 -> 573 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:40.192 Order: 2083 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.48 attempts  23 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2083 -> 2084 ID 573 -> 574 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:40.543 Order: 2084 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.48 attempts  24 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2084 -> 2085 ID 574 -> 575 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:40.916 Order: 2085 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.48 attempts  25 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2085 -> 2086 ID 575 -> 576 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:41.266 Order: 2086 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.48 attempts  26 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2086 -> 2087 ID 576 -> 577 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:41.640 Order: 2087 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.47 attempts  27 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2087 -> 2088 ID 577 -> 578 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:42.006 Order: 2088 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.47 attempts  28 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2088 -> 2089 ID 578 -> 579 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:42.364 Order: 2089 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.47 attempts  29 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2089 -> 2090 ID 579 -> 580 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:42.733 Order: 2090 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.47 attempts  30 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2090 -> 2091 ID 580 -> 581 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:43.084 Order: 2091 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.47 attempts  31 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2091 -> 2092 ID 581 -> 582 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:43.474 Order: 2092 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.47 attempts  32 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2092 -> 2093 ID 582 -> 583 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:43.973 Order: 2093 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.47 attempts  33 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2093 -> 2094 ID 583 -> 584 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:44.472 Order: 2094 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.47 attempts  34 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2094 -> 2095 ID 584 -> 585 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.49 100.0 current UAL T:  2019-04-03T00:21:45.472 Order: 2095 SELL IOC LMT 100.0 at 83.49 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.49 4 bp 83.47 attempts  35 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2095 -> 2096 ID 585 -> 586 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-03T00:21:46.475 Order: 2096 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.48 2 bp 83.47 attempts  36 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2096 -> 2097 ID 586 -> 587 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-03T00:21:47.474 Order: 2097 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.48 2 bp 83.47 attempts  37 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2097 -> 2098 ID 587 -> 588 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-03T00:21:48.492 Order: 2098 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.48 2 bp 83.47 attempts  38 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2098 -> 2099 ID 588 -> 589 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.48 100.0 current UAL T:  2019-04-03T00:21:50.472 Order: 2099 SELL IOC LMT 100.0 at 83.48 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.46 83.48 2 bp 83.47 attempts  39 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2099 -> 2100 ID 589 -> 590 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.47 100.0 current UAL T:  2019-04-03T00:21:53.713 Order: 2100 SELL IOC LMT 100.0 at 83.47 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.45 83.47 2 bp 83.46 attempts  40 pos: 100.0
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+2060 2100 -> 2101 ID 590 -> 591 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:39.757 Order: 2101 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  41 pos: 100.0
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+2060 2101 -> 2102 ID 591 -> 592 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:40.177 Order: 2102 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  42 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2102 -> 2103 ID 592 -> 593 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:40.552 Order: 2103 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  43 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2103 -> 2104 ID 593 -> 594 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:40.907 Order: 2104 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  44 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2104 -> 2105 ID 594 -> 595 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:41.280 Order: 2105 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  45 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2105 -> 2106 ID 595 -> 596 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:41.634 Order: 2106 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  46 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2106 -> 2107 ID 596 -> 597 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:42.007 Order: 2107 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  47 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2107 -> 2108 ID 597 -> 598 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:42.374 Order: 2108 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  48 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2108 -> 2109 ID 598 -> 599 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:42.738 Order: 2109 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  49 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2109 -> 2110 ID 599 -> 600 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:43.110 Order: 2110 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  50 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2110 -> 2111 ID 600 -> 601 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:43.467 Order: 2111 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  51 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2111 -> 2112 ID 601 -> 602 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:43.841 Order: 2112 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  52 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2112 -> 2113 ID 602 -> 603 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T:  2019-04-03T00:22:44.199 Order: 2113 SELL IOC LMT 100.0 at 83.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.4 4 bp 83.38 attempts  53 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2113 -> 2114 ID 603 -> 604 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T:  2019-04-03T00:22:44.577 Order: 2114 SELL IOC LMT 100.0 at 83.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.4 4 bp 83.38 attempts  54 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2114 -> 2115 ID 604 -> 605 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T:  2019-04-03T00:22:45.471 Order: 2115 SELL IOC LMT 100.0 at 83.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.39 2 bp 83.38 attempts  55 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2115 -> 2116 ID 605 -> 606 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T:  2019-04-03T00:22:46.470 Order: 2116 SELL IOC LMT 100.0 at 83.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.39 2 bp 83.38 attempts  56 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2116 -> 2117 ID 606 -> 607 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T:  2019-04-03T00:22:47.535 Order: 2117 SELL IOC LMT 100.0 at 83.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.39 2 bp 83.38 attempts  57 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2117 -> 2118 ID 607 -> 608 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T:  2019-04-03T00:22:48.470 Order: 2118 SELL IOC LMT 100.0 at 83.39 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.39 2 bp 83.38 attempts  58 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2118 -> 2119 ID 608 -> 609 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:50.470 Order: 2119 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.38 83.4 2 bp 83.39 attempts  59 pos: 100.0
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+2060 2119 -> 2120 ID 609 -> 610 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.4 4 bp 83.39 attempts  60 pos: 100.0
+Guarantee Dev Handler error Code 202 msg Order Canceled - reason:
+Guarantee Dev Handler error Code 2109 msg Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed.
+2019-04-03T00:23:39.474 610 UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Submitted || breach cutting, pos changed, lastQ, pos 100.0 93.0
+2019-04-03T00:23:39.589 610 UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos changed, lastQ, pos 100.0 0.0
+2060 2120 *GUARANTEE DEV FILL* Submitted -> Filled 2019-04-03T00:23:39.588 ID: 610 UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 60
+2019-04-03T00:23:39.589 610 UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos changed, lastQ, pos 100.0 0.0
+2019-04-03T00:23:39.590 610 UAL T:  2019-04-03T00:22:53.778 Order: 2120 SELL IOC LMT 100.0 at 83.4 msg:  Trade type BREACH_CUTTER Status: Filled || breach cutting, pos changed, lastQ, pos 100.0 0.0
+delta impact check PASSED  56039.99797
+******** 2019-04-03T21:30:30.948
+859 103 ADDER BUY: UAL T: 2019-04-03T21:30:30.948 Order: 859 BUY DAY LMT 100.0 83.39 Type: BREACH_ADDER Status: Created || yOpen 83.5 mOpen 79.79 prevClose 82.9 price 83.58 devFromMaxOpen 0.001
+859 859 *PATIENT DEV FILL* Submitted -> Filled 2019-04-03T21:51:53.237 ID: 103 UAL T: 2019-04-03T21:30:30.948 Order: 859 BUY DAY LMT 100.0 83.39 Type: BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-03T21:51:53.302
+912 156 Cutter SELL: added?true UAL T: 2019-04-03T21:51:53.302 Order: 912 SELL IOC LMT 100.0 83.51 Type: BREACH_CUTTER Status: Created || pos 100.0 yOpen 83.5 mOpen 79.79 price 83.41
+912 912 -> 913 ID 156 -> 157 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.41 100.0 current UAL T: 2019-04-03T21:51:53.661 Order: 913 SELL IOC LMT 100.0 83.41 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.41 5 bp 83.41 attempts  1 pos: 100.0
+912 913 -> 914 ID 157 -> 158 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.41 100.0 current UAL T: 2019-04-03T21:51:54.043 Order: 914 SELL IOC LMT 100.0 83.41 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.41 5 bp 83.38 attempts  2 pos: 100.0
+912 914 -> 915 ID 158 -> 159 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.41 100.0 current UAL T: 2019-04-03T21:51:54.426 Order: 915 SELL IOC LMT 100.0 83.41 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.37 83.41 5 bp 83.38 attempts  3 pos: 100.0
+912 915 -> 916 ID 159 -> 160 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.41 100.0 current UAL T: 2019-04-03T21:51:54.783 Order: 916 SELL IOC LMT 100.0 83.41 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.41 6 bp 83.38 attempts  4 pos: 100.0
+912 916 -> 917 ID 160 -> 161 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:55.183 Order: 917 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  5 pos: 100.0
+912 917 -> 918 ID 161 -> 162 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:55.535 Order: 918 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  6 pos: 100.0
+912 918 -> 919 ID 162 -> 163 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:55.913 Order: 919 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  7 pos: 100.0
+912 919 -> 920 ID 163 -> 164 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:56.266 Order: 920 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  8 pos: 100.0
+912 920 -> 921 ID 164 -> 165 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:56.641 Order: 921 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  9 pos: 100.0
+912 921 -> 922 ID 165 -> 166 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:56.998 Order: 922 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  10 pos: 100.0
+912 922 -> 923 ID 166 -> 167 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:57.372 Order: 923 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  11 pos: 100.0
+912 923 -> 924 ID 167 -> 168 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:57.729 Order: 924 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  12 pos: 100.0
+912 924 -> 925 ID 168 -> 169 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:58.098 Order: 925 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  13 pos: 100.0
+912 925 -> 926 ID 169 -> 170 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:58.457 Order: 926 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  14 pos: 100.0
+912 926 -> 927 ID 170 -> 171 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:58.831 Order: 927 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  15 pos: 100.0
+912 927 -> 928 ID 171 -> 172 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:59.194 Order: 928 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  16 pos: 100.0
+912 928 -> 929 ID 172 -> 173 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:59.565 Order: 929 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  17 pos: 100.0
+912 929 -> 930 ID 173 -> 174 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:51:59.919 Order: 930 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  18 pos: 100.0
+912 930 -> 931 ID 174 -> 175 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.4 100.0 current UAL T: 2019-04-03T21:52:00.292 Order: 931 SELL IOC LMT 100.0 83.4 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.36 83.4 5 bp 83.38 attempts  19 pos: 100.0
+912 931 -> 932 ID 175 -> 176 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:00.650 Order: 932 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.31 83.39 10 bp 83.36 attempts  20 pos: 100.0
+912 932 -> 933 ID 176 -> 177 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:01.019 Order: 933 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.31 83.39 10 bp 83.36 attempts  21 pos: 100.0
+912 933 -> 934 ID 177 -> 178 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:01.383 Order: 934 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.31 83.39 10 bp 83.36 attempts  22 pos: 100.0
+912 934 -> 935 ID 178 -> 179 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:01.746 Order: 935 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.31 83.39 10 bp 83.36 attempts  23 pos: 100.0
+912 935 -> 936 ID 179 -> 180 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:02.117 Order: 936 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.39 12 bp 83.36 attempts  24 pos: 100.0
+912 936 -> 937 ID 180 -> 181 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:02.477 Order: 937 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.39 12 bp 83.36 attempts  25 pos: 100.0
+912 937 -> 938 ID 181 -> 182 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:02.849 Order: 938 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.39 12 bp 83.36 attempts  26 pos: 100.0
+912 938 -> 939 ID 182 -> 183 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:03.211 Order: 939 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.39 12 bp 83.36 attempts  27 pos: 100.0
+912 939 -> 940 ID 183 -> 184 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:03.582 Order: 940 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.39 12 bp 83.36 attempts  28 pos: 100.0
+912 940 -> 941 ID 184 -> 185 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:03.943 Order: 941 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.29 83.39 12 bp 83.36 attempts  29 pos: 100.0
+912 941 -> 942 ID 185 -> 186 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:04.307 Order: 942 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  30 pos: 100.0
+912 942 -> 943 ID 186 -> 187 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:04.678 Order: 943 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  31 pos: 100.0
+912 943 -> 944 ID 187 -> 188 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:05.042 Order: 944 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  32 pos: 100.0
+912 944 -> 945 ID 188 -> 189 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:05.407 Order: 945 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  33 pos: 100.0
+912 945 -> 946 ID 189 -> 190 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.39 100.0 current UAL T: 2019-04-03T21:52:05.776 Order: 946 SELL IOC LMT 100.0 83.39 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  34 pos: 100.0
+912 946 -> 947 ID 190 -> 191 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:06.136 Order: 947 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  35 pos: 100.0
+912 947 -> 948 ID 191 -> 192 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:06.513 Order: 948 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  36 pos: 100.0
+912 948 -> 949 ID 192 -> 193 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:06.879 Order: 949 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  37 pos: 100.0
+912 949 -> 950 ID 193 -> 194 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:07.244 Order: 950 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  38 pos: 100.0
+912 950 -> 951 ID 194 -> 195 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:07.607 Order: 951 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  39 pos: 100.0
+912 951 -> 952 ID 195 -> 196 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:07.971 Order: 952 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  40 pos: 100.0
+912 952 -> 953 ID 196 -> 197 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:08.339 Order: 953 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  41 pos: 100.0
+912 953 -> 954 ID 197 -> 198 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:08.705 Order: 954 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  42 pos: 100.0
+912 954 -> 955 ID 198 -> 199 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:09.082 Order: 955 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  43 pos: 100.0
+912 955 -> 956 ID 199 -> 200 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:09.436 Order: 956 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  44 pos: 100.0
+912 956 -> 957 ID 200 -> 201 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:09.811 Order: 957 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  45 pos: 100.0
+912 957 -> 958 ID 201 -> 202 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:10.167 Order: 958 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  46 pos: 100.0
+912 958 -> 959 ID 202 -> 203 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:10.546 Order: 959 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  47 pos: 100.0
+912 959 -> 960 ID 203 -> 204 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:10.909 Order: 960 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  48 pos: 100.0
+912 960 -> 961 ID 204 -> 205 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:11.282 Order: 961 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  49 pos: 100.0
+912 961 -> 962 ID 205 -> 206 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:11.646 Order: 962 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  50 pos: 100.0
+912 962 -> 963 ID 206 -> 207 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:12.016 Order: 963 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  51 pos: 100.0
+912 963 -> 964 ID 207 -> 208 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:12.375 Order: 964 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  52 pos: 100.0
+912 964 -> 965 ID 208 -> 209 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:12.742 Order: 965 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  53 pos: 100.0
+912 965 -> 966 ID 209 -> 210 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:13.111 Order: 966 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  54 pos: 100.0
+912 966 -> 967 ID 210 -> 211 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:13.486 Order: 967 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  55 pos: 100.0
+912 967 -> 968 ID 211 -> 212 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:13.845 Order: 968 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  56 pos: 100.0
+912 968 -> 969 ID 212 -> 213 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:14.216 Order: 969 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  57 pos: 100.0
+912 969 -> 970 ID 213 -> 214 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:14.582 Order: 970 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  58 pos: 100.0
+912 970 -> 971 ID 214 -> 215 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:14.954 Order: 971 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  59 pos: 100.0
+912 971 -> 972 ID 215 -> 216 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:15.313 Order: 972 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  60 pos: 100.0
+912 972 -> 973 ID 216 -> 217 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.38 100.0 current UAL T: 2019-04-03T21:52:15.682 Order: 973 SELL IOC LMT 100.0 83.38 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  61 pos: 100.0
+912 973 -> 974 ID 217 -> 218 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 83.37 100.0 current UAL T: 2019-04-03T21:52:16.044 Order: 974 SELL IOC LMT 100.0 83.37 Type: BREACH_CUTTER Status: Created || bid ask sp last 83.3 83.39 11 bp 83.36 attempts  62 pos: 100.0
+2019-04-03T21:52:53.735 218 UAL T: 2019-04-03T21:52:16.044 Order: 974 SELL IOC LMT 100.0 83.37 Type: BREACH_CUTTER Status: Filled || breach cutting, pos changed, lastQ, livePos 100.0 0.0
+912 974 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-03T21:52:53.735 ID: 218 UAL T: 2019-04-03T21:52:16.044 Order: 974 SELL IOC LMT 100.0 83.37 Type: BREACH_CUTTER Status: Filled || TIF: IOC attempts: 62
+2019-04-03T21:52:53.793 218 UAL T: 2019-04-03T21:52:16.044 Order: 974 SELL IOC LMT 100.0 83.37 Type: BREACH_CUTTER Status: Filled || breach cutting, pos changed, lastQ, livePos 100.0 0.0
+delta impact check PASSED  56700.952085
+******** 2019-04-04T21:30:29.722
+1117 113 ADDER BUY: UAL T: 2019-04-04T21:30:29.722 Order: 1117 BUY DAY LMT 100.0 84.47 Type: BREACH_ADDER Status: Created || yOpen 83.5 mOpen 79.79 prevClose 84.6 price 84.48 devFromMaxOpen 0.0117
+1117 1117 *PATIENT DEV FILL* Submitted -> Filled 2019-04-04T21:31:32.324 ID: 113 UAL T: 2019-04-04T21:30:29.722 Order: 1117 BUY DAY LMT 100.0 84.47 Type: BREACH_ADDER Status: Filled || TIF: DAY

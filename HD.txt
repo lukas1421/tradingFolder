@@ -1,0 +1,4 @@
+delta impact check PASSED  126736.8993
+******** 2019-03-27T23:48:19.022
+897 ADDER BUY: HD T:  2019-03-27T23:48:19.022 Order: 897 BUY DAY LMT 100.0 at 188.55 msg:  Trade type BREACH_ADDER Status: Created || yOpen 171.97 mOpen 184.85 prevClose 189.33 price 188.51 devFromMaxOpen 0.0198
+897 897 *PATIENT DEV FILL* Submitted -> Filled 2019-03-27T23:48:53.880 ID: 141 HD T:  2019-03-27T23:48:19.022 Order: 897 BUY DAY LMT 100.0 at 188.55 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

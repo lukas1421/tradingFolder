@@ -5,3 +5,25 @@
 ******** 2019-03-05T00:45:46.594
 217 Cutter SELL: PTR T:  2019-03-05T00:45:46.594 Order: 217 SELL IOC LMT 100.0 at 65.7 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 61.55 mOpen 65.86 price 65.78
 217 217 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-05T00:45:47.002 ID: 125 PTR T:  2019-03-05T00:45:46.594 Order: 217 SELL IOC LMT 100.0 at 65.7 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+delta impact check PASSED  88075.12090000001
+******** 2019-04-01T21:31:27.167
+1027 ADDER BUY: PTR T:  2019-04-01T21:31:27.167 Order: 1027 BUY DAY LMT 200.0 at 65.65 msg:  Trade type BREACH_ADDER Status: Created || yOpen 61.55 mOpen 65.43 prevClose 65.43 price 65.65 devFromMaxOpen 0.0034
+1027 1027 *PATIENT DEV FILL* Submitted -> Filled 2019-04-01T21:32:10.705 ID: 271 PTR T:  2019-04-01T21:31:27.167 Order: 1027 BUY DAY LMT 200.0 at 65.65 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-01T21:35:23.396
+1035 Cutter SELL: added?true PTR T:  2019-04-01T21:35:23.396 Order: 1035 SELL IOC LMT 200.0 at 65.38 msg:  Trade type BREACH_CUTTER Status: Created || pos 200.0 yOpen 61.55 mOpen 65.43 price 65.39
+1035 1035 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-01T21:35:23.712 ID: 279 PTR T:  2019-04-01T21:35:23.396 Order: 1035 SELL IOC LMT 200.0 at 65.38 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 0
+delta impact check PASSED  88115.36848000002
+******** 2019-04-01T22:53:54.579
+1151 166 ADDER BUY: PTR T:  2019-04-01T22:53:54.579 Order: 1151 BUY DAY LMT 200.0 at 65.68 msg:  Trade type BREACH_ADDER Status: Created || yOpen 61.55 mOpen 65.43 prevClose 65.6 price 65.69 devFromMaxOpen 0.004
+delta impact check PASSED  88438.2268
+******** 2019-04-02T21:35:54.652
+1491 165 ADDER BUY: PTR T:  2019-04-02T21:35:54.652 Order: 1491 BUY DAY LMT 200.0 at 65.8 msg:  Trade type BREACH_ADDER Status: Created || yOpen 61.55 mOpen 65.43 prevClose 65.8 price 65.8 devFromMaxOpen 0.0057
+delta impact check PASSED  88236.6199
+******** 2019-04-02T23:29:20.175
+1920 410 ADDER BUY: PTR T:  2019-04-02T23:29:20.175 Order: 1920 BUY DAY LMT 200.0 at 65.65 msg:  Trade type BREACH_ADDER Status: Created || yOpen 61.55 mOpen 65.43 prevClose 65.94 price 65.74 devFromMaxOpen 0.0047
+delta impact check PASSED  88438.2268
+******** 2019-04-03T21:33:24.872
+862 106 ADDER BUY: PTR T: 2019-04-03T21:33:24.872 Order: 862 BUY DAY LMT 200.0 65.8 Type: BREACH_ADDER Status: Created || yOpen 61.55 mOpen 65.43 prevClose 65.92 price 65.83 devFromMaxOpen 0.0061
+delta impact check PASSED  88995.05419000001
+******** 2019-04-04T21:38:01.418
+1137 133 ADDER BUY: PTR T: 2019-04-04T21:38:01.418 Order: 1137 BUY DAY LMT 200.0 66.29 Type: BREACH_ADDER Status: Created || yOpen 61.55 mOpen 65.43 prevClose 66.2 price 66.45 devFromMaxOpen 0.0156

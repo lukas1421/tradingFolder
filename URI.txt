@@ -1,0 +1,4 @@
+delta impact check PASSED  77503.42322
+******** 2019-04-01T21:30:10.436
+911 ADDER BUY: URI T:  2019-04-01T21:30:10.436 Order: 911 BUY DAY LMT 100.0 at 115.54 msg:  Trade type BREACH_ADDER Status: Created || yOpen 102.7 mOpen 114.25 prevClose 115.51 price 115.59 devFromMaxOpen 0.0117
+911 911 *PATIENT DEV FILL* Submitted -> Filled 2019-04-01T21:31:03.407 ID: 155 URI T:  2019-04-01T21:30:10.436 Order: 911 BUY DAY LMT 100.0 at 115.54 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

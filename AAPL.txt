@@ -16,3 +16,19 @@ NEW 169 Breach MDEV SELL: AAPL T:  2019-03-01T06:17:21.931 Order: 169 SELL IOC L
 ******** 2019-03-11T22:45:18.447
 666 ADDER BUY: AAPL T:  2019-03-11T22:45:18.447 Order: 666 BUY DAY LMT 100.0 at 177.64 msg:  Trade type BREACH_ADDER Status: Created || yOpen 158.18 mOpen 173.44 prevClose 177.65 price 177.65
 666 666 *PATIENT DEV FILL* Submitted -> Filled 2019-03-11T22:45:28.884 ID: 101 AAPL T:  2019-03-11T22:45:18.447 Order: 666 BUY DAY LMT 100.0 at 177.64 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-01T21:42:01.231
+1046 Cutter SELL: added?false AAPL T:  2019-04-01T21:42:01.231 Order: 1046 SELL IOC LMT 100.0 at 190.04 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 158.18 mOpen 190.06 price 190.02
+1046 1046 -> 1047 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 190.06 100.0 Primary? false current AAPL T:  2019-04-01T21:42:01.722 Order: 1047 SELL IOC LMT 100.0 at 190.06 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 190.03 190.06 2 bp 190.02 attempts  1
+1046 1047 -> 1048 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 190.08 100.0 Primary? false current AAPL T:  2019-04-01T21:42:02.036 Order: 1048 SELL IOC LMT 100.0 at 190.08 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 190.05 190.08 2 bp 190.04 attempts  2
+1046 1048 -> 1049 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 190.07 100.0 Primary? false current AAPL T:  2019-04-01T21:42:02.307 Order: 1049 SELL IOC LMT 100.0 at 190.07 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 190.08 190.07 -1 bp 190.08 attempts  3
+1046 1049 *GUARANTEE DEV FILL* Submitted -> Filled 2019-04-01T21:42:02.580 ID: 293 AAPL T:  2019-04-01T21:42:02.307 Order: 1049 SELL IOC LMT 100.0 at 190.07 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 3
+delta impact check PASSED  127504.33344
+******** 2019-04-01T23:03:59.719
+1184 199 ADDER BUY: AAPL T:  2019-04-01T23:03:59.719 Order: 1184 BUY DAY LMT 100.0 at 190.08 msg:  Trade type BREACH_ADDER Status: Created || yOpen 158.18 mOpen 190.06 prevClose 188.65 price 190.09 devFromMaxOpen 2.0E-4
+1184 1184 *PATIENT DEV FILL* PreSubmitted -> Filled 2019-04-01T23:04:00.036 ID: 199 AAPL T:  2019-04-01T23:03:59.719 Order: 1184 BUY DAY LMT 100.0 at 190.08 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-01T23:04:26.254
+1185 200 Cutter SELL: added?true AAPL T:  2019-04-01T23:04:26.254 Order: 1185 SELL IOC LMT 100.0 at 190.05 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 158.18 mOpen 190.06 price 190.04
+1185 1185 *GUARANTEE DEV FILL* Submitted -> Filled 2019-04-01T23:04:26.647 ID: 200 AAPL T:  2019-04-01T23:04:26.254 Order: 1185 SELL IOC LMT 100.0 at 190.05 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 0
+delta impact check PASSED  128920.89232
+******** 2019-04-02T21:33:25.730
+1421 103 ADDER BUY: AAPL T:  2019-04-02T21:33:25.730 Order: 1421 BUY DAY LMT 100.0 at 191.84 msg:  Trade type BREACH_ADDER Status: Created || yOpen 158.18 mOpen 190.06 prevClose 191.0 price 191.86 devFromMaxOpen 0.0095

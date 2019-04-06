@@ -1,0 +1,4 @@
+delta impact check PASSED  59566.4184
+******** 2019-04-01T21:30:01.420
+875 ADDER BUY: CTRP T:  2019-04-01T21:30:01.420 Order: 875 BUY DAY LMT 200.0 at 44.4 msg:  Trade type BREACH_ADDER Status: Created || yOpen 27.07 mOpen 43.69 prevClose 44.32 price 44.5 devFromMaxOpen 0.0185
+875 875 *PATIENT DEV FILL* Submitted -> Filled 2019-04-01T21:33:28.329 ID: 119 CTRP T:  2019-04-01T21:30:01.420 Order: 875 BUY DAY LMT 200.0 at 44.4 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

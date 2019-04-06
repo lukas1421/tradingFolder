@@ -1,0 +1,3 @@
+delta impact check PASSED  69507.57066
+******** 2019-04-01T21:30:00.680
+866 ADDER BUY: SAN T:  2019-04-01T21:30:00.680 Order: 866 BUY DAY LMT 2200.0 at 4.71 msg:  Trade type BREACH_ADDER Status: Created || yOpen 4.48 mOpen 4.63 prevClose 4.69 price 4.72 devFromMaxOpen 0.0194

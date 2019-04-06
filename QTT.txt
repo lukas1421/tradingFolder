@@ -65,3 +65,16 @@ delta impact check PASSED  74642.7292
 887 Cutter SELL: added?true QTT T:  2019-03-15T21:35:48.305 Order: 887 SELL IOC LMT 800.0 at 13.64 msg:  Trade type BREACH_CUTTER Status: Created || pos 800.0 yOpen 6.18 mOpen 13.6 price 13.57
 887 887 -> 888 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 13.57 800.0 Primary? false current QTT T:  2019-03-15T21:35:48.660 Order: 888 SELL IOC LMT 800.0 at 13.57 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 13.57 13.57 0 bp 13.57 attempts  1
 887 888 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-15T21:35:49.032 ID: 132 QTT T:  2019-03-15T21:35:48.660 Order: 888 SELL IOC LMT 800.0 at 13.57 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  70332.64605
+******** 2019-04-01T21:30:23.861
+955 ADDER BUY: QTT T:  2019-04-01T21:30:23.861 Order: 955 BUY DAY LMT 900.0 at 11.65 msg:  Trade type BREACH_ADDER Status: Created || yOpen 6.18 mOpen 11.64 prevClose 11.65 price 11.65 devFromMaxOpen 9.0E-4
+955 955 *PATIENT DEV FILL* Submitted -> Filled 2019-04-01T21:31:21.124 ID: 199 QTT T:  2019-04-01T21:30:23.861 Order: 955 BUY DAY LMT 900.0 at 11.65 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-04-01T21:31:29.769
+1029 Cutter SELL: added?true QTT T:  2019-04-01T21:31:29.769 Order: 1029 SELL IOC LMT 900.0 at 11.55 msg:  Trade type BREACH_CUTTER Status: Created || pos 900.0 yOpen 6.18 mOpen 11.64 price 11.62
+1029 1029 -> 1030 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 11.62 900.0 Primary? false current QTT T:  2019-04-01T21:31:30.049 Order: 1030 SELL IOC LMT 900.0 at 11.62 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 11.62 11.62 0 bp 11.62 attempts  1
+1029 1030 -> 1031 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 11.5 900.0 Primary? false current QTT T:  2019-04-01T21:31:30.413 Order: 1031 SELL IOC LMT 900.0 at 11.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 11.5 11.5 0 bp 11.57 attempts  2
+1029 1031 *GUARANTEE DEV FILL* Submitted -> Filled 2019-04-01T21:31:30.695 ID: 275 QTT T:  2019-04-01T21:31:30.413 Order: 1031 SELL IOC LMT 900.0 at 11.5 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 2
+******** 2019-04-01T22:08:10.394
+1068 Cutter BUY: added?false QTT T:  2019-04-01T22:08:10.394 Order: 1068 BUY IOC LMT 600.0 at 10.69 msg:  Trade type BREACH_CUTTER Status: Created || pos -600.0 yOpen 6.18 mOpen 11.64 price 10.7
+1068 1068 -> 1069 BREACH RESUBMIT: BREACH_CUTTER IOC BUY 10.7 600.0 Primary? false current QTT T:  2019-04-01T22:08:10.713 Order: 1069 BUY IOC LMT 600.0 at 10.7 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 10.7 10.7 0 bp 10.7 attempts  1
+1068 1069 *GUARANTEE DEV FILL* Submitted -> Filled 2019-04-01T22:08:11.144 ID: 108 QTT T:  2019-04-01T22:08:10.713 Order: 1069 BUY IOC LMT 600.0 at 10.7 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1

@@ -13,3 +13,35 @@ delta impact check PASSED  57457.7299
 1004 Cutter SELL: added?false EEM T:  2019-03-22T23:53:14.151 Order: 1004 SELL IOC LMT 200.0 at 42.52 msg:  Trade type BREACH_CUTTER Status: Created || pos 200.0 yOpen 39.0 mOpen 42.52 price 42.51
 1004 1004 -> 1005 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 42.51 200.0 Primary? false current EEM T:  2019-03-22T23:53:14.470 Order: 1005 SELL IOC LMT 200.0 at 42.51 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 42.51 42.51 0 bp 42.51 attempts  1
 1004 1005 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-22T23:53:15.317 ID: 152 EEM T:  2019-03-22T23:53:14.470 Order: 1005 SELL IOC LMT 200.0 at 42.51 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  57276.90144
+******** 2019-03-26T21:29:22.735
+939 ADDER BUY: EEM T:  2019-03-26T21:29:22.735 Order: 939 BUY DAY LMT 200.0 at 42.68 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.0 mOpen 42.52 prevClose 42.47 price 42.68 devFromOpen 0.0
+939 939 *PATIENT DEV FILL* Submitted -> Filled 2019-03-26T21:29:31.088 ID: 118 EEM T:  2019-03-26T21:29:22.735 Order: 939 BUY DAY LMT 200.0 at 42.68 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-27T01:36:52.255
+975 Cutter SELL: added?true EEM T:  2019-03-27T01:36:52.255 Order: 975 SELL IOC LMT 200.0 at 42.52 msg:  Trade type BREACH_CUTTER Status: Created || pos 200.0 yOpen 39.0 mOpen 42.52 price 42.51
+975 975 -> 976 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 42.51 200.0 Primary? false current EEM T:  2019-03-27T01:36:52.662 Order: 976 SELL IOC LMT 200.0 at 42.51 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 42.51 42.51 0 bp 42.51 attempts  1
+975 976 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-27T01:36:53.023 ID: 155 EEM T:  2019-03-27T01:36:52.662 Order: 976 SELL IOC LMT 200.0 at 42.51 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  57147.55332
+******** 2019-03-27T21:33:05.663
+884 ADDER BUY: EEM T:  2019-03-27T21:33:05.663 Order: 884 BUY DAY LMT 200.0 at 42.51 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.0 mOpen 42.52 prevClose 42.65 price 42.53 devFromMaxOpen 2.0E-4
+884 884 *PATIENT DEV FILL* Submitted -> Filled 2019-03-27T21:33:15.931 ID: 128 EEM T:  2019-03-27T21:33:05.663 Order: 884 BUY DAY LMT 200.0 at 42.51 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-27T21:33:16.919
+885 Cutter SELL: added?true EEM T:  2019-03-27T21:33:16.919 Order: 885 SELL IOC LMT 200.0 at 42.51 msg:  Trade type BREACH_CUTTER Status: Created || pos 200.0 yOpen 39.0 mOpen 42.52 price 42.5
+885 885 -> 886 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 42.5 200.0 Primary? false current EEM T:  2019-03-27T21:33:17.293 Order: 886 SELL IOC LMT 200.0 at 42.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 42.5 42.5 0 bp 42.5 attempts  1
+885 886 -> 887 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 42.5 200.0 Primary? false current EEM T:  2019-03-27T21:33:17.676 Order: 887 SELL IOC LMT 200.0 at 42.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 42.49 42.5 2 bp 42.5 attempts  2
+885 887 -> 888 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 42.5 200.0 Primary? false current EEM T:  2019-03-27T21:33:18.034 Order: 888 SELL IOC LMT 200.0 at 42.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 42.49 42.5 2 bp 42.5 attempts  3
+885 888 -> 889 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 42.5 200.0 Primary? false current EEM T:  2019-03-27T21:33:18.417 Order: 889 SELL IOC LMT 200.0 at 42.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 42.49 42.5 2 bp 42.5 attempts  4
+885 889 -> 890 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 42.5 200.0 Primary? false current EEM T:  2019-03-27T21:33:18.775 Order: 890 SELL IOC LMT 200.0 at 42.5 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 42.49 42.5 2 bp 42.5 attempts  5
+885 890 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-27T21:33:19.165 ID: 134 EEM T:  2019-03-27T21:33:18.775 Order: 890 SELL IOC LMT 200.0 at 42.5 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 5
+delta impact check PASSED  57304.501639999995
+******** 2019-03-29T02:00:13.920
+965 ADDER BUY: EEM T:  2019-03-29T02:00:13.920 Order: 965 BUY DAY LMT 200.0 at 42.52 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.0 mOpen 42.52 prevClose 42.32 price 42.53 devFromMaxOpen 2.0E-4
+965 965 *PATIENT DEV FILL* Submitted -> Filled 2019-03-29T02:00:29.291 ID: 155 EEM T:  2019-03-29T02:00:13.920 Order: 965 BUY DAY LMT 200.0 at 42.52 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-29T02:01:03.412
+966 Cutter SELL: added?true EEM T:  2019-03-29T02:01:03.412 Order: 966 SELL IOC LMT 200.0 at 42.52 msg:  Trade type BREACH_CUTTER Status: Created || pos 200.0 yOpen 39.0 mOpen 42.52 price 42.51
+966 966 -> 967 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 42.51 200.0 Primary? false current EEM T:  2019-03-29T02:01:03.758 Order: 967 SELL IOC LMT 200.0 at 42.51 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 42.51 42.51 0 bp 42.51 attempts  1
+966 967 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-29T02:01:04.020 ID: 157 EEM T:  2019-03-29T02:01:03.758 Order: 967 SELL IOC LMT 200.0 at 42.51 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  57810.36877
+******** 2019-03-29T21:29:01.059
+975 ADDER BUY: EEM T:  2019-03-29T21:29:01.059 Order: 975 BUY DAY LMT 200.0 at 42.91 msg:  Trade type BREACH_ADDER Status: Created || yOpen 39.0 mOpen 42.52 prevClose 43.0 price 42.92 devFromMaxOpen 0.0094
+975 975 *PATIENT DEV FILL* Submitted -> Filled 2019-03-29T21:32:40.247 ID: 101 EEM T:  2019-03-29T21:29:01.059 Order: 975 BUY DAY LMT 200.0 at 42.91 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

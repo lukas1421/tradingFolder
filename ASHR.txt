@@ -11,3 +11,15 @@ delta impact check PASSED  56283.89115
 ******** 2019-03-15T21:30:01.239
 883 ADDER BUY: ASHR T:  2019-03-15T21:30:01.239 Order: 883 BUY DAY LMT 300.0 at 27.97 msg:  Trade type BREACH_ADDER Status: Created || yOpen 21.97 mOpen 27.8 prevClose 27.52 price 27.97
 883 883 *PATIENT DEV FILL* PreSubmitted -> Filled 2019-03-15T21:30:01.988 ID: 127 ASHR T:  2019-03-15T21:30:01.239 Order: 883 BUY DAY LMT 300.0 at 27.97 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-25T22:11:23.507
+918 Cutter SELL: added?false ASHR T:  2019-03-25T22:11:23.507 Order: 918 SELL IOC LMT 300.0 at 27.8 msg:  Trade type BREACH_CUTTER Status: Created || pos 300.0 yOpen 21.97 mOpen 27.8 price 27.79
+918 918 -> 919 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 27.79 300.0 Primary? false current ASHR T:  2019-03-25T22:11:23.795 Order: 919 SELL IOC LMT 300.0 at 27.79 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 27.79 27.79 0 bp 27.79 attempts  1
+918 919 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-25T22:11:24.106 ID: 163 ASHR T:  2019-03-25T22:11:23.795 Order: 919 SELL IOC LMT 300.0 at 27.79 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  74932.5092
+******** 2019-03-29T02:13:47.977
+968 ADDER BUY: ASHR T:  2019-03-29T02:13:47.977 Order: 968 BUY DAY LMT 400.0 at 27.8 msg:  Trade type BREACH_ADDER Status: Created || yOpen 21.97 mOpen 27.8 prevClose 27.71 price 27.81 devFromMaxOpen 4.0E-4
+968 968 *PATIENT DEV FILL* Submitted -> Filled 2019-03-29T02:14:08.077 ID: 158 ASHR T:  2019-03-29T02:13:47.977 Order: 968 BUY DAY LMT 400.0 at 27.8 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
+******** 2019-03-29T02:14:53.704
+969 Cutter SELL: added?true ASHR T:  2019-03-29T02:14:53.704 Order: 969 SELL IOC LMT 400.0 at 27.8 msg:  Trade type BREACH_CUTTER Status: Created || pos 400.0 yOpen 21.97 mOpen 27.8 price 27.79
+969 969 -> 970 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 27.79 400.0 Primary? false current ASHR T:  2019-03-29T02:14:54.218 Order: 970 SELL IOC LMT 400.0 at 27.79 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 27.79 27.79 0 bp 27.79 attempts  1
+969 970 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-29T02:14:54.477 ID: 160 ASHR T:  2019-03-29T02:14:54.218 Order: 970 SELL IOC LMT 400.0 at 27.79 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1

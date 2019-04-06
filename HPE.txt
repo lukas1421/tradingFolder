@@ -1,0 +1,9 @@
+delta impact check PASSED  62544.73932
+******** 2019-04-01T21:31:21.952
+1026 ADDER BUY: HPE T:  2019-04-01T21:31:21.952 Order: 1026 BUY DAY LMT 600.0 at 15.54 msg:  Trade type BREACH_ADDER Status: Created || yOpen 13.16 mOpen 15.43 prevClose 15.43 price 15.55 devFromMaxOpen 0.0078
+delta impact check PASSED  63228.94818
+******** 2019-04-01T22:19:19.474
+1083 ADDER BUY: HPE T:  2019-04-01T22:19:19.474 Order: 1083 BUY DAY LMT 600.0 at 15.71 msg:  Trade type BREACH_ADDER Status: Created || yOpen 13.16 mOpen 15.43 prevClose 15.72 price 15.72 devFromMaxOpen 0.0188
+delta impact check PASSED  63228.94818
+******** 2019-04-01T22:41:54.284
+1086 101 ADDER BUY: HPE T:  2019-04-01T22:41:54.284 Order: 1086 BUY DAY LMT 600.0 at 15.71 msg:  Trade type BREACH_ADDER Status: Created || yOpen 13.16 mOpen 15.43 prevClose 15.72 price 15.71 devFromMaxOpen 0.0181

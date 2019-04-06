@@ -4,3 +4,7 @@
 ******** 2019-03-01T22:26:00.376
 218 Cutter SELL: RY T:  2019-03-01T22:26:00.376 Order: 218 SELL IOC LMT 100.0 at 77.62 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 68.52 mOpen 78.18 price 77.82
 218 218 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-01T22:26:00.880 ID: 126 RY T:  2019-03-01T22:26:00.376 Order: 218 SELL IOC LMT 100.0 at 77.62 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC
+delta impact check PASSED  50960.14421
+******** 2019-04-01T21:30:02.373
+877 ADDER BUY: RY T:  2019-04-01T21:30:02.373 Order: 877 BUY DAY LMT 100.0 at 75.97 msg:  Trade type BREACH_ADDER Status: Created || yOpen 68.52 mOpen 75.55 prevClose 75.55 price 75.97 devFromMaxOpen 0.0056
+877 877 *PATIENT DEV FILL* Submitted -> Filled 2019-04-01T21:32:42.098 ID: 121 RY T:  2019-04-01T21:30:02.373 Order: 877 BUY DAY LMT 100.0 at 75.97 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

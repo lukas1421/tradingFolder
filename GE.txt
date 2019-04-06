@@ -6,3 +6,7 @@ delta impact check PASSED  70027.866
 888 Cutter SELL: added?true GE T:  2019-03-14T21:36:32.036 Order: 888 SELL IOC LMT 1000.0 at 10.44 msg:  Trade type BREACH_CUTTER Status: Created || pos 1000.0 yOpen 7.23 mOpen 10.44 price 10.43
 888 888 -> 889 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 10.43 1000.0 Primary? false current GE T:  2019-03-14T21:36:32.384 Order: 889 SELL IOC LMT 1000.0 at 10.43 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 10.43 10.43 0 bp 10.43 attempts  1
 888 889 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-14T21:36:32.779 ID: 133 GE T:  2019-03-14T21:36:32.384 Order: 889 SELL IOC LMT 1000.0 at 10.43 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  67280.5379
+******** 2019-04-01T21:30:02.626
+878 ADDER BUY: GE T:  2019-04-01T21:30:02.626 Order: 878 BUY DAY LMT 1000.0 at 10.03 msg:  Trade type BREACH_ADDER Status: Created || yOpen 7.23 mOpen 9.97 prevClose 10.03 price 10.04 devFromMaxOpen 0.007
+878 878 *PATIENT DEV FILL* Submitted -> Filled 2019-04-01T21:37:21.718 ID: 122 GE T:  2019-04-01T21:30:02.626 Order: 878 BUY DAY LMT 1000.0 at 10.03 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY

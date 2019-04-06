@@ -22,3 +22,7 @@ delta impact check PASSED  62199.846000000005
 774 Cutter SELL: added?true close cut BBL T:  2019-03-13T21:34:03.572 Order: 774 SELL IOC LMT 200.0 at 46.35 msg:  Trade type BREACH_CUTTER Status: Created || pos 200.0 yOpen 41.89 mOpen 46.37 price 46.35
 774 774 -> 775 BREACH RESUBMIT: BREACH_CUTTER IOC SELL 46.35 200.0 Primary? false current BBL T:  2019-03-13T21:34:03.925 Order: 775 SELL IOC LMT 200.0 at 46.35 msg:  Trade type BREACH_CUTTER Status: Created || bid ask sp last 46.35 46.35 0 bp 46.35 attempts  1
 774 775 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-03-13T21:34:04.298 ID: 134 BBL T:  2019-03-13T21:34:03.925 Order: 775 SELL IOC LMT 200.0 at 46.35 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 1
+delta impact check PASSED  63329.357520000005
+******** 2019-03-26T21:29:15.986
+937 ADDER BUY: BBL T:  2019-03-26T21:29:15.986 Order: 937 BUY DAY LMT 200.0 at 47.19 msg:  Trade type BREACH_ADDER Status: Created || yOpen 41.89 mOpen 46.37 prevClose 46.56 price 47.19 devFromOpen 0.02
+937 937 *PATIENT DEV FILL* Submitted -> Filled 2019-03-26T21:30:01.116 ID: 116 BBL T:  2019-03-26T21:29:15.986 Order: 937 BUY DAY LMT 200.0 at 47.19 msg:  Trade type BREACH_ADDER Status: Filled || TIF: DAY
