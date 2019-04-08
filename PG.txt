@@ -8,3 +8,7 @@ delta impact check PASSED  67572.8661
 ******** 2019-04-01T21:29:49.340
 863 Cutter SELL: added?false PG T:  2019-04-01T21:29:49.340 Order: 863 SELL IOC LMT 100.0 at 103.79 msg:  Trade type BREACH_CUTTER Status: Created || pos 100.0 yOpen 91.89 mOpen 104.0 price 103.94
 863 863 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-01T21:29:49.671 ID: 107 PG T:  2019-04-01T21:29:49.340 Order: 863 SELL IOC LMT 100.0 at 103.79 msg:  Trade type BREACH_CUTTER Status: Filled || TIF: IOC attempts: 0
+delta impact check PASSED  69704.3559
+******** 2019-04-08T21:29:57.299
+1167 163 ADDER BUY: PG 4-8 21:29:57.299 1167 BUY DAY LMT 100.0 103.78 BREACH_ADDER Created yOpen 91.89 mOpen 104.0 prevClose 104.24 price 104.09 devFromMaxOpen 9.0E-4
+Shutdown status 4-9 4:20 Submitted PG 4-8 21:29:57.299 1167 BUY DAY LMT 100.0 103.78 BREACH_ADDER Submitted

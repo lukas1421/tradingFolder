@@ -9898,3 +9898,469 @@ ERROR LIVE ORDER HANDLER ID: 07:16:18.640 10000927 code 10197 MSG No market data
 ERROR LIVE ORDER HANDLER ID: 07:16:22.994 -1 code 2105 MSG HMDS data farm connection is broken:hkhmds
  trade map does not include symbol  HDB
  trade map does not include symbol  HDB
+ERROR LIVE ORDER HANDLER ID: 08:19:37.121 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ORDER HANDLER ID: 08:19:38.002 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.ushmds
+ERROR LIVE ORDER HANDLER ID: 08:56:47.374 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:56:50.643 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:56:53.916 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:56:57.194 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:00.477 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:03.753 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:07.032 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:10.304 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:13.578 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:16.854 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:20.130 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:23.425 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:26.703 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:29.972 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:33.271 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:36.518 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:39.794 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:43.062 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:46.337 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:49.614 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:52.888 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:56.167 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:59.443 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:02.716 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:05.990 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:09.272 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:12.600 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:15.875 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:19.144 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:22.481 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:25.753 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:29.030 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:32.304 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:35.581 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:38.858 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:42.134 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:45.404 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:48.678 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:51.953 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:55.224 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:58.497 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:01.769 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:05.046 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:05.750 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.ushmds
+ERROR LIVE ORDER HANDLER ID: 08:59:08.319 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:11.587 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:14.861 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:18.129 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:21.405 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:24.681 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:27.957 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:31.271 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:34.509 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:37.784 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:41.056 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:44.329 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:47.607 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:50.881 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:54.150 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:57.416 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 09:07:42.456 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ORDER HANDLER ID: 09:51:01.551 -1 code 2119 MSG Market data farm is connecting:cashfarm
+ERROR LIVE ORDER HANDLER ID: 09:51:02.967 -1 code 2106 MSG HMDS data farm connection is OK:cashhmds
+ERROR LIVE ORDER HANDLER ID: 09:51:03.204 -1 code 2104 MSG Market data farm connection is OK:cashfarm
+ERROR LIVE ORDER HANDLER ID: 09:52:56.314 -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ORDER HANDLER ID: 09:52:56.314 -1 code 2108 MSG Market data farm connection is inactive but should be available upon demand.cashfarm
+ERROR LIVE ORDER HANDLER ID: 09:58:02.972 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.cashhmds
+ERROR LIVE ORDER HANDLER ID: 11:53:52.664 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 11:53:52.666 -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ORDER HANDLER ID: 11:53:53.185 -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ORDER HANDLER ID: 11:53:53.889 -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ORDER HANDLER ID: 11:53:55.884 -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ORDER HANDLER ID: 11:53:56.230 -1 code 2103 MSG Market data farm connection is broken:hfarm
+ERROR LIVE ORDER HANDLER ID: 11:53:56.956 -1 code 2103 MSG Market data farm connection is broken:hfarm
+ERROR LIVE ORDER HANDLER ID: 11:53:59.898 -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ORDER HANDLER ID: 11:54:00.656 -1 code 2103 MSG Market data farm connection is broken:hfarm
+ERROR LIVE ORDER HANDLER ID: 11:54:01.696 -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ORDER HANDLER ID: 11:54:13.335 -1 code 2104 MSG Market data farm connection is OK:hfarm
+ERROR LIVE ORDER HANDLER ID: 11:54:13.342 -1 code 2119 MSG Market data farm is connecting:usfarm
+ERROR LIVE ORDER HANDLER ID: 11:54:13.841 -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ORDER HANDLER ID: 11:54:15.028 -1 code 2104 MSG Market data farm connection is OK:jfarm
+ERROR LIVE ORDER HANDLER ID: 12:10:52.898 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:10:53.656 -1 code 2103 MSG Market data farm connection is broken:hfarm
+ERROR LIVE ORDER HANDLER ID: 12:10:53.658 10001239 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 12:10:53.658 -1 code 2103 MSG Market data farm connection is broken:jfarm
+ERROR LIVE ORDER HANDLER ID: 12:10:53.661 -1 code 2103 MSG Market data farm connection is broken:usfarm
+ERROR LIVE ORDER HANDLER ID: 12:13:57.779 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:17:02.806 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:20:07.815 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:21:48.911 -1 code 2151 MSG Positions info is not available yet
+ERROR LIVE ORDER HANDLER ID: 12:23:12.707 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:26:17.718 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:29:22.728 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:32:27.835 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:35:32.751 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:38:37.908 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:41:42.907 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:44:47.907 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:47:52.918 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:50:57.911 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:54:03.057 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 12:57:07.976 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:00:13.137 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:03:18.473 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:06:23.105 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:09:28.617 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:12:33.687 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:15:38.322 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:18:43.370 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:21:48.516 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:24:53.384 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:27:58.363 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:31:03.257 -1 code 1100 MSG Connectivity between IB and Trader Workstation has been lost.
+ERROR LIVE ORDER HANDLER ID: 13:31:51.328 -1 code 1102 MSG Connectivity between IB and Trader Workstation has been restored - data maintained.
+ERROR LIVE ORDER HANDLER ID: 13:31:52.434 -1 code 2104 MSG Market data farm connection is OK:jfarm
+ERROR LIVE ORDER HANDLER ID: 13:31:52.443 -1 code 2119 MSG Market data farm is connecting:hfarm
+ERROR LIVE ORDER HANDLER ID: 13:31:52.444 -1 code 2119 MSG Market data farm is connecting:usfarm
+ERROR LIVE ORDER HANDLER ID: 13:31:52.700 -1 code 2104 MSG Market data farm connection is OK:hfarm
+ERROR LIVE ORDER HANDLER ID: 13:31:54.022 -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ORDER HANDLER ID: 14:49:16.562 -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ORDER HANDLER ID: 14:56:16.565 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ORDER HANDLER ID: 15:04:47.666 -1 code 2105 MSG HMDS data farm connection is broken:hkhmds
+ERROR LIVE ORDER HANDLER ID: 15:04:51.255 -1 code 2105 MSG HMDS data farm connection is broken:hkhmds
+ERROR LIVE ORDER HANDLER ID: 15:05:04.669 -1 code 2105 MSG HMDS data farm connection is broken:hkhmds
+ERROR LIVE ORDER HANDLER ID: 15:05:32.304 -1 code 2105 MSG HMDS data farm connection is broken:hkhmds
+ERROR LIVE ORDER HANDLER ID: 15:06:23.867 -1 code 2105 MSG HMDS data farm connection is broken:hkhmds
+ERROR Guarantee Dev Handler: 101 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:0.842 1105 SELL IOC LMT 1000.0 9.54 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 102 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:1.460 1106 SELL IOC LMT 1000.0 9.54 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 101 202 Order Canceled - reason: GE 4-8 21:29:0.842 1105 SELL IOC LMT 1000.0 9.54 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 103 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:1.775 1107 SELL IOC LMT 1000.0 9.54 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 102 202 Order Canceled - reason: GE 4-8 21:29:1.460 1106 SELL IOC LMT 1000.0 9.54 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 104 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:2.113 1108 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 103 202 Order Canceled - reason: GE 4-8 21:29:1.775 1107 SELL IOC LMT 1000.0 9.54 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 105 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:2.439 1109 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 104 202 Order Canceled - reason: GE 4-8 21:29:2.113 1108 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 106 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:2.790 1110 SELL IOC LMT 1000.0 9.54 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 105 202 Order Canceled - reason: GE 4-8 21:29:2.439 1109 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 107 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 106 202 Order Canceled - reason: GE 4-8 21:29:2.790 1110 SELL IOC LMT 1000.0 9.54 BREACH_CUTTER PendingCancel
+2019-04-08T21:29:03.497 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 1000.0 900.0
+2019-04-08T21:29:03.500 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 1000.0 800.0
+2019-04-08T21:29:03.502 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 1000.0 800.0
+2019-04-08T21:29:03.504 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 1000.0 800.0
+2019-04-08T21:29:03.548 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 1000.0 800.0
+ERROR Guarantee Dev Handler: 108 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:3.503 1112 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 107 202 Order Canceled - reason: GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 109 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:3.817 1113 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 108 202 Order Canceled - reason: GE 4-8 21:29:3.503 1112 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 110 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:4.146 1114 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 109 202 Order Canceled - reason: GE 4-8 21:29:3.817 1113 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 111 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:4.460 1115 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 110 202 Order Canceled - reason: GE 4-8 21:29:4.146 1114 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 112 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:4.957 1116 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 111 202 Order Canceled - reason: GE 4-8 21:29:4.460 1115 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 113 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:5.448 1117 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 112 202 Order Canceled - reason: GE 4-8 21:29:4.957 1116 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 113 202 Order Canceled - reason: GE 4-8 21:29:5.448 1117 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 114 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:6.234 1118 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 115 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:6.623 1119 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 114 202 Order Canceled - reason: GE 4-8 21:29:6.234 1118 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 116 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:7.461 1120 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 115 202 Order Canceled - reason: GE 4-8 21:29:6.623 1119 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 117 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:8.445 1121 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 116 202 Order Canceled - reason: GE 4-8 21:29:7.461 1120 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 118 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:9.446 1122 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 117 202 Order Canceled - reason: GE 4-8 21:29:8.445 1121 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 120 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:10.444 1124 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 118 202 Order Canceled - reason: GE 4-8 21:29:9.446 1122 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 121 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:12.475 1125 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 120 202 Order Canceled - reason: GE 4-8 21:29:10.444 1124 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 122 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:15.446 1126 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 121 202 Order Canceled - reason: GE 4-8 21:29:12.475 1125 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 123 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:15.755 1127 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 122 202 Order Canceled - reason: GE 4-8 21:29:15.446 1126 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 124 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:16.088 1128 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 123 202 Order Canceled - reason: GE 4-8 21:29:15.755 1127 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 125 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:16.399 1129 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 124 202 Order Canceled - reason: GE 4-8 21:29:16.088 1128 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 126 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:16.727 1130 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 125 202 Order Canceled - reason: GE 4-8 21:29:16.399 1129 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 127 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:17.043 1131 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 126 202 Order Canceled - reason: GE 4-8 21:29:16.727 1130 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 128 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:17.366 1132 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 127 202 Order Canceled - reason: GE 4-8 21:29:17.043 1131 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 129 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:17.686 1133 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 128 202 Order Canceled - reason: GE 4-8 21:29:17.366 1132 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 130 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:18.009 1134 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 129 202 Order Canceled - reason: GE 4-8 21:29:17.686 1133 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 131 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:18.330 1135 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 130 202 Order Canceled - reason: GE 4-8 21:29:18.009 1134 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 132 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:18.645 1136 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 131 202 Order Canceled - reason: GE 4-8 21:29:18.330 1135 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 133 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:18.973 1137 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 132 202 Order Canceled - reason: GE 4-8 21:29:18.645 1136 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 134 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:19.289 1138 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 133 202 Order Canceled - reason: GE 4-8 21:29:18.973 1137 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 135 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:19.613 1139 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 134 202 Order Canceled - reason: GE 4-8 21:29:19.289 1138 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 136 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:19.932 1140 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 135 202 Order Canceled - reason: GE 4-8 21:29:19.613 1139 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 137 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:20.261 1141 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 136 202 Order Canceled - reason: GE 4-8 21:29:19.932 1140 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 138 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:20.590 1142 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 137 202 Order Canceled - reason: GE 4-8 21:29:20.261 1141 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 139 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:20.910 1143 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 138 202 Order Canceled - reason: GE 4-8 21:29:20.590 1142 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 140 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:21.239 1144 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 139 202 Order Canceled - reason: GE 4-8 21:29:20.910 1143 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 141 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:21.550 1145 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 140 202 Order Canceled - reason: GE 4-8 21:29:21.239 1144 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 142 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:21.875 1146 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 141 202 Order Canceled - reason: GE 4-8 21:29:21.550 1145 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 143 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:22.197 1147 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 142 202 Order Canceled - reason: GE 4-8 21:29:21.875 1146 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 144 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:22.523 1148 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 143 202 Order Canceled - reason: GE 4-8 21:29:22.197 1147 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 145 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:22.852 1149 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 144 202 Order Canceled - reason: GE 4-8 21:29:22.523 1148 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 146 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:23.181 1150 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 145 202 Order Canceled - reason: GE 4-8 21:29:22.852 1149 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 147 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:23.514 1151 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 146 202 Order Canceled - reason: GE 4-8 21:29:23.181 1150 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 148 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:23.838 1152 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 147 202 Order Canceled - reason: GE 4-8 21:29:23.514 1151 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 149 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:24.160 1153 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 148 202 Order Canceled - reason: GE 4-8 21:29:23.838 1152 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 150 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:24.473 1154 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 149 202 Order Canceled - reason: GE 4-8 21:29:24.160 1153 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 151 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:24.813 1155 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 150 202 Order Canceled - reason: GE 4-8 21:29:24.473 1154 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 152 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:25.137 1156 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 151 202 Order Canceled - reason: GE 4-8 21:29:24.813 1155 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 153 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:25.475 1157 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 152 202 Order Canceled - reason: GE 4-8 21:29:25.137 1156 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 154 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:25.784 1158 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 153 202 Order Canceled - reason: GE 4-8 21:29:25.475 1157 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 155 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:26.113 1159 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 154 202 Order Canceled - reason: GE 4-8 21:29:25.784 1158 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 156 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:26.441 1160 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 155 202 Order Canceled - reason: GE 4-8 21:29:26.113 1159 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 157 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:26.771 1161 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 156 202 Order Canceled - reason: GE 4-8 21:29:26.441 1160 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 158 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:27.133 1162 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 157 202 Order Canceled - reason: GE 4-8 21:29:26.771 1161 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 159 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:27.482 1163 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 158 202 Order Canceled - reason: GE 4-8 21:29:27.133 1162 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 160 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:27.816 1164 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 159 202 Order Canceled - reason: GE 4-8 21:29:27.482 1163 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 161 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:29:28.140 1165 SELL IOC LMT 800.0 9.53 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 160 202 Order Canceled - reason: GE 4-8 21:29:27.816 1164 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 164 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:30:1.609 1168 SELL IOC LMT 800.0 9.52 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 161 202 Order Canceled - reason: GE 4-8 21:29:28.140 1165 SELL IOC LMT 800.0 9.53 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 165 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:30:2.012 1169 SELL IOC LMT 800.0 9.52 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 164 202 Order Canceled - reason: GE 4-8 21:30:1.609 1168 SELL IOC LMT 800.0 9.52 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 166 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:30:2.481 1170 SELL IOC LMT 800.0 9.52 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 165 202 Order Canceled - reason: GE 4-8 21:30:2.012 1169 SELL IOC LMT 800.0 9.52 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 168 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. GE 4-8 21:30:2.929 1172 SELL IOC LMT 800.0 9.51 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 166 202 Order Canceled - reason: GE 4-8 21:30:2.481 1170 SELL IOC LMT 800.0 9.52 BREACH_CUTTER PendingCancel
+2019-04-08T21:30:03.310 GE 168 GE 4-8 21:30:2.929 1172 SELL IOC LMT 800.0 9.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 800.0 0.0
+2019-04-08T21:30:03.312 GE 168 GE 4-8 21:30:2.929 1172 SELL IOC LMT 800.0 9.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 800.0 0.0
+ERROR Guarantee Dev Handler: 170 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:50.831 1174 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 171 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:51.151 1175 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 170 202 Order Canceled - reason: MCD 4-8 22:28:50.831 1174 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 172 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:51.487 1176 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 171 202 Order Canceled - reason: MCD 4-8 22:28:51.151 1175 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 173 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:51.797 1177 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 172 202 Order Canceled - reason: MCD 4-8 22:28:51.487 1176 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 174 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:52.133 1178 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 173 202 Order Canceled - reason: MCD 4-8 22:28:51.797 1177 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 175 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:52.443 1179 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 174 202 Order Canceled - reason: MCD 4-8 22:28:52.133 1178 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 176 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:52.784 1180 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 175 202 Order Canceled - reason: MCD 4-8 22:28:52.443 1179 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 177 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:53.119 1181 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 176 202 Order Canceled - reason: MCD 4-8 22:28:52.784 1180 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 178 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:53.437 1182 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 177 202 Order Canceled - reason: MCD 4-8 22:28:53.119 1181 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 179 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:53.769 1183 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 178 202 Order Canceled - reason: MCD 4-8 22:28:53.437 1182 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 180 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:54.105 1184 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 179 202 Order Canceled - reason: MCD 4-8 22:28:53.769 1183 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 181 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:54.441 1185 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 180 202 Order Canceled - reason: MCD 4-8 22:28:54.105 1184 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 182 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:54.777 1186 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 181 202 Order Canceled - reason: MCD 4-8 22:28:54.441 1185 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 183 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:55.117 1187 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 182 202 Order Canceled - reason: MCD 4-8 22:28:54.777 1186 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 184 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:55.442 1188 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 183 202 Order Canceled - reason: MCD 4-8 22:28:55.117 1187 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 185 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:55.790 1189 SELL IOC LMT 100.0 189.89 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 184 202 Order Canceled - reason: MCD 4-8 22:28:55.442 1188 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 186 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:56.104 1190 SELL IOC LMT 100.0 189.86 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 185 202 Order Canceled - reason: MCD 4-8 22:28:55.790 1189 SELL IOC LMT 100.0 189.89 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 187 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:56.450 1191 SELL IOC LMT 100.0 189.87 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 186 202 Order Canceled - reason: MCD 4-8 22:28:56.104 1190 SELL IOC LMT 100.0 189.86 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 188 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:56.766 1192 SELL IOC LMT 100.0 189.87 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 187 202 Order Canceled - reason: MCD 4-8 22:28:56.450 1191 SELL IOC LMT 100.0 189.87 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 189 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:57.085 1193 SELL IOC LMT 100.0 189.87 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 188 202 Order Canceled - reason: MCD 4-8 22:28:56.766 1192 SELL IOC LMT 100.0 189.87 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 190 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:57.409 1194 SELL IOC LMT 100.0 189.87 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 189 202 Order Canceled - reason: MCD 4-8 22:28:57.085 1193 SELL IOC LMT 100.0 189.87 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 191 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:57.753 1195 SELL IOC LMT 100.0 189.87 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 190 202 Order Canceled - reason: MCD 4-8 22:28:57.409 1194 SELL IOC LMT 100.0 189.87 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 192 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:58.071 1196 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 191 202 Order Canceled - reason: MCD 4-8 22:28:57.753 1195 SELL IOC LMT 100.0 189.87 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 193 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:58.404 1197 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 192 202 Order Canceled - reason: MCD 4-8 22:28:58.071 1196 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 194 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:58.733 1198 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 193 202 Order Canceled - reason: MCD 4-8 22:28:58.404 1197 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 195 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:59.066 1199 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 194 202 Order Canceled - reason: MCD 4-8 22:28:58.733 1198 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 196 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:59.397 1200 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 195 202 Order Canceled - reason: MCD 4-8 22:28:59.066 1199 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 197 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:28:59.735 1201 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 196 202 Order Canceled - reason: MCD 4-8 22:28:59.397 1200 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 198 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:0.071 1202 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 197 202 Order Canceled - reason: MCD 4-8 22:28:59.735 1201 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 199 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:0.399 1203 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 198 202 Order Canceled - reason: MCD 4-8 22:29:0.071 1202 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 200 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:0.733 1204 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 199 202 Order Canceled - reason: MCD 4-8 22:29:0.399 1203 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 201 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:1.086 1205 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 200 202 Order Canceled - reason: MCD 4-8 22:29:0.733 1204 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 202 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:1.396 1206 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 201 202 Order Canceled - reason: MCD 4-8 22:29:1.086 1205 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 203 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:1.729 1207 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 202 202 Order Canceled - reason: MCD 4-8 22:29:1.396 1206 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 204 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:2.064 1208 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 203 202 Order Canceled - reason: MCD 4-8 22:29:1.729 1207 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 205 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:2.400 1209 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 204 202 Order Canceled - reason: MCD 4-8 22:29:2.064 1208 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 206 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:2.725 1210 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 205 202 Order Canceled - reason: MCD 4-8 22:29:2.400 1209 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 207 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:3.043 1211 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 206 202 Order Canceled - reason: MCD 4-8 22:29:2.725 1210 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 208 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:3.389 1212 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 207 202 Order Canceled - reason: MCD 4-8 22:29:3.043 1211 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 209 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:3.700 1213 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 208 202 Order Canceled - reason: MCD 4-8 22:29:3.389 1212 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 210 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:4.035 1214 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 209 202 Order Canceled - reason: MCD 4-8 22:29:3.700 1213 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 211 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:4.344 1215 SELL IOC LMT 100.0 189.85 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 210 202 Order Canceled - reason: MCD 4-8 22:29:4.035 1214 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 212 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:4.677 1216 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 211 202 Order Canceled - reason: MCD 4-8 22:29:4.344 1215 SELL IOC LMT 100.0 189.85 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 213 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:5.010 1217 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 212 202 Order Canceled - reason: MCD 4-8 22:29:4.677 1216 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 214 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:5.323 1218 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 213 202 Order Canceled - reason: MCD 4-8 22:29:5.010 1217 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 215 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:5.654 1219 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 214 202 Order Canceled - reason: MCD 4-8 22:29:5.323 1218 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 216 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:5.984 1220 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 215 202 Order Canceled - reason: MCD 4-8 22:29:5.654 1219 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 217 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:6.317 1221 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 216 202 Order Canceled - reason: MCD 4-8 22:29:5.984 1220 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 218 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:6.627 1222 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 217 202 Order Canceled - reason: MCD 4-8 22:29:6.317 1221 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 219 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:6.948 1223 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 218 202 Order Canceled - reason: MCD 4-8 22:29:6.627 1222 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 220 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:7.269 1224 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 219 202 Order Canceled - reason: MCD 4-8 22:29:6.948 1223 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 221 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:7.581 1225 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 220 202 Order Canceled - reason: MCD 4-8 22:29:7.269 1224 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 222 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:7.910 1226 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 221 202 Order Canceled - reason: MCD 4-8 22:29:7.581 1225 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 223 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:8.245 1227 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 222 202 Order Canceled - reason: MCD 4-8 22:29:7.910 1226 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 224 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:8.577 1228 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 223 202 Order Canceled - reason: MCD 4-8 22:29:8.245 1227 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 225 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:8.888 1229 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 224 202 Order Canceled - reason: MCD 4-8 22:29:8.577 1228 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 226 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:9.221 1230 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 225 202 Order Canceled - reason: MCD 4-8 22:29:8.888 1229 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 227 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:9.555 1231 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 226 202 Order Canceled - reason: MCD 4-8 22:29:9.221 1230 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 228 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:9.867 1232 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 227 202 Order Canceled - reason: MCD 4-8 22:29:9.555 1231 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 229 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:10.191 1233 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 228 202 Order Canceled - reason: MCD 4-8 22:29:9.867 1232 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 230 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:11.197 1234 SELL IOC LMT 100.0 189.84 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 229 202 Order Canceled - reason: MCD 4-8 22:29:10.191 1233 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 231 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:51.212 1235 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 230 202 Order Canceled - reason: MCD 4-8 22:29:11.197 1234 SELL IOC LMT 100.0 189.84 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 232 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:51.621 1236 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 231 202 Order Canceled - reason: MCD 4-8 22:29:51.212 1235 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 233 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:51.926 1237 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 232 202 Order Canceled - reason: MCD 4-8 22:29:51.621 1236 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 234 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:52.261 1238 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 233 202 Order Canceled - reason: MCD 4-8 22:29:51.926 1237 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 235 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:52.575 1239 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 234 202 Order Canceled - reason: MCD 4-8 22:29:52.261 1238 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 236 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:52.906 1240 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 235 202 Order Canceled - reason: MCD 4-8 22:29:52.575 1239 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 237 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:53.236 1241 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 236 202 Order Canceled - reason: MCD 4-8 22:29:52.906 1240 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 238 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:53.562 1242 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 237 202 Order Canceled - reason: MCD 4-8 22:29:53.236 1241 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 239 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:53.887 1243 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 238 202 Order Canceled - reason: MCD 4-8 22:29:53.562 1242 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 240 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:54.213 1244 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 239 202 Order Canceled - reason: MCD 4-8 22:29:53.887 1243 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 241 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:54.556 1245 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 240 202 Order Canceled - reason: MCD 4-8 22:29:54.213 1244 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 242 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:54.884 1246 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 241 202 Order Canceled - reason: MCD 4-8 22:29:54.556 1245 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 243 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:55.202 1247 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 242 202 Order Canceled - reason: MCD 4-8 22:29:54.884 1246 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 244 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:55.531 1248 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 243 202 Order Canceled - reason: MCD 4-8 22:29:55.202 1247 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 245 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:55.860 1249 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 244 202 Order Canceled - reason: MCD 4-8 22:29:55.531 1248 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 246 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:56.195 1250 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 245 202 Order Canceled - reason: MCD 4-8 22:29:55.860 1249 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 247 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:56.511 1251 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 246 202 Order Canceled - reason: MCD 4-8 22:29:56.195 1250 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 248 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:56.844 1252 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 247 202 Order Canceled - reason: MCD 4-8 22:29:56.511 1251 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 249 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:57.180 1253 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 248 202 Order Canceled - reason: MCD 4-8 22:29:56.844 1252 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 250 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:57.488 1254 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 249 202 Order Canceled - reason: MCD 4-8 22:29:57.180 1253 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 251 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:57.822 1255 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 250 202 Order Canceled - reason: MCD 4-8 22:29:57.488 1254 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 252 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:58.135 1256 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 251 202 Order Canceled - reason: MCD 4-8 22:29:57.822 1255 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 253 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:58.464 1257 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 252 202 Order Canceled - reason: MCD 4-8 22:29:58.135 1256 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 254 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:58.804 1258 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 253 202 Order Canceled - reason: MCD 4-8 22:29:58.464 1257 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 255 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:59.136 1259 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 254 202 Order Canceled - reason: MCD 4-8 22:29:58.804 1258 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 256 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:59.479 1260 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 255 202 Order Canceled - reason: MCD 4-8 22:29:59.136 1259 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 257 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:29:59.810 1261 SELL IOC LMT 100.0 189.83 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 256 202 Order Canceled - reason: MCD 4-8 22:29:59.479 1260 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 258 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:0.126 1262 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 257 202 Order Canceled - reason: MCD 4-8 22:29:59.810 1261 SELL IOC LMT 100.0 189.83 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 259 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:0.459 1263 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 258 202 Order Canceled - reason: MCD 4-8 22:30:0.126 1262 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 260 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:0.792 1264 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 259 202 Order Canceled - reason: MCD 4-8 22:30:0.459 1263 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 261 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:1.126 1265 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 260 202 Order Canceled - reason: MCD 4-8 22:30:0.792 1264 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 262 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:1.438 1266 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 261 202 Order Canceled - reason: MCD 4-8 22:30:1.126 1265 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 263 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:1.768 1267 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 262 202 Order Canceled - reason: MCD 4-8 22:30:1.438 1266 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 264 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:2.100 1268 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 263 202 Order Canceled - reason: MCD 4-8 22:30:1.768 1267 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 265 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:2.434 1269 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 264 202 Order Canceled - reason: MCD 4-8 22:30:2.100 1268 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 266 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:2.768 1270 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 265 202 Order Canceled - reason: MCD 4-8 22:30:2.434 1269 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 267 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:3.081 1271 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 266 202 Order Canceled - reason: MCD 4-8 22:30:2.768 1270 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 268 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:3.412 1272 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 267 202 Order Canceled - reason: MCD 4-8 22:30:3.081 1271 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 269 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:3.752 1273 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 268 202 Order Canceled - reason: MCD 4-8 22:30:3.412 1272 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 270 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:4.077 1274 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 269 202 Order Canceled - reason: MCD 4-8 22:30:3.752 1273 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 271 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:4.416 1275 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
+ERROR Guarantee Dev Handler: 270 202 Order Canceled - reason: MCD 4-8 22:30:4.077 1274 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR Guarantee Dev Handler: 271 202 Order Canceled - reason: MCD 4-8 22:30:4.416 1275 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel

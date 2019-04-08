@@ -98,3 +98,10 @@
 2019-04-05T22:15:21.637 IQ 286 IQ 2019-04-05T22:15:21.106 1325 SELL IOC LMT 400.0 23.79 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
 2019-04-05T22:15:21.639 IQ 286 IQ 2019-04-05T22:15:21.106 1325 SELL IOC LMT 400.0 23.79 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
 2019-04-05T22:15:21.640 IQ 286 IQ 2019-04-05T22:15:21.106 1325 SELL IOC LMT 400.0 23.79 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-04-08T21:29:03.497 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 1000.0 900.0
+2019-04-08T21:29:03.500 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 1000.0 800.0
+2019-04-08T21:29:03.502 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 1000.0 800.0
+2019-04-08T21:29:03.504 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 1000.0 800.0
+2019-04-08T21:29:03.548 GE 107 GE 4-8 21:29:3.117 1111 SELL IOC LMT 1000.0 9.53 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 1000.0 800.0
+2019-04-08T21:30:03.310 GE 168 GE 4-8 21:30:2.929 1172 SELL IOC LMT 800.0 9.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 800.0 0.0
+2019-04-08T21:30:03.312 GE 168 GE 4-8 21:30:2.929 1172 SELL IOC LMT 800.0 9.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 800.0 0.0
