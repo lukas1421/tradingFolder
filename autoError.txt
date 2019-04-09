@@ -10364,3 +10364,80 @@ ERROR Guarantee Dev Handler: 269 202 Order Canceled - reason: MCD 4-8 22:30:3.75
 ERROR Guarantee Dev Handler: 271 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. MCD 4-8 22:30:4.416 1275 SELL IOC LMT 100.0 189.82 BREACH_CUTTER Created
 ERROR Guarantee Dev Handler: 270 202 Order Canceled - reason: MCD 4-8 22:30:4.077 1274 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
 ERROR Guarantee Dev Handler: 271 202 Order Canceled - reason: MCD 4-8 22:30:4.416 1275 SELL IOC LMT 100.0 189.82 BREACH_CUTTER PendingCancel
+ERROR LIVE ORDER HANDLER ID: 08:50:13.116 -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ORDER HANDLER ID: 08:50:30.695 -1 code 2106 MSG HMDS data farm connection is OK:ushmds
+ERROR LIVE ORDER HANDLER ID: 08:56:44.176 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:56:47.444 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:56:50.738 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:56:54.038 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:56:57.329 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:00.623 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:03.882 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:07.165 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:10.442 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:13.717 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:16.993 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:20.270 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:23.548 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:26.825 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:30.104 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:33.401 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:36.701 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:39.977 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:43.257 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:46.534 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:49.809 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:53.112 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:56.401 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:57:59.689 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:02.970 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:06.250 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:09.562 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:12.836 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:16.113 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:19.389 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:22.667 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:25.941 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:29.218 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:32.504 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:35.782 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:39.069 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:42.345 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:45.632 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:48.909 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:52.192 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:55.470 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:58:58.810 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:02.105 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:05.385 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:08.673 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:11.953 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:15.232 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:18.504 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:21.781 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:25.060 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:28.340 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:31.623 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:34.895 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:38.233 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:41.516 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:44.791 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:48.076 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:51.354 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:54.626 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 08:59:57.903 10001244 code 317 MSG Market depth data has been RESET. Please empty deep book contents before applying any new entries.
+ERROR LIVE ORDER HANDLER ID: 09:36:29.460 -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ORDER HANDLER ID: 09:36:29.521 -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ORDER HANDLER ID: 09:42:58.152 -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ORDER HANDLER ID: 09:51:06.742 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.cashhmds
+ERROR LIVE ORDER HANDLER ID: 10:04:52.271 -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ORDER HANDLER ID: 10:04:52.684 -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
+ERROR LIVE ORDER HANDLER ID: 10:06:16.971 -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ORDER HANDLER ID: 10:10:42.271 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.cashhmds
+ERROR LIVE ORDER HANDLER ID: 10:12:52.688 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.hkhmds
+ERROR LIVE ORDER HANDLER ID: 10:13:07.112 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.ushmds
+ERROR LIVE ORDER HANDLER ID: 10:24:42.213 -1 code 2106 MSG HMDS data farm connection is OK:ushmds
+ERROR LIVE ORDER HANDLER ID: 10:36:42.219 -1 code 2107 MSG HMDS data farm connection is inactive but should be available upon demand.ushmds
+ERROR LIVE ORDER HANDLER ID: 10:49:27.225 -1 code 2106 MSG HMDS data farm connection is OK:ushmds
+ERROR LIVE ORDER HANDLER ID: 10:52:12.137 -1 code 2104 MSG Market data farm connection is OK:usfarm
+ERROR LIVE ORDER HANDLER ID: 10:52:12.740 -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
