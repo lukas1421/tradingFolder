@@ -1,0 +1,4 @@
+delta impact check PASSED  81696
+******** 4-12 21:29
+2004 103 ADDER BUY: LFC 4-12 21:29:55.286 2004 BUY DAY LMT 900.0 13.49 BREACH_ADDER Created yOpen 10.49 mOpen 13.42 prevClose 13.37 price 13.49 devFromMaxOpen 0.0052
+Shutdown status 4-13 4:26 Submitted LFC 4-12 21:29:55.286 2004 BUY DAY LMT 900.0 13.49 BREACH_ADDER Submitted
