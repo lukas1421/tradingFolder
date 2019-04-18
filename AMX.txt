@@ -1,0 +1,4 @@
+delta impact check PASSED  81285
+******** 4-15 21:29
+2022 109 ADDER BUY: AMX 4-15 21:29:55.256 2022 BUY DAY LMT 800.0 15.1 BREACH_ADDER Created yOpen 14.25 mOpen 14.28 prevClose 15.44 price 15.43 devFromMaxOpen 0.0805
+Shutdown status 4-16 7:08 Submitted AMX 4-15 21:29:55.256 2022 BUY DAY LMT 800.0 15.1 BREACH_ADDER Submitted
