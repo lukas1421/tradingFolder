@@ -437,3 +437,138 @@ delta impact check PASSED  60378
 2019-04-17T21:31:11.970 146 EDU 4-17 21:30:22.633 2056 SELL IOC LMT 100.0 89.69 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 100.0 0.0
 2018 2056 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-17T21:31:11.970 ID: 146 EDU 4-17 21:30:22.633 2056 SELL IOC LMT 100.0 89.69 BREACH_CUTTER Filled TIF: IOC attempts: 38
 2019-04-17T21:31:12.023 146 EDU 4-17 21:30:22.633 2056 SELL IOC LMT 100.0 89.69 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 100.0 0.0
+delta impact check PASSED  59702
+******** 4-22 21:30
+2042 103 ADDER BUY: EDU 4-22 21:30:0.444 2042 BUY DAY LMT 100.0 89.0 BREACH_ADDER Created yOpen 54.81 mOpen 90.09 prevClose 89.99 price 90.13 devFromMaxOpen 4.0E-4
+Shutdown status 4-22 22:45 Submitted EDU 4-22 21:30:0.444 2042 BUY DAY LMT 100.0 89.0 BREACH_ADDER Submitted
+delta impact check PASSED  60729
+******** 4-22 22:45
+2329 101 ADDER BUY: EDU 4-22 22:45:22.323 2329 BUY DAY LMT 100.0 90.53 BREACH_ADDER Created yOpen 54.81 mOpen 90.09 prevClose 90.56 price 90.53 devFromMaxOpen 0.0049
+2329 101 *PATIENT DEV FILL* Submitted->Filled 4-22 22:45:41.554 EDU 4-22 22:45:22.323 2329 BUY DAY LMT 100.0 90.53 BREACH_ADDER Filled
+******** 2019-04-23T21:29:00.117
+2044 102 Cutter SELL: added?false EDU 4-23 21:29:0.117 2044 SELL IOC LMT 100.0 87.4 BREACH_CUTTER Created pos 100.0 yOpen 54.81 mOpen 90.09 price 87.01
+2044 2044 -> 2046 ID 102 -> 104 RESUBMIT: EDU 4-23 21:29:1.163 2046 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  1 pos: 100.0
+2044 2046 -> 2048 ID 104 -> 106 RESUBMIT: EDU 4-23 21:29:1.691 2048 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  2 pos: 100.0
+2044 2048 -> 2050 ID 106 -> 108 RESUBMIT: EDU 4-23 21:29:7.179 2050 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  3 pos: 100.0
+2044 2050 -> 2052 ID 108 -> 110 RESUBMIT: EDU 4-23 21:29:7.693 2052 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  4 pos: 100.0
+2044 2052 -> 2054 ID 110 -> 112 RESUBMIT: EDU 4-23 21:29:8.416 2054 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  5 pos: 100.0
+2044 2054 -> 2056 ID 112 -> 114 RESUBMIT: EDU 4-23 21:29:9.136 2056 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  6 pos: 100.0
+2044 2056 -> 2058 ID 114 -> 116 RESUBMIT: EDU 4-23 21:29:10.609 2058 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  7 pos: 100.0
+2044 2058 -> 2060 ID 116 -> 118 RESUBMIT: EDU 4-23 21:29:11.523 2060 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  8 pos: 100.0
+2044 2060 -> 2062 ID 118 -> 120 RESUBMIT: EDU 4-23 21:29:12.237 2062 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  9 pos: 100.0
+2044 2062 -> 2064 ID 120 -> 122 RESUBMIT: EDU 4-23 21:29:13.562 2064 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  10 pos: 100.0
+2044 2064 -> 2066 ID 122 -> 124 RESUBMIT: EDU 4-23 21:29:14.452 2066 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  11 pos: 100.0
+2044 2066 -> 2068 ID 124 -> 126 RESUBMIT: EDU 4-23 21:29:15.324 2068 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  12 pos: 100.0
+2044 2068 -> 2070 ID 126 -> 128 RESUBMIT: EDU 4-23 21:29:15.979 2070 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  13 pos: 100.0
+2044 2070 -> 2072 ID 128 -> 130 RESUBMIT: EDU 4-23 21:29:16.787 2072 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  14 pos: 100.0
+2044 2072 -> 2074 ID 130 -> 132 RESUBMIT: EDU 4-23 21:29:17.384 2074 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  15 pos: 100.0
+2044 2074 -> 2076 ID 132 -> 134 RESUBMIT: EDU 4-23 21:29:18.014 2076 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  16 pos: 100.0
+2044 2076 -> 2078 ID 134 -> 136 RESUBMIT: EDU 4-23 21:29:18.901 2078 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  17 pos: 100.0
+2044 2078 -> 2080 ID 136 -> 138 RESUBMIT: EDU 4-23 21:29:19.872 2080 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  18 pos: 100.0
+2044 2080 -> 2082 ID 138 -> 140 RESUBMIT: EDU 4-23 21:29:22.480 2082 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  19 pos: 100.0
+2044 2082 -> 2084 ID 140 -> 142 RESUBMIT: EDU 4-23 21:29:25.603 2084 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.76 87.0 28bp 87.01 attempts  20 pos: 100.0
+2044 2084 -> 2122 ID 142 -> 180 RESUBMIT: EDU 4-23 21:30:2.392 2122 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.75 87.0 29bp 86.75 attempts  21 pos: 100.0
+2044 2122 -> 2128 ID 180 -> 186 RESUBMIT: EDU 4-23 21:30:4.375 2128 SELL IOC LMT 100.0 87.0 BREACH_CUTTER Created b/a sprd last 86.75 87.0 29bp 86.75 attempts  22 pos: 100.0
+2044 2128 -> 2135 ID 186 -> 193 RESUBMIT: EDU 4-23 21:32:39.547 2135 SELL IOC LMT 100.0 87.98 BREACH_CUTTER Created b/a sprd last 87.52 87.98 53bp 87.87 attempts  23 pos: 100.0
+2019-04-23T21:40:41.346 193 EDU 4-23 21:32:39.547 2135 SELL IOC LMT 100.0 87.98 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 100.0 0.0
+2044 2135 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-23T21:40:41.345 ID: 193 EDU 4-23 21:32:39.547 2135 SELL IOC LMT 100.0 87.98 BREACH_CUTTER Filled TIF: IOC attempts: 23
+2019-04-23T21:40:41.353 193 EDU 4-23 21:32:39.547 2135 SELL IOC LMT 100.0 87.98 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 100.0 0.0
+delta impact check PASSED  62181
+******** 4-24 21:30
+2444 102 ADDER BUY: EDU 4-24 21:30:0.469 2444 BUY DAY LMT 100.0 92.47 BREACH_ADDER Created yOpen 54.81 mOpen 90.09 prevClose 92.97 price 93.88 devFromMaxOpen 0.0421
+2444 102 *PATIENT DEV FILL* Submitted->Filled 4-24 21:54:29.809 EDU 4-24 21:30:0.469 2444 BUY DAY LMT 100.0 92.47 BREACH_ADDER Filled
+******** 2019-04-24T23:51:04.421
+2729 387 Cutter SELL: added?true EDU 4-24 23:51:4.421 2729 SELL IOC LMT 100.0 90.09 BREACH_CUTTER Created pos 100.0 yOpen 54.81 mOpen 90.09 price 90.06
+2729 2729 -> 2730 ID 387 -> 388 RESUBMIT: EDU 4-24 23:51:4.838 2730 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  1 pos: 100.0
+2729 2730 -> 2731 ID 388 -> 389 RESUBMIT: EDU 4-24 23:51:5.778 2731 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  2 pos: 100.0
+2729 2731 -> 2732 ID 389 -> 390 RESUBMIT: EDU 4-24 23:51:6.197 2732 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  3 pos: 100.0
+2729 2732 -> 2733 ID 390 -> 391 RESUBMIT: EDU 4-24 23:51:6.870 2733 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  4 pos: 100.0
+2729 2733 -> 2734 ID 391 -> 392 RESUBMIT: EDU 4-24 23:51:7.262 2734 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  5 pos: 100.0
+2729 2734 -> 2735 ID 392 -> 393 RESUBMIT: EDU 4-24 23:51:7.681 2735 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  6 pos: 100.0
+2729 2735 -> 2736 ID 393 -> 394 RESUBMIT: EDU 4-24 23:51:8.072 2736 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  7 pos: 100.0
+2729 2736 -> 2737 ID 394 -> 395 RESUBMIT: EDU 4-24 23:51:8.798 2737 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  8 pos: 100.0
+2729 2737 -> 2738 ID 395 -> 396 RESUBMIT: EDU 4-24 23:51:9.679 2738 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  9 pos: 100.0
+2729 2738 -> 2739 ID 396 -> 397 RESUBMIT: EDU 4-24 23:51:10.200 2739 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  10 pos: 100.0
+2729 2739 -> 2740 ID 397 -> 398 RESUBMIT: EDU 4-24 23:51:10.624 2740 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  11 pos: 100.0
+2729 2740 -> 2741 ID 398 -> 399 RESUBMIT: EDU 4-24 23:51:11.338 2741 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  12 pos: 100.0
+2729 2741 -> 2742 ID 399 -> 400 RESUBMIT: EDU 4-24 23:51:11.752 2742 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  13 pos: 100.0
+2729 2742 -> 2743 ID 400 -> 401 RESUBMIT: EDU 4-24 23:51:12.172 2743 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  14 pos: 100.0
+2729 2743 -> 2744 ID 401 -> 402 RESUBMIT: EDU 4-24 23:51:12.645 2744 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  15 pos: 100.0
+2729 2744 -> 2745 ID 402 -> 403 RESUBMIT: EDU 4-24 23:51:13.047 2745 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  16 pos: 100.0
+2729 2745 -> 2746 ID 403 -> 404 RESUBMIT: EDU 4-24 23:51:14.485 2746 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  17 pos: 100.0
+2729 2746 -> 2747 ID 404 -> 405 RESUBMIT: EDU 4-24 23:51:14.894 2747 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.06 attempts  18 pos: 100.0
+2729 2747 -> 2748 ID 405 -> 406 RESUBMIT: EDU 4-24 23:51:15.325 2748 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.08 attempts  19 pos: 100.0
+2729 2748 -> 2749 ID 406 -> 407 RESUBMIT: EDU 4-24 23:51:15.725 2749 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.08 attempts  20 pos: 100.0
+2729 2749 -> 2750 ID 407 -> 408 RESUBMIT: EDU 4-24 23:51:16.147 2750 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.08 attempts  21 pos: 100.0
+2729 2750 -> 2751 ID 408 -> 409 RESUBMIT: EDU 4-24 23:51:17.499 2751 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.01 90.08 8bp 90.08 attempts  22 pos: 100.0
+2729 2751 -> 2752 ID 409 -> 410 RESUBMIT: EDU 4-24 23:51:18.021 2752 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.08 attempts  23 pos: 100.0
+2729 2752 -> 2753 ID 410 -> 411 RESUBMIT: EDU 4-24 23:51:18.560 2753 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.06 attempts  24 pos: 100.0
+2729 2753 -> 2754 ID 411 -> 412 RESUBMIT: EDU 4-24 23:51:19.090 2754 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.06 attempts  25 pos: 100.0
+2729 2754 -> 2755 ID 412 -> 413 RESUBMIT: EDU 4-24 23:51:19.490 2755 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.06 attempts  26 pos: 100.0
+2729 2755 -> 2756 ID 413 -> 414 RESUBMIT: EDU 4-24 23:51:19.870 2756 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.08 attempts  27 pos: 100.0
+2729 2756 -> 2757 ID 414 -> 415 RESUBMIT: EDU 4-24 23:51:20.295 2757 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.08 attempts  28 pos: 100.0
+2729 2757 -> 2758 ID 415 -> 416 RESUBMIT: EDU 4-24 23:51:20.695 2758 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.08 attempts  29 pos: 100.0
+2729 2758 -> 2759 ID 416 -> 417 RESUBMIT: EDU 4-24 23:51:21.123 2759 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.08 attempts  30 pos: 100.0
+2729 2759 -> 2760 ID 417 -> 418 RESUBMIT: EDU 4-24 23:51:21.524 2760 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.08 attempts  31 pos: 100.0
+2729 2760 -> 2761 ID 418 -> 419 RESUBMIT: EDU 4-24 23:51:21.947 2761 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.08 attempts  32 pos: 100.0
+2729 2761 -> 2762 ID 419 -> 420 RESUBMIT: EDU 4-24 23:51:22.347 2762 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.08 attempts  33 pos: 100.0
+2729 2762 -> 2763 ID 420 -> 421 RESUBMIT: EDU 4-24 23:51:23.082 2763 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Created b/a sprd last 90.04 90.08 4bp 90.08 attempts  34 pos: 100.0
+2019-04-24T23:51:24.650 421 EDU 4-24 23:51:23.082 2763 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 100.0 0.0
+2729 2763 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-24T23:51:24.650 ID: 421 EDU 4-24 23:51:23.082 2763 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Filled TIF: IOC attempts: 34
+2019-04-24T23:51:24.651 421 EDU 4-24 23:51:23.082 2763 SELL IOC LMT 100.0 90.08 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 100.0 0.0
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:30
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:31
+EDU 11 exceeding numCrosses no trade  4-25 21:32
+EDU 11 exceeding numCrosses no trade  4-25 21:32
+EDU 11 exceeding numCrosses no trade  4-25 21:32
+EDU 11 exceeding numCrosses no trade  4-25 21:32
+EDU 11 exceeding numCrosses no trade  4-25 21:32
+EDU 11 exceeding numCrosses no trade  4-25 21:33
+EDU 11 exceeding numCrosses no trade  4-25 21:33
+EDU 11 exceeding numCrosses no trade  4-25 21:33
+EDU 11 exceeding numCrosses no trade  4-25 21:34
+EDU 11 exceeding numCrosses no trade  4-25 21:34
+EDU 11 exceeding numCrosses no trade  4-25 21:34
+EDU 11 exceeding numCrosses no trade  4-25 21:35
+EDU 11 exceeding numCrosses no trade  4-25 21:35
+EDU 11 exceeding numCrosses no trade  4-25 21:35
+EDU 11 exceeding numCrosses no trade  4-25 21:35
+EDU 11 exceeding numCrosses no trade  4-25 21:35
+EDU 11 exceeding numCrosses no trade  4-25 21:35
+EDU 11 exceeding numCrosses no trade  4-25 21:35
+EDU 11 exceeding numCrosses no trade  4-25 21:35
+EDU 11 exceeding numCrosses no trade  4-25 21:36
+EDU 11 exceeding numCrosses no trade  4-25 21:36
+EDU 11 exceeding numCrosses no trade  4-25 21:36
+EDU 11 exceeding numCrosses no trade  4-25 21:36
+EDU 11 exceeding numCrosses no trade  4-25 21:36
+EDU 11 exceeding numCrosses no trade  4-25 21:37
+EDU 11 exceeding numCrosses no trade  4-25 21:37
+EDU 11 exceeding numCrosses no trade  4-25 21:37
+EDU 11 exceeding numCrosses no trade  4-25 21:37
+EDU 11 exceeding numCrosses no trade  4-25 21:37
+EDU 11 exceeding numCrosses no trade  4-25 21:37
+EDU 11 exceeding numCrosses no trade  4-25 21:37

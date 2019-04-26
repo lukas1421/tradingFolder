@@ -348,3 +348,266 @@ delta impact check PASSED  80310
 2170 2234 *GUARANTEE DEV FILL* Submitted -> Filled 2019-04-12T22:22:00.205 ID: 333 IQ 4-12 22:21:59.524 2234 SELL IOC LMT 500.0 23.77 BREACH_CUTTER Filled TIF: IOC attempts: 64
 2019-04-12T22:22:01.198 333 IQ 4-12 22:21:59.524 2234 SELL IOC LMT 500.0 23.77 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 500.0 0.0
 2019-04-12T22:22:01.276 333 IQ 4-12 22:21:59.524 2234 SELL IOC LMT 500.0 23.77 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 500.0 0.0
+delta impact check PASSED  79995
+******** 4-22 22:35
+2326 387 ADDER BUY: IQ 4-22 22:35:13.830 2326 BUY DAY LMT 500.0 23.85 BREACH_ADDER Created yOpen 14.94 mOpen 23.85 prevClose 23.21 price 23.86 devFromMaxOpen 4.0E-4
+Shutdown status 4-22 22:45 Submitted IQ 4-22 22:35:13.830 2326 BUY DAY LMT 500.0 23.85 BREACH_ADDER Submitted
+delta impact check PASSED  80565
+******** 4-22 22:45
+2342 114 ADDER BUY: IQ 4-22 22:45:26.341 2342 BUY DAY LMT 500.0 24.02 BREACH_ADDER Created yOpen 14.94 mOpen 23.85 prevClose 23.99 price 24.03 devFromMaxOpen 0.0075
+2342 114 *PATIENT DEV FILL* Submitted->Filled 4-22 22:46:10.854 IQ 4-22 22:45:26.341 2342 BUY DAY LMT 500.0 24.02 BREACH_ADDER Filled
+******** 2019-04-23T01:56:22.933
+2777 435 Cutter SELL: added?false IQ 4-23 1:56:22.933 2777 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created pos 500.0 yOpen 14.94 mOpen 23.85 price 23.84
+2777 2777 -> 2778 ID 435 -> 436 RESUBMIT: IQ 4-23 1:56:23.238 2778 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  1 pos: 500.0
+2777 2778 -> 2779 ID 436 -> 437 RESUBMIT: IQ 4-23 1:56:23.566 2779 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  2 pos: 500.0
+2777 2779 -> 2780 ID 437 -> 438 RESUBMIT: IQ 4-23 1:56:23.873 2780 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  3 pos: 500.0
+2777 2780 -> 2781 ID 438 -> 439 RESUBMIT: IQ 4-23 1:56:24.189 2781 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  4 pos: 500.0
+2777 2781 -> 2782 ID 439 -> 440 RESUBMIT: IQ 4-23 1:56:24.496 2782 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  5 pos: 500.0
+2777 2782 -> 2783 ID 440 -> 441 RESUBMIT: IQ 4-23 1:56:24.809 2783 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  6 pos: 500.0
+2777 2783 -> 2784 ID 441 -> 442 RESUBMIT: IQ 4-23 1:56:25.137 2784 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  7 pos: 500.0
+2777 2784 -> 2785 ID 442 -> 443 RESUBMIT: IQ 4-23 1:56:25.454 2785 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  8 pos: 500.0
+2777 2785 -> 2786 ID 443 -> 444 RESUBMIT: IQ 4-23 1:56:25.778 2786 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  9 pos: 500.0
+2777 2786 -> 2787 ID 444 -> 445 RESUBMIT: IQ 4-23 1:56:26.089 2787 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  10 pos: 500.0
+2777 2787 -> 2788 ID 445 -> 446 RESUBMIT: IQ 4-23 1:56:26.415 2788 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  11 pos: 500.0
+2777 2788 -> 2789 ID 446 -> 447 RESUBMIT: IQ 4-23 1:56:26.708 2789 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  12 pos: 500.0
+2777 2789 -> 2790 ID 447 -> 448 RESUBMIT: IQ 4-23 1:56:27.013 2790 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  13 pos: 500.0
+2777 2790 -> 2791 ID 448 -> 449 RESUBMIT: IQ 4-23 1:56:27.323 2791 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  14 pos: 500.0
+2777 2791 -> 2792 ID 449 -> 450 RESUBMIT: IQ 4-23 1:56:27.631 2792 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  15 pos: 500.0
+2777 2792 -> 2793 ID 450 -> 451 RESUBMIT: IQ 4-23 1:56:27.937 2793 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  16 pos: 500.0
+2777 2793 -> 2794 ID 451 -> 452 RESUBMIT: IQ 4-23 1:56:28.275 2794 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  17 pos: 500.0
+2777 2794 -> 2795 ID 452 -> 453 RESUBMIT: IQ 4-23 1:56:28.575 2795 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  18 pos: 500.0
+2777 2795 -> 2796 ID 453 -> 454 RESUBMIT: IQ 4-23 1:56:28.873 2796 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  19 pos: 500.0
+2777 2796 -> 2797 ID 454 -> 455 RESUBMIT: IQ 4-23 1:56:29.192 2797 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  20 pos: 500.0
+2777 2797 -> 2798 ID 455 -> 456 RESUBMIT: IQ 4-23 1:56:29.519 2798 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  21 pos: 500.0
+2777 2798 -> 2799 ID 456 -> 457 RESUBMIT: IQ 4-23 1:56:29.838 2799 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  22 pos: 500.0
+2777 2799 -> 2800 ID 457 -> 458 RESUBMIT: IQ 4-23 1:56:30.163 2800 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  23 pos: 500.0
+2777 2800 -> 2801 ID 458 -> 459 RESUBMIT: IQ 4-23 1:56:30.457 2801 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  24 pos: 500.0
+2777 2801 -> 2802 ID 459 -> 460 RESUBMIT: IQ 4-23 1:56:30.782 2802 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  25 pos: 500.0
+2777 2802 -> 2803 ID 460 -> 461 RESUBMIT: IQ 4-23 1:56:31.088 2803 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  26 pos: 500.0
+2777 2803 -> 2804 ID 461 -> 462 RESUBMIT: IQ 4-23 1:56:31.413 2804 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.84 attempts  27 pos: 500.0
+2777 2804 -> 2805 ID 462 -> 463 RESUBMIT: IQ 4-23 1:56:31.729 2805 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  28 pos: 500.0
+2777 2805 -> 2806 ID 463 -> 464 RESUBMIT: IQ 4-23 1:56:32.051 2806 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  29 pos: 500.0
+2777 2806 -> 2807 ID 464 -> 465 RESUBMIT: IQ 4-23 1:56:32.375 2807 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  30 pos: 500.0
+2777 2807 -> 2808 ID 465 -> 466 RESUBMIT: IQ 4-23 1:56:32.681 2808 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  31 pos: 500.0
+2777 2808 -> 2809 ID 466 -> 467 RESUBMIT: IQ 4-23 1:56:32.991 2809 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  32 pos: 500.0
+2777 2809 -> 2810 ID 467 -> 468 RESUBMIT: IQ 4-23 1:56:33.303 2810 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  33 pos: 500.0
+2777 2810 -> 2811 ID 468 -> 469 RESUBMIT: IQ 4-23 1:56:33.612 2811 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  34 pos: 500.0
+2777 2811 -> 2812 ID 469 -> 470 RESUBMIT: IQ 4-23 1:56:33.921 2812 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  35 pos: 500.0
+2777 2812 -> 2813 ID 470 -> 471 RESUBMIT: IQ 4-23 1:56:34.249 2813 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  36 pos: 500.0
+2777 2813 -> 2814 ID 471 -> 472 RESUBMIT: IQ 4-23 1:56:34.561 2814 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  37 pos: 500.0
+2777 2814 -> 2815 ID 472 -> 473 RESUBMIT: IQ 4-23 1:56:34.869 2815 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  38 pos: 500.0
+2777 2815 -> 2816 ID 473 -> 474 RESUBMIT: IQ 4-23 1:56:35.194 2816 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  39 pos: 500.0
+2777 2816 -> 2817 ID 474 -> 475 RESUBMIT: IQ 4-23 1:56:35.504 2817 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  40 pos: 500.0
+2777 2817 -> 2818 ID 475 -> 476 RESUBMIT: IQ 4-23 1:56:35.807 2818 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  41 pos: 500.0
+2777 2818 -> 2819 ID 476 -> 477 RESUBMIT: IQ 4-23 1:56:36.121 2819 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  42 pos: 500.0
+2777 2819 -> 2820 ID 477 -> 478 RESUBMIT: IQ 4-23 1:56:36.430 2820 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  43 pos: 500.0
+2777 2820 -> 2821 ID 478 -> 479 RESUBMIT: IQ 4-23 1:56:36.768 2821 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Created b/a sprd last 23.84 23.85 4bp 23.85 attempts  44 pos: 500.0
+2019-04-23T01:56:37.109 479 IQ 4-23 1:56:36.768 2821 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 500.0 0.0
+2777 2821 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-04-23T01:56:37.108 ID: 479 IQ 4-23 1:56:36.768 2821 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Filled TIF: IOC attempts: 44
+2019-04-23T01:56:37.110 479 IQ 4-23 1:56:36.768 2821 SELL IOC LMT 500.0 23.85 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 500.0 0.0
+delta impact check PASSED  80167
+******** 4-23 21:29
+2089 147 ADDER BUY: IQ 4-23 21:29:39.417 2089 BUY DAY LMT 500.0 23.88 BREACH_ADDER Created yOpen 14.94 mOpen 23.85 prevClose 23.98 price 23.93 devFromMaxOpen 0.0034
+2089 147 *PATIENT DEV FILL* Submitted->Filled 4-23 21:40:40.612 IQ 4-23 21:29:39.417 2089 BUY DAY LMT 500.0 23.88 BREACH_ADDER Filled
+******** 2019-04-23T21:41:35.375
+2224 282 Cutter SELL: added?true IQ 4-23 21:41:35.375 2224 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Created pos 500.0 yOpen 14.94 mOpen 23.85 price 23.81
+2224 2224 -> 2225 ID 282 -> 283 RESUBMIT: IQ 4-23 21:41:35.779 2225 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Created b/a sprd last 23.8 23.82 8bp 23.81 attempts  1 pos: 500.0
+2224 2225 -> 2226 ID 283 -> 284 RESUBMIT: IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Created b/a sprd last 23.8 23.82 8bp 23.81 attempts  2 pos: 500.0
+2019-04-23T21:41:36.647 284 IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Submitted breach cutting, pos changed, lastQ, livePos 500.0 300.0
+2019-04-23T21:41:36.651 284 IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Submitted breach cutting, pos changed, lastQ, livePos 500.0 200.0
+2019-04-23T21:41:36.652 284 IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Submitted breach cutting, pos changed, lastQ, livePos 500.0 200.0
+2019-04-23T21:41:36.654 284 IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Submitted breach cutting, pos changed, lastQ, livePos 500.0 200.0
+2019-04-23T21:41:36.723 284 IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Submitted breach cutting, pos changed, lastQ, livePos 500.0 100.0
+2019-04-23T21:41:36.725 284 IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 500.0 0.0
+2224 2226 *GUARANTEE DEV FILL* Submitted -> Filled 2019-04-23T21:41:36.724 ID: 284 IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Filled TIF: IOC attempts: 2
+2019-04-23T21:41:36.725 284 IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 500.0 0.0
+2019-04-23T21:41:36.765 284 IQ 4-23 21:41:36.214 2226 SELL IOC LMT 500.0 23.82 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 500.0 0.0
+IQ 10 exceeding numCrosses no trade  4-25 21:29
+IQ 10 exceeding numCrosses no trade  4-25 21:29
+IQ 10 exceeding numCrosses no trade  4-25 21:29
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:30
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:31
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:32
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:33
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:34
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:35
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:36
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
+IQ 10 exceeding numCrosses no trade  4-25 21:37
