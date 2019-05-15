@@ -1011,3 +1011,1061 @@
 2019-05-04T03:30:16.348 LOW 976 LOW 5-4 3:30:16.084 3547 SELL IOC LMT 100.0 112.37 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
 2019-05-04T03:30:16.356 LOW 976 LOW 5-4 3:30:16.084 3547 SELL IOC LMT 100.0 112.37 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
  globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-06T21:29:05.107 BABA 109 BABA 5-6 21:29:4.545 2048 SELL IOC LMT 100.0 185.3 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T21:29:05.108 BABA 109 BABA 5-6 21:29:4.545 2048 SELL IOC LMT 100.0 185.3 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T21:30:00.619 FB 209 FB 5-6 21:29:58.324 2148 SELL IOC LMT 100.0 191.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T21:30:03.226 FB 209 FB 5-6 21:29:58.324 2148 SELL IOC LMT 100.0 191.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T21:30:17.549 TSM 268 TSM 5-6 21:30:16.787 2207 SELL IOC LMT 300.0 43.28 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-06T21:30:17.550 TSM 268 TSM 5-6 21:30:16.787 2207 SELL IOC LMT 300.0 43.28 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-06T21:30:17.551 TSM 268 TSM 5-6 21:30:16.787 2207 SELL IOC LMT 300.0 43.28 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-06T21:30:17.580 TSM 268 TSM 5-6 21:30:16.787 2207 SELL IOC LMT 300.0 43.28 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-06T21:30:20.233 BIDU 292 BIDU 5-6 21:30:19.805 2231 SELL IOC LMT 100.0 160.34 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T21:30:20.234 BIDU 292 BIDU 5-6 21:30:19.805 2231 SELL IOC LMT 100.0 160.34 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T21:30:51.579 JNJ 326 JNJ 5-6 21:30:51.289 2265 SELL IOC LMT 100.0 140.28 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T21:30:51.580 JNJ 326 JNJ 5-6 21:30:51.289 2265 SELL IOC LMT 100.0 140.28 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T21:31:14.970 QCOM 323 QCOM 5-6 21:30:29.120 2262 SELL IOC LMT 200.0 86.19 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-06T21:31:15.373 IQ 376 IQ 5-6 21:31:14.323 2315 SELL IOC LMT 500.0 21.9 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T21:31:15.475 QCOM 323 QCOM 5-6 21:30:29.120 2262 SELL IOC LMT 200.0 86.19 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-06T21:31:15.494 IQ 376 IQ 5-6 21:31:14.323 2315 SELL IOC LMT 500.0 21.9 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T21:31:16.403 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 500.0 300.0
+2019-05-06T21:31:16.407 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 500.0 200.0
+2019-05-06T21:31:16.411 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 500.0 175.0
+2019-05-06T21:31:16.416 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 500.0 75.0
+2019-05-06T21:31:16.420 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T21:31:16.421 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T21:31:16.423 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T21:31:16.425 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T21:31:16.429 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T21:31:16.433 PDD 374 PDD 5-6 21:31:14.148 2313 SELL IOC LMT 500.0 22.54 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T21:32:07.318 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 700.0 400.0
+2019-05-06T21:32:07.582 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 700.0 300.0
+2019-05-06T21:32:07.586 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 700.0 200.0
+2019-05-06T21:32:07.591 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 700.0 180.0
+2019-05-06T21:32:07.595 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 700.0 0.0
+2019-05-06T21:32:07.601 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 700.0 0.0
+2019-05-06T21:32:07.602 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 700.0 0.0
+2019-05-06T21:32:07.604 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 700.0 0.0
+2019-05-06T21:32:07.607 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 700.0 0.0
+2019-05-06T21:32:07.609 BILI 380 BILI 5-6 21:31:21.311 2319 SELL IOC LMT 700.0 17.35 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 700.0 0.0
+2019-05-06T21:40:31.789 MRK 394 MRK 5-6 21:40:31.328 2333 SELL IOC LMT 200.0 78.51 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-06T21:40:31.791 MRK 394 MRK 5-6 21:40:31.328 2333 SELL IOC LMT 200.0 78.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-06T21:40:31.792 MRK 394 MRK 5-6 21:40:31.328 2333 SELL IOC LMT 200.0 78.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-06T21:40:31.792 MRK 394 MRK 5-6 21:40:31.328 2333 SELL IOC LMT 200.0 78.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-06T21:45:18.939 NIO 481 NIO 5-6 21:45:18.664 2420 BUY IOC LMT 2600.0 4.86 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 2600.0 -2400.0
+2019-05-06T21:45:18.948 NIO 481 NIO 5-6 21:45:18.664 2420 BUY IOC LMT 2600.0 4.86 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 2600.0 -2300.0
+2019-05-06T21:45:18.950 NIO 481 NIO 5-6 21:45:18.664 2420 BUY IOC LMT 2600.0 4.86 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 2600.0 -100.0
+2019-05-06T21:45:18.951 NIO 481 NIO 5-6 21:45:18.664 2420 BUY IOC LMT 2600.0 4.86 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 2600.0 0.0
+2019-05-06T21:45:18.952 NIO 481 NIO 5-6 21:45:18.664 2420 BUY IOC LMT 2600.0 4.86 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 2600.0 0.0
+2019-05-06T21:45:18.952 NIO 481 NIO 5-6 21:45:18.664 2420 BUY IOC LMT 2600.0 4.86 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 2600.0 0.0
+2019-05-06T21:45:18.953 NIO 481 NIO 5-6 21:45:18.664 2420 BUY IOC LMT 2600.0 4.86 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 2600.0 0.0
+2019-05-06T21:45:18.953 NIO 481 NIO 5-6 21:45:18.664 2420 BUY IOC LMT 2600.0 4.86 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 2600.0 0.0
+2019-05-06T21:50:52.368 LLY 505 LLY 5-6 21:50:51.404 2444 BUY IOC LMT 100.0 115.7 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T21:50:52.369 LLY 505 LLY 5-6 21:50:51.404 2444 BUY IOC LMT 100.0 115.7 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ cancelling order in Apicontroller 2548
+ cancelling order in Apicontroller 2548
+2019-05-06T22:26:05.851 NKTR 773 NKTR 5-6 22:25:28.156 2712 BUY IOC LMT 390.0 31.93 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 390.0 -100.0
+2019-05-06T22:26:05.866 NKTR 773 NKTR 5-6 22:25:28.156 2712 BUY IOC LMT 390.0 31.93 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 390.0 0.0
+2019-05-06T22:26:05.924 NKTR 773 NKTR 5-6 22:25:28.156 2712 BUY IOC LMT 390.0 31.93 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 390.0 0.0
+2019-05-06T22:26:05.940 NKTR 773 NKTR 5-6 22:25:28.156 2712 BUY IOC LMT 390.0 31.93 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 390.0 0.0
+2019-05-06T22:26:05.941 NKTR 774 NKTR 5-6 22:26:5.555 2713 BUY IOC LMT 390.0 31.85 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 390.0 0.0
+ cancelling order in Apicontroller 2548
+ globally cancelling order 
+ globally cancelling order 
+2019-05-06T22:47:21.420 BABA 139 BABA 5-6 22:47:21.144 2754 SELL IOC LMT 100.0 186.31 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T22:47:21.437 BABA 139 BABA 5-6 22:47:21.144 2754 SELL IOC LMT 100.0 186.31 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-06T23:03:59.971 IQ 170 IQ 5-6 23:03:59.621 2785 SELL IOC LMT 500.0 22.2 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 500.0 400.0
+2019-05-06T23:03:59.976 IQ 170 IQ 5-6 23:03:59.621 2785 SELL IOC LMT 500.0 22.2 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 500.0 200.0
+2019-05-06T23:03:59.980 IQ 170 IQ 5-6 23:03:59.621 2785 SELL IOC LMT 500.0 22.2 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 500.0 100.0
+2019-05-06T23:03:59.985 IQ 170 IQ 5-6 23:03:59.621 2785 SELL IOC LMT 500.0 22.2 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T23:03:59.986 IQ 170 IQ 5-6 23:03:59.621 2785 SELL IOC LMT 500.0 22.2 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T23:04:00.037 IQ 170 IQ 5-6 23:03:59.621 2785 SELL IOC LMT 500.0 22.2 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T23:04:00.037 IQ 170 IQ 5-6 23:03:59.621 2785 SELL IOC LMT 500.0 22.2 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-06T23:04:00.038 IQ 170 IQ 5-6 23:03:59.621 2785 SELL IOC LMT 500.0 22.2 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 500.0 0.0
+2019-05-07T00:10:35.241 QCOM 431 QCOM 5-7 0:10:34.970 3046 SELL IOC LMT 200.0 87.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-07T00:10:35.241 QCOM 431 QCOM 5-7 0:10:34.970 3046 SELL IOC LMT 200.0 87.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+ cancelling order in Apicontroller 2991
+2019-05-07T00:15:48.368 QTT 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 1300.0 1100.0
+2019-05-07T00:15:48.370 QTT 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 1300.0 1000.0
+2019-05-07T00:15:48.372 QTT 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1300.0 0.0
+2019-05-07T00:15:48.372 QTT 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1300.0 0.0
+2019-05-07T00:15:48.383 QTT 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1300.0 0.0
+2019-05-07T00:15:48.384 QTT 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1300.0 0.0
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+2019-05-07T01:18:54.278 UNH 555 UNH 5-7 1:18:14.273 3108 BUY IOC LMT 100.0 233.52 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-07T01:18:54.290 UNH 555 UNH 5-7 1:18:14.273 3108 BUY IOC LMT 100.0 233.52 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+2019-05-07T02:48:22.875 CI 706 CI 5-7 2:47:42.869 3170 BUY IOC LMT 100.0 158.57 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-07T02:48:22.876 CI 706 CI 5-7 2:47:42.869 3170 BUY IOC LMT 100.0 158.57 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+2019-05-07T03:36:25.822 ABBV 785 ABBV 5-7 3:36:25.383 3200 BUY IOC LMT 200.0 79.39 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-07T03:36:25.823 ABBV 785 ABBV 5-7 3:36:25.383 3200 BUY IOC LMT 200.0 79.39 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+2019-05-07T03:57:28.012 UNP 816 UNP 5-7 3:57:27.655 3210 SELL IOC LMT 100.0 177.01 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-07T03:57:28.036 UNP 816 UNP 5-7 3:57:27.655 3210 SELL IOC LMT 100.0 177.01 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+2019-05-07T04:00:17.218 WFC 821 WFC 5-7 4:00:16.891 3212 SELL IOC LMT 300.0 48.42 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-07T04:00:18.087 WFC 821 WFC 5-7 4:00:16.891 3212 SELL IOC LMT 300.0 48.42 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-07T04:00:18.087 WFC 821 WFC 5-7 4:00:16.891 3212 SELL IOC LMT 300.0 48.42 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-07T04:00:18.087 WFC 821 WFC 5-7 4:00:16.891 3212 SELL IOC LMT 300.0 48.42 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-07T04:00:18.088 WFC 821 WFC 5-7 4:00:16.891 3212 SELL IOC LMT 300.0 48.42 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-07T04:00:18.088 WFC 821 WFC 5-7 4:00:16.891 3212 SELL IOC LMT 300.0 48.42 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+2019-05-07T04:29:48.257 WFC 1370 WFC 5-7 4:28:50.756 3732 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:48.578 WFC 1371 WFC 5-7 4:28:51.252 3733 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:48.743 WFC 1372 WFC 5-7 4:28:51.753 3734 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:48.992 WFC 1373 WFC 5-7 4:28:52.293 3735 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:49.243 WFC 1374 WFC 5-7 4:28:52.753 3736 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:49.578 WFC 1375 WFC 5-7 4:28:53.314 3737 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:49.997 WFC 1376 WFC 5-7 4:28:54.253 3738 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:50.243 WFC 1377 WFC 5-7 4:28:55.251 3739 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:50.744 WFC 1378 WFC 5-7 4:28:56.283 3740 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:51.327 WFC 1379 WFC 5-7 4:28:57.307 3741 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:52.043 WFC 1380 WFC 5-7 4:28:59.353 3742 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+2019-05-07T04:29:52.244 WFC 1381 WFC 5-7 4:29:2.319 3743 SELL IOC LMT 49.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 49.0 48.0
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+2019-05-07T04:32:52.228 WFC 1444 WFC 5-7 4:31:57.487 3803 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:32:52.728 WFC 1445 WFC 5-7 4:31:59.636 3804 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:32:53.227 WFC 1446 WFC 5-7 4:32:2.314 3805 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:32:54.230 WFC 1448 WFC 5-7 4:32:47.966 3806 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:32:55.230 WFC 1449 WFC 5-7 4:32:48.342 3807 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:32:56.326 WFC 1450 WFC 5-7 4:32:48.478 3808 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:32:57.228 WFC 1451 WFC 5-7 4:32:49.071 3809 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:32:59.229 WFC 1452 WFC 5-7 4:32:49.113 3810 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:33:02.258 WFC 1453 WFC 5-7 4:32:49.229 3811 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+2019-05-07T04:33:48.223 WFC 1454 WFC 5-7 4:32:49.591 3812 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:33:48.521 WFC 1455 WFC 5-7 4:32:50.197 3813 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:33:48.723 WFC 1456 WFC 5-7 4:32:50.241 3814 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:33:48.973 WFC 1457 WFC 5-7 4:32:50.729 3815 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:33:49.238 WFC 1458 WFC 5-7 4:32:51.310 3816 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+2019-05-07T04:33:49.634 WFC 1459 WFC 5-7 4:32:51.729 3817 SELL IOC LMT 48.0 48.58 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 48.0 47.0
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ cancelling order in Apicontroller 2991
+ cancelling order in Apicontroller 3313
+ cancelling order in Apicontroller 3471
+ cancelling order in Apicontroller 3775
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ cancelling order in Apicontroller 2056
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-10T22:05:48.602 BGNE 101 BGNE 5-10 22:05:48.094 2111 BUY IOC LMT 100.0 133.49 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-10T22:05:48.604 BGNE 101 BGNE 5-10 22:05:48.094 2111 BUY IOC LMT 100.0 133.49 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-10T22:05:55.751 VIAB 121 VIAB 5-10 22:05:55.424 2131 SELL IOC LMT 150.0 28.67 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 150.0 100.0
+2019-05-10T22:05:55.757 VIAB 121 VIAB 5-10 22:05:55.424 2131 SELL IOC LMT 150.0 28.67 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 150.0 0.0
+2019-05-10T22:05:55.762 VIAB 121 VIAB 5-10 22:05:55.424 2131 SELL IOC LMT 150.0 28.67 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 150.0 0.0
+2019-05-10T22:05:55.765 VIAB 121 VIAB 5-10 22:05:55.424 2131 SELL IOC LMT 150.0 28.67 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 150.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-13T21:36:07.528 HDB 248 HDB 5-13 21:35:21.527 2387 SELL IOC LMT 100.0 114.58 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-13T21:36:08.089 HDB 248 HDB 5-13 21:35:21.527 2387 SELL IOC LMT 100.0 114.58 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-13T21:37:23.578 BK 276 BK 5-13 21:37:23.309 2415 BUY IOC LMT 300.0 47.16 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-13T21:37:23.583 BK 276 BK 5-13 21:37:23.309 2415 BUY IOC LMT 300.0 47.16 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-13T21:37:23.589 BK 276 BK 5-13 21:37:23.309 2415 BUY IOC LMT 300.0 47.16 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-13T21:37:23.591 BK 276 BK 5-13 21:37:23.309 2415 BUY IOC LMT 300.0 47.16 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-13T21:40:39.229 CCI 375 CCI 5-13 21:39:53.166 2514 SELL IOC LMT 100.0 125.65 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-13T21:40:39.230 CCI 375 CCI 5-13 21:39:53.166 2514 SELL IOC LMT 100.0 125.65 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-13T21:51:51.904 VZ 381 VZ 5-13 21:51:51.633 2520 SELL IOC LMT 200.0 57.19 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-13T21:51:51.906 VZ 381 VZ 5-13 21:51:51.633 2520 SELL IOC LMT 200.0 57.19 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-13T21:51:51.908 VZ 381 VZ 5-13 21:51:51.633 2520 SELL IOC LMT 200.0 57.19 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-13T21:51:51.913 VZ 381 VZ 5-13 21:51:51.633 2520 SELL IOC LMT 200.0 57.19 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-13T21:51:51.922 VZ 381 VZ 5-13 21:51:51.633 2520 SELL IOC LMT 200.0 57.19 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-13T21:51:51.923 VZ 381 VZ 5-13 21:51:51.633 2520 SELL IOC LMT 200.0 57.19 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-13T22:02:46.026 BDX 462 BDX 5-13 22:02:0.021 2601 BUY IOC LMT 100.0 225.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-13T22:02:46.077 BDX 462 BDX 5-13 22:02:0.021 2601 BUY IOC LMT 100.0 225.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-13T22:48:44.759 NKTR 481 NKTR 5-13 22:48:42.402 2620 SELL IOC LMT 300.0 32.8 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-13T22:48:44.761 NKTR 481 NKTR 5-13 22:48:42.402 2620 SELL IOC LMT 300.0 32.8 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 100.0
+2019-05-13T22:48:44.763 NKTR 481 NKTR 5-13 22:48:42.402 2620 SELL IOC LMT 300.0 32.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-13T22:48:44.773 NKTR 481 NKTR 5-13 22:48:42.402 2620 SELL IOC LMT 300.0 32.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-13T22:48:44.774 NKTR 481 NKTR 5-13 22:48:42.402 2620 SELL IOC LMT 300.0 32.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-13T22:48:44.775 NKTR 481 NKTR 5-13 22:48:42.402 2620 SELL IOC LMT 300.0 32.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-13T22:50:26.947 MCD 530 MCD 5-13 22:50:26.658 2669 SELL IOC LMT 100.0 197.67 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-13T22:50:26.948 MCD 530 MCD 5-13 22:50:26.658 2669 SELL IOC LMT 100.0 197.67 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T00:04:15.470 PG 535 PG 5-14 0:04:14.858 2674 SELL IOC LMT 100.0 106.36 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T00:04:15.471 PG 535 PG 5-14 0:04:14.858 2674 SELL IOC LMT 100.0 106.36 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-14T21:32:17.959 BK 210 BK 5-14 21:31:45.067 2349 BUY IOC LMT 300.0 47.09 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T21:32:17.961 BK 210 BK 5-14 21:31:45.067 2349 BUY IOC LMT 300.0 47.09 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T21:32:29.087 NEE 230 NEE 5-14 21:32:26.085 2369 SELL IOC LMT 100.0 193.71 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T21:32:29.124 NEE 230 NEE 5-14 21:32:26.085 2369 SELL IOC LMT 100.0 193.71 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T21:33:30.789 PFE 282 PFE 5-14 21:33:30.455 2421 BUY IOC LMT 300.0 40.68 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-14T21:33:30.828 PFE 282 PFE 5-14 21:33:30.455 2421 BUY IOC LMT 300.0 40.68 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T21:33:30.829 PFE 282 PFE 5-14 21:33:30.455 2421 BUY IOC LMT 300.0 40.68 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T21:33:30.925 PFE 282 PFE 5-14 21:33:30.455 2421 BUY IOC LMT 300.0 40.68 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T21:34:34.218 CAT 314 CAT 5-14 21:33:52.670 2453 BUY IOC LMT 100.0 126.97 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T21:34:34.253 CAT 314 CAT 5-14 21:33:52.670 2453 BUY IOC LMT 100.0 126.97 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T21:35:01.186 BDX 334 BDX 5-14 21:34:15.205 2473 BUY IOC LMT 100.0 225.63 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T21:35:01.267 BDX 334 BDX 5-14 21:34:15.205 2473 BUY IOC LMT 100.0 225.63 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T21:42:11.546 WFC 439 WFC 5-14 21:42:11.129 2578 BUY IOC LMT 300.0 46.08 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T21:42:11.547 WFC 439 WFC 5-14 21:42:11.129 2578 BUY IOC LMT 300.0 46.08 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T21:58:44.821 CI 505 CI 5-14 21:58:4.383 2644 BUY IOC LMT 100.0 158.43 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T21:58:44.899 CI 505 CI 5-14 21:58:4.383 2644 BUY IOC LMT 100.0 158.43 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-14T23:07:15.565 KO 571 KO 5-14 23:07:15.173 2710 SELL IOC LMT 300.0 49.02 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-14T23:07:15.570 KO 571 KO 5-14 23:07:15.173 2710 SELL IOC LMT 300.0 49.02 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 100.0
+2019-05-14T23:07:15.604 KO 571 KO 5-14 23:07:15.173 2710 SELL IOC LMT 300.0 49.02 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T23:07:15.605 KO 571 KO 5-14 23:07:15.173 2710 SELL IOC LMT 300.0 49.02 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T23:07:15.606 KO 571 KO 5-14 23:07:15.173 2710 SELL IOC LMT 300.0 49.02 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-14T23:07:15.608 KO 571 KO 5-14 23:07:15.173 2710 SELL IOC LMT 300.0 49.02 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-15T00:10:21.211 AXP 657 AXP 5-15 0:10:19.170 2796 SELL IOC LMT 100.0 117.16 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T00:10:21.212 AXP 657 AXP 5-15 0:10:19.170 2796 SELL IOC LMT 100.0 117.16 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T01:51:42.059 UAL 718 UAL 5-15 1:51:2.834 2857 BUY IOC LMT 100.0 83.5 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T01:51:42.093 UAL 718 UAL 5-15 1:51:2.834 2857 BUY IOC LMT 100.0 83.5 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T02:27:08.838 MDT 789 MDT 5-15 2:27:5.832 2928 BUY IOC LMT 100.0 88.29 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T02:27:08.870 MDT 789 MDT 5-15 2:27:5.832 2928 BUY IOC LMT 100.0 88.29 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T02:48:47.671 PEP 810 PEP 5-15 2:48:1.578 2949 SELL IOC LMT 100.0 128.02 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T02:48:47.672 PEP 810 PEP 5-15 2:48:1.578 2949 SELL IOC LMT 100.0 128.02 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-15T21:31:04.747 MCD 152 MCD 5-15 21:30:18.692 2291 SELL IOC LMT 100.0 197.95 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T21:31:04.749 MCD 152 MCD 5-15 21:30:18.692 2291 SELL IOC LMT 100.0 197.95 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T21:31:18.106 T 193 T 5-15 21:31:17.659 2332 SELL IOC LMT 400.0 31.01 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 400.0 200.0
+2019-05-15T21:31:18.111 T 193 T 5-15 21:31:17.659 2332 SELL IOC LMT 400.0 31.01 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-05-15T21:31:18.111 T 193 T 5-15 21:31:17.659 2332 SELL IOC LMT 400.0 31.01 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-05-15T21:31:18.112 T 193 T 5-15 21:31:17.659 2332 SELL IOC LMT 400.0 31.01 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-05-15T21:36:53.424 PEP 252 PEP 5-15 21:36:53.036 2391 SELL IOC LMT 100.0 127.99 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T21:36:53.426 PEP 252 PEP 5-15 21:36:53.036 2391 SELL IOC LMT 100.0 127.99 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T21:58:25.786 KO 383 KO 5-15 21:58:25.408 2522 SELL IOC LMT 300.0 49.04 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-15T21:58:25.792 KO 383 KO 5-15 21:58:25.408 2522 SELL IOC LMT 300.0 49.04 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 100.0
+2019-05-15T21:58:25.796 KO 383 KO 5-15 21:58:25.408 2522 SELL IOC LMT 300.0 49.04 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-15T21:58:25.849 KO 383 KO 5-15 21:58:25.408 2522 SELL IOC LMT 300.0 49.04 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-15T21:58:25.850 KO 383 KO 5-15 21:58:25.408 2522 SELL IOC LMT 300.0 49.04 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-15T21:58:25.852 KO 383 KO 5-15 21:58:25.408 2522 SELL IOC LMT 300.0 49.04 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-15T22:13:31.699 MDT 385 MDT 5-15 22:13:31.165 2524 BUY IOC LMT 100.0 88.27 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T22:13:31.700 MDT 385 MDT 5-15 22:13:31.165 2524 BUY IOC LMT 100.0 88.27 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T22:32:01.147 WFC 522 WFC 5-15 22:32:0.744 2661 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 -200.0
+2019-05-15T22:32:01.152 WFC 522 WFC 5-15 22:32:0.744 2661 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-15T22:32:01.158 WFC 522 WFC 5-15 22:32:0.744 2661 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-15T22:32:01.181 WFC 522 WFC 5-15 22:32:0.744 2661 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-15T22:32:01.182 WFC 522 WFC 5-15 22:32:0.744 2661 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-15T22:32:01.183 WFC 522 WFC 5-15 22:32:0.744 2661 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-15T22:53:04.542 BDX 543 BDX 5-15 22:53:4.161 2682 BUY IOC LMT 100.0 225.36 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-15T22:53:04.604 BDX 543 BDX 5-15 22:53:4.161 2682 BUY IOC LMT 100.0 225.36 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-16T00:11:16.407 GXBT 628 GXBT 5-16 0:11:1.398 2767 SELL IOC LMT 1.0 7980.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1.0 0.0
+2019-05-16T00:11:16.408 GXBT 628 GXBT 5-16 0:11:1.398 2767 SELL IOC LMT 1.0 7980.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1.0 0.0
+2019-05-16T03:22:14.419 LLY 684 LLY 5-16 3:22:13.970 2823 BUY IOC LMT 100.0 115.72 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-16T03:22:14.420 LLY 684 LLY 5-16 3:22:13.970 2823 BUY IOC LMT 100.0 115.72 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+2019-05-16T07:45:46.256 GXBT 132 GXBT 5-16 7:45:16.206 2367 SELL IOC LMT 1.0 8275.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1.0 0.0
+2019-05-16T07:45:46.259 GXBT 132 GXBT 5-16 7:45:16.206 2367 SELL IOC LMT 1.0 8275.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1.0 0.0

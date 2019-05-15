@@ -1,0 +1,4 @@
+delta impact check PASSED  64728
+******** 5-15 21:32
+2333 194 ADDER BUY: EA 5-15 21:32:6.426 2333 BUY DAY LMT 100.0 94.73 BREACH_ADDER Created yOpen:78.91 mOpen:94.66 prevClose 95.37 p/b/a 94.86 94.73 94.8 devFromMaxOpen 0.0021
+Shutdown status 5-16 5:57 Submitted EA 5-15 21:32:6.426 2333 BUY DAY LMT 100.0 94.73 BREACH_ADDER Submitted

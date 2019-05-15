@@ -173,3 +173,874 @@ delta impact check PASSED  63777
 ******** 5-2 21:35
 2435 285 ADDER BUY: QTT 5-2 21:35:24.783 2435 BUY DAY LMT 1400.0 6.76 BREACH_ADDER Created yOpen 6.18 mOpen 6.8 prevClose 6.75 p/b/a 6.82 6.78 6.82 devFromMaxOpen 0.0029
 Shutdown status 5-3 7:00 Submitted QTT 5-2 21:35:24.783 2435 BUY DAY LMT 1400.0 6.76 BREACH_ADDER Submitted
+delta impact check PASSED  65915
+******** 5-6 21:29
+2145 206 ADDER BUY: QTT 5-6 21:29:57.294 2145 BUY DAY LMT 1400.0 6.94 BREACH_ADDER Created yOpen:6.18 mOpen:6.8 prevClose 6.91 p/b/a 6.99 6.95 6.99 devFromMaxOpen 0.0279
+2145 206 *PATIENT DEV FILL* Submitted->Filled 5-6 21:36:9.163 QTT 5-6 21:29:57.294 2145 BUY DAY LMT 1400.0 6.94 BREACH_ADDER Filled
+******** 2019-05-06T23:59:24.916
+2889 274 Cutter SELL: added?false QTT 5-6 23:59:24.916 2889 SELL IOC LMT 1400.0 6.81 BREACH_CUTTER Created pos 1400.0 yOpen:6.18 mOpen:6.8 price 6.79
+2889 2889 -> 2890 ID 274 -> 275 RESUBMIT: QTT 5-6 23:59:25.450 2890 SELL IOC LMT 1400.0 6.8 BREACH_CUTTER Created b/a sprd last 6.79 6.8 15bp 6.79 attempts  1 pos: 1400.0
+2889 2890 -> 2891 ID 275 -> 276 RESUBMIT: QTT 5-6 23:59:26.030 2891 SELL IOC LMT 1400.0 6.8 BREACH_CUTTER Created b/a sprd last 6.79 6.8 15bp 6.79 attempts  2 pos: 1400.0
+2889 2891 -> 2892 ID 276 -> 277 RESUBMIT: QTT 5-6 23:59:26.299 2892 SELL IOC LMT 1400.0 6.8 BREACH_CUTTER Created b/a sprd last 6.79 6.8 15bp 6.79 attempts  3 pos: 1400.0
+2889 2892 -> 2893 ID 277 -> 278 RESUBMIT: QTT 5-6 23:59:26.565 2893 SELL IOC LMT 1400.0 6.8 BREACH_CUTTER Created b/a sprd last 6.79 6.8 15bp 6.79 attempts  4 pos: 1400.0
+2889 2893 -> 2894 ID 278 -> 279 RESUBMIT: QTT 5-6 23:59:26.834 2894 SELL IOC LMT 1400.0 6.8 BREACH_CUTTER Created b/a sprd last 6.79 6.8 15bp 6.79 attempts  5 pos: 1400.0
+2889 2894 -> 2895 ID 279 -> 280 RESUBMIT: QTT 5-6 23:59:27.110 2895 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  6 pos: 1400.0
+2889 2895 -> 2896 ID 280 -> 281 RESUBMIT: QTT 5-6 23:59:27.600 2896 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  7 pos: 1400.0
+2889 2896 -> 2897 ID 281 -> 282 RESUBMIT: QTT 5-6 23:59:27.863 2897 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  8 pos: 1400.0
+2889 2897 -> 2898 ID 282 -> 283 RESUBMIT: QTT 5-6 23:59:28.142 2898 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  9 pos: 1400.0
+2889 2898 -> 2899 ID 283 -> 284 RESUBMIT: QTT 5-6 23:59:28.661 2899 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  10 pos: 1400.0
+2889 2899 -> 2900 ID 284 -> 285 RESUBMIT: QTT 5-6 23:59:29.004 2900 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  11 pos: 1400.0
+2889 2900 -> 2901 ID 285 -> 286 RESUBMIT: QTT 5-6 23:59:29.316 2901 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  12 pos: 1400.0
+2889 2901 -> 2902 ID 286 -> 287 RESUBMIT: QTT 5-6 23:59:29.590 2902 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  13 pos: 1400.0
+2889 2902 -> 2903 ID 287 -> 288 RESUBMIT: QTT 5-6 23:59:29.876 2903 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  14 pos: 1400.0
+2889 2903 -> 2904 ID 288 -> 289 RESUBMIT: QTT 5-6 23:59:30.367 2904 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  15 pos: 1400.0
+2889 2904 -> 2905 ID 289 -> 290 RESUBMIT: QTT 5-6 23:59:30.635 2905 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  16 pos: 1400.0
+2889 2905 -> 2906 ID 290 -> 291 RESUBMIT: QTT 5-6 23:59:30.962 2906 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  17 pos: 1400.0
+2889 2906 -> 2907 ID 291 -> 292 RESUBMIT: QTT 5-6 23:59:31.229 2907 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  18 pos: 1400.0
+2889 2907 -> 2908 ID 292 -> 293 RESUBMIT: QTT 5-6 23:59:31.496 2908 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  19 pos: 1400.0
+2889 2908 -> 2909 ID 293 -> 294 RESUBMIT: QTT 5-6 23:59:31.783 2909 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  20 pos: 1400.0
+2889 2909 -> 2910 ID 294 -> 295 RESUBMIT: QTT 5-6 23:59:32.057 2910 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  21 pos: 1400.0
+2889 2910 -> 2911 ID 295 -> 296 RESUBMIT: QTT 5-6 23:59:32.569 2911 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  22 pos: 1400.0
+2889 2911 -> 2912 ID 296 -> 297 RESUBMIT: QTT 5-6 23:59:33.595 2912 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  23 pos: 1400.0
+2889 2912 -> 2913 ID 297 -> 298 RESUBMIT: QTT 5-6 23:59:34.650 2913 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  24 pos: 1400.0
+2889 2913 -> 2914 ID 298 -> 299 RESUBMIT: QTT 5-6 23:59:34.985 2914 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  25 pos: 1400.0
+2889 2914 -> 2915 ID 299 -> 300 RESUBMIT: QTT 5-6 23:59:35.956 2915 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  26 pos: 1400.0
+2889 2915 -> 2916 ID 300 -> 301 RESUBMIT: QTT 5-6 23:59:36.271 2916 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  27 pos: 1400.0
+2889 2916 -> 2917 ID 301 -> 302 RESUBMIT: QTT 5-6 23:59:36.540 2917 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  28 pos: 1400.0
+2889 2917 -> 2918 ID 302 -> 303 RESUBMIT: QTT 5-6 23:59:36.809 2918 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  29 pos: 1400.0
+2889 2918 -> 2919 ID 303 -> 304 RESUBMIT: QTT 5-6 23:59:37.078 2919 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  30 pos: 1400.0
+2889 2919 -> 2920 ID 304 -> 305 RESUBMIT: QTT 5-6 23:59:37.584 2920 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  31 pos: 1400.0
+2889 2920 -> 2921 ID 305 -> 306 RESUBMIT: QTT 5-6 23:59:37.907 2921 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  32 pos: 1400.0
+2889 2921 -> 2922 ID 306 -> 307 RESUBMIT: QTT 5-6 23:59:38.195 2922 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  33 pos: 1400.0
+2889 2922 -> 2923 ID 307 -> 308 RESUBMIT: QTT 5-6 23:59:38.494 2923 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  34 pos: 1400.0
+2889 2923 -> 2924 ID 308 -> 309 RESUBMIT: QTT 5-6 23:59:38.760 2924 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  35 pos: 1400.0
+2889 2924 -> 2925 ID 309 -> 310 RESUBMIT: QTT 5-6 23:59:39.032 2925 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  36 pos: 1400.0
+2889 2925 -> 2926 ID 310 -> 311 RESUBMIT: QTT 5-6 23:59:39.303 2926 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  37 pos: 1400.0
+2889 2926 -> 2927 ID 311 -> 312 RESUBMIT: QTT 5-6 23:59:39.583 2927 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  38 pos: 1400.0
+2889 2927 -> 2928 ID 312 -> 313 RESUBMIT: QTT 5-6 23:59:39.859 2928 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  39 pos: 1400.0
+2889 2928 -> 2929 ID 313 -> 314 RESUBMIT: QTT 5-6 23:59:40.357 2929 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  40 pos: 1400.0
+2889 2929 -> 2930 ID 314 -> 315 RESUBMIT: QTT 5-6 23:59:40.639 2930 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  41 pos: 1400.0
+2889 2930 -> 2931 ID 315 -> 316 RESUBMIT: QTT 5-6 23:59:41.813 2931 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  42 pos: 1400.0
+2889 2931 -> 2932 ID 316 -> 317 RESUBMIT: QTT 5-6 23:59:42.077 2932 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  43 pos: 1400.0
+2889 2932 -> 2933 ID 317 -> 318 RESUBMIT: QTT 5-6 23:59:42.351 2933 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  44 pos: 1400.0
+2889 2933 -> 2934 ID 318 -> 319 RESUBMIT: QTT 5-6 23:59:42.879 2934 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  45 pos: 1400.0
+2889 2934 -> 2935 ID 319 -> 320 RESUBMIT: QTT 5-6 23:59:43.169 2935 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  46 pos: 1400.0
+2889 2935 -> 2936 ID 320 -> 321 RESUBMIT: QTT 5-6 23:59:43.440 2936 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  47 pos: 1400.0
+2889 2936 -> 2937 ID 321 -> 322 RESUBMIT: QTT 5-6 23:59:43.726 2937 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  48 pos: 1400.0
+2889 2937 -> 2938 ID 322 -> 323 RESUBMIT: QTT 5-6 23:59:43.996 2938 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  49 pos: 1400.0
+2889 2938 -> 2939 ID 323 -> 324 RESUBMIT: QTT 5-6 23:59:44.269 2939 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  50 pos: 1400.0
+2889 2939 -> 2940 ID 324 -> 325 RESUBMIT: QTT 5-6 23:59:44.767 2940 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  51 pos: 1400.0
+2889 2940 -> 2941 ID 325 -> 326 RESUBMIT: QTT 5-6 23:59:45.027 2941 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  52 pos: 1400.0
+2889 2941 -> 2942 ID 326 -> 327 RESUBMIT: QTT 5-6 23:59:45.541 2942 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  53 pos: 1400.0
+2889 2942 -> 2943 ID 327 -> 328 RESUBMIT: QTT 5-6 23:59:45.796 2943 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  54 pos: 1400.0
+2889 2943 -> 2944 ID 328 -> 329 RESUBMIT: QTT 5-6 23:59:46.753 2944 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  55 pos: 1400.0
+2889 2944 -> 2945 ID 329 -> 330 RESUBMIT: QTT 5-6 23:59:47.011 2945 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  56 pos: 1400.0
+2889 2945 -> 2946 ID 330 -> 331 RESUBMIT: QTT 5-6 23:59:47.282 2946 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  57 pos: 1400.0
+2889 2946 -> 2947 ID 331 -> 332 RESUBMIT: QTT 5-6 23:59:47.564 2947 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  58 pos: 1400.0
+2889 2947 -> 2948 ID 332 -> 333 RESUBMIT: QTT 5-6 23:59:47.838 2948 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  59 pos: 1400.0
+2889 2948 -> 2949 ID 333 -> 334 RESUBMIT: QTT 5-6 23:59:48.333 2949 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  60 pos: 1400.0
+2889 2949 -> 2950 ID 334 -> 335 RESUBMIT: QTT 5-7 0:00:25.220 2950 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  61 pos: 1400.0
+2889 2950 -> 2951 ID 335 -> 336 RESUBMIT: QTT 5-7 0:00:25.722 2951 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  62 pos: 1400.0
+2889 2951 -> 2952 ID 336 -> 337 RESUBMIT: QTT 5-7 0:00:26.066 2952 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  63 pos: 1400.0
+2889 2952 -> 2953 ID 337 -> 338 RESUBMIT: QTT 5-7 0:00:27.027 2953 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  64 pos: 1400.0
+2889 2953 -> 2954 ID 338 -> 339 RESUBMIT: QTT 5-7 0:00:27.332 2954 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  65 pos: 1400.0
+2889 2954 -> 2955 ID 339 -> 340 RESUBMIT: QTT 5-7 0:00:27.832 2955 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  66 pos: 1400.0
+2889 2955 -> 2956 ID 340 -> 341 RESUBMIT: QTT 5-7 0:00:28.104 2956 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  67 pos: 1400.0
+2889 2956 -> 2957 ID 341 -> 342 RESUBMIT: QTT 5-7 0:00:28.383 2957 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  68 pos: 1400.0
+2889 2957 -> 2958 ID 342 -> 343 RESUBMIT: QTT 5-7 0:00:29.185 2958 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  69 pos: 1400.0
+2889 2958 -> 2959 ID 343 -> 344 RESUBMIT: QTT 5-7 0:00:29.456 2959 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  70 pos: 1400.0
+2889 2959 -> 2960 ID 344 -> 345 RESUBMIT: QTT 5-7 0:00:29.728 2960 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  71 pos: 1400.0
+2889 2960 -> 2961 ID 345 -> 346 RESUBMIT: QTT 5-7 0:00:30.015 2961 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  72 pos: 1400.0
+2889 2961 -> 2962 ID 346 -> 347 RESUBMIT: QTT 5-7 0:00:30.477 2962 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  73 pos: 1400.0
+2889 2962 -> 2963 ID 347 -> 348 RESUBMIT: QTT 5-7 0:00:30.743 2963 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 attempts  74 pos: 1400.0
+2889 2963 -> 2964 ID 348 -> 349 RESUBMIT: QTT 5-7 0:00:31.041 2964 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  75 pos: 1400.0
+2889 2964 -> 2965 ID 349 -> 350 RESUBMIT: QTT 5-7 0:00:32.043 2965 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  76 pos: 1400.0
+2889 2965 -> 2966 ID 350 -> 351 RESUBMIT: QTT 5-7 0:00:32.337 2966 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  77 pos: 1400.0
+2889 2966 -> 2967 ID 351 -> 352 RESUBMIT: QTT 5-7 0:00:32.597 2967 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  78 pos: 1400.0
+2889 2967 -> 2968 ID 352 -> 353 RESUBMIT: QTT 5-7 0:00:32.876 2968 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  79 pos: 1400.0
+2889 2968 -> 2969 ID 353 -> 354 RESUBMIT: QTT 5-7 0:00:33.157 2969 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  80 pos: 1400.0
+2889 2969 -> 2970 ID 354 -> 355 RESUBMIT: QTT 5-7 0:00:33.442 2970 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  81 pos: 1400.0
+2889 2970 -> 2971 ID 355 -> 356 RESUBMIT: QTT 5-7 0:00:33.960 2971 SELL IOC LMT 1400.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 attempts  82 pos: 1400.0
+2889 2971 -> 2972 ID 356 -> 357 RESUBMIT: QTT 5-7 0:00:34.294 2972 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  83 pos: 1400.0
+2889 2972 -> 2973 ID 357 -> 358 RESUBMIT: QTT 5-7 0:00:34.579 2973 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  84 pos: 1400.0
+2889 2973 -> 2974 ID 358 -> 359 RESUBMIT: QTT 5-7 0:00:34.844 2974 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  85 pos: 1400.0
+2889 2974 -> 2975 ID 359 -> 360 RESUBMIT: QTT 5-7 0:00:35.121 2975 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  86 pos: 1400.0
+2889 2975 -> 2976 ID 360 -> 361 RESUBMIT: QTT 5-7 0:00:35.395 2976 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  87 pos: 1400.0
+2889 2976 -> 2977 ID 361 -> 362 RESUBMIT: QTT 5-7 0:00:35.674 2977 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  88 pos: 1400.0
+2889 2977 -> 2978 ID 362 -> 363 RESUBMIT: QTT 5-7 0:00:35.951 2978 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  89 pos: 1400.0
+2889 2978 -> 2979 ID 363 -> 364 RESUBMIT: QTT 5-7 0:00:36.236 2979 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  90 pos: 1400.0
+2889 2979 -> 2980 ID 364 -> 365 RESUBMIT: QTT 5-7 0:00:36.511 2980 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  91 pos: 1400.0
+2889 2980 -> 2981 ID 365 -> 366 RESUBMIT: QTT 5-7 0:00:36.808 2981 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  92 pos: 1400.0
+2889 2981 -> 2982 ID 366 -> 367 RESUBMIT: QTT 5-7 0:00:37.305 2982 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  93 pos: 1400.0
+2889 2982 -> 2983 ID 367 -> 368 RESUBMIT: QTT 5-7 0:00:37.571 2983 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  94 pos: 1400.0
+2889 2983 -> 2984 ID 368 -> 369 RESUBMIT: QTT 5-7 0:00:37.844 2984 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  95 pos: 1400.0
+2889 2984 -> 2985 ID 369 -> 370 RESUBMIT: QTT 5-7 0:00:38.110 2985 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  96 pos: 1400.0
+2889 2985 -> 2986 ID 370 -> 371 RESUBMIT: QTT 5-7 0:00:38.379 2986 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 attempts  97 pos: 1400.0
+2889 2986 -> 2987 ID 371 -> 372 RESUBMIT: QTT 5-7 0:00:38.652 2987 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 attempts  98 pos: 1400.0
+2889 2987 -> 2988 ID 372 -> 373 RESUBMIT: QTT 5-7 0:00:38.926 2988 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 attempts  99 pos: 1400.0
+2889 2988 -> 2989 ID 373 -> 374 RESUBMIT: QTT 5-7 0:00:39.444 2989 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 attempts  100 pos: 1400.0
+2889 2989 -> 2990 ID 374 -> 375 RESUBMIT: QTT 5-7 0:00:39.947 2990 SELL IOC LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 attempts  101 pos: 1400.0
+2889 2990 -> 2991 ID 375 -> 376 MAX ATTEMPTS EXCEEDED, Switch to PatientDev: QTT 5-7 0:00:40.443 2991 SELL DAY LMT 1400.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 attempts:101 pos 1400.0
+3047 2991 -> 3047 Revise cutter: QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 1300.0
+2019-05-07T00:15:48.369 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Submitted breach cutting, pos changed, lastQ, livePos 1300.0 1100.0
+2019-05-07T00:15:48.371 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Submitted breach cutting, pos changed, lastQ, livePos 1300.0 1000.0
+2019-05-07T00:15:48.372 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 1300.0 0.0
+3047 3047 *GUARANTEE DEV FILL* Submitted -> Filled 2019-05-07T00:15:48.372 ID: 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Filled TIF: IOC attempts: 0
+2019-05-07T00:15:48.372 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 1300.0 0.0
+2019-05-07T00:15:48.383 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 1300.0 0.0
+2019-05-07T00:15:48.384 432 QTT 5-7 0:15:47.964 3047 SELL IOC LMT 1300.0 6.76 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 1300.0 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:16:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:17:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:18:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:19:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:20:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:21:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:22:47.962 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.76 6.78 30bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:23:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:24:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:25:47.964 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created b/a sprd last 6.78 6.8 29bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:26:47.965 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:27:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:28:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:29:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:30:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:31:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:32:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:33:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:34:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:35:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:36:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:37:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:38:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:39:47.963 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:40:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.76 6.78 30bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:41:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:42:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:43:47.962 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.76 6.78 30bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:44:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:45:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:46:47.964 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created b/a sprd last 6.78 6.8 29bp 6.8 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:47:47.964 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created b/a sprd last 6.79 6.8 15bp 6.79 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:48:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:49:47.965 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:50:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:51:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:52:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:53:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:54:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:55:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:56:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:57:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:58:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 0:59:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:00:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:01:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:02:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:03:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:04:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:05:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:06:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:07:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:08:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:09:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:10:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:11:47.964 0 SELL IOC LMT 0.0 6.81 BREACH_CUTTER Created b/a sprd last 6.78 6.81 44bp 6.8 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:12:47.964 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created b/a sprd last 6.78 6.8 29bp 6.8 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:13:47.962 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created b/a sprd last 6.79 6.8 15bp 6.79 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:14:47.964 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created b/a sprd last 6.77 6.79 30bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:15:47.963 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created b/a sprd last 6.77 6.79 30bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:16:47.963 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:17:47.964 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created b/a sprd last 6.76 6.79 44bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:18:47.962 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.76 6.78 30bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:19:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:20:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.75 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:21:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.75 6.77 30bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:22:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:23:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.75 6.77 30bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:24:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:25:47.962 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.75 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:26:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:27:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:28:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:29:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:30:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:31:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:32:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.75 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:33:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:34:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:35:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:36:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:37:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created b/a sprd last 6.75 6.76 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:38:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.72 6.73 15bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:39:47.964 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.72 6.73 15bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:40:47.962 0 SELL IOC LMT 0.0 6.71 BREACH_CUTTER Created b/a sprd last 6.7 6.71 15bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:41:47.963 0 SELL IOC LMT 0.0 6.71 BREACH_CUTTER Created b/a sprd last 6.7 6.71 15bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:42:47.962 0 SELL IOC LMT 0.0 6.69 BREACH_CUTTER Created b/a sprd last 6.68 6.69 15bp 6.68 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:43:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:44:47.963 0 SELL IOC LMT 0.0 6.71 BREACH_CUTTER Created b/a sprd last 6.69 6.71 30bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:45:47.964 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created b/a sprd last 6.69 6.7 15bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:46:47.964 0 SELL IOC LMT 0.0 6.74 BREACH_CUTTER Created b/a sprd last 6.72 6.74 30bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:47:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.72 6.73 15bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:48:47.964 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.72 6.73 15bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:49:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.72 6.73 15bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:50:47.963 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.72 6.73 15bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:51:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.71 6.73 30bp 6.73 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:52:47.964 0 SELL IOC LMT 0.0 6.72 BREACH_CUTTER Created b/a sprd last 6.71 6.72 15bp 6.71 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:53:47.962 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created b/a sprd last 6.69 6.7 15bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:54:47.963 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created b/a sprd last 6.69 6.7 15bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:55:47.965 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created b/a sprd last 6.69 6.7 15bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:56:47.963 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created b/a sprd last 6.69 6.7 15bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:57:47.964 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created b/a sprd last 6.69 6.7 15bp 6.69 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:58:47.964 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created b/a sprd last 6.69 6.7 15bp 6.69 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 1:59:47.964 0 SELL IOC LMT 0.0 6.69 BREACH_CUTTER Created b/a sprd last 6.68 6.69 15bp 6.68 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:00:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.67 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:01:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:02:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.67 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:03:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.67 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:04:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:05:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:06:47.962 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:07:47.964 0 SELL IOC LMT 0.0 6.64 BREACH_CUTTER Created b/a sprd last 6.63 6.64 15bp 6.64 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:08:47.964 0 SELL IOC LMT 0.0 6.65 BREACH_CUTTER Created b/a sprd last 6.64 6.65 15bp 6.65 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:09:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.67 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:10:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.67 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:11:47.964 0 SELL IOC LMT 0.0 6.68 BREACH_CUTTER Created b/a sprd last 6.67 6.68 15bp 6.68 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:12:47.963 0 SELL IOC LMT 0.0 6.68 BREACH_CUTTER Created b/a sprd last 6.67 6.68 15bp 6.68 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:13:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.67 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:14:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:15:47.962 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:16:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:17:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:18:47.962 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.67 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:19:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:20:47.962 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.65 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:21:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:22:47.963 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.65 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:23:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:24:47.962 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:25:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:26:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:27:47.962 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.65 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:28:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:29:47.963 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:30:47.962 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:31:47.962 0 SELL IOC LMT 0.0 6.65 BREACH_CUTTER Created b/a sprd last 6.64 6.65 15bp 6.64 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:32:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created b/a sprd last 6.65 6.66 15bp 6.66 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:33:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created b/a sprd last 6.66 6.67 15bp 6.67 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:34:47.964 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.71 6.73 30bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:35:47.962 0 SELL IOC LMT 0.0 6.71 BREACH_CUTTER Created b/a sprd last 6.7 6.71 15bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:36:47.964 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created b/a sprd last 6.69 6.7 15bp 6.7 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:37:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.71 6.73 30bp 6.73 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:38:47.964 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.71 6.73 30bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:39:47.963 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created b/a sprd last 6.71 6.73 30bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:40:47.964 0 SELL IOC LMT 0.0 6.72 BREACH_CUTTER Created b/a sprd last 6.71 6.72 15bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:41:47.963 0 SELL IOC LMT 0.0 6.74 BREACH_CUTTER Created b/a sprd last 6.72 6.74 30bp 6.72 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:42:47.963 0 SELL IOC LMT 0.0 6.74 BREACH_CUTTER Created b/a sprd last 6.73 6.74 15bp 6.73 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:43:47.962 0 SELL IOC LMT 0.0 6.75 BREACH_CUTTER Created b/a sprd last 6.73 6.75 30bp 6.74 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:44:47.962 0 SELL IOC LMT 0.0 6.75 BREACH_CUTTER Created b/a sprd last 6.74 6.75 15bp 6.74 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:45:47.964 0 SELL IOC LMT 0.0 6.75 BREACH_CUTTER Created b/a sprd last 6.74 6.75 15bp 6.74 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:46:47.963 0 SELL IOC LMT 0.0 6.75 BREACH_CUTTER Created b/a sprd last 6.74 6.75 15bp 6.74 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:47:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.74 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:48:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:49:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.77 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:50:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created b/a sprd last 6.76 6.77 15bp 6.76 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:51:47.962 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:52:47.963 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created b/a sprd last 6.78 6.79 15bp 6.79 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:53:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created b/a sprd last 6.77 6.78 15bp 6.78 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:54:47.965 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created b/a sprd last 6.79 6.8 15bp 6.8 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:55:47.963 0 SELL IOC LMT 0.0 6.81 BREACH_CUTTER Created b/a sprd last 6.8 6.81 15bp 6.81 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:56:47.963 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created b/a sprd last 6.83 6.84 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:57:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.83 6.85 29bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:58:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.83 6.85 29bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 2:59:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:00:47.962 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created b/a sprd last 6.83 6.84 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:01:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.82 6.85 44bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:02:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.82 6.85 44bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:03:47.962 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created b/a sprd last 6.82 6.83 15bp 6.82 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:04:47.963 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created b/a sprd last 6.82 6.83 15bp 6.82 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:05:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.83 6.85 29bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:06:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:07:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:08:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:09:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:10:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:11:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:12:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:13:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:14:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:15:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:16:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:17:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:18:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:19:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:20:47.962 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created b/a sprd last 6.83 6.84 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:21:47.963 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created b/a sprd last 6.83 6.84 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:22:47.962 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created b/a sprd last 6.83 6.84 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:23:47.963 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created b/a sprd last 6.83 6.84 15bp 6.83 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:24:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:25:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:26:47.962 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.87 6.88 15bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:27:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:28:47.963 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created b/a sprd last 6.83 6.84 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:29:47.964 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created b/a sprd last 6.83 6.84 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:30:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:31:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:32:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:33:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:34:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:35:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.84 6.85 15bp 6.84 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:36:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.86 6.87 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:37:47.963 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.86 6.87 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:38:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.86 6.87 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:39:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:40:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:41:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:42:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:43:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:44:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:45:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:46:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:47:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:48:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:49:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:50:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:51:47.963 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.86 6.87 15bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:52:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.86 6.87 15bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:53:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.86 6.87 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:54:47.963 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.86 6.87 15bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:55:47.963 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.86 6.87 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:56:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.86 6.87 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:57:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.86 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:58:47.963 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created b/a sprd last 6.82 6.83 15bp 6.82 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 3:59:47.963 0 SELL IOC LMT 0.0 6.81 BREACH_CUTTER Created b/a sprd last 6.8 6.81 15bp 6.81 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:00:47.964 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.81 6.87 88bp 6.81 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:01:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.75 6.87 178bp 6.81 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:02:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.75 6.88 193bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:03:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.75 6.88 193bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:04:47.964 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.75 6.88 193bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:05:47.964 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.75 6.88 193bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:06:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.75 6.88 193bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:07:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.75 6.88 193bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:08:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.75 6.88 193bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:09:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.75 6.88 193bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:10:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created b/a sprd last 6.75 6.88 193bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:11:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.75 6.87 178bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:12:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.75 6.87 178bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:13:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.75 6.87 178bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:14:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created b/a sprd last 6.75 6.87 178bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:15:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.75 6.86 163bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:16:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.75 6.86 163bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:17:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.75 6.86 163bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:18:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.75 6.86 163bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:19:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.75 6.86 163bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:20:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.75 6.86 163bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:21:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.75 6.86 163bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:22:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.75 6.86 163bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:23:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:24:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:25:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:26:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:27:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:28:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:29:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:30:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:31:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:32:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:33:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:34:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:35:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:36:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:37:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:38:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.76 6.86 148bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:39:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:40:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:41:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:42:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:43:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:44:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:45:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:46:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:47:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.81 6.85 59bp 6.87 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:48:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:49:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:50:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:51:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:52:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:53:47.972 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created b/a sprd last 6.85 6.86 15bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:54:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:55:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:56:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:57:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:58:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 4:59:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:00:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:01:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:02:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:03:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:04:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:05:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:06:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:07:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:08:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:09:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:10:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:11:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:12:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:13:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:14:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:15:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:16:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:17:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:18:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:19:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:20:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:21:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:22:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:23:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:24:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:25:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:26:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:27:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:28:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:29:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:30:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:31:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:32:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:33:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:34:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:35:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:36:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:37:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:38:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:39:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:40:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:41:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:42:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:43:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:44:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:45:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:46:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:47:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:48:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:49:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:50:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:51:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:52:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:53:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:54:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:55:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:56:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:57:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:58:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 5:59:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:00:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:01:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:02:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:03:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:04:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:05:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:06:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:07:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:08:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:09:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:10:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:11:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:12:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:13:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:14:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:15:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:16:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:17:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:18:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:19:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:20:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:21:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:22:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:23:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:24:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:25:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:26:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:27:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:28:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:29:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created b/a sprd last 6.8 6.85 74bp 6.85 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:30:47.964 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created b/a sprd last 6.82 6.83 15bp 6.83 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:31:47.964 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created b/a sprd last 6.82 6.83 15bp 6.83 pos 0.0
+0 2991 -> 0 Revise cutter: QTT 5-7 6:32:47.964 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created b/a sprd last 6.82 6.83 15bp 6.83 pos 0.0
+Shutdown status 5-7 6:33 Submitted QTT 5-7 0:00:40.443 2991 SELL DAY LMT 1400.0 6.78 BREACH_CUTTER Submitted
+Shutdown status 5-7 6:33 Created QTT 5-7 0:16:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:17:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:18:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:19:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:20:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:21:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:22:47.962 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:23:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:24:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:25:47.964 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:26:47.965 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:27:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:28:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:29:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:30:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:31:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:32:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:33:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:34:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:35:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:36:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:37:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:38:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:39:47.963 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:40:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:41:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:42:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:43:47.962 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:44:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:45:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:46:47.964 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:47:47.964 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:48:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:49:47.965 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:50:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:51:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:52:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:53:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:54:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:55:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:56:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:57:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:58:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 0:59:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:00:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:01:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:02:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:03:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:04:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:05:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:06:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:07:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:08:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:09:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:10:47.963 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:11:47.964 0 SELL IOC LMT 0.0 6.81 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:12:47.964 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:13:47.962 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:14:47.964 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:15:47.963 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:16:47.963 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:17:47.964 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:18:47.962 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:19:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:20:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:21:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:22:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:23:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:24:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:25:47.962 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:26:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:27:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:28:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:29:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:30:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:31:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:32:47.964 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:33:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:34:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:35:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:36:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:37:47.963 0 SELL IOC LMT 0.0 6.76 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:38:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:39:47.964 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:40:47.962 0 SELL IOC LMT 0.0 6.71 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:41:47.963 0 SELL IOC LMT 0.0 6.71 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:42:47.962 0 SELL IOC LMT 0.0 6.69 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:43:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:44:47.963 0 SELL IOC LMT 0.0 6.71 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:45:47.964 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:46:47.964 0 SELL IOC LMT 0.0 6.74 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:47:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:48:47.964 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:49:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:50:47.963 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:51:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:52:47.964 0 SELL IOC LMT 0.0 6.72 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:53:47.962 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:54:47.963 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:55:47.965 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:56:47.963 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:57:47.964 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:58:47.964 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 1:59:47.964 0 SELL IOC LMT 0.0 6.69 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:00:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:01:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:02:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:03:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:04:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:05:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:06:47.962 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:07:47.964 0 SELL IOC LMT 0.0 6.64 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:08:47.964 0 SELL IOC LMT 0.0 6.65 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:09:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:10:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:11:47.964 0 SELL IOC LMT 0.0 6.68 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:12:47.963 0 SELL IOC LMT 0.0 6.68 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:13:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:14:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:15:47.962 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:16:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:17:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:18:47.962 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:19:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:20:47.962 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:21:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:22:47.963 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:23:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:24:47.962 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:25:47.964 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:26:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:27:47.962 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:28:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:29:47.963 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:30:47.962 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:31:47.962 0 SELL IOC LMT 0.0 6.65 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:32:47.964 0 SELL IOC LMT 0.0 6.66 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:33:47.963 0 SELL IOC LMT 0.0 6.67 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:34:47.964 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:35:47.962 0 SELL IOC LMT 0.0 6.71 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:36:47.964 0 SELL IOC LMT 0.0 6.7 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:37:47.962 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:38:47.964 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:39:47.963 0 SELL IOC LMT 0.0 6.73 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:40:47.964 0 SELL IOC LMT 0.0 6.72 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:41:47.963 0 SELL IOC LMT 0.0 6.74 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:42:47.963 0 SELL IOC LMT 0.0 6.74 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:43:47.962 0 SELL IOC LMT 0.0 6.75 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:44:47.962 0 SELL IOC LMT 0.0 6.75 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:45:47.964 0 SELL IOC LMT 0.0 6.75 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:46:47.963 0 SELL IOC LMT 0.0 6.75 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:47:47.964 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:48:47.962 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:49:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:50:47.963 0 SELL IOC LMT 0.0 6.77 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:51:47.962 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:52:47.963 0 SELL IOC LMT 0.0 6.79 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:53:47.964 0 SELL IOC LMT 0.0 6.78 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:54:47.965 0 SELL IOC LMT 0.0 6.8 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:55:47.963 0 SELL IOC LMT 0.0 6.81 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:56:47.963 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:57:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:58:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 2:59:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:00:47.962 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:01:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:02:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:03:47.962 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:04:47.963 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:05:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:06:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:07:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:08:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:09:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:10:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:11:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:12:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:13:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:14:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:15:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:16:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:17:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:18:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:19:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:20:47.962 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:21:47.963 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:22:47.962 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:23:47.963 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:24:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:25:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:26:47.962 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:27:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:28:47.963 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:29:47.964 0 SELL IOC LMT 0.0 6.84 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:30:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:31:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:32:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:33:47.962 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:34:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:35:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:36:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:37:47.963 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:38:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:39:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:40:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:41:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:42:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:43:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:44:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:45:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:46:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:47:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:48:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:49:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:50:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:51:47.963 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:52:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:53:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:54:47.963 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:55:47.963 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:56:47.962 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:57:47.963 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:58:47.963 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 3:59:47.963 0 SELL IOC LMT 0.0 6.81 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:00:47.964 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:01:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:02:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:03:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:04:47.964 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:05:47.964 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:06:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:07:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:08:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:09:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:10:47.965 0 SELL IOC LMT 0.0 6.88 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:11:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:12:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:13:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:14:47.965 0 SELL IOC LMT 0.0 6.87 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:15:47.962 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:16:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:17:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:18:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:19:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:20:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:21:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:22:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:23:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:24:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:25:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:26:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:27:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:28:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:29:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:30:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:31:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:32:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:33:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:34:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:35:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:36:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:37:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:38:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:39:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:40:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:41:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:42:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:43:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:44:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:45:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:46:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:47:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:48:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:49:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:50:47.965 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:51:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:52:47.964 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:53:47.972 0 SELL IOC LMT 0.0 6.86 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:54:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:55:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:56:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:57:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:58:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 4:59:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:00:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:01:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:02:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:03:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:04:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:05:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:06:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:07:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:08:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:09:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:10:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:11:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:12:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:13:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:14:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:15:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:16:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:17:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:18:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:19:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:20:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:21:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:22:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:23:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:24:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:25:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:26:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:27:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:28:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:29:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:30:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:31:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:32:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:33:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:34:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:35:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:36:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:37:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:38:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:39:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:40:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:41:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:42:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:43:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:44:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:45:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:46:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:47:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:48:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:49:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:50:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:51:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:52:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:53:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:54:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:55:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:56:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:57:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:58:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 5:59:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:00:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:01:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:02:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:03:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:04:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:05:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:06:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:07:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:08:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:09:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:10:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:11:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:12:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:13:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:14:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:15:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:16:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:17:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:18:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:19:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:20:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:21:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:22:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:23:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:24:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:25:47.965 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:26:47.963 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:27:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:28:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:29:47.964 0 SELL IOC LMT 0.0 6.85 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:30:47.964 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:31:47.964 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created
+Shutdown status 5-7 6:33 Created QTT 5-7 6:32:47.964 0 SELL IOC LMT 0.0 6.83 BREACH_CUTTER Created

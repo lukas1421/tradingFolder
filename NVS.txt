@@ -414,3 +414,7 @@ delta impact check PASSED  110707
 ******** 5-3 22:42
 2678 107 ADDER BUY: NVS 5-3 22:42:41.599 2678 BUY DAY LMT 200.0 82.05 BREACH_ADDER Created yOpen 75.49 mOpen 82.23 prevClose 82.3 p/b/a 82.31 82.3 82.32 devFromMaxOpen 0.001
 Shutdown status 5-4 9:33 Submitted NVS 5-3 22:42:41.599 2678 BUY DAY LMT 200.0 82.05 BREACH_ADDER Submitted
+delta impact check PASSED  111709
+******** 5-7 0:07
+2992 377 ADDER BUY: NVS 5-7 0:07:49.931 2992 BUY DAY LMT 200.0 82.33 BREACH_ADDER Created yOpen:75.49 mOpen:82.23 prevClose 82.23 p/b/a 82.52 82.5 82.52 devFromMaxOpen 0.0035
+Shutdown status 5-7 6:33 Submitted NVS 5-7 0:07:49.931 2992 BUY DAY LMT 200.0 82.33 BREACH_ADDER Submitted

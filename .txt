@@ -1642,3 +1642,2505 @@
 2019-05-03T22:23:35.261
 2019-05-03T22:23:35.262
 2019-05-03T22:23:35.261
+2019-05-06T07:47:52.310
+2019-05-06T07:47:52.310
+2019-05-06T07:47:52.311
+2019-05-06T07:47:52.310
+2019-05-06T07:47:52.311
+2019-05-06T07:47:52.310
+2019-05-06T20:42:50.595
+2019-05-06T20:42:50.595
+2019-05-06T20:42:50.596
+2019-05-06T20:42:50.595
+2019-05-06T20:42:50.596
+2019-05-06T20:42:50.595
+2019-05-06T21:55:49.866
+2019-05-06T21:55:49.866
+2019-05-06T21:55:49.866
+2019-05-06T21:55:49.866
+2019-05-06T21:55:49.867
+2019-05-06T21:55:49.866
+2019-05-06T22:26:05.948
+ quantity/price problem  NKTR BUY 31.85 0.0
+2019-05-06T22:26:05.978
+ quantity/price problem  NKTR BUY 31.85 0.0
+2019-05-06T22:26:05.978
+ quantity/price problem  NKTR BUY 31.85 0.0
+2019-05-06T22:27:05.553
+ quantity/price problem  NKTR BUY 31.85 0.0
+2019-05-06T22:27:05.553
+ quantity/price problem  NKTR BUY 31.85 0.0
+2019-05-06T22:27:05.553
+ quantity/price problem  NKTR BUY 31.85 0.0
+2019-05-07T00:16:47.972
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:16:47.982
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:16:47.982
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:17:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:17:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:17:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:18:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:18:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:18:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:19:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:19:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:19:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:20:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:20:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:20:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:21:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:21:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:21:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:22:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:22:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:22:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:23:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:23:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:23:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:24:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:24:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:24:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:25:47.964
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T00:25:47.964
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T00:25:47.964
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T00:26:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:26:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:26:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:27:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:27:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:27:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:28:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:28:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:28:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:29:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:29:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:29:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:30:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:30:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:30:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:31:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:31:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:31:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T00:32:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:32:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:32:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:33:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:33:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:33:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:34:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:34:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:34:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:35:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:35:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:35:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:36:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:36:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:36:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:37:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:37:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:37:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:38:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:38:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:38:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:39:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T00:39:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T00:39:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T00:40:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:40:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:40:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:41:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:41:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:41:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:42:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:42:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:42:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:43:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:43:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:43:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:44:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:44:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:44:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:45:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:45:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:45:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:46:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T00:46:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T00:46:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T00:47:47.964
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T00:47:47.964
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T00:47:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T00:48:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:48:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:48:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:49:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:49:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:49:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:50:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:50:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:50:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:51:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:51:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:51:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T00:52:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:52:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:52:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:53:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:53:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:53:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:54:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:54:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:54:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:55:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:55:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:55:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:56:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:56:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:56:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:57:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:57:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:57:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:58:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:58:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:58:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:59:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:59:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T00:59:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:00:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:00:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:00:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:01:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:01:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:01:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:02:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:02:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:02:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:03:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:03:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:03:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:04:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:04:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:04:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:05:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:05:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:05:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:06:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:06:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:06:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:07:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:07:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:07:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:08:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:08:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:08:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:09:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:09:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:09:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:10:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:10:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:10:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:11:47.965
+ quantity/price problem  QTT SELL 6.81 0.0
+2019-05-07T01:11:47.965
+ quantity/price problem  QTT SELL 6.81 0.0
+2019-05-07T01:11:47.965
+ quantity/price problem  QTT SELL 6.81 0.0
+2019-05-07T01:12:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T01:12:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T01:12:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T01:13:47.963
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T01:13:47.963
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T01:13:47.963
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T01:14:47.964
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:14:47.965
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:14:47.965
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:15:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:15:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:15:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:16:47.964
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:16:47.964
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:16:47.964
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:17:47.965
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:17:47.965
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:17:47.965
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T01:18:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:18:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:18:47.963
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T01:19:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:19:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:19:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:20:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:20:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:20:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:21:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:21:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:21:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:22:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:22:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:22:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:23:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:23:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:23:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:24:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:24:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:24:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:25:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:25:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:25:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:26:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:26:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:26:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:27:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:27:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:27:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:28:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:28:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:28:47.964
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:29:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:29:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:29:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:30:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:30:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:30:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:31:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:31:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:31:47.965
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:32:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:32:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:32:47.964
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:33:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:33:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:33:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:34:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:34:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:34:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:35:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:35:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:35:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:36:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:36:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:36:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T01:37:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:37:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:37:47.963
+ quantity/price problem  QTT SELL 6.76 0.0
+2019-05-07T01:38:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:38:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:38:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:39:47.965
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:39:47.965
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:39:47.965
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:40:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T01:40:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T01:40:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T01:41:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T01:41:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T01:41:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T01:42:47.963
+ quantity/price problem  QTT SELL 6.69 0.0
+2019-05-07T01:42:47.963
+ quantity/price problem  QTT SELL 6.69 0.0
+2019-05-07T01:42:47.963
+ quantity/price problem  QTT SELL 6.69 0.0
+2019-05-07T01:43:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T01:43:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T01:43:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T01:44:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T01:44:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T01:44:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T01:45:47.969
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:45:47.970
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:45:47.971
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:46:47.965
+ quantity/price problem  QTT SELL 6.74 0.0
+2019-05-07T01:46:47.965
+ quantity/price problem  QTT SELL 6.74 0.0
+2019-05-07T01:46:47.965
+ quantity/price problem  QTT SELL 6.74 0.0
+2019-05-07T01:47:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:47:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:47:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:48:47.965
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:48:47.965
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:48:47.965
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:49:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:49:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:49:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:50:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:50:47.964
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:50:47.964
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:51:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:51:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:51:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T01:52:47.965
+ quantity/price problem  QTT SELL 6.72 0.0
+2019-05-07T01:52:47.965
+ quantity/price problem  QTT SELL 6.72 0.0
+2019-05-07T01:52:47.965
+ quantity/price problem  QTT SELL 6.72 0.0
+2019-05-07T01:53:47.963
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:53:47.963
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:53:47.963
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:54:47.963
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:54:47.963
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:54:47.963
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:55:47.965
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:55:47.965
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:55:47.966
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:56:47.963
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:56:47.963
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:56:47.963
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:57:47.965
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:57:47.965
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:57:47.965
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:58:47.965
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:58:47.965
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:58:47.965
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T01:59:47.964
+ quantity/price problem  QTT SELL 6.69 0.0
+2019-05-07T01:59:47.964
+ quantity/price problem  QTT SELL 6.69 0.0
+2019-05-07T01:59:47.964
+ quantity/price problem  QTT SELL 6.69 0.0
+2019-05-07T02:00:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:00:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:00:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:01:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:01:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:01:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:02:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:02:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:02:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:03:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:03:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:03:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:04:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:04:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:04:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:05:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:05:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:05:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:06:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:06:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:06:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:07:47.964
+ quantity/price problem  QTT SELL 6.64 0.0
+2019-05-07T02:07:47.964
+ quantity/price problem  QTT SELL 6.64 0.0
+2019-05-07T02:07:47.965
+ quantity/price problem  QTT SELL 6.64 0.0
+2019-05-07T02:08:47.964
+ quantity/price problem  QTT SELL 6.65 0.0
+2019-05-07T02:08:47.964
+ quantity/price problem  QTT SELL 6.65 0.0
+2019-05-07T02:08:47.965
+ quantity/price problem  QTT SELL 6.65 0.0
+2019-05-07T02:09:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:09:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:09:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:10:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:10:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:10:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:11:47.964
+ quantity/price problem  QTT SELL 6.68 0.0
+2019-05-07T02:11:47.964
+ quantity/price problem  QTT SELL 6.68 0.0
+2019-05-07T02:11:47.964
+ quantity/price problem  QTT SELL 6.68 0.0
+2019-05-07T02:12:47.964
+ quantity/price problem  QTT SELL 6.68 0.0
+2019-05-07T02:12:47.964
+ quantity/price problem  QTT SELL 6.68 0.0
+2019-05-07T02:12:47.964
+ quantity/price problem  QTT SELL 6.68 0.0
+2019-05-07T02:13:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:13:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:13:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:14:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:14:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:14:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:15:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:15:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:15:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:16:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:16:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:16:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:17:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:17:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:17:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:18:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:18:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:18:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:19:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:19:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:19:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:20:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:20:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:20:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:21:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:21:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:21:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:22:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:22:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:22:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:23:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:23:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:23:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:24:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:24:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:24:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:25:47.964
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:25:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:25:47.965
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:26:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:26:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:26:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:27:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:27:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:27:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:28:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:28:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:28:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:29:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:29:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:29:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:30:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:30:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:30:47.963
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:31:47.963
+ quantity/price problem  QTT SELL 6.65 0.0
+2019-05-07T02:31:47.963
+ quantity/price problem  QTT SELL 6.65 0.0
+2019-05-07T02:31:47.963
+ quantity/price problem  QTT SELL 6.65 0.0
+2019-05-07T02:32:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:32:47.964
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:32:47.965
+ quantity/price problem  QTT SELL 6.66 0.0
+2019-05-07T02:33:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:33:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:33:47.963
+ quantity/price problem  QTT SELL 6.67 0.0
+2019-05-07T02:34:47.964
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:34:47.964
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:34:47.964
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:35:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T02:35:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T02:35:47.963
+ quantity/price problem  QTT SELL 6.71 0.0
+2019-05-07T02:36:47.964
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T02:36:47.964
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T02:36:47.965
+ quantity/price problem  QTT SELL 6.7 0.0
+2019-05-07T02:37:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:37:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:37:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:38:47.965
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:38:47.965
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:38:47.965
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:39:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:39:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:39:47.963
+ quantity/price problem  QTT SELL 6.73 0.0
+2019-05-07T02:40:47.964
+ quantity/price problem  QTT SELL 6.72 0.0
+2019-05-07T02:40:47.964
+ quantity/price problem  QTT SELL 6.72 0.0
+2019-05-07T02:40:47.965
+ quantity/price problem  QTT SELL 6.72 0.0
+2019-05-07T02:41:47.963
+ quantity/price problem  QTT SELL 6.74 0.0
+2019-05-07T02:41:47.963
+ quantity/price problem  QTT SELL 6.74 0.0
+2019-05-07T02:41:47.963
+ quantity/price problem  QTT SELL 6.74 0.0
+2019-05-07T02:42:47.963
+ quantity/price problem  QTT SELL 6.74 0.0
+2019-05-07T02:42:47.963
+ quantity/price problem  QTT SELL 6.74 0.0
+2019-05-07T02:42:47.963
+ quantity/price problem  QTT SELL 6.74 0.0
+2019-05-07T02:43:47.963
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:43:47.963
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:43:47.963
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:44:47.963
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:44:47.963
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:44:47.963
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:45:47.964
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:45:47.965
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:45:47.965
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:46:47.963
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:46:47.963
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:46:47.963
+ quantity/price problem  QTT SELL 6.75 0.0
+2019-05-07T02:47:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:47:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:47:47.965
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:48:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:48:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:48:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:49:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:49:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:49:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:50:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:50:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:50:47.963
+ quantity/price problem  QTT SELL 6.77 0.0
+2019-05-07T02:51:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T02:51:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T02:51:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T02:52:47.963
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T02:52:47.964
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T02:52:47.964
+ quantity/price problem  QTT SELL 6.79 0.0
+2019-05-07T02:53:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T02:53:47.964
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T02:53:47.965
+ quantity/price problem  QTT SELL 6.78 0.0
+2019-05-07T02:54:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T02:54:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T02:54:47.965
+ quantity/price problem  QTT SELL 6.8 0.0
+2019-05-07T02:55:47.963
+ quantity/price problem  QTT SELL 6.81 0.0
+2019-05-07T02:55:47.963
+ quantity/price problem  QTT SELL 6.81 0.0
+2019-05-07T02:55:47.963
+ quantity/price problem  QTT SELL 6.81 0.0
+2019-05-07T02:56:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T02:56:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T02:56:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T02:57:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T02:57:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T02:57:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T02:58:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T02:58:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T02:58:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T02:59:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T02:59:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T02:59:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:00:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:00:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:00:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:01:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:01:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:01:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:02:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:02:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:02:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:03:47.963
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T03:03:47.963
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T03:03:47.963
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T03:04:47.963
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T03:04:47.963
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T03:04:47.963
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T03:05:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:05:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:05:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:06:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:06:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:06:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:07:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:07:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:07:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:08:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:08:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:08:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:09:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:09:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:09:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:10:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:10:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:10:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:11:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:11:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:11:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:12:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:12:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:12:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:13:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:13:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:13:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:14:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:14:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:14:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:15:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:15:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:15:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:16:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:16:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:16:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:17:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:17:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:17:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:18:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:18:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:18:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:19:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:19:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:19:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:20:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:20:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:20:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:21:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:21:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:21:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:22:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:22:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:22:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:23:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:23:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:23:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:24:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:24:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:24:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:25:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:25:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:25:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:26:47.963
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T03:26:47.963
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T03:26:47.963
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T03:27:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:27:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:27:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:28:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:28:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:28:47.963
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:29:47.965
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:29:47.965
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:29:47.965
+ quantity/price problem  QTT SELL 6.84 0.0
+2019-05-07T03:30:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:30:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:30:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:31:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:31:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:31:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:32:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:32:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:32:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:33:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:33:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:33:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:34:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:34:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:34:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:35:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:35:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:35:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T03:36:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:36:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:36:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:37:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:37:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:37:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:38:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:38:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:38:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:39:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:39:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:39:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:40:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:40:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:40:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:41:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:41:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:41:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:42:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:42:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:42:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:43:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:43:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:43:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:44:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:44:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:44:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:45:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:45:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:45:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:46:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:46:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:46:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:47:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:47:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:47:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:48:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:48:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:48:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:49:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:49:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:49:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:50:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:50:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:50:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:51:47.964
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:51:47.964
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:51:47.964
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:52:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:52:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:52:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:53:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:53:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:53:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:54:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:54:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:54:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:55:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:55:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:55:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:56:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:56:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:56:47.963
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T03:57:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:57:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:57:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T03:58:47.963
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T03:58:47.963
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T03:58:47.963
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T03:59:47.963
+ quantity/price problem  QTT SELL 6.81 0.0
+2019-05-07T03:59:47.963
+ quantity/price problem  QTT SELL 6.81 0.0
+2019-05-07T03:59:47.963
+ quantity/price problem  QTT SELL 6.81 0.0
+2019-05-07T04:00:47.964
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:00:47.964
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:00:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:01:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:01:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:01:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:02:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:02:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:02:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:03:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:03:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:03:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:04:47.964
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:04:47.964
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:04:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:05:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:05:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:05:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:06:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:06:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:06:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:07:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:07:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:07:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:08:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:08:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:08:47.966
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:09:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:09:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:09:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:10:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:10:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:10:47.965
+ quantity/price problem  QTT SELL 6.88 0.0
+2019-05-07T04:11:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:11:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:11:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:12:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:12:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:12:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:13:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:13:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:13:47.966
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:14:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:14:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:14:47.965
+ quantity/price problem  QTT SELL 6.87 0.0
+2019-05-07T04:15:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:15:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:15:47.963
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:16:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:16:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:16:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:17:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:17:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:17:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:18:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:18:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:18:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:19:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:19:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:19:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:20:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:20:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:20:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:21:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:21:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:21:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:22:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:22:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:22:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:23:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:23:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:23:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:24:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:24:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:24:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:25:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:25:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:25:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:26:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:26:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:26:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:27:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:27:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:27:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:28:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:28:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:28:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:29:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:29:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:29:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:30:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:30:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:30:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:31:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:31:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:31:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:32:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:32:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:32:47.966
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:33:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:33:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:33:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:34:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:34:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:34:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:35:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:35:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:35:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:36:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:36:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:36:47.964
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:37:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:37:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:37:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:38:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:38:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:38:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:39:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:39:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:39:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:40:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:40:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:40:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:41:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:41:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:41:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:42:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:42:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:42:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:43:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:43:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:43:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:44:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:44:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:44:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:45:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:45:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:45:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:46:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:46:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:46:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:47:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:47:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:47:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:48:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:48:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:48:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:49:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:49:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:49:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:50:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:50:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:50:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:51:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:51:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:51:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:52:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:52:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:52:47.965
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:53:47.972
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:53:47.972
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:53:47.973
+ quantity/price problem  QTT SELL 6.86 0.0
+2019-05-07T04:54:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:54:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:54:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:55:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:55:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:55:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:56:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:56:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:56:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:57:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:57:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:57:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:58:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:58:47.966
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:58:47.966
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:59:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:59:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T04:59:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:00:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:00:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:00:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:01:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:01:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:01:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:02:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:02:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:02:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:03:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:03:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:03:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:04:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:04:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:04:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:05:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:05:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:05:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:06:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:06:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:06:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:07:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:07:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:07:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:08:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:08:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:08:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:09:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:09:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:09:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:10:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:10:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:10:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:11:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:11:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:11:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:12:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:12:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:12:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:13:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:13:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:13:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:14:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:14:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:14:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:15:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:15:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:15:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:16:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:16:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:16:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:17:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:17:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:17:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:18:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:18:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:18:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:19:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:19:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:19:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:20:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:20:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:20:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:21:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:21:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:21:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:22:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:22:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:22:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:23:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:23:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:23:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:24:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:24:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:24:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:25:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:25:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:25:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:26:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:26:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:26:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:27:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:27:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:27:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:28:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:28:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:28:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:29:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:29:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:29:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:30:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:30:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:30:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:31:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:31:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:31:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:32:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:32:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:32:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:33:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:33:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:33:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:34:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:34:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:34:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:35:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:35:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:35:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:36:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:36:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:36:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:37:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:37:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:37:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:38:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:38:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:38:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:39:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:39:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:39:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:40:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:40:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:40:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:41:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:41:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:41:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:42:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:42:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:42:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:43:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:43:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:43:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:44:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:44:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:44:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:45:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:45:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:45:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:46:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:46:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:46:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:47:47.964
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:47:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:47:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:48:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:48:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:48:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:49:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:49:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:49:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:50:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:50:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:50:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:51:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:51:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:51:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:52:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:52:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:52:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:53:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:53:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:53:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:54:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:54:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:54:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:55:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:55:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:55:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:56:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:56:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:56:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:57:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:57:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:57:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:58:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:58:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:58:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:59:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:59:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T05:59:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:00:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:00:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:00:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:01:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:01:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:01:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:02:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:02:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:02:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:03:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:03:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:03:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:04:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:04:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:04:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:05:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:05:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:05:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:06:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:06:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:06:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:07:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:07:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:07:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:08:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:08:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:08:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:09:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:09:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:09:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:10:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:10:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:10:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:11:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:11:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:11:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:12:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:12:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:12:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:13:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:13:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:13:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:14:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:14:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:14:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:15:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:15:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:15:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:16:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:16:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:16:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:17:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:17:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:17:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:18:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:18:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:18:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:19:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:19:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:19:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:20:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:20:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:20:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:21:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:21:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:21:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:22:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:22:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:22:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:23:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:23:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:23:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:24:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:24:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:24:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:25:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:25:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:25:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:26:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:26:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:26:47.963
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:27:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:27:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:27:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:28:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:28:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:28:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:29:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:29:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:29:47.965
+ quantity/price problem  QTT SELL 6.85 0.0
+2019-05-07T06:30:47.965
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T06:30:47.965
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T06:30:47.965
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T06:31:47.965
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T06:31:47.965
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T06:31:47.965
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T06:32:47.965
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T06:32:47.965
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T06:32:47.965
+ quantity/price problem  QTT SELL 6.83 0.0
+2019-05-07T08:47:33.362
+2019-05-07T08:47:33.362
+2019-05-07T08:47:33.364
+2019-05-07T08:47:33.362
+2019-05-07T08:47:33.365
+2019-05-07T08:47:33.362
+2019-05-07T08:55:28.499
+2019-05-07T08:55:28.499
+2019-05-07T08:55:28.501
+2019-05-07T08:55:28.499
+2019-05-07T08:55:28.502
+2019-05-07T08:55:28.499
+2019-05-07T22:51:18.663
+2019-05-07T22:51:18.663
+2019-05-07T22:51:18.664
+2019-05-07T22:51:18.663
+2019-05-07T22:51:18.664
+2019-05-07T22:51:18.663
+2019-05-08T07:54:14.400
+2019-05-08T07:54:14.400
+2019-05-08T07:54:14.401
+2019-05-08T07:54:14.400
+2019-05-08T07:54:14.401
+2019-05-08T07:54:14.400
+2019-05-08T08:59:25.733
+2019-05-08T08:59:25.733
+2019-05-08T08:59:25.736
+2019-05-08T08:59:25.733
+2019-05-08T08:59:25.736
+2019-05-08T08:59:25.733
+2019-05-09T08:15:05.666
+2019-05-09T08:15:05.665
+2019-05-09T08:15:05.668
+2019-05-09T08:15:05.665
+2019-05-09T08:15:05.669
+2019-05-09T08:15:05.665
+2019-05-09T09:11:44.369
+2019-05-09T09:11:44.369
+2019-05-09T09:11:44.370
+2019-05-09T09:11:44.369
+2019-05-09T09:11:44.370
+2019-05-09T09:11:44.369
+2019-05-09T09:12:42.401
+2019-05-09T09:12:42.401
+2019-05-09T09:12:42.402
+2019-05-09T09:12:42.401
+2019-05-09T09:12:42.402
+2019-05-09T09:12:42.401
+2019-05-09T20:08:37.900
+2019-05-09T20:08:37.900
+2019-05-09T20:08:37.901
+2019-05-09T20:08:37.900
+2019-05-09T20:08:37.901
+2019-05-09T20:08:37.900
+2019-05-09T21:35:27.591
+2019-05-09T21:35:27.591
+2019-05-09T21:35:27.595
+2019-05-09T21:35:27.591
+2019-05-09T21:35:27.595
+2019-05-09T21:35:27.591
+2019-05-10T09:05:44.923
+2019-05-10T09:05:44.922
+2019-05-10T09:05:44.927
+2019-05-10T09:05:44.922
+2019-05-10T09:05:44.927
+2019-05-10T09:05:44.922
+2019-05-10T22:02:34.931
+2019-05-10T22:02:34.931
+2019-05-10T22:02:34.933
+2019-05-10T22:02:34.931
+2019-05-10T22:02:34.934
+2019-05-10T22:02:34.931
+2019-05-10T22:52:27.978
+2019-05-10T22:52:27.978
+2019-05-10T22:52:27.981
+2019-05-10T22:52:27.978
+2019-05-10T22:52:27.981
+2019-05-10T22:52:27.978
+2019-05-10T22:54:11.084
+2019-05-10T22:54:11.083
+2019-05-10T22:54:11.087
+2019-05-10T22:54:11.083
+2019-05-10T22:54:11.088
+2019-05-10T22:54:11.083
+2019-05-13T07:41:05.732
+2019-05-13T07:41:05.732
+2019-05-13T07:41:05.735
+2019-05-13T07:41:05.732
+2019-05-13T07:41:05.735
+2019-05-13T07:41:05.732
+2019-05-13T07:44:50.194
+2019-05-13T07:44:50.194
+2019-05-13T07:44:50.197
+2019-05-13T07:44:50.194
+2019-05-13T07:44:50.197
+2019-05-13T07:44:50.194
+2019-05-13T09:33:41.428
+2019-05-13T09:33:41.427
+2019-05-13T09:33:41.429
+2019-05-13T09:33:41.427
+2019-05-13T09:33:41.429
+2019-05-13T09:33:41.427
+2019-05-13T09:43:55.363
+2019-05-13T09:43:55.363
+2019-05-13T09:43:55.366
+2019-05-13T09:43:55.363
+2019-05-13T09:43:55.366
+2019-05-13T09:43:55.363
+2019-05-13T10:27:18.574
+2019-05-13T10:27:18.574
+2019-05-13T10:27:18.576
+2019-05-13T10:27:18.574
+2019-05-13T10:27:18.577
+2019-05-13T10:27:18.574
+2019-05-13T10:30:01.524
+2019-05-13T10:30:01.524
+2019-05-13T10:30:01.527
+2019-05-13T10:30:01.524
+2019-05-13T10:30:01.528
+2019-05-13T10:30:01.524
+2019-05-13T21:32:49.202
+2019-05-13T21:32:49.202
+2019-05-13T21:32:49.203
+2019-05-13T21:32:49.202
+2019-05-13T21:32:49.204
+2019-05-13T21:32:49.202
+2019-05-13T22:07:02.302
+2019-05-13T22:07:02.302
+2019-05-13T22:07:02.303
+2019-05-13T22:07:02.302
+2019-05-13T22:07:02.303
+2019-05-13T22:07:02.302
+2019-05-14T04:00:35.351
+2019-05-14T04:00:35.351
+2019-05-14T04:00:35.353
+2019-05-14T04:00:35.351
+2019-05-14T04:00:35.354
+2019-05-14T04:00:35.351
+2019-05-14T05:44:40.592
+2019-05-14T05:44:40.592
+2019-05-14T05:44:40.594
+2019-05-14T05:44:40.592
+2019-05-14T05:44:40.595
+2019-05-14T05:44:40.592
+2019-05-14T08:01:19.131
+2019-05-14T08:01:19.131
+2019-05-14T08:01:19.134
+2019-05-14T08:01:19.131
+2019-05-14T08:01:19.134
+2019-05-14T08:01:19.131
+2019-05-14T08:32:17.230
+2019-05-14T08:32:17.230
+2019-05-14T08:32:17.232
+2019-05-14T08:32:17.230
+2019-05-14T08:32:17.232
+2019-05-14T08:32:17.230
+2019-05-14T16:37:19.104
+2019-05-14T16:37:19.104
+2019-05-14T16:37:19.105
+2019-05-14T16:37:19.104
+2019-05-14T16:37:19.105
+2019-05-14T16:37:19.104
+2019-05-14T20:20:30.471
+2019-05-14T20:20:30.471
+2019-05-14T20:20:30.474
+2019-05-14T20:20:30.471
+2019-05-14T20:20:30.474
+2019-05-14T20:20:30.471
+2019-05-14T21:28:26.145
+2019-05-14T21:28:26.145
+2019-05-14T21:28:26.146
+2019-05-14T21:28:26.145
+2019-05-14T21:28:26.146
+2019-05-14T21:28:26.145
+2019-05-15T04:46:10.977
+2019-05-15T04:46:10.977
+2019-05-15T04:46:10.978
+2019-05-15T04:46:10.977
+2019-05-15T04:46:10.978
+2019-05-15T04:46:10.977
+2019-05-15T09:03:32.585
+2019-05-15T09:03:32.585
+2019-05-15T09:03:32.589
+2019-05-15T09:03:32.585
+2019-05-15T09:03:32.589
+2019-05-15T09:03:32.585
+2019-05-15T09:05:51.955
+2019-05-15T09:05:51.955
+2019-05-15T09:05:51.956
+2019-05-15T09:05:51.955
+2019-05-15T09:05:51.956
+2019-05-15T09:05:51.955
+2019-05-15T09:41:02.284
+2019-05-15T09:41:02.284
+2019-05-15T09:41:02.287
+2019-05-15T09:41:02.284
+2019-05-15T09:41:02.287
+2019-05-15T09:41:02.284
+2019-05-15T10:42:43.438
+2019-05-15T10:42:43.438
+2019-05-15T10:42:43.440
+2019-05-15T10:42:43.438
+2019-05-15T10:42:43.440
+2019-05-15T10:42:43.438
+2019-05-15T10:44:57.231
+2019-05-15T10:44:57.231
+2019-05-15T10:44:57.234
+2019-05-15T10:44:57.231
+2019-05-15T10:44:57.234
+2019-05-15T10:44:57.231
