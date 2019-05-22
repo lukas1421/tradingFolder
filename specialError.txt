@@ -2069,3 +2069,319 @@
  globally cancelling order 
 2019-05-16T07:45:46.256 GXBT 132 GXBT 5-16 7:45:16.206 2367 SELL IOC LMT 1.0 8275.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1.0 0.0
 2019-05-16T07:45:46.259 GXBT 132 GXBT 5-16 7:45:16.206 2367 SELL IOC LMT 1.0 8275.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+2019-05-16T12:44:32.356 GXBT 109 GXBT 5-16 12:44:31.934 2378 SELL IOC LMT 1.0 7975.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1.0 0.0
+2019-05-16T12:44:32.358 GXBT 109 GXBT 5-16 12:44:31.934 2378 SELL IOC LMT 1.0 7975.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 1.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-16T21:30:21.789 COP 188 COP 5-16 21:30:21.516 2468 BUY IOC LMT 200.0 62.69 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T21:30:21.806 COP 188 COP 5-16 21:30:21.516 2468 BUY IOC LMT 200.0 62.69 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T21:30:50.388 WFC 214 WFC 5-16 21:30:50.108 2494 BUY IOC LMT 300.0 46.1 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 -200.0
+2019-05-16T21:30:50.390 WFC 214 WFC 5-16 21:30:50.108 2494 BUY IOC LMT 300.0 46.1 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-16T21:30:50.400 WFC 214 WFC 5-16 21:30:50.108 2494 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-16T21:30:50.400 WFC 214 WFC 5-16 21:30:50.108 2494 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-16T21:30:50.428 WFC 214 WFC 5-16 21:30:50.108 2494 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-16T21:30:50.443 WFC 214 WFC 5-16 21:30:50.108 2494 BUY IOC LMT 300.0 46.1 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-16T21:33:55.230 WMT 355 WMT 5-16 21:33:54.964 2635 SELL IOC LMT 100.0 102.45 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-16T21:33:55.242 WMT 355 WMT 5-16 21:33:54.964 2635 SELL IOC LMT 100.0 102.45 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-16T21:35:35.827 UBER 426 UBER 5-16 21:35:35.521 2706 BUY IOC LMT 300.0 42.15 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-16T21:35:35.830 UBER 426 UBER 5-16 21:35:35.521 2706 BUY IOC LMT 300.0 42.15 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-16T21:39:51.127 ABBV 487 ABBV 5-16 21:39:11.121 2767 BUY IOC LMT 200.0 79.38 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-16T21:39:51.132 ABBV 487 ABBV 5-16 21:39:11.121 2767 BUY IOC LMT 200.0 79.38 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-16T21:39:51.133 ABBV 487 ABBV 5-16 21:39:11.121 2767 BUY IOC LMT 200.0 79.38 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-16T21:39:51.142 ABBV 487 ABBV 5-16 21:39:11.121 2767 BUY IOC LMT 200.0 79.38 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T21:39:51.142 ABBV 487 ABBV 5-16 21:39:11.121 2767 BUY IOC LMT 200.0 79.38 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T21:39:51.158 ABBV 487 ABBV 5-16 21:39:11.121 2767 BUY IOC LMT 200.0 79.38 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T21:56:49.745 VZ 639 VZ 5-16 21:56:49.458 2919 SELL IOC LMT 200.0 57.17 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 141.0
+2019-05-16T21:56:49.749 VZ 639 VZ 5-16 21:56:49.458 2919 SELL IOC LMT 200.0 57.17 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T21:56:49.750 VZ 639 VZ 5-16 21:56:49.458 2919 SELL IOC LMT 200.0 57.17 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T21:56:49.751 VZ 639 VZ 5-16 21:56:49.458 2919 SELL IOC LMT 200.0 57.17 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T23:47:16.099 CSCO 650 CSCO 5-16 23:47:15.825 2930 SELL IOC LMT 200.0 55.93 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 124.0
+2019-05-16T23:47:16.115 CSCO 650 CSCO 5-16 23:47:15.825 2930 SELL IOC LMT 200.0 55.93 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 24.0
+2019-05-16T23:47:16.117 CSCO 650 CSCO 5-16 23:47:15.825 2930 SELL IOC LMT 200.0 55.93 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T23:47:16.117 CSCO 650 CSCO 5-16 23:47:15.825 2930 SELL IOC LMT 200.0 55.93 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T23:47:16.146 CSCO 650 CSCO 5-16 23:47:15.825 2930 SELL IOC LMT 200.0 55.93 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-16T23:47:16.174 CSCO 650 CSCO 5-16 23:47:15.825 2930 SELL IOC LMT 200.0 55.93 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-17T02:23:57.824 CAT 840 CAT 5-17 2:23:57.527 3120 BUY IOC LMT 100.0 127.43 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-17T02:23:57.825 CAT 840 CAT 5-17 2:23:57.527 3120 BUY IOC LMT 100.0 127.43 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-17T03:31:46.546 V 893 V 5-17 3:31:46.252 3173 SELL IOC LMT 100.0 164.68 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-17T03:31:46.547 V 893 V 5-17 3:31:46.252 3173 SELL IOC LMT 100.0 164.68 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-17T21:30:34.449 PYPL 179 PYPL 5-17 21:30:34.083 2318 SELL IOC LMT 100.0 112.91 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-17T21:30:34.507 PYPL 179 PYPL 5-17 21:30:34.083 2318 SELL IOC LMT 100.0 112.91 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ cancelling order in Apicontroller 2254
+2019-05-17T21:31:05.011 UBER 236 UBER 5-17 21:31:4.603 2375 SELL IOC LMT 40.0 41.83 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 40.0 0.0
+2019-05-17T21:31:05.041 UBER 236 UBER 5-17 21:31:4.603 2375 SELL IOC LMT 40.0 41.83 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 40.0 0.0
+2019-05-17T22:10:19.102 LLY 336 LLY 5-17 22:10:18.705 2475 BUY IOC LMT 100.0 115.64 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-17T22:10:19.102 LLY 336 LLY 5-17 22:10:18.705 2475 BUY IOC LMT 100.0 115.64 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-17T22:26:39.658 CMCSA 345 CMCSA 5-17 22:26:39.279 2484 SELL IOC LMT 300.0 43.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-17T22:26:39.719 CMCSA 345 CMCSA 5-17 22:26:39.279 2484 SELL IOC LMT 300.0 43.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-17T22:27:32.675 COP 375 COP 5-17 22:27:32.193 2514 BUY IOC LMT 200.0 62.38 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-17T22:27:32.689 COP 375 COP 5-17 22:27:32.193 2514 BUY IOC LMT 200.0 62.38 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-17T22:27:32.691 COP 375 COP 5-17 22:27:32.193 2514 BUY IOC LMT 200.0 62.38 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-17T22:27:32.696 COP 375 COP 5-17 22:27:32.193 2514 BUY IOC LMT 200.0 62.38 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-17T22:27:32.697 COP 375 COP 5-17 22:27:32.193 2514 BUY IOC LMT 200.0 62.38 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-17T22:27:32.735 COP 375 COP 5-17 22:27:32.193 2514 BUY IOC LMT 200.0 62.38 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-17T22:54:44.310 WFC 701 WFC 5-17 22:54:43.946 2840 BUY IOC LMT 300.0 46.09 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 -200.0
+2019-05-17T22:54:44.314 WFC 701 WFC 5-17 22:54:43.946 2840 BUY IOC LMT 300.0 46.09 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-17T22:54:44.333 WFC 701 WFC 5-17 22:54:43.946 2840 BUY IOC LMT 300.0 46.09 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-17T22:54:44.334 WFC 701 WFC 5-17 22:54:43.946 2840 BUY IOC LMT 300.0 46.09 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-17T22:54:44.335 WFC 701 WFC 5-17 22:54:43.946 2840 BUY IOC LMT 300.0 46.09 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-17T22:54:44.337 WFC 701 WFC 5-17 22:54:43.946 2840 BUY IOC LMT 300.0 46.09 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-17T22:56:01.411 MRK 702 MRK 5-17 22:56:0.940 2841 SELL IOC LMT 200.0 78.51 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-17T22:56:01.412 MRK 702 MRK 5-17 22:56:0.940 2841 SELL IOC LMT 200.0 78.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-17T22:56:01.413 MRK 702 MRK 5-17 22:56:0.940 2841 SELL IOC LMT 200.0 78.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-17T22:56:01.413 MRK 702 MRK 5-17 22:56:0.940 2841 SELL IOC LMT 200.0 78.51 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-17T22:58:01.581 NKTR 794 NKTR 5-17 22:58:1.171 2933 BUY IOC LMT 400.0 31.8 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 400.0 -200.0
+2019-05-17T22:58:01.586 NKTR 794 NKTR 5-17 22:58:1.171 2933 BUY IOC LMT 400.0 31.8 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 400.0 -100.0
+2019-05-17T22:58:01.590 NKTR 794 NKTR 5-17 22:58:1.171 2933 BUY IOC LMT 400.0 31.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-05-17T22:58:01.597 NKTR 794 NKTR 5-17 22:58:1.171 2933 BUY IOC LMT 400.0 31.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-05-17T22:58:01.660 NKTR 794 NKTR 5-17 22:58:1.171 2933 BUY IOC LMT 400.0 31.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-05-17T22:58:01.662 NKTR 794 NKTR 5-17 22:58:1.171 2933 BUY IOC LMT 400.0 31.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-05-17T23:34:51.760 V 855 V 5-17 23:34:13.625 2994 SELL IOC LMT 100.0 164.72 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-17T23:34:51.823 V 855 V 5-17 23:34:13.625 2994 SELL IOC LMT 100.0 164.72 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-17T23:53:17.873 PM 860 PM 5-17 23:53:17.497 2999 SELL IOC LMT 100.0 86.75 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-17T23:53:17.874 PM 860 PM 5-17 23:53:17.497 2999 SELL IOC LMT 100.0 86.75 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-20T15:17:57.761 MNQ no default size 
+2019-05-20T15:17:57.805 MNQ no default size 
+2019-05-20T15:17:58.250 MNQ no default size 
+2019-05-20T15:17:58.359 MNQ no default size 
+2019-05-20T15:17:58.717 MNQ no default size 
+2019-05-20T15:17:58.782 MNQ no default size 
+2019-05-20T15:17:59.134 MNQ no default size 
+2019-05-20T15:17:59.202 MNQ no default size 
+2019-05-20T15:17:59.639 MNQ no default size 
+2019-05-20T15:17:59.707 MNQ no default size 
+2019-05-20T15:18:00.253 MNQ no default size 
+2019-05-20T15:18:00.361 MNQ no default size 
+2019-05-20T15:18:00.715 MNQ no default size 
+2019-05-20T15:18:00.827 MNQ no default size 
+2019-05-20T15:18:01.182 MNQ no default size 
+2019-05-20T15:18:01.248 MNQ no default size 
+2019-05-20T15:18:01.597 MNQ no default size 
+2019-05-20T15:18:01.598 MNQ 110 MNQ 5-20 15:18:1.250 2249 BUY IOC LMT 1.0 7519.25 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 1.0 -3.0
+2019-05-20T15:18:01.665 MNQ no default size 
+2019-05-20T15:18:01.665 MNQ 110 MNQ 5-20 15:18:1.250 2249 BUY IOC LMT 1.0 7519.25 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 1.0 -3.0
+2019-05-20T15:18:02.094 MNQ no default size 
+2019-05-20T15:18:02.161 MNQ no default size 
+2019-05-20T15:18:02.612 MNQ no default size 
+2019-05-20T15:18:02.679 MNQ no default size 
+2019-05-20T15:18:03.028 MNQ no default size 
+2019-05-20T15:18:03.094 MNQ no default size 
+2019-05-20T15:18:03.448 MNQ no default size 
+2019-05-20T15:18:03.514 MNQ no default size 
+2019-05-20T15:18:03.869 MNQ no default size 
+2019-05-20T15:18:03.914 MNQ no default size 
+2019-05-20T15:18:03.915 MNQ 115 MNQ 5-20 15:18:3.516 2254 BUY IOC LMT 3.0 7520.5 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 3.0 -2.0
+2019-05-20T15:18:03.917 MNQ no default size 
+2019-05-20T15:18:03.918 MNQ 115 MNQ 5-20 15:18:3.516 2254 BUY IOC LMT 3.0 7520.5 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 3.0 -2.0
+2019-05-20T15:18:03.921 MNQ no default size 
+2019-05-20T15:18:03.922 MNQ 115 MNQ 5-20 15:18:3.516 2254 BUY IOC LMT 3.0 7520.5 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 3.0 -2.0
+2019-05-20T15:18:03.935 MNQ no default size 
+2019-05-20T15:18:03.936 MNQ 115 MNQ 5-20 15:18:3.516 2254 BUY IOC LMT 3.0 7520.5 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 3.0 -2.0
+2019-05-20T15:18:04.346 MNQ no default size 
+2019-05-20T15:18:04.413 MNQ no default size 
+2019-05-20T15:18:04.863 MNQ no default size 
+2019-05-20T15:18:04.898 MNQ no default size 
+2019-05-20T15:18:05.139 MNQ no default size 
+2019-05-20T15:18:05.757 MNQ no default size 
+2019-05-20T15:18:05.823 MNQ no default size 
+2019-05-20T15:18:06.085 MNQ no default size 
+2019-05-20T15:18:07.010 MNQ no default size 
+2019-05-20T15:18:07.010 MNQ 119 MNQ 5-20 15:18:5.825 2258 BUY IOC LMT 2.0 7520.5 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 2.0 0.0
+2019-05-20T15:18:07.071 MNQ no default size 
+2019-05-20T15:18:07.072 MNQ 119 MNQ 5-20 15:18:5.825 2258 BUY IOC LMT 2.0 7520.5 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 2.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-20T21:30:02.578 CSCO 101 CSCO 5-20 21:30:0.332 2240 SELL IOC LMT 200.0 55.8 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-20T21:30:02.586 CSCO 101 CSCO 5-20 21:30:0.332 2240 SELL IOC LMT 200.0 55.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:30:05.359 CSCO 101 CSCO 5-20 21:30:0.332 2240 SELL IOC LMT 200.0 55.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:30:05.362 CSCO 101 CSCO 5-20 21:30:0.332 2240 SELL IOC LMT 200.0 55.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:30:11.151 KO 120 KO 5-20 21:30:10.452 2259 SELL IOC LMT 300.0 49.05 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-20T21:30:11.154 KO 120 KO 5-20 21:30:10.452 2259 SELL IOC LMT 300.0 49.05 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 200.0
+2019-05-20T21:30:11.160 KO 120 KO 5-20 21:30:10.452 2259 SELL IOC LMT 300.0 49.05 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 100.0
+2019-05-20T21:30:11.165 KO 120 KO 5-20 21:30:10.452 2259 SELL IOC LMT 300.0 49.05 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 70.0
+2019-05-20T21:30:11.189 KO 120 KO 5-20 21:30:10.452 2259 SELL IOC LMT 300.0 49.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-20T21:30:11.192 KO 120 KO 5-20 21:30:10.452 2259 SELL IOC LMT 300.0 49.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-20T21:30:11.225 KO 120 KO 5-20 21:30:10.452 2259 SELL IOC LMT 300.0 49.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-20T21:30:11.317 KO 120 KO 5-20 21:30:10.452 2259 SELL IOC LMT 300.0 49.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-20T21:30:11.319 KO 120 KO 5-20 21:30:10.452 2259 SELL IOC LMT 300.0 49.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+2019-05-20T21:35:32.367 MNQ 108 MNQ 5-20 21:35:31.827 2580 BUY IOC LMT 3.0 7396.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 3.0 0.0
+2019-05-20T21:35:32.372 MNQ 108 MNQ 5-20 21:35:31.827 2580 BUY IOC LMT 3.0 7396.0 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 3.0 0.0
+2019-05-20T21:35:33.720 XOM 116 XOM 5-20 21:35:33.397 2588 SELL IOC LMT 200.0 76.05 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-20T21:35:33.732 XOM 116 XOM 5-20 21:35:33.397 2588 SELL IOC LMT 200.0 76.05 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-20T21:35:33.736 XOM 116 XOM 5-20 21:35:33.397 2588 SELL IOC LMT 200.0 76.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:35:33.741 XOM 116 XOM 5-20 21:35:33.397 2588 SELL IOC LMT 200.0 76.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:35:33.768 XOM 116 XOM 5-20 21:35:33.397 2588 SELL IOC LMT 200.0 76.05 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:35:51.463 AAPL 201 AAPL 5-20 21:35:51.031 2673 SELL IOC LMT 100.0 180.54 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T21:35:51.466 AAPL 201 AAPL 5-20 21:35:51.031 2673 SELL IOC LMT 100.0 180.54 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T21:36:58.209 CSCO 337 CSCO 5-20 21:36:57.923 2809 SELL IOC LMT 200.0 55.95 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-20T21:36:58.214 CSCO 337 CSCO 5-20 21:36:57.923 2809 SELL IOC LMT 200.0 55.95 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 14.0
+2019-05-20T21:36:58.240 CSCO 337 CSCO 5-20 21:36:57.923 2809 SELL IOC LMT 200.0 55.95 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 14.0
+2019-05-20T21:36:58.241 CSCO 337 CSCO 5-20 21:36:57.923 2809 SELL IOC LMT 200.0 55.95 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 14.0
+2019-05-20T21:36:58.246 CSCO 337 CSCO 5-20 21:36:57.923 2809 SELL IOC LMT 200.0 55.95 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:36:58.249 CSCO 337 CSCO 5-20 21:36:57.923 2809 SELL IOC LMT 200.0 55.95 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:36:58.336 CSCO 337 CSCO 5-20 21:36:57.923 2809 SELL IOC LMT 200.0 55.95 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:42:08.595 EA 453 EA 5-20 21:42:8.201 2925 SELL IOC LMT 100.0 94.7 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T21:42:08.597 EA 453 EA 5-20 21:42:8.201 2925 SELL IOC LMT 100.0 94.7 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+2019-05-20T21:42:58.380 BK 215 BK 5-20 21:42:57.910 3042 BUY IOC LMT 300.0 46.27 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-20T21:42:58.381 BK 215 BK 5-20 21:42:57.910 3042 BUY IOC LMT 300.0 46.27 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 300.0 0.0
+2019-05-20T21:43:33.441 COP 291 COP 5-20 21:43:33.119 3118 BUY IOC LMT 200.0 62.33 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-20T21:43:33.448 COP 291 COP 5-20 21:43:33.119 3118 BUY IOC LMT 200.0 62.33 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -76.0
+2019-05-20T21:43:33.450 COP 291 COP 5-20 21:43:33.119 3118 BUY IOC LMT 200.0 62.33 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 -76.0
+2019-05-20T21:43:33.452 COP 291 COP 5-20 21:43:33.119 3118 BUY IOC LMT 200.0 62.33 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 -76.0
+2019-05-20T21:43:33.470 COP 291 COP 5-20 21:43:33.119 3118 BUY IOC LMT 200.0 62.33 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:43:33.473 COP 291 COP 5-20 21:43:33.119 3118 BUY IOC LMT 200.0 62.33 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:43:33.502 COP 291 COP 5-20 21:43:33.119 3118 BUY IOC LMT 200.0 62.33 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:43:33.503 COP 291 COP 5-20 21:43:33.119 3118 BUY IOC LMT 200.0 62.33 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:43:42.307 CI 260 CI 5-20 21:43:5.506 3087 BUY IOC LMT 100.0 154.4 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T21:43:44.752 CI 260 CI 5-20 21:43:5.506 3087 BUY IOC LMT 100.0 154.4 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T21:43:50.333 LYB 322 LYB 5-20 21:43:49.815 3149 BUY IOC LMT 100.0 80.15 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T21:43:50.334 LYB 322 LYB 5-20 21:43:49.815 3149 BUY IOC LMT 100.0 80.15 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T21:45:54.242 ABBV 421 ABBV 5-20 21:45:53.933 3248 BUY IOC LMT 200.0 79.39 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-20T21:45:54.247 ABBV 421 ABBV 5-20 21:45:53.933 3248 BUY IOC LMT 200.0 79.39 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:45:54.277 ABBV 421 ABBV 5-20 21:45:53.933 3248 BUY IOC LMT 200.0 79.39 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:45:54.278 ABBV 421 ABBV 5-20 21:45:53.933 3248 BUY IOC LMT 200.0 79.39 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T21:47:50.052 NKTR 473 NKTR 5-20 21:47:49.737 3300 BUY IOC LMT 400.0 31.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-05-20T21:47:50.053 NKTR 473 NKTR 5-20 21:47:49.737 3300 BUY IOC LMT 400.0 31.8 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 400.0 0.0
+2019-05-20T22:31:42.183 NVS 610 NVS 5-20 22:31:41.868 3437 SELL IOC LMT 200.0 82.26 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-20T22:31:42.219 NVS 610 NVS 5-20 22:31:41.868 3437 SELL IOC LMT 200.0 82.26 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 62.0
+2019-05-20T22:31:42.221 NVS 610 NVS 5-20 22:31:41.868 3437 SELL IOC LMT 200.0 82.26 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T22:31:42.367 NVS 610 NVS 5-20 22:31:41.868 3437 SELL IOC LMT 200.0 82.26 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T22:31:42.409 NVS 610 NVS 5-20 22:31:41.868 3437 SELL IOC LMT 200.0 82.26 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T22:31:42.410 NVS 610 NVS 5-20 22:31:41.868 3437 SELL IOC LMT 200.0 82.26 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+ globally cancelling order 
+2019-05-20T22:47:51.308 INTC 171 INTC 5-20 22:47:50.754 3510 BUY IOC LMT 200.0 44.28 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-20T22:47:51.308 INTC 171 INTC 5-20 22:47:50.754 3510 BUY IOC LMT 200.0 44.28 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-20T22:47:51.309 INTC 171 INTC 5-20 22:47:50.754 3510 BUY IOC LMT 200.0 44.28 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-20T22:47:51.312 INTC 171 INTC 5-20 22:47:50.754 3510 BUY IOC LMT 200.0 44.28 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -63.0
+2019-05-20T22:47:51.318 INTC 171 INTC 5-20 22:47:50.754 3510 BUY IOC LMT 200.0 44.28 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T22:47:51.319 INTC 171 INTC 5-20 22:47:50.754 3510 BUY IOC LMT 200.0 44.28 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T22:47:51.375 INTC 171 INTC 5-20 22:47:50.754 3510 BUY IOC LMT 200.0 44.28 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T22:47:51.415 INTC 171 INTC 5-20 22:47:50.754 3510 BUY IOC LMT 200.0 44.28 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T22:48:00.792 HDB 244 HDB 5-20 22:48:0.303 3583 SELL IOC LMT 100.0 121.75 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T22:48:00.820 HDB 244 HDB 5-20 22:48:0.303 3583 SELL IOC LMT 100.0 121.75 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T22:48:08.009 PEP 287 PEP 5-20 22:48:7.324 3626 SELL IOC LMT 100.0 130.16 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T22:48:08.011 PEP 287 PEP 5-20 22:48:7.324 3626 SELL IOC LMT 100.0 130.16 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T22:48:14.375 AXP 316 AXP 5-20 22:48:13.992 3655 SELL IOC LMT 100.0 119.98 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-20T22:48:14.376 AXP 316 AXP 5-20 22:48:13.992 3655 SELL IOC LMT 100.0 119.98 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-20T23:23:43.201 CSCO 313 CSCO 5-20 23:23:42.872 3918 SELL IOC LMT 200.0 55.95 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-20T23:23:43.203 CSCO 313 CSCO 5-20 23:23:42.872 3918 SELL IOC LMT 200.0 55.95 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-21T01:35:55.399 PM 479 PM 5-21 1:35:17.624 4084 SELL IOC LMT 100.0 86.76 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-21T01:35:55.459 PM 479 PM 5-21 1:35:17.624 4084 SELL IOC LMT 100.0 86.76 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-21T02:23:32.858 COP 553 COP 5-21 2:23:32.476 4158 BUY IOC LMT 200.0 62.36 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-21T02:23:32.859 COP 553 COP 5-21 2:23:32.476 4158 BUY IOC LMT 200.0 62.36 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 -100.0
+2019-05-21T02:23:32.861 COP 553 COP 5-21 2:23:32.476 4158 BUY IOC LMT 200.0 62.36 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-21T02:23:32.925 COP 553 COP 5-21 2:23:32.476 4158 BUY IOC LMT 200.0 62.36 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-21T02:23:32.926 COP 553 COP 5-21 2:23:32.476 4158 BUY IOC LMT 200.0 62.36 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+2019-05-21T21:35:59.407 MDT 240 MDT 5-21 21:35:58.975 3579 BUY IOC LMT 100.0 88.27 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-21T21:35:59.409 MDT 240 MDT 5-21 21:35:58.975 3579 BUY IOC LMT 100.0 88.27 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-21T21:43:32.040 EA 303 EA 5-21 21:43:0.665 3642 SELL IOC LMT 100.0 94.52 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-21T21:43:32.115 EA 303 EA 5-21 21:43:0.665 3642 SELL IOC LMT 100.0 94.52 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-21T22:09:32.937 UNH 465 UNH 5-21 22:09:32.305 3804 SELL IOC LMT 100.0 249.2 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-21T22:09:32.938 UNH 465 UNH 5-21 22:09:32.305 3804 SELL IOC LMT 100.0 249.2 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-21T22:56:38.813 COP 469 COP 5-21 22:56:38.288 3808 SELL IOC LMT 200.0 63.78 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-21T22:56:38.814 COP 469 COP 5-21 22:56:38.288 3808 SELL IOC LMT 200.0 63.78 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-22T00:08:20.510 WFC 635 WFC 5-22 0:08:20.100 3974 BUY IOC LMT 300.0 46.12 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 -200.0
+2019-05-22T00:08:20.514 WFC 635 WFC 5-22 0:08:20.100 3974 BUY IOC LMT 300.0 46.12 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-22T00:08:20.881 WFC 635 WFC 5-22 0:08:20.100 3974 BUY IOC LMT 300.0 46.12 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-22T00:08:20.883 WFC 635 WFC 5-22 0:08:20.100 3974 BUY IOC LMT 300.0 46.12 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-22T00:08:20.884 WFC 635 WFC 5-22 0:08:20.100 3974 BUY IOC LMT 300.0 46.12 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-22T00:08:20.961 WFC 635 WFC 5-22 0:08:20.100 3974 BUY IOC LMT 300.0 46.12 BREACH_CUTTER PendingCancel breach cutting, pos partialFill, lastQ, livePos 300.0 -100.0
+2019-05-22T03:22:55.134 NVS 728 NVS 5-22 3:22:54.821 4067 SELL IOC LMT 200.0 82.23 BREACH_CUTTER PreSubmitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-22T03:22:55.135 NVS 728 NVS 5-22 3:22:54.821 4067 SELL IOC LMT 200.0 82.23 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-22T03:22:55.137 NVS 728 NVS 5-22 3:22:54.821 4067 SELL IOC LMT 200.0 82.23 BREACH_CUTTER Submitted breach cutting, pos partialFill, lastQ, livePos 200.0 100.0
+2019-05-22T03:22:55.148 NVS 728 NVS 5-22 3:22:54.821 4067 SELL IOC LMT 200.0 82.23 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-22T03:22:55.149 NVS 728 NVS 5-22 3:22:54.821 4067 SELL IOC LMT 200.0 82.23 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-22T03:22:55.151 NVS 728 NVS 5-22 3:22:54.821 4067 SELL IOC LMT 200.0 82.23 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 200.0 0.0
+2019-05-22T03:59:22.921 PG 748 PG 5-22 3:59:22.596 4087 SELL IOC LMT 100.0 106.3 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+2019-05-22T03:59:22.935 PG 748 PG 5-22 3:59:22.596 4087 SELL IOC LMT 100.0 106.3 BREACH_CUTTER Filled breach cutting, pos partialFill, lastQ, livePos 100.0 0.0
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
+ globally cancelling order 
