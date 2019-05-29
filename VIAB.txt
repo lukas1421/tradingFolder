@@ -171,3 +171,112 @@ Shutdown status 5-10 22:05 Submitted VIAB 5-10 21:30:0.712 2099 SELL DAY LMT 400
 2112 2131 *GUARANTEE DEV FILL* PreSubmitted -> Filled 2019-05-10T22:05:55.757 ID: 121 VIAB 5-10 22:05:55.424 2131 SELL IOC LMT 150.0 28.67 BREACH_CUTTER Filled TIF: IOC attempts: 17
 2019-05-10T22:05:55.763 121 VIAB 5-10 22:05:55.424 2131 SELL IOC LMT 150.0 28.67 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 150.0 0.0
 2019-05-10T22:05:55.766 121 VIAB 5-10 22:05:55.424 2131 SELL IOC LMT 150.0 28.67 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 150.0 0.0
+delta impact check PASSED  80139
+******** 5-22 21:30
+3439 101 ADDER BUY: VIAB 5-22 21:30:0.389 client.Order@0 BREACH_ADDER Created yOpen:25.9 mOpen:28.91 prevClose 28.99 p/b/a 29.0 28.9 29.06 devFromMaxOpen 0.0031
+3439 101 *PATIENT DEV FILL* Submitted->Filled 5-22 21:30:44.448 VIAB 5-22 21:30:0.389 client.Order@0 BREACH_ADDER Filled
+******** 2019-05-22T21:30:44.562
+3445 107 Cutter SELL: added?true VIAB 5-22 21:30:44.562 client.Order@0 BREACH_CUTTER Created pos 400.0 yOpen:25.9 mOpen:28.91 price 28.9
+3445 3445 -> 3446 ID 107 -> 108 RESUBMIT: VIAB 5-22 21:30:44.967 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.9 attempts  1 pos: 400.0
+3445 3446 -> 3447 ID 108 -> 109 RESUBMIT: VIAB 5-22 21:30:45.363 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.9 attempts  2 pos: 400.0
+3445 3447 -> 3448 ID 109 -> 110 RESUBMIT: VIAB 5-22 21:30:46.119 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  3 pos: 400.0
+3445 3448 -> 3449 ID 110 -> 111 RESUBMIT: VIAB 5-22 21:30:46.666 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  4 pos: 400.0
+3445 3449 -> 3450 ID 111 -> 112 RESUBMIT: VIAB 5-22 21:30:47.059 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  5 pos: 400.0
+3445 3450 -> 3451 ID 112 -> 113 RESUBMIT: VIAB 5-22 21:30:47.702 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  6 pos: 400.0
+3445 3451 -> 3452 ID 113 -> 114 RESUBMIT: VIAB 5-22 21:30:48.214 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  7 pos: 400.0
+3445 3452 -> 3453 ID 114 -> 115 RESUBMIT: VIAB 5-22 21:30:48.631 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  8 pos: 400.0
+3445 3453 -> 3454 ID 115 -> 116 RESUBMIT: VIAB 5-22 21:30:49.035 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  9 pos: 400.0
+3445 3454 -> 3455 ID 116 -> 117 RESUBMIT: VIAB 5-22 21:30:49.444 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.92 24bp 28.9 attempts  10 pos: 400.0
+3445 3455 -> 3456 ID 117 -> 118 RESUBMIT: VIAB 5-22 21:30:49.850 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  11 pos: 400.0
+3445 3456 -> 3457 ID 118 -> 119 RESUBMIT: VIAB 5-22 21:30:50.257 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  12 pos: 400.0
+3445 3457 -> 3458 ID 119 -> 120 RESUBMIT: VIAB 5-22 21:30:50.663 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  13 pos: 400.0
+3445 3458 -> 3459 ID 120 -> 121 RESUBMIT: VIAB 5-22 21:30:51.293 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  14 pos: 400.0
+3445 3459 -> 3460 ID 121 -> 122 RESUBMIT: VIAB 5-22 21:30:51.691 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  15 pos: 400.0
+3445 3460 -> 3461 ID 122 -> 123 RESUBMIT: VIAB 5-22 21:30:52.105 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.86 28.92 21bp 28.9 attempts  16 pos: 400.0
+3445 3461 -> 3462 ID 123 -> 124 RESUBMIT: VIAB 5-22 21:30:52.512 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.92 24bp 28.9 attempts  17 pos: 400.0
+3445 3462 -> 3463 ID 124 -> 125 RESUBMIT: VIAB 5-22 21:30:53.213 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.92 24bp 28.9 attempts  18 pos: 400.0
+3445 3463 -> 3464 ID 125 -> 126 RESUBMIT: VIAB 5-22 21:30:53.630 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.92 24bp 28.9 attempts  19 pos: 400.0
+3445 3464 -> 3465 ID 126 -> 127 RESUBMIT: VIAB 5-22 21:30:54.028 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.92 24bp 28.9 attempts  20 pos: 400.0
+3445 3465 -> 3466 ID 127 -> 128 RESUBMIT: VIAB 5-22 21:30:54.446 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.92 24bp 28.9 attempts  21 pos: 400.0
+3445 3466 -> 3467 ID 128 -> 129 RESUBMIT: VIAB 5-22 21:30:55.142 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.88 10bp 28.85 attempts  22 pos: 400.0
+3445 3467 -> 3468 ID 129 -> 130 RESUBMIT: VIAB 5-22 21:30:55.564 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.83 28.88 17bp 28.87 attempts  23 pos: 400.0
+3445 3468 -> 3469 ID 130 -> 131 RESUBMIT: VIAB 5-22 21:30:55.963 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.83 28.88 17bp 28.87 attempts  24 pos: 400.0
+3445 3469 -> 3470 ID 131 -> 132 RESUBMIT: VIAB 5-22 21:30:56.381 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.81 28.88 24bp 28.87 attempts  25 pos: 400.0
+3445 3470 -> 3471 ID 132 -> 133 RESUBMIT: VIAB 5-22 21:30:57.006 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.81 28.88 24bp 28.87 attempts  26 pos: 400.0
+3445 3471 -> 3472 ID 133 -> 134 RESUBMIT: VIAB 5-22 21:30:57.518 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  27 pos: 400.0
+3445 3472 -> 3473 ID 134 -> 135 RESUBMIT: VIAB 5-22 21:30:57.936 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  28 pos: 400.0
+3445 3473 -> 3474 ID 135 -> 136 RESUBMIT: VIAB 5-22 21:30:58.545 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  29 pos: 400.0
+3445 3474 -> 3475 ID 136 -> 137 RESUBMIT: VIAB 5-22 21:30:59.058 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  30 pos: 400.0
+3445 3475 -> 3476 ID 137 -> 138 RESUBMIT: VIAB 5-22 21:30:59.478 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  31 pos: 400.0
+3445 3476 -> 3477 ID 138 -> 139 RESUBMIT: VIAB 5-22 21:31:0.145 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  32 pos: 400.0
+3445 3477 -> 3478 ID 139 -> 140 RESUBMIT: VIAB 5-22 21:31:0.657 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  33 pos: 400.0
+3445 3478 -> 3479 ID 140 -> 141 RESUBMIT: VIAB 5-22 21:31:1.070 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  34 pos: 400.0
+3445 3479 -> 3480 ID 141 -> 142 RESUBMIT: VIAB 5-22 21:31:1.468 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  35 pos: 400.0
+3445 3480 -> 3481 ID 142 -> 143 RESUBMIT: VIAB 5-22 21:31:2.155 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.82 28.88 21bp 28.87 attempts  36 pos: 400.0
+3445 3481 -> 3482 ID 143 -> 144 RESUBMIT: VIAB 5-22 21:31:2.572 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  37 pos: 400.0
+3445 3482 -> 3483 ID 144 -> 145 RESUBMIT: VIAB 5-22 21:31:2.970 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  38 pos: 400.0
+3445 3483 -> 3484 ID 145 -> 146 RESUBMIT: VIAB 5-22 21:31:3.383 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  39 pos: 400.0
+3445 3484 -> 3485 ID 146 -> 147 RESUBMIT: VIAB 5-22 21:31:3.779 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  40 pos: 400.0
+3445 3485 -> 3486 ID 147 -> 148 RESUBMIT: VIAB 5-22 21:31:4.198 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  41 pos: 400.0
+3445 3486 -> 3487 ID 148 -> 149 RESUBMIT: VIAB 5-22 21:31:4.599 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  42 pos: 400.0
+3445 3487 -> 3488 ID 149 -> 150 RESUBMIT: VIAB 5-22 21:31:5.910 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  43 pos: 400.0
+3445 3488 -> 3489 ID 150 -> 151 RESUBMIT: VIAB 5-22 21:31:6.423 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  44 pos: 400.0
+3445 3489 -> 3490 ID 151 -> 152 RESUBMIT: VIAB 5-22 21:31:6.840 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  45 pos: 400.0
+3445 3490 -> 3491 ID 152 -> 153 RESUBMIT: VIAB 5-22 21:31:7.240 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  46 pos: 400.0
+3445 3491 -> 3492 ID 153 -> 154 RESUBMIT: VIAB 5-22 21:31:7.661 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  47 pos: 400.0
+3445 3492 -> 3493 ID 154 -> 155 RESUBMIT: VIAB 5-22 21:31:8.059 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  48 pos: 400.0
+3445 3493 -> 3494 ID 155 -> 156 RESUBMIT: VIAB 5-22 21:31:8.476 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  49 pos: 400.0
+3445 3494 -> 3495 ID 156 -> 157 RESUBMIT: VIAB 5-22 21:31:8.874 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  50 pos: 400.0
+3445 3495 -> 3496 ID 157 -> 158 RESUBMIT: VIAB 5-22 21:31:9.558 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  51 pos: 400.0
+3445 3496 -> 3497 ID 158 -> 159 RESUBMIT: VIAB 5-22 21:31:9.977 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  52 pos: 400.0
+3445 3497 -> 3498 ID 159 -> 160 RESUBMIT: VIAB 5-22 21:31:10.366 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  53 pos: 400.0
+3445 3498 -> 3499 ID 160 -> 161 RESUBMIT: VIAB 5-22 21:31:10.782 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  54 pos: 400.0
+3445 3499 -> 3500 ID 161 -> 162 RESUBMIT: VIAB 5-22 21:31:11.181 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  55 pos: 400.0
+3445 3500 -> 3501 ID 162 -> 163 RESUBMIT: VIAB 5-22 21:31:11.600 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  56 pos: 400.0
+3445 3501 -> 3502 ID 163 -> 164 RESUBMIT: VIAB 5-22 21:31:12.019 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  57 pos: 400.0
+3445 3502 -> 3503 ID 164 -> 165 RESUBMIT: VIAB 5-22 21:31:12.725 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  58 pos: 400.0
+3445 3503 -> 3504 ID 165 -> 166 RESUBMIT: VIAB 5-22 21:31:13.141 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  59 pos: 400.0
+3445 3504 -> 3505 ID 166 -> 167 RESUBMIT: VIAB 5-22 21:31:13.539 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  60 pos: 400.0
+3445 3505 -> 3506 ID 167 -> 168 RESUBMIT: VIAB 5-22 21:31:13.957 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  61 pos: 400.0
+3445 3506 -> 3507 ID 168 -> 169 RESUBMIT: VIAB 5-22 21:31:14.356 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  62 pos: 400.0
+3445 3507 -> 3508 ID 169 -> 170 RESUBMIT: VIAB 5-22 21:31:14.868 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  63 pos: 400.0
+3445 3508 -> 3509 ID 170 -> 171 RESUBMIT: VIAB 5-22 21:31:15.286 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  64 pos: 400.0
+3445 3509 -> 3510 ID 171 -> 172 RESUBMIT: VIAB 5-22 21:31:15.684 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  65 pos: 400.0
+3445 3510 -> 3511 ID 172 -> 173 RESUBMIT: VIAB 5-22 21:31:16.100 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.88 attempts  66 pos: 400.0
+3445 3511 -> 3512 ID 173 -> 174 RESUBMIT: VIAB 5-22 21:31:45.261 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  67 pos: 400.0
+3445 3512 -> 3513 ID 174 -> 175 RESUBMIT: VIAB 5-22 21:31:45.788 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  68 pos: 400.0
+3445 3513 -> 3514 ID 175 -> 176 RESUBMIT: VIAB 5-22 21:31:46.203 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  69 pos: 400.0
+3445 3514 -> 3515 ID 176 -> 177 RESUBMIT: VIAB 5-22 21:31:46.606 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  70 pos: 400.0
+3445 3515 -> 3516 ID 177 -> 178 RESUBMIT: VIAB 5-22 21:31:47.230 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  71 pos: 400.0
+3445 3516 -> 3517 ID 178 -> 179 RESUBMIT: VIAB 5-22 21:31:47.639 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  72 pos: 400.0
+3445 3517 -> 3518 ID 179 -> 180 RESUBMIT: VIAB 5-22 21:31:48.055 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  73 pos: 400.0
+3445 3518 -> 3519 ID 180 -> 181 RESUBMIT: VIAB 5-22 21:31:48.450 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  74 pos: 400.0
+3445 3519 -> 3520 ID 181 -> 182 RESUBMIT: VIAB 5-22 21:31:48.867 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  75 pos: 400.0
+3445 3520 -> 3521 ID 182 -> 183 RESUBMIT: VIAB 5-22 21:31:49.553 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  76 pos: 400.0
+3445 3521 -> 3522 ID 183 -> 184 RESUBMIT: VIAB 5-22 21:31:49.971 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  77 pos: 400.0
+3445 3522 -> 3523 ID 184 -> 185 RESUBMIT: VIAB 5-22 21:31:50.361 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  78 pos: 400.0
+3445 3523 -> 3524 ID 185 -> 186 RESUBMIT: VIAB 5-22 21:31:51.080 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  79 pos: 400.0
+3445 3524 -> 3525 ID 186 -> 187 RESUBMIT: VIAB 5-22 21:31:51.602 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  80 pos: 400.0
+3445 3525 -> 3526 ID 187 -> 188 RESUBMIT: VIAB 5-22 21:31:52.918 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  81 pos: 400.0
+3445 3526 -> 3527 ID 188 -> 189 RESUBMIT: VIAB 5-22 21:31:53.333 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  82 pos: 400.0
+3445 3527 -> 3528 ID 189 -> 190 RESUBMIT: VIAB 5-22 21:31:53.729 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  83 pos: 400.0
+3445 3528 -> 3529 ID 190 -> 191 RESUBMIT: VIAB 5-22 21:31:54.148 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  84 pos: 400.0
+3445 3529 -> 3530 ID 191 -> 192 RESUBMIT: VIAB 5-22 21:31:54.540 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  85 pos: 400.0
+3445 3530 -> 3531 ID 192 -> 193 RESUBMIT: VIAB 5-22 21:31:54.961 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  86 pos: 400.0
+3445 3531 -> 3532 ID 193 -> 194 RESUBMIT: VIAB 5-22 21:31:55.369 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  87 pos: 400.0
+3445 3532 -> 3533 ID 194 -> 195 RESUBMIT: VIAB 5-22 21:31:55.773 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  88 pos: 400.0
+3445 3533 -> 3534 ID 195 -> 196 RESUBMIT: VIAB 5-22 21:31:56.183 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  89 pos: 400.0
+3445 3534 -> 3535 ID 196 -> 197 RESUBMIT: VIAB 5-22 21:31:56.597 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  90 pos: 400.0
+3445 3535 -> 3536 ID 197 -> 198 RESUBMIT: VIAB 5-22 21:31:57.029 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  91 pos: 400.0
+3445 3536 -> 3537 ID 198 -> 199 RESUBMIT: VIAB 5-22 21:31:57.421 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  92 pos: 400.0
+3445 3537 -> 3538 ID 199 -> 200 RESUBMIT: VIAB 5-22 21:31:57.842 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  93 pos: 400.0
+3445 3538 -> 3539 ID 200 -> 201 RESUBMIT: VIAB 5-22 21:31:58.237 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.88 28.92 14bp 28.88 attempts  94 pos: 400.0
+3445 3539 -> 3540 ID 201 -> 202 RESUBMIT: VIAB 5-22 21:31:58.958 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.91 21bp 28.85 attempts  95 pos: 400.0
+3445 3540 -> 3541 ID 202 -> 203 RESUBMIT: VIAB 5-22 21:31:59.460 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.91 21bp 28.88 attempts  96 pos: 400.0
+3445 3541 -> 3542 ID 203 -> 204 RESUBMIT: VIAB 5-22 21:31:59.879 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.91 21bp 28.88 attempts  97 pos: 400.0
+3445 3542 -> 3543 ID 204 -> 205 RESUBMIT: VIAB 5-22 21:32:0.492 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.91 21bp 28.88 attempts  98 pos: 400.0
+3445 3543 -> 3544 ID 205 -> 206 RESUBMIT: VIAB 5-22 21:32:1.002 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.91 21bp 28.88 attempts  99 pos: 400.0
+3445 3544 -> 3545 ID 206 -> 207 RESUBMIT: VIAB 5-22 21:32:1.423 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.91 21bp 28.88 attempts  100 pos: 400.0
+3445 3545 -> 3546 ID 207 -> 208 RESUBMIT: VIAB 5-22 21:32:1.821 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.85 28.91 21bp 28.88 attempts  101 pos: 400.0
+3445 3546 -> 3547 ID 208 -> 209 MAX ATTEMPTS EXCEEDED, Switch to PatientDev: VIAB 5-22 21:32:2.229 client.Order@0 BREACH_CUTTER Created b/a sprd last 28.87 28.92 17bp 28.9 attempts:101 pos 400.0
+3547 209 *PATIENT DEV FILL* Submitted->Filled 5-22 21:32:12.785 VIAB 5-22 21:32:2.229 client.Order@0 BREACH_CUTTER Filled

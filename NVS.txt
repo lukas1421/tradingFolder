@@ -743,3 +743,7 @@ delta impact check PASSED  114690
 4015 4067 *GUARANTEE DEV FILL* Submitted -> Filled 2019-05-22T03:22:55.148 ID: 728 NVS 5-22 3:22:54.821 4067 SELL IOC LMT 200.0 82.23 BREACH_CUTTER Filled TIF: IOC attempts: 52
 2019-05-22T03:22:55.150 728 NVS 5-22 3:22:54.821 4067 SELL IOC LMT 200.0 82.23 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 200.0 0.0
 2019-05-22T03:22:55.152 728 NVS 5-22 3:22:54.821 4067 SELL IOC LMT 200.0 82.23 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 200.0 0.0
+delta impact check PASSED  114774
+******** 5-22 21:30
+3441 103 ADDER BUY: NVS 5-22 21:30:0.907 client.Order@0 BREACH_ADDER Created yOpen:75.49 mOpen:82.23 prevClose 82.76 p/b/a 82.78 82.78 82.83 devFromMaxOpen 0.0067
+3441 103 *PATIENT DEV FILL* Submitted->Filled 5-22 21:30:2.990 NVS 5-22 21:30:0.907 client.Order@0 BREACH_ADDER Filled
