@@ -292,3 +292,11 @@ Ending Trader  2019-06-12T19:47:01.330
 Starting Trader  2019-06-12T19:47:03.363
 Ending Trader  2019-06-12T19:50:52.810
 Starting Trader  2019-06-12T19:50:55.197
+Ending Trader  2019-06-13T04:01:17.543
+Starting Trader  2019-06-13T04:01:18.046
+Ending Trader  2019-06-13T04:28:49.672
+Starting Trader  2019-06-13T04:30:20.598
+Ending Trader  2019-06-13T10:30:32.799
+Starting Trader  2019-06-13T10:30:33.385
+Ending Trader  2019-06-14T10:16:15.937
+Starting Trader  2019-06-14T10:16:16.529
