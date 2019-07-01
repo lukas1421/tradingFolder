@@ -2112,3 +2112,5 @@ ERROR Guarantee Dev Handler ID: 156 Code 2109 Order Event Warning:Attribute 'Out
 ERROR Guarantee Dev Handler ID: 156 Code 202 Order Canceled - reason: BBL 6-26 3:54:28.974 13495 SELL IOC LMT 300.0 50.22 FUT_TEMP_CUTTER PendingCancel
 ERROR Guarantee Dev Handler ID: 157 Code 2109 Order Event Warning:Attribute 'Outside Regular Trading Hours' is ignored based on the order type and destination. PlaceOrder is now being processed. BBL 6-26 3:54:29.620 13496 SELL IOC LMT 300.0 50.22 FUT_TEMP_CUTTER Created
 ERROR LIVE ORDER HANDLER ID: 10:41:08.120 10007776 code 2152 MSG Exchanges - Depth: SGX; 
+ERROR LIVE ORDER HANDLER ID: 08:48:37.634 10007776 code 2152 MSG Exchanges - Depth: SGX; 
+ERROR LIVE ORDER HANDLER ID: 08:48:39.166 -1 code 2106 MSG HMDS data farm connection is OK:hkhmds
