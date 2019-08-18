@@ -348,3 +348,4 @@ delta impact check PASSED  18578
 delta impact check PASSED  19658
 ******** 8-12 9:30
 3080 101 ADDER BUY: AMGN 8-12 9:30:0.111 3080 BUY DAY LMT 100.0 196.58 BREACH_ADDER Created yOpen:194.7 mOpen:186.58 prevClose 197.8 p/b/a 197.9 196.58 197.9 devFromMaxOpen 0.0164
+Shutdown status 8-12 23:21 Submitted AMGN 8-12 9:30:0.111 3080 BUY DAY LMT 100.0 196.58 BREACH_ADDER Submitted

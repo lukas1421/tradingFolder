@@ -1203,3 +1203,4 @@ delta impact check PASSED  12087
 delta impact check PASSED  11901
 ******** 8-12 9:32
 3104 125 ADDER SELL: IP 8-12 9:32:29.299 3104 SELL DAY LMT 300.0 39.67 BREACH_ADDER Created yOpen:40.36 mOpen:43.9 prevClose 39.62 p/b/a 39.56 39.56 39.67 devFromMinOpen -0.0198
+Shutdown status 8-12 23:21 Submitted IP 8-12 9:32:29.299 3104 SELL DAY LMT 300.0 39.67 BREACH_ADDER Submitted
