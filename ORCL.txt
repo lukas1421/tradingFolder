@@ -1,0 +1,4 @@
+delta impact check PASSED  15579
+******** 9-4 9:30
+4752 107 ADDER BUY: ORCL 9-4 9:30:0.503 4752 BUY DAY LMT 300.0 51.93 BREACH_ADDER Created yOpen:45.24 mOpen:52.06 prevClose 52.32 p/b/a 52.35 51.93 52.4 devFromMaxOpen 0.0056
+Shutdown status 9-4 20:34 Submitted ORCL 9-4 9:30:0.503 4752 BUY DAY LMT 300.0 51.93 BREACH_ADDER Submitted

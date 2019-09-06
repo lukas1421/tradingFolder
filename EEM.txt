@@ -386,3 +386,7 @@ delta impact check PASSED  15572
 2019-08-15T09:30:14.280 103 EEM 8-15 9:30:0.201 3940 BUY IOC LMT 400.0 39.1 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 400.0 0.0
 2019-08-15T09:30:14.282 103 EEM 8-15 9:30:0.201 3940 BUY IOC LMT 400.0 39.1 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 400.0 0.0
 2019-08-15T09:30:14.282 103 EEM 8-15 9:30:0.201 3940 BUY IOC LMT 400.0 39.1 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 400.0 0.0
+delta impact check PASSED  16192
+******** 9-4 9:30
+4767 122 ADDER BUY: EEM 9-4 9:30:2.680 4767 BUY DAY LMT 400.0 40.48 BREACH_ADDER Created yOpen:39.0 mOpen:40.19 prevClose 40.48 p/b/a 40.49 40.48 40.49 devFromMaxOpen 0.0075
+4767 122 *PATIENT DEV FILL* Submitted->Filled 9-4 9:30:21.285 EEM 9-4 9:30:2.680 4767 BUY DAY LMT 400.0 40.48 BREACH_ADDER Filled
