@@ -597,3 +597,7 @@ delta impact check PASSED  12916
 2019-09-05T11:34:52.592 1070 UBER 9-5 11:34:51.997 5715 BUY IOC LMT 400.0 32.52 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 400.0 0.0
 2019-09-05T11:34:52.592 1070 UBER 9-5 11:34:51.997 5715 BUY IOC LMT 400.0 32.52 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 400.0 0.0
 2019-09-05T11:34:52.592 1070 UBER 9-5 11:34:51.997 5715 BUY IOC LMT 400.0 32.52 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 400.0 0.0
+delta impact check PASSED  13064
+******** 9-6 11:38
+4749 104 ADDER SELL: UBER 9-6 11:38:0.618 4749 SELL DAY LMT 400.0 32.66 BREACH_ADDER Created yOpen:42.0 mOpen:32.52 prevClose 32.6 p/b/a 31.91 32.56 32.66 devFromMinOpen -0.0188
+Shutdown status 9-6 22:26 Submitted UBER 9-6 11:38:0.618 4749 SELL DAY LMT 400.0 32.66 BREACH_ADDER Submitted

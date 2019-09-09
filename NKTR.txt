@@ -3472,3 +3472,7 @@ delta impact check PASSED  14080
 ******** 9-3 9:30
 4758 113 ADDER SELL: NKTR 9-3 9:30:0.975 4758 SELL DAY LMT 800.0 17.6 BREACH_ADDER Created yOpen:32.87 mOpen:17.55 prevClose 17.54 p/b/a 17.38 17.01 17.6 devFromMinOpen -0.0097
 Shutdown status 9-3 21:12 Submitted NKTR 9-3 9:30:0.975 4758 SELL DAY LMT 800.0 17.6 BREACH_ADDER Submitted
+delta impact check PASSED  13872
+******** 9-6 11:40
+4853 208 ADDER SELL: NKTR 9-6 11:40:32.384 4853 SELL DAY LMT 800.0 17.34 BREACH_ADDER Created yOpen:32.87 mOpen:17.55 prevClose 17.34 p/b/a 17.33 17.33 17.34 devFromMinOpen -0.0125
+Shutdown status 9-6 22:26 Submitted NKTR 9-6 11:40:32.384 4853 SELL DAY LMT 800.0 17.34 BREACH_ADDER Submitted
