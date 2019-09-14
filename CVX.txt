@@ -220,3 +220,7 @@ delta impact check PASSED  11706
 ******** 9-6 11:38
 4746 101 ADDER BUY: CVX 9-6 11:38:0.403 4746 BUY DAY LMT 100.0 117.06 BREACH_ADDER Created yOpen:108.79 mOpen:117.47 prevClose 117.04 p/b/a 118.12 117.06 117.69 devFromMaxOpen 0.0055
 Shutdown status 9-6 22:26 Submitted CVX 9-6 11:38:0.403 4746 BUY DAY LMT 100.0 117.06 BREACH_ADDER Submitted
+delta impact check PASSED  11838
+******** 9-9 9:30
+4809 164 ADDER BUY: CVX 9-9 9:30:7.005 4809 BUY DAY LMT 100.0 118.38 BREACH_ADDER Created yOpen:108.79 mOpen:117.47 prevClose 118.26 p/b/a 118.74 118.38 118.98 devFromMaxOpen 0.0108
+Shutdown status 9-9 20:48 Submitted CVX 9-9 9:30:7.005 4809 BUY DAY LMT 100.0 118.38 BREACH_ADDER Submitted
