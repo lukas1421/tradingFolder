@@ -551,3 +551,12 @@ Ending Trader  2019-09-13T21:02:21.746
 Starting Trader  2019-09-16T06:25:27.165
 Ending Trader  2019-09-17T00:11:16.424
 Starting Trader  2019-09-17T07:11:51.795
+Ending Trader  2019-09-17T21:03:51.099
+Starting Trader  2019-09-18T07:45:46.018
+Ending Trader  2019-09-18T21:50:30.902
+Starting Trader  2019-09-19T07:20:28.197
+Ending Trader  2019-09-19T21:25:07.941
+Starting Trader  2019-09-20T07:08:46.655
+Ending Trader  2019-09-20T13:35:25.467
+Starting Trader  2019-09-20T13:37:03.822
+Ending Trader  2019-09-20T22:14:52.608
