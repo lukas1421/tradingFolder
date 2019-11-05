@@ -1686,3 +1686,7 @@ delta impact check PASSED  18189
 ******** 11-1 9:30
 840 111 ADDER BUY: HDB 11-1 9:30:0.718 840 BUY DAY LMT 300.0 60.63 BREACH_ADDER Created yOpen:51.8 mOpen:61.1 prevClose 61.55 p/b/a 61.7 60.63 61.97 devFromMaxOpen 0.0098
 Shutdown status 11-1 20:40 Submitted HDB 11-1 9:30:0.718 840 BUY DAY LMT 300.0 60.63 BREACH_ADDER Submitted
+delta impact check PASSED  18315
+******** 11-4 9:31
+151 250 ADDER BUY: HDB 11-4 9:31:1.450 151 BUY DAY LMT 300.0 61.05 BREACH_ADDER Created yOpen:51.795 mOpen:61.1 prevClose 61.57 p/b/a 61.5 61.05 61.36 devFromMaxOpen 0.0065
+Shutdown status 11-4 19:33 Submitted HDB 11-4 9:31:1.450 151 BUY DAY LMT 300.0 61.05 BREACH_ADDER Submitted

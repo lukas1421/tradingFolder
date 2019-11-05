@@ -372,3 +372,7 @@ delta impact check PASSED  16227
 2019-10-14T09:53:35.812696 502 LUV 10-14 9:53:35.250 1227 SELL IOC LMT 300.0 53.99 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 300.0 0.0
 2019-10-14T09:53:35.812966 502 LUV 10-14 9:53:35.250 1227 SELL IOC LMT 300.0 53.99 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 300.0 0.0
 2019-10-14T09:53:35.813592 502 LUV 10-14 9:53:35.250 1227 SELL IOC LMT 300.0 53.99 BREACH_CUTTER Filled breach cutting, pos changed, lastQ, livePos 300.0 0.0
+delta impact check PASSED  16890
+******** 11-4 9:30
+11 110 ADDER BUY: LUV 11-4 9:30:0.636 11 BUY DAY LMT 300.0 56.3 BREACH_ADDER Created yOpen:46.48 mOpen:56.13 prevClose 56.45 p/b/a 56.53 56.3 56.75 devFromMaxOpen 0.0071
+Shutdown status 11-4 19:33 Submitted LUV 11-4 9:30:0.636 11 BUY DAY LMT 300.0 56.3 BREACH_ADDER Submitted

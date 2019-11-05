@@ -2228,3 +2228,7 @@ delta impact check PASSED  18238
 ******** 11-1 9:30
 836 107 ADDER BUY: UAL 11-1 9:30:0.471 836 BUY DAY LMT 200.0 91.19 BREACH_ADDER Created yOpen:83.5 mOpen:90.84 prevClose 90.96 p/b/a 91.65 91.19 91.84 devFromMaxOpen 0.0089
 Shutdown status 11-1 20:40 Submitted UAL 11-1 9:30:0.471 836 BUY DAY LMT 200.0 91.19 BREACH_ADDER Submitted
+delta impact check PASSED  18350
+******** 11-4 9:30
+3 102 ADDER BUY: UAL 11-4 9:30:0.144 3 BUY DAY LMT 200.0 91.75 BREACH_ADDER Created yOpen:83.5 mOpen:90.84 prevClose 92.0 p/b/a 92.27 91.75 92.32 devFromMaxOpen 0.0157
+Shutdown status 11-4 19:33 Submitted UAL 11-4 9:30:0.144 3 BUY DAY LMT 200.0 91.75 BREACH_ADDER Submitted
