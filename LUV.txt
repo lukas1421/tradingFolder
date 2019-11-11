@@ -376,3 +376,11 @@ delta impact check PASSED  16890
 ******** 11-4 9:30
 11 110 ADDER BUY: LUV 11-4 9:30:0.636 11 BUY DAY LMT 300.0 56.3 BREACH_ADDER Created yOpen:46.48 mOpen:56.13 prevClose 56.45 p/b/a 56.53 56.3 56.75 devFromMaxOpen 0.0071
 Shutdown status 11-4 19:33 Submitted LUV 11-4 9:30:0.636 11 BUY DAY LMT 300.0 56.3 BREACH_ADDER Submitted
+delta impact check PASSED  17079
+******** 11-5 9:30
+7 106 ADDER BUY: LUV 11-5 9:30:0.744 7 BUY DAY LMT 300.0 56.93 BREACH_ADDER Created yOpen:46.48 mOpen:56.13 prevClose 57.45 p/b/a 57.16 56.93 57.29 devFromMaxOpen 0.0184
+Shutdown status 11-5 16:58 Submitted LUV 11-5 9:30:0.744 7 BUY DAY LMT 300.0 56.93 BREACH_ADDER Submitted
+delta impact check PASSED  17172
+******** 11-6 10:05
+288 387 ADDER BUY: LUV 11-6 10:05:15.161 288 BUY DAY LMT 300.0 57.24 BREACH_ADDER Created yOpen:46.48 mOpen:56.13 prevClose 57.26 p/b/a 57.24 57.24 57.25 devFromMaxOpen 0.0198
+288 387 *PATIENT DEV FILL* Submitted->Filled 11-6 10:06:8.059 LUV 11-6 10:05:15.161 288 BUY DAY LMT 300.0 57.24 BREACH_ADDER Filled
