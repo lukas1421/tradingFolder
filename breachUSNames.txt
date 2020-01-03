@@ -1,7 +1,4 @@
-QQQ
-SPY
 GOOG
 V
 AAPL
-HD
-WMT
+KO
