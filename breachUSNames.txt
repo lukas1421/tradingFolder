@@ -1,3 +1,5 @@
 GOOG
 AAPL
 V
+PVH
+GPS
